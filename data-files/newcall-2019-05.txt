@@ -172,7 +172,6 @@ RECORD # = b23287135. LOCATION = lbks.
 
 CALL NO. = BL240.3 .L37 2017. 
 TITLE = On faith and science / Edward J. Larson and Michael Ruse. 
-PUBLISHER = {u00A9}2017. 
 PUBLISHER = New Haven : Yale University Press, [2017]. 
 RECORD # = b23288486. LOCATION = lbks. 
 
@@ -322,7 +321,6 @@ RECORD # = b23287512. LOCATION = lbks.
 CALL NO. = D521 .L36513 2018. 
 TITLE = Pandora's box : a history of the First World War / J{u00F6}rn Leonhard ;
 translated by Patrick Camiller. 
-PUBLISHER = {u00A9}2018. 
 PUBLISHER = Cambridge, Massachusetts : The Belknap Press of Harvard University 
 Press, 2018. 
 RECORD # = b23288449. LOCATION = lbks. 
@@ -676,7 +674,6 @@ RECORD # = b2328724x. LOCATION = lbks.
 CALL NO. = F159.P69 N487 2018. 
 TITLE = Smoketown : the untold story of the other great Black Renaissance / Mark
 Whitaker. 
-PUBLISHER = {u00A9}2018. 
 PUBLISHER = New York : Simon & Schuster, 2018. 
 RECORD # = b23289090. LOCATION = lbks. 
 
@@ -749,7 +746,6 @@ RECORD # = b23284419. LOCATION = lbks.
 CALL NO. = GN476.73 .V64 2018. 
 TITLE = The ethnobotany of Eden : rethinking the jungle medicine narrative / 
 Robert A. Voeks. 
-PUBLISHER = {u00A9}2018. 
 PUBLISHER = Chicago : The University of Chicago Press, 2018. 
 RECORD # = b23287615. LOCATION = lbks. 
 
@@ -757,14 +753,12 @@ RECORD # = b23287615. LOCATION = lbks.
 CALL NO. = GN495.6 .H34 2017. 
 TITLE = The fateful triangle : race, ethnicity, nation / Stuart Hall ; edited by
 Kobena Mercer ; foreword by Henry Louis Gates, Jr. 
-PUBLISHER = {u00A9}2017. 
 PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2017. 
 RECORD # = b23285369. LOCATION = lbks. 
 
 
 CALL NO. = GN799.C38 D47 2018. 
 TITLE = Unearthing childhood : young lives in prehistory / Robin Derricourt. 
-PUBLISHER = {u00A9}2018. 
 PUBLISHER = [Manchester] : Manchester University Press, [2018]. 
 RECORD # = b23290912. LOCATION = lbks. 
 
@@ -1207,7 +1201,6 @@ RECORD # = b23290572. LOCATION = lbks.
 CALL NO. = HV640.5.J4 G37 2017. 
 TITLE = The refugee challenge in post-cold war America / Mar{u00ED}a Cristina 
 Garc{u00ED}a. 
-PUBLISHER = {u00A9}2017. 
 PUBLISHER = New York, NY : Oxford University Press, [2017]. 
 RECORD # = b23288577. LOCATION = lbks. 
 
@@ -1340,7 +1333,6 @@ RECORD # = b2328657x. LOCATION = lbks.
 
 CALL NO. = LA2317.W4175 M67 2017. 
 TITLE = Flora White : in the vanguard of gender equity / Linda C. Morice. 
-PUBLISHER = 1711. 
 PUBLISHER = Lanham, Maryland : Lexington Books, 2017. 
 RECORD # = b23299459. LOCATION = lbks. 
 
@@ -1685,7 +1677,6 @@ RECORD # = b23290894. LOCATION = lbks.
 
 CALL NO. = PR3581 .P64 2017. 
 TITLE = Milton and the making of Paradise lost / William Poole. 
-PUBLISHER = {u00A9}2017. 
 PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2017. 
 RECORD # = b23284754. LOCATION = lbks. 
 
@@ -1880,7 +1871,6 @@ RECORD # = b23286726. LOCATION = lbks.
 
 CALL NO. = QK649 .L442 2017. 
 TITLE = Nature's fabric : leaves in science and culture / David Lee. 
-PUBLISHER = {u00A9}2017. 
 PUBLISHER = Chicago, IL : The University of Chicago Press, 2017. 
 RECORD # = b23288498. LOCATION = lbks. 
 
@@ -1894,7 +1884,6 @@ RECORD # = b23288036. LOCATION = lbks.
 CALL NO. = QP34.5 .F72 2018. 
 TITLE = Shapeshifters : a journey through the changing human body / Gavin 
 Francis. 
-PUBLISHER = {u00A9}2018. 
 PUBLISHER = New York, NY : Basic Books, [2018]. 
 RECORD # = b2328853x. LOCATION = lbks. 
 
@@ -2109,7 +2098,6 @@ RECORD # = b23282794. LOCATION = lbks.
 CALL NO. = WQ11.AS9 L954d 2018. 
 TITLE = Delivered by midwives : African American midwifery in the twentieth-
 century South / Jenny M. Luke. 
-PUBLISHER = {u00A9}2018. 
 PUBLISHER = Jackson : University Press of Mississippi, [2018]. 
 RECORD # = b23287469. LOCATION = lbks. 
 
