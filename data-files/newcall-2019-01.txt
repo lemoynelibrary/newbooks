@@ -12,7 +12,6 @@ TITLE = Factfulness : ten reasons we're wrong about the world - and why things
 are better than you think / Hans Rosling ; with Ola Rosling and Anna Rosling 
 R{u00F6}nnlund. 
 PUBLISHER = New York : Flatiron Books, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23276216. LOCATION = lbks. 
 
 
@@ -42,7 +41,6 @@ CALL NO. = BX830 1962 .F277 2015.
 TITLE = A council for the global church : receiving Vatican II in history / 
 Massimo Faggioli. 
 PUBLISHER = Minneapolis, Minnesota : Fortress Press, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b23277774. LOCATION = lbks. 
 
 
@@ -63,7 +61,6 @@ RECORD # = b23275029. LOCATION = lbks.
 CALL NO. = GB459.4 .R86 2018. 
 TITLE = Rising : dispatches from the new American shore / Elizabeth Rush. 
 PUBLISHER = Minneapolis, Minnesota : Milkweed Editions, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b2327590x. LOCATION = lbks. 
 
 
@@ -104,9 +101,7 @@ RECORD # = b23276447. LOCATION = lbks.
 CALL NO. = HD5325.R12 1894 K45 2019. 
 TITLE = The edge of anarchy : the railroad barons, the Gilded Age, and the 
 greatest labor uprising in America / Jack Kelly. 
-PUBLISHER = 1901. 
 PUBLISHER = New York : St. Martin's Press, 2019. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23274736. LOCATION = lbks. 
 
 
@@ -114,7 +109,6 @@ CALL NO. = HD9710.U54 T4763 2018.
 TITLE = Insane mode : how Elon Musk's Tesla sparked an electric revolution to 
 end the age of oil / Hamish McKenzie. 
 PUBLISHER = New York : Dutton, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275674. LOCATION = lbks. 
 
 
@@ -132,7 +126,6 @@ TITLE = This is service design doing : applying service design thinking in the
 real world : a practitioner's handbook / edited, collected, written, designed by
 Marc Stickdorn, Adam Lawrence, Markus Hormess, Jakob Schneider. 
 PUBLISHER = Sebastopol, CA : O'Reilly Media, Inc., [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275534. LOCATION = lbks. 
 
 
@@ -140,7 +133,6 @@ CALL NO. = HD9995.H423 U627 2018.
 TITLE = Bad blood : secrets and lies in a Silicon Valley startup / John 
 Carreyrou. 
 PUBLISHER = New York : Alfred A. Knopf, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275881. LOCATION = lbks. 
 
 
@@ -156,14 +148,12 @@ CALL NO. = HN49.R33 Z83 2018.
 TITLE = Not all dead white men : classics and misogyny in the digital age / 
 Donna Zuckerberg. 
 PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275078. LOCATION = lbks. 
 
 
 CALL NO. = HQ23 .D484 2018. 
 TITLE = Turned on : science, sex and robots / Kate Devlin. 
 PUBLISHER = London : Bloomsbury Sigma, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b2327928x. LOCATION = lbks. 
 
 
@@ -180,14 +170,12 @@ CALL NO. = HQ535 .H465 2019.
 TITLE = Random families : genetic strangers, sperm donor siblings, and the 
 creation of new kin / Rosanna Hertz and Margaret K. Nelson. 
 PUBLISHER = New York, NY : Oxford University Press, [2019]. 
-PUBLISHER = {u00A9}2019. 
 RECORD # = b23279266. LOCATION = lbks. 
 
 
 CALL NO. = HT861 .S74 2016. 
 TITLE = Shackles of iron : slavery beyond the Atlantic / Stewart Gordon. 
 PUBLISHER = Indianapolis : Hackett Publishing Company, Inc., [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b23276071. LOCATION = lbks. 
 
 
@@ -200,10 +188,8 @@ RECORD # = b23275765. LOCATION = lbks.
 CALL NO. = HV6626.5 .R43 2018. 
 TITLE = They took the kids last night : how the child protection system puts 
 families at risk / Diane L. Redleaf. 
-PUBLISHER = 1809. 
 PUBLISHER = Santa Barbara, California : Praeger, an imprint of ABC-CLIO, LLC, 
 [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23273045. LOCATION = lbks. 
 
 
@@ -211,7 +197,6 @@ CALL NO. = HV6773 .L87 2018.
 TITLE = Industry of anonymity : inside the business of cybercrime / Jonathan 
 Lusthaus. 
 PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b2327475x. LOCATION = lbks. 
 
 
@@ -227,7 +212,6 @@ CALL NO. = HV6773.15.C97 G85 2017.
 TITLE = Inside the enemy's computer : identifying cyber-attackers / Clement 
 Guitton. 
 PUBLISHER = London : Hurst & Company, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23275224. LOCATION = lbks. 
 
 
@@ -266,7 +250,6 @@ CALL NO. = JZ1242 .F748 2019.
 TITLE = World politics : interests, interactions, institutions / Jeffry A. 
 Frieden, Harvard University, David A. Lake, University of California, San Diego,
 Kenneth A. Schultz, Stanford University. 
-PUBLISHER = 1807. 
 PUBLISHER = New York : W.W. Norton & Company, [2019]. 
 RECORD # = b23279229. LOCATION = lrefs. 
 
@@ -307,7 +290,6 @@ TITLE = Ninth Street women : Lee Krasner, Elaine de Kooning, Grace Hartigan,
 Joan Mitchell, and Helen Frankenthaler : five painters and the movement that 
 changed modern art / Mary Gabriel. 
 PUBLISHER = New York : Little, Brown and Company, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b2327945x. LOCATION = lbks. 
 
 
@@ -317,7 +299,6 @@ contributions by Dominique de Font-R{u00E9}aulx, Mich{u00E8}le Hannoosh, Mehdi
 Korchane, and Asher Miller. 
 PUBLISHER = New York, NY : Metropolitan Museum of Art, [2018]. 
 PUBLISHER = New Haven ; London : Distributed by Yale University Press. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279448. LOCATION = lbkso. 
 
 
@@ -331,7 +312,6 @@ RECORD # = b23277440. LOCATION = lbks.
 CALL NO. = PN56.I44 W758 2018. 
 TITLE = The writer's map : an atlas of imaginary lands / edited by Huw Lewis-
 Jones. 
-PUBLISHER = 1810. 
 PUBLISHER = Chicago : University of Chicago Press, 2018. 
 RECORD # = b2327508x. LOCATION = lbkso. 
 
@@ -349,7 +329,6 @@ CALL NO. = PN1992.77.S475 M33 2018.
 TITLE = Sherlock's world : fan fiction and the reimagining of BBC's Sherlock / 
 Ann K. McClellan. 
 PUBLISHER = Iowa City : University of Iowa Press, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275091. LOCATION = lbks. 
 
 
@@ -365,7 +344,6 @@ CALL NO. = PQ4879.T345 S3413 2018.
 TITLE = Trick / Domenico Starnone ; translated from the Italian by Jhumpa 
 Lahiri. 
 PUBLISHER = New York : Europa Editions, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275169. LOCATION = lbks. 
 
 
@@ -381,7 +359,6 @@ CALL NO. = PZ7.C76442 Tru 2018.
 TITLE = The truth as told by Mason Buttle / Leslie Connor. 
 PUBLISHER = New York, NY : Katherine Tegen Books, an imprint of 
 HarperCollinsPublishers, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275157. LOCATION = ltmyl. 
 
 
@@ -389,7 +366,6 @@ CALL NO. = PZ7.5.A35 Po 2018.
 TITLE = The poet X : a novel / by Elizabeth Acevedo. 
 PUBLISHER = New York, NY : HarperTeen, an imprint of HarperCollinsPublishers, 
 [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275133. LOCATION = ltmyl. 
 
 
@@ -397,7 +373,6 @@ CALL NO. = Q127.U6 W654 2018.
 TITLE = Freedom's laboratory : the Cold War struggle for the soul of science / 
 Audra J. Wolfe. 
 PUBLISHER = Baltimore, Maryland : Johns Hopkins University Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275571. LOCATION = lbks. 
 
 
@@ -414,7 +389,6 @@ RECORD # = b23276319. LOCATION = lbks.
 CALL NO. = Q173 .H388 2018. 
 TITLE = Brief answers to the big questions / Stephen Hawking. 
 PUBLISHER = New York, N.Y. : Bantam Books, an imprint of Random House, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23276095. LOCATION = lbks. 
 
 
@@ -441,7 +415,6 @@ CALL NO. = Q335 .W3525 2018.
 TITLE = Machines that think : the future of artificial intelligence / Toby 
 Walsh. 
 PUBLISHER = Amherst, New York : Prometheus Books, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23276629. LOCATION = lbks. 
 
 
@@ -449,7 +422,6 @@ CALL NO. = Q360 .U496 2017.
 TITLE = Understanding information : from the big bang to big data / Alfons Josef
 Schuster, editor. 
 PUBLISHER = Cham, Switzerland : Springer, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23276587. LOCATION = lbks. 
 
 
@@ -472,7 +444,6 @@ CALL NO. = QA76.585 .A87 2018.
 TITLE = Assured cloud computing / edited by Roy H. Campbell, Charles A. Kamhoua,
 Kevin A. Kwiat. 
 PUBLISHER = Hoboken, NJ : John Wiley & Sons, Inc., 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23276514. LOCATION = lbks. 
 
 
@@ -486,7 +457,6 @@ CALL NO. = QA76.758 .O66 2017.
 TITLE = Concise guide to software engineering : from fundamentals to application
 methods / Gerard O'Regan. 
 PUBLISHER = New York Springer [2017?]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23276563. LOCATION = lbks. 
 
 
@@ -495,7 +465,6 @@ TITLE = Forge your future with open source : build your skills, build your
 network, build the future of technology / VM (Vicky) Brasseur ; edited by Brian 
 MacDonald. 
 PUBLISHER = Raleigh, North Carolina : The Pragmatic Bookshelf, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275248. LOCATION = lbks. 
 
 
@@ -510,7 +479,6 @@ RECORD # = b23276691. LOCATION = lbks.
 CALL NO. = QA76.9.A25 S36 2019. 
 TITLE = Developing cybersecurity programs and policies / Omar Santos. 
 PUBLISHER = [United States?] : Pearson Education, [2019]. 
-PUBLISHER = {u00A9}2019. 
 RECORD # = b23275273. LOCATION = lbks. 
 
 
@@ -520,7 +488,6 @@ CALL NO. = QA76.9.A25 S73 2019.
 TITLE = Effective cybersecurity : understanding and using standards and best 
 practices / William Stallings. 
 PUBLISHER = Upper Saddle River, NJ : Addison-Wesley, [2019]. 
-PUBLISHER = {u00A9}2019. 
 RECORD # = b2327525x. LOCATION = lbks. 
 
 
@@ -533,14 +500,12 @@ RECORD # = b23275339. LOCATION = lbks.
 CALL NO. = QA76.9.A94 P43 2017. 
 TITLE = Augmented reality : where we will all live / Jon Peddie. 
 PUBLISHER = Cham, Switzerland : Springer, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23275364. LOCATION = lbks. 
 
 
 CALL NO. = QA76.9.B45 K45 2018. 
 TITLE = Data science / John D. Kelleher and Brendan Tierney. 
 PUBLISHER = Cambridge, Massachusetts ; London, England : The MIT Press, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275406. LOCATION = lbks. 
 
 
@@ -568,7 +533,6 @@ RECORD # = b23275418. LOCATION = lbks.
 CALL NO. = QA155.7.E4 B37 2015. 
 TITLE = Sage for undergraduates / Gregory V. Bard. 
 PUBLISHER = Providence, Rhode Island : American Mathematical Society, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b2327637x. LOCATION = lbks. 
 
 
@@ -590,7 +554,6 @@ RECORD # = b23276320. LOCATION = lbks.
 CALL NO. = QA184.2 .W46 2018. 
 TITLE = Numerical linear algebra : an introduction / Holger Wendland. 
 PUBLISHER = Cambridge : Cambridge University Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23276435. LOCATION = lbks. 
 
 
@@ -610,7 +573,6 @@ CALL NO. = QA255 .S75 2017.
 TITLE = A most elegant equation : Euler's formula and the beauty of mathematics 
 / David Stipp. 
 PUBLISHER = New York : Basic Books, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23276356. LOCATION = lbks. 
 
 
@@ -618,14 +580,12 @@ CALL NO. = QA276.12 .M65 2017.
 TITLE = Introduction to the practice of statistics / David S. Moore, George P. 
 McCabe, Bruce A. Craig, Purdue University. 
 PUBLISHER = New York : W.H. Freeman, Macmillan Learning, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23279254. LOCATION = lrefs. 
 
 
 CALL NO. = QA278 .S52 2016. 
 TITLE = Calculus and analysis in Euclidean space / Jerry Shurman. 
 PUBLISHER = Cham, Switzerland : Springer, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b23276307. LOCATION = lbks. 
 
 
@@ -648,7 +608,6 @@ RECORD # = b23275546. LOCATION = lbks.
 CALL NO. = QA298 .K54 2018. 
 TITLE = Random numbers and computers / Ronald T. Kneusel. 
 PUBLISHER = Cham, Switzerland : Springer, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275340. LOCATION = lbks. 
 
 
@@ -657,7 +616,6 @@ TITLE = Out there : a scientific guide to alien life, antimatter, and human
 space travel (for the cosmically curious) / Michael Wall, PhD (Senior Writer, 
 Space.com). 
 PUBLISHER = New York : Grand Central Publishing, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275662. LOCATION = lbks. 
 
 
@@ -665,7 +623,6 @@ CALL NO. = QB843.B55 F548 2018.
 TITLE = Einstein's shadow : a black hole, a band of astronomers, and the quest 
 to see the unseeable / Seth Fletcher. 
 PUBLISHER = New York, NY : Ecco, an imprint of HarperCollinsPublishers, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275595. LOCATION = lbks. 
 
 
@@ -710,7 +667,6 @@ CALL NO. = QE33.2.R4 B677 2017.
 TITLE = Open space : the global effort for open access to environmental 
 satellite data / Mariel John Borowitz. 
 PUBLISHER = Cambridge, Massachusetts : The MIT Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23275443. LOCATION = lbks. 
 
 
@@ -718,7 +674,6 @@ CALL NO. = QE718 .W55 2018.
 TITLE = The dinosaur artist : obsession, betrayal and the quest for Earth's 
 ultimate trophy / Paige Williams. 
 PUBLISHER = New York ; Boston : Hachette Books, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275911. LOCATION = lbks. 
 
 
@@ -726,7 +681,6 @@ CALL NO. = QH81 .N3145 2017.
 TITLE = Nature love medicine : essays on wildness and wellness / edited by 
 Thomas Lowe Fleischner. 
 PUBLISHER = Salt Lake City : Torrey House Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23275650. LOCATION = lbks. 
 
 
@@ -734,7 +688,6 @@ CALL NO. = QH360.5 .C63 2018.
 TITLE = The equations of life : how physics shapes evolution / Charles S. 
 Cockell. 
 PUBLISHER = New York, NY : Basic Books, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275923. LOCATION = lbks. 
 
 
@@ -743,7 +696,6 @@ TITLE = Student handbook and solutions manual, Concepts of genetics, eleventh
 edition  / Harry Nickla, William S. Klug, Michael R. Cummings, Charlotte A. 
 Spencer, Michael A. Palladino. 
 PUBLISHER = Boston : Pearson, c2015. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b23276769. LOCATION = lrsvc. 
 
 
@@ -752,7 +704,6 @@ RECORD # = b23276769. LOCATION = lrsvc.
 CALL NO. = QL565 .H36 2018. 
 TITLE = Buzz : the nature and necessity of bees / Thor Hanson. 
 PUBLISHER = New York, NY : Basic Books, Hachette Book Group, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275935. LOCATION = lbks. 
 
 
@@ -818,7 +769,6 @@ CALL NO. = TK5105.59 .B766 2018.
 TITLE = Cybersecurity essentials / Charles J. Brooks, Christopher Grow, Philip 
 Craig, Donald Short. 
 PUBLISHER = Indianapolis, Indiana : John Wiley & Sons Inc., [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23276575. LOCATION = lbks. 
 
 
@@ -826,7 +776,6 @@ CALL NO. = TK5105.59 .C64 2017.
 TITLE = Network security through data analysis : from data to action / Michael 
 Collins. 
 PUBLISHER = Beijin ; Boston : O'Reilly Media, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23275315. LOCATION = lbks. 
 
 
@@ -848,7 +797,6 @@ TITLE = Circuits and electronics : hands-on learning with analog discovery /
 John Okyere Attia. 
 PUBLISHER = Boca Raton ; London ; New York  : CRC Press : Taylor & Francis Group,
 [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275236. LOCATION = lbks. 
 
 
@@ -866,7 +814,6 @@ CALL NO. = TX360.U6 N475 2018.
 TITLE = Unsavory truth : how food companies skew the science of what we eat / 
 Marion Nestle. 
 PUBLISHER = New York, NY : Basic Books, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b2327573x. LOCATION = lbks. 
 
 
@@ -882,7 +829,6 @@ TITLE = The arts in medical education : a practical guide / Elaine Powley and
 Roger Higson ; with David Powley and George Taylor ; foreword by Jordan J. Cohen
 and M. Brownell Anderson. 
 PUBLISHER = London : Radcliffe Publishing, 2013. 
-PUBLISHER = {u00A9}2013. 
 RECORD # = b23276058. LOCATION = lbks. 
 
 
@@ -931,7 +877,6 @@ CALL NO. = WC534 .S115o 2018.
 TITLE = Outbreak culture : the Ebola crisis and the next epidemic / Pardis 
 Sabeti and Lara Salahi. 
 PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275686. LOCATION = lbks. 
 
 
@@ -952,7 +897,6 @@ CALL NO. = WM284 .M177d 2018.
 TITLE = Dopesick : dealers, doctors, and the drug company that addicted America 
 / Beth Macy. 
 PUBLISHER = New York, NY : Little, Brown and Company, [2018]. 
-PUBLISHER = 2018. 
 RECORD # = b23275893. LOCATION = lbks. 
 
 
@@ -978,7 +922,6 @@ CALL NO. = WS350.8.P4 E45e 2015.
 TITLE = The effectiveness of neurofeedback training for children with autism 
 spectrum disorders / Franziska Eller. 
 PUBLISHER = Wiesbaden : Springer, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b23276022. LOCATION = lbks. 
 
 
@@ -1006,7 +949,6 @@ CALL NO. = Z666.5 .Y46 2018.
 TITLE = Records, information and data : exploring the role of record-keeping in 
 an information culture / Geoffrey Yeo. 
 PUBLISHER = London : Facet Publishing, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275492. LOCATION = lbks. 
 
 
@@ -1015,7 +957,6 @@ TITLE = Transforming libraries to serve graduate students / edited by Crystal
 Renfro and Cheryl Stiles. 
 PUBLISHER = Chicago, Illinois : Association of College and Research Libraries, a
 division of the American Library Association, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23273471. LOCATION = lbks. 
 
 

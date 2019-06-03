@@ -3,7 +3,6 @@
 CALL NO. = BF121 .M942 2015. 
 TITLE = Psychology / David G. Myers, C. Nathan DeWall. 
 PUBLISHER = New York : Worth Publishers, [2015]. 
-PUBLISHER = 2015. 
 RECORD # = b23282241. LOCATION = lrsvc. 
 
 
@@ -139,14 +138,12 @@ RECORD # = b23279497. LOCATION = lbks.
 CALL NO. = E278.A7 M35 2018. 
 TITLE = The tragedy of Benedict Arnold : an American life / Joyce Lee Malcolm. 
 PUBLISHER = New York : Pegasus Books, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b21491732. LOCATION = lbks. 
 
 
 CALL NO. = E441 .S53 2004. 
 TITLE = Slavery and the making of America / producer, Dante J. James. 
 PUBLISHER = [Arlington, Virginia] : PBS, [2018]. 
-PUBLISHER = {u00A9}2004. 
 RECORD # = b23280128. LOCATION = lmvc. 
 
 
@@ -157,7 +154,6 @@ Philip Bennett ; produced and reported by Gabrielle Schonder ; written by
 Michael Kirk, Mike Wiser ; director, Michael Kirk. 
 PUBLISHER = [Arlington, Virginia] : PBS Distribution ; [Boston] : WGBH 
 Educational Foundation, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23280232. LOCATION = lmvc. 
 
 
@@ -185,7 +181,6 @@ a production of Steeplechase Films, Inc. and Thirteen Productions LLC's American
 Masters for WNET. 
 PUBLISHER = [Alexandria, VA] : PBS, [2015]. 
 PUBLISHER = [Alexandria, VA] : Distributed by PBS Distribution, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b23280220. LOCATION = lmvc. 
 
 
@@ -193,7 +188,6 @@ CALL NO. = H62 .S343 2016.
 CALL NO. = H62 .S343 2016. 
 TITLE = The coding manual for qualitative researchers / Johnny Salda{u00F1}a. 
 PUBLISHER = Los Angeles, Calif. ; London : SAGE, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b23282769. LOCATION = lrefs. LOCATION = lbks. 
 
 
@@ -201,7 +195,6 @@ CALL NO. = HB172.5 .K78 2018.
 TITLE = Macroeconomics / Paul Krugman, Graduate Center of the City University of
 New York, Robin Wells. 
 PUBLISHER = New York, NY : Worth Publishers, Macmillan Learning, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23285813. LOCATION = lrsvc. 
 
 
@@ -216,7 +209,6 @@ CALL NO. = HB801 .M83 2014.
 TITLE = Scarcity : the new science of having less and how it defines our lives /
 Sendhil Mullainathan, Eldar Shafir. 
 PUBLISHER = New York : Picador, 2014. 
-PUBLISHER = {u00A9}2013. 
 RECORD # = b23282332. LOCATION = lrsvc. 
 
 
@@ -249,7 +241,6 @@ CALL NO. = HM851 .K574 2016.
 TITLE = We are big data : the future of the information society / Sander Klous, 
 Nart Wielaard. 
 PUBLISHER = [Amsterdam] : Atlantis Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b23276617. LOCATION = lbks. 
 
 
@@ -263,7 +254,6 @@ CALL NO. = HQ1206 .L415 2018.
 TITLE = Lectures on the psychology of women / [edited by] Joan C. Chrisler 
 (Connecticut College), Carla Golden (Ithaca College). 
 PUBLISHER = Long Grove, Illinois : Waveland Press, Inc., [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23281145. LOCATION = lrsvc. 
 
 
@@ -282,7 +272,6 @@ Kartemquin Films production for WGBH/Frontline and Independent Television
 Service (ITVS) in association with Blue Ice Docs. 
 PUBLISHER = [Arlington, Virginia] : PBS, [2017]. 
 PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23280268. LOCATION = lmvc. 
 
 
@@ -292,7 +281,6 @@ CALL NO. = HV8073 .R683 2017.
 TITLE = Digital forensic science : issues, methods, and challenges / Vassil 
 Roussev. 
 PUBLISHER = [San Rafael, California] : Morgan & Claypool, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23276654. LOCATION = lbks. 
 
 
@@ -301,7 +289,6 @@ TITLE = The threshold of democracy : Athens in 403 BCE / Josiah Ober (Stanford
 University), Naomi J. Norman (University of Georgia), Mark C. Carnes (Barnard 
 College). 
 PUBLISHER = New York : W.W. Norton & Company, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b23279278. LOCATION = lrsvc. 
 
 
@@ -317,7 +304,6 @@ Storyville Films production ; directed and produced by Betsy West & Julie Cohen
 ; executive producers, Amy Entelis, Courtney Sexton ; coordinating producer, 
 Alexandra Hannibal. 
 PUBLISHER = Los Angeles, California : Magnolia Home Entertainment, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279291. LOCATION = lmvc. 
 
 
@@ -349,7 +335,6 @@ CALL NO. = LA217.2 .G32 2018.
 TITLE = After the education wars : how smart schools upend the business of 
 reform / Andrea Gabor. 
 PUBLISHER = New York : The New Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23277439. LOCATION = lbks. 
 
 
@@ -357,7 +342,6 @@ CALL NO. = LB1047.3 .B66 2016.
 TITLE = Systematic approaches to a successful literature review / Andrew Booth, 
 Anthea Sutton and Diana Papaioannou. 
 PUBLISHER = Los Angeles : Sage, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b23279515. LOCATION = lbks. 
 
 
@@ -381,7 +365,6 @@ CALL NO. = LC191 .E2647 2017.
 TITLE = Educating through popular culture : you're not cool just because you 
 teach with comics / edited by Edward A. Janak and Ludovic A. Sourdot. 
 PUBLISHER = Lanham, Maryland : Lexington Books, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23277415. LOCATION = lbks. 
 
 
@@ -390,7 +373,6 @@ TITLE = Culturally responsive teaching and the brain : promoting authentic
 engagement and rigor among culturally and linguistically diverse students / 
 Zaretta Hammond ; foreword by Yvette Jackson. 
 PUBLISHER = Thousand Oaks, California : Corwin, a SAGE Company, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b23283385. LOCATION = lrsvc. 
 
 
@@ -398,7 +380,6 @@ CALL NO. = M51 .I57 2000.
 TITLE = Inspired by Bach / [presented by] Rhombus Media ; produced by Niv 
 Fichman. 
 PUBLISHER = [New York, New York] : Sony Classical, [2000]. 
-PUBLISHER = {u00A9}2000. 
 RECORD # = b23282642. LOCATION = lmvc. 
 
 
@@ -408,7 +389,6 @@ CALL NO. = ML410.B4 W27 2018.
 TITLE = Hearing Beethoven : a story of musical loss and discovery / Robin 
 Wallace. 
 PUBLISHER = Chicago ; London : The University of Chicago Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23282459. LOCATION = lbks. 
 
 
@@ -416,7 +396,6 @@ CALL NO. = N350 .Y46 2013.
 TITLE = Visual thinking strategies : using art to deepen learning across school 
 disciplines / Philip Yenawine. 
 PUBLISHER = Cambridge, Massachusetts : Harvard Education Press, [2013]. 
-PUBLISHER = {u00A9}2013. 
 RECORD # = b23275832. LOCATION = lbks. 
 
 
@@ -424,7 +403,6 @@ CALL NO. = NA1557.K9 S46 2017.
 TITLE = Houses and gardens of Kyoto / photography by Akihiko Seki ; text by 
 Thomas Daniell ; with a new foreword by Matthew Stavros. 
 PUBLISHER = Tokyo : Tuttle Publishing, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23277993. LOCATION = lbks. 
 
 
@@ -440,7 +418,6 @@ TITLE = Killing Eve / created by Phoebe Waller-Bridge ; written by Phoebe Waller
 -Bridge, Luke Jennings, George Kay, Vicky Jones, Rob Williams ; directed by Jon 
 East, Damon Thomas, Harry Bradbeer. 
 PUBLISHER = [United States] : BBC Worldwide, Ltd., [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23280104. LOCATION = lmvc. 
 
 
@@ -465,7 +442,6 @@ CALL NO. = PN1992.15 .M358 2017.
 TITLE = The miniaturist / screenplay by John Brownlow ; producer, Gethin 
 Scourfield ; directed by Guillem Morales ; The Forge production for BBC. 
 PUBLISHER = [Arlington, Virginia] : PBS Distribution, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b2327993x. LOCATION = lmvc. 
 
 
@@ -475,7 +451,6 @@ by Marti Noxon ; written for television by Marti Noxon, Gillian Flynn, Alex
 Metcalf, Vince Calandra, Scott Brown, Dawn Kamoche, Ariella Blejer ; directed by
 Jean-Marc Vall{u00E9}e. 
 PUBLISHER = [New York, New York] : Home Box Office, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23280116. LOCATION = lmvc. 
 
 
@@ -491,7 +466,6 @@ CALL NO. = PN1993.14 .B5607 2018.
 TITLE = Black Panther / Marvel Studios presents ; directed by Ryan Coogler ; 
 written by Ryan Coogler & Joe Robert Cole ; produced by Kevin Feige. 
 PUBLISHER = Burbank, CA : Buena Vista Home Entertainment, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279928. LOCATION = lmvc. 
 
 
@@ -508,7 +482,6 @@ TITLE = Annihilation / written for the screen and directed by Alex Garland ;
 produced by Scott Rudin, Andrew Macdonald, Allon Reich, Eli Bush ; Paramount 
 Pictures and Skydance present ; a Scott Rudin/DNA Films production. 
 PUBLISHER = Hollywood, California : Paramount, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279333. LOCATION = lmvc. 
 
 
@@ -554,7 +527,6 @@ Somewhere production ; produced by Nina Jacobson, Brad Simpson, Jon Penotti ;
 screenplay by Peter Chiarelli and Adele Lim ; directed by Jon M. Chu. 
 PUBLISHER = Burbank, CA : Warner Bros. Home Entertainment Inc., [2018]. 
 PUBLISHER = Burbank, CA : Distributed by Warner Bros. Home Entertainment. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279436. LOCATION = lmvc. LOCATION = lmvc. 
 
 
@@ -574,7 +546,6 @@ TITLE = Eighth grade / A24 and IAC Films present ; a film by Bo Burnham ;
 produced by Scott Rudin, Eli Bush, Lila Yacoub, Christopher Storer ; written and
 directed by Bo Burnham. 
 PUBLISHER = Santa Monica, California : Lionsgate, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279783. LOCATION = lmvc. 
 
 
@@ -583,7 +554,6 @@ TITLE = Fate ignoranti : His secret life : "Ignorant fairies" / Strand Releasing
 presents a film by Ferzan Ozpetek ; produced by Tilde Corsi and Gianni Romoli ; 
 written by Ferzan Ozpetek and Gianni Romoli. 
 PUBLISHER = [Santa Monica, Calif.] : Strand Releasing, [2003]. 
-PUBLISHER = {u00A9}2003. 
 RECORD # = b2328447x. LOCATION = lmvc. 
 
 
@@ -593,7 +563,6 @@ Pictures/Perfect World Pictures ; a Temple Hill production ; a Damien Chazelle
 film ; produced by Wyck Godfrey, Marty Bowen, Isaac Klausner, Damien Chazelle ; 
 screenplay by Josh Singer ; directed by Damien Chazelle. 
 PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2019]. 
-PUBLISHER = {u00A9}2019. 
 RECORD # = b23279370. LOCATION = lmvc. 
 
 
@@ -605,7 +574,6 @@ B. Weide ; directed by Phillip Noyce.
 PUBLISHER = [Place of publication not identified] : [publisher not identified], 
 [2014]. 
 PUBLISHER = Beverly Hills, CA : Anchor Bay Entertainment, LLC. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b23279795. LOCATION = lmvc. 
 
 
@@ -615,7 +583,6 @@ Knudsen production ; in association with Finch Entertainment and Windy Hill
 Pictures ; produced by Kevin Frakes ; produced by Lars Knudson ; produced by 
 Buddy Patrick ; written and directed by Ari Aster. 
 PUBLISHER = Santa Monica, CA : Lionsgate, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279801. LOCATION = lmvc. 
 
 
@@ -626,7 +593,6 @@ TITLE = Hotel Transylvania 3 / Sony Pictures Animation presents ; written by
 Genndy Tartakovsky and Michael McCullers ; produced by Michelle Murdocca ; 
 directed by Genndy Tartakovsky. 
 PUBLISHER = Culver City, California : Sony Pictures Home Entertainment, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279813. LOCATION = lmvc. 
 
 
@@ -655,7 +621,6 @@ written by Tom McCarthy ; produced by Mark Ciardi and Gordon Gray, Joe Roth ; a
 Roth Films, Mayhem Pictures production ; a Craig Gillespie film. 
 PUBLISHER = [Burbank, CA] : Disney, 2014. 
 PUBLISHER = Burbank, CA : Buena Vista Home Entertainment, Inc., [2014]. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b20917193. LOCATION = lmvc. 
 
 
@@ -667,7 +632,6 @@ by Paul King.
 PUBLISHER = [Burbank, California] : Warner Bros. Entertainment Inc., [2018]. 
 PUBLISHER = Burbank, CA : Warner Bros. Home Entertainment. 
 PUBLISHER = Package design and supplementary material, {u00A9}2018. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23280098. LOCATION = lmvc. 
 
 
@@ -679,7 +643,6 @@ Michael Bay ; a Platinum Dunes production ; produced by Michael Bay, Andrew Form
 Brad Fuller ; screenplay by Bryan Woods & Scott Beck and John Krasinski ; story 
 by Bryan Woods & Scott Beck ; directed by John Krasinski. 
 PUBLISHER = Hollywood, California : Paramount, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279849. LOCATION = lmvc. 
 
 
@@ -689,7 +652,6 @@ Media presentation ; a Thunder Road Pictures production ; produced by Basil
 Iwanyk, Edward L. McDonnell, Molly Smith, Thad Luckinbill, Trent Luckinbill ; 
 written by Taylor Sheridan ; directed by Stefano Sollima. 
 PUBLISHER = Culver City, CA : Sony Pictures Home Entertainment, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279916. LOCATION = lmvc. 
 
 
@@ -700,7 +662,6 @@ produced by Mason Novick, Diablo Cody, Charlize Theron, Beth Kono, A.J. Dix,
 Helen Estabrook, Jason Reitman, Aaron Gilbert ; written by Diablo Cody ; 
 directed by Jason Reitman. 
 PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279898. LOCATION = lmvc. 
 
 
@@ -722,7 +683,6 @@ TITLE = Wreck-It Ralph / Walt Disney Animation Studios ; directed by Rich Moore
 Rich Moore, Phil Johnston, Jim Reardon ; screenplay by Phil Johnston, Jennifer 
 Lee. 
 PUBLISHER = Burbank, CA : Buena Vista Home Entertainment, [2013]. 
-PUBLISHER = {u00A9}2013. 
 RECORD # = b23279886. LOCATION = lmvc. 
 
 
@@ -733,7 +693,6 @@ TITLE = A wrinkle in time / Disney presents ; a Whitaker Entertainment
 production ; an Ava DuVernay film ; produced by Jim Whitaker, Catherine Hand ; 
 screenplay by Jennifer Lee and Jeff Stockwell ; directed by Ava DuVernay. 
 PUBLISHER = Burbank, CA : Buena Vista Home Entertainment, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279874. LOCATION = lmvc. 
 
 
@@ -743,7 +702,6 @@ with Why Not Productions, Film 4 and BFI ; directed by Lynne Ramsay ; screenplay
 by Lynne Ramsay ; producers, Pascal Caucheteux, Rosa Attab, James Wilson, 
 Rebecca O'Brien, Lynne Ramsay ; a film by Lynne Ramsay. 
 PUBLISHER = Santa Monica, California : Lions Gate Entertainment, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23279862. LOCATION = lmvc. 
 
 
@@ -782,7 +740,6 @@ TITLE = A midsummer night's dream / Ealing Studios and Londinium Films present,
 in association with Theatre for a New Audience, a Julie Taymor production ; 
 directed by Julie Taymor ; producers, Lynn Hendee, Ben Latham-Jones. 
 PUBLISHER = [New York, N.Y.] : Kino Lorber, 2017. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b20913618. LOCATION = lmvc. 
 
 
@@ -811,7 +768,6 @@ CALL NO. = Q223 .A35 2019.
 TITLE = Championing science : communicating your ideas to decision makers / 
 Roger D. Aines and Amy L. Aines. 
 PUBLISHER = Oakland, California : University of California Press, [2019]. 
-PUBLISHER = {u00A9}2019. 
 RECORD # = b2328271x. LOCATION = lbks. 
 
 
@@ -819,7 +775,6 @@ CALL NO. = QA76.6 .F45 2018.
 TITLE = How to design programs : an introduction to programming and computing / 
 Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi. 
 PUBLISHER = Cambridge, Massachusetts : MIT Press, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23285485. LOCATION = lbks. 
 
 
@@ -827,7 +782,6 @@ CALL NO. = QA76.758 .R66 2018.
 TITLE = Thinking-Driven Testing : the most reasonable approach to quality 
 control / Adam Roman. 
 PUBLISHER = Cham, Switzerland : Springer, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275510. LOCATION = lbks. 
 
 
@@ -845,7 +799,6 @@ TITLE = Five design-sheets : creative design and sketching for computing and
 visualisation / Jonathan C. Roberts, Christopher J. Headleand, Panagiotis D. 
 Ritsos. 
 PUBLISHER = Cham, Switzerland : Springer, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b2327542x. LOCATION = lbks. 
 
 
@@ -853,7 +806,6 @@ CALL NO. = QA166.245 .K63 2017.
 TITLE = Graphs, algorithms, and optimization / William L. Kocay, Donald L. 
 Kreher. 
 PUBLISHER = Boca Raton, FL : CRC Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23276290. LOCATION = lbks. 
 
 
@@ -874,7 +826,6 @@ CALL NO. = QA279.5 .J47 2018.
 TITLE = Let the evidence speak : using Bayesian thinking in law, medicine, 
 ecology and other areas / Alan Jessop. 
 PUBLISHER = Cham, Switzerland : Springer, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23276393. LOCATION = lbks. 
 
 
@@ -882,7 +833,6 @@ CALL NO. = QA299.8 .R64 2015.
 TITLE = Winding around : the winding number in topology, geometry, and analysis 
 / John Roe. 
 PUBLISHER = Providence, Rhode Island : American Mathematical Society, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b23276423. LOCATION = lbks. 
 
 
@@ -905,7 +855,6 @@ CALL NO. = QA640.7 .E67 2018.
 TITLE = Forbidden configurations in discrete geometry / David Eppstein. 
 PUBLISHER = Cambridge, United Kingdom ; New York, NY : Cambridge University 
 Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23276277. LOCATION = lbks. 
 
 
@@ -927,7 +876,6 @@ CALL NO. = QC903 .G37 2018.
 TITLE = Tales from an uncertain world : what other assorted disasters can teach 
 us about climate change / L.S. Gardiner. 
 PUBLISHER = Iowa City : University of Iowa Press, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23283130. LOCATION = lbks. 
 
 
@@ -938,7 +886,6 @@ of Creative Europe--MEDIA Programme of the European Union ; series produced and
 directed by Oliver Twinch ; filmed and directed by Paul Williams ; produced by 
 WGBH. 
 PUBLISHER = [Arlington, Virginia] : PBS Distribution, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23280190. LOCATION = lmvc. 
 
 
@@ -947,7 +894,6 @@ TITLE = Rise of the superstorms / a Nova production by Sky Door Films for WGBH ;
 written, produced and directed by Liesl Clark. 
 PUBLISHER = [Arlington, Virginia] : PBS, [2018]. 
 PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23280207. LOCATION = lmvc. 
 
 
@@ -984,7 +930,6 @@ RECORD # = b23282678. LOCATION = lbkso.
 CALL NO. = QH327 .R63 2011. 
 TITLE = Packing for Mars : the curious science of life in the void / Mary Roach.
 PUBLISHER = New York : W.W. Norton & Company, 2011. 
-PUBLISHER = {u00A9}2010. 
 RECORD # = b23283890. LOCATION = lbks. 
 
 
@@ -992,7 +937,6 @@ CALL NO. = QH431 .B6324 2018.
 TITLE = Extended heredity : a new understanding of inheritance and evolution / 
 Russell Bonduriansky and Troy Day. 
 PUBLISHER = Princeton, New Jersey : Princeton University Press, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23275947. LOCATION = lbks. 
 
 
@@ -1002,7 +946,6 @@ intelligence and behavior / Stefano Mancuso ; English translation by Vanessa Di
 Stefano. 
 PUBLISHER = New York, NY : Atria Books, an imprint of Simon & Schuster, Inc., 
 [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23281510. LOCATION = lbks. 
 
 
@@ -1024,14 +967,12 @@ RECORD # = b23281753. LOCATION = lrsvc.
 CALL NO. = QP145 .R53 2014. 
 TITLE = Gulp : adventures on the alimentary canal / Mary Roach. 
 PUBLISHER = New York : W.W. Norton & Company, 2014. 
-PUBLISHER = {u00A9}2013. 
 RECORD # = b2328366x. LOCATION = lbks. 
 
 
 CALL NO. = QP360 .K33 2016. 
 TITLE = Biological psychology / James W. Kalat, North Carolina State University.
 PUBLISHER = Boston, MA : Cengage Learning, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b23281765. LOCATION = lrsvc. 
 
 
@@ -1053,7 +994,6 @@ CALL NO. = WM284 .H232 2018.
 TITLE = American fix : inside the opioid addiction crisis--and how to end it / 
 Ryan Hampton, with Claire Rudy Foster. 
 PUBLISHER = New York : All Points Books, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23277956. LOCATION = lbks. 
 
 
@@ -1066,7 +1006,6 @@ Christopher Loren Ewers ; written by David Blistein, Ken Burns ; produced by
 Julie Coffman ; co-produced by Erik Ewers, Christopher Loren Ewers. 
 PUBLISHER = [Alexandria, Virginia] : PBS, [2018]. 
 PUBLISHER = [Alexandria, Virginia] : Distributed by PBS Distribution, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23280281. LOCATION = lmvc. 
 
 
