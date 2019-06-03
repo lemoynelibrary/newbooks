@@ -1,0 +1,717 @@
+
+
+CALL NO. = HB849.51 .B33 2011. 
+TITLE = A short history of mathematical population dynamics / Nicolas 
+Baca{232}er. 
+PUBLISHER = [London] : Springer Verlag London Ltd., c2011. 
+RECORD # = b14113168. LOCATION = lbks. 
+
+CALL NO. = HC79.I55 T369 2010. 
+TITLE = MacroWikinomics : rebooting business and the world / Don Tapscott and 
+Anthony D. Williams. 
+PUBLISHER = New York, N.Y. : Portfolio Penguin, 2010. 
+RECORD # = b1399735x. LOCATION = lbks. 
+
+CALL NO. = HD30.2 .M453 2011. 
+TITLE = Knowledge management and information systems : strategies for growing 
+organizations / Robert Mellor. 
+PUBLISHER = Basingstoke ; New York : Palgrave Macmillan, 2011. 
+RECORD # = b14115323. LOCATION = lbks. 
+
+CALL NO. = HD30.213 .H447 2009. 
+TITLE = Designing management information systems / Hans van der Heijden. 
+PUBLISHER = Oxford ; New York : Oxford University Press, 2009. 
+RECORD # = b14115311. LOCATION = lbks. 
+
+CALL NO. = HD30.27 .S34 2011. 
+TITLE = The 11 secrets of highly influential IT leaders : the critical path to 
+accessing and succeeding in the executive suite / Marc J. Schiller. 
+PUBLISHER = New York, NY : Rain Partners, c2011. 
+RECORD # = b14101488. LOCATION = lbks. 
+
+CALL NO. = HD30.37 .S49 2009. 
+TITLE = The Facebook era : tapping online social networks to build better 
+products, reach new audiences, and sell more stuff / Clara Shih. 
+PUBLISHER = Boston : Prentice Hall, c2009. 
+RECORD # = b13997336. LOCATION = lbks. 
+
+CALL NO. = HD38.5 .S561 2010. 
+TITLE = Operations rules : delivering customer value through flexible operations
+/ David Simchi-Levi. 
+PUBLISHER = Cambridge, Mass. : MIT Press, c2010. 
+RECORD # = b13997385. LOCATION = lbks. 
+
+CALL NO. = HD45 .D36 2010. 
+TITLE = The innovator's way : essential practices for successful innovation / 
+Peter J. Denning and Robert Dunham. 
+PUBLISHER = Cambridge, Mass. : MIT Press, c2010. 
+RECORD # = b13997348. LOCATION = lbks. 
+
+CALL NO. = HD2336.3 .C66 2010. 
+TITLE = Communication, relationships and practices in virtual work / [edited by]
+Shawn D. Long. 
+PUBLISHER = Hershey, PA : Information Science Reference, c2010. 
+RECORD # = b13997300. LOCATION = lbks. 
+
+
+
+CALL NO. = HE8697.65.G7 J64 2010. 
+TITLE = Death of a pirate : British radio and the making of the information age 
+/ Adrian Johns. 
+PUBLISHER = New York : W. W. Norton & Co., c2010. 
+RECORD # = b13997312. LOCATION = lbks. 
+
+CALL NO. = HF5657.4 .G468 2011. 
+TITLE = Strategic management accounting in information technology : an analysis 
+of the implementation of strategic techniques as tools in information systems / 
+Sven Gerdes. 
+PUBLISHER = Frankfurt am Main  : Peter Lang Pub Inc 2011. 
+RECORD # = b14115384. LOCATION = lbks. 
+
+CALL NO. = HM846 .N45 2011. 
+TITLE = America identified : biometric technology and society / Lisa S. Nelson. 
+PUBLISHER = Cambridge, Mass. : MIT Press, c2011. 
+RECORD # = b13997294. LOCATION = lbks. 
+
+CALL NO. = HM1106 .N38 2010. 
+TITLE = The man who lied to his laptop : what machines teach us about human 
+relationships / Clifford Nass with Corina Yen. 
+PUBLISHER = New York : Current, c2010. 
+RECORD # = b13997361. LOCATION = lbks. 
+
+CALL NO. = P98 .J87 2009. 
+TITLE = Speech and language processing : an introduction to natural language 
+processing, computational linguistics, and speech recognition / Daniel Jurafsky,
+James H. Martin. 
+PUBLISHER = Upper Saddle River, N.J. : Pearson Prentice Hall, c2009. 
+RECORD # = b14115372. LOCATION = lbks. 
+
+CALL NO. = Q143.P7 H471 2010. 
+TITLE = The scientific legacy of Poincar{226}e / {226}Eric Charpentier, 
+{226}Etienne Ghys, Annick Lesne, editors ; translated by Joshua Bowman. 
+PUBLISHER = Providence, R.I. : American Mathematical Society ; London : London 
+Mathematical Society, c2010. 
+RECORD # = b14099196. LOCATION = lbks. 
+
+CALL NO. = QA9.54 B43 2010. 
+TITLE = The art of proof : basic training for deeper mathematics / Matthias Beck,
+Ross Geoghegan. 
+PUBLISHER = New York : Springer, c2010. 
+RECORD # = b14098982. LOCATION = lbks. 
+
+CALL NO. = QA27.C5 H37 2011. 
+TITLE = The Chinese roots of linear algebra / Roger Hart. 
+PUBLISHER = Baltimore, MD : Johns Hopkins University Press, 2011. 
+RECORD # = b14098994. LOCATION = lbks. 
+
+CALL NO. = QA28 .G74 2009. 
+TITLE = Pioneering women in American mathematics : the pre-1940 PhD's / Judy 
+Green, Jeanne LaDuke. 
+PUBLISHER = Providence, R.I. : American Mathematical Society ; London : London 
+Mathematical Society, c2009. 
+RECORD # = b13997543. LOCATION = lbks. 
+
+
+
+CALL NO. = QA28 .H48 2011. 
+TITLE = Loving + hating mathematics : challenging the myths of mathematical life
+/ Reuben Hersh and Vera John-Steiner. 
+PUBLISHER = Princeton, N.J. : Princeton University Press, c2011. 
+RECORD # = b14099081. LOCATION = lbks. 
+
+CALL NO. = QA28 .M38 2011. 
+TITLE = Mathematical lives : protagonists of the twentieth century from Hilbert 
+to Wiles / Claudio Bartocci ... [et al.], editors ; translated by Kim Williams. 
+PUBLISHER = Heidelberg [Germany] ; New York : Springer, c2011. 
+RECORD # = b1409910x. LOCATION = lbks. 
+
+CALL NO. = QA36 .H53 2010. 
+TITLE = A mathematical tapestry : demonstrating the beautiful unity of 
+mathematics / Peter Hilton, Jean Pedersen ; with illustrations by Sylvie 
+Donmoyer. 
+PUBLISHER = New York : Cambridge University Press, 2010. 
+RECORD # = b14099123. LOCATION = lbks. 
+
+CALL NO. = QA37.3 .L54 2012. 
+TITLE = Finite mathematics and calculus with applications / Margaret L. Lial, 
+Raymond N. Greenwell, Nathan P. Ritchey. 
+PUBLISHER = Boston : Pearson, c2012. 
+RECORD # = b1411284x. LOCATION = lbks. 
+
+CALL NO. = QA37.3 .L54 2012 Manual. 
+TITLE = Student's solutions manual [for] Finite mathematics and calculus with 
+applications, 9th edition / Margaret Lial, Ray Greenwell, Nathan Ritchey. 
+PUBLISHER = Upper Saddle River, N.J. ; Harlow : Pearson Education, 2012. 
+RECORD # = b14116650. LOCATION = lbks. 
+
+CALL NO. = QA63 .M34 2010. 
+TITLE = Street-fighting mathematics : the art of educated guessing and 
+opportunistic problem solving / Sanjoy Mahajan ; foreword by Carver A. Mead. 
+PUBLISHER = Cambridge, Mass. : MIT Press, c2010. 
+RECORD # = b13997580. LOCATION = lbks. 
+
+CALL NO. = QA76.585 .D484 2010. 
+TITLE = Developing Applications for the Cloud on the Microsoft Windows Azure 
+Platform / authors, Dominic Betts ... [et al.]. 
+PUBLISHER = [United States] : Microsoft, c2010. 
+RECORD # = b14112930. LOCATION = lbks. 
+
+CALL NO. = QA76.585 .F69 2011. 
+TITLE = Developing Microsoft SharePoint applications using Windows Azure / Steve
+Fox. 
+PUBLISHER = Sebastapol, Calif. : O'Reilly Media, c2011. 
+RECORD # = b14112942. LOCATION = lbks. 
+
+CALL NO. = QA76.585 G37 2011. 
+TITLE = Python and AWS cookbook / Mitch Garnaat. 
+PUBLISHER = Farnham : O'Reilly, 2011. 
+RECORD # = b14113442. LOCATION = lbks. 
+
+
+
+CALL NO. = QA76.6 .E58 2010. 
+TITLE = The computer boys take over : computers, programmers, and the politics 
+of technical expertise / Nathan Ensmenger. 
+PUBLISHER = Cambridge, Mass. : MIT Press, c2010. 
+RECORD # = b13997415. LOCATION = lbks. 
+
+CALL NO. = QA76.6 .N55 2010. 
+TITLE = 97 things every programmer should know : collective wisdom from the 
+experts / edited by Kevlin Henney. 
+PUBLISHER = Sebastopol, Calif. : O'Reilly, 2010. 
+RECORD # = b13997397. LOCATION = lbks. 
+
+CALL NO. = QA76.625 .A458 2011. 
+TITLE = Building Hypermedia APIs with HTML5 and Node / Mike Amundsen. 
+PUBLISHER = [Sebastopol, Calif.] : O'Reilly, 2011. 
+RECORD # = b14113508. LOCATION = lbks. 
+
+CALL NO. = QA76.73.J38 B517 2010. 
+TITLE = jQuery in action / Bear Bibeault, Yehuda Katz. 
+PUBLISHER = Greenwich, CT : Manning, c2010. 
+RECORD # = b14113004. LOCATION = lbks. 
+
+CALL NO. = QA76.73.J38 C375 2012. 
+TITLE = jQuery : novice to ninja / by Earle Castledine & Craig Sharkie. 
+PUBLISHER = Collingwood, Vic. : SitePoint ; Farnham : O'Reilly [distributor], 
+2012. 
+RECORD # = b14113053. LOCATION = lbks. 
+
+CALL NO. = QA76.73.J38 S227 2012. 
+TITLE = jQuery UI / Eric Sarrion. 
+PUBLISHER = Beijing ; Sebastopol, Calif. : O'Reilly, c2012. 
+RECORD # = b1411320x. LOCATION = lbks. 
+
+CALL NO. = QA76.73.J39 B46 2011. 
+TITLE = Head first jQuery / Ryan Benedetti [and] Ronan Cranley. 
+PUBLISHER = Beijing ; Sebastopol, CA : O'Reilly Media, 2011. 
+RECORD # = b14112991. LOCATION = lbks. 
+
+CALL NO. = QA76.73.J39 B47 2012. 
+TITLE = Applied jQuery : develop and design / Jay Blanchard. 
+PUBLISHER = Berkeley, CA : Peachpit Press, c2012. 
+RECORD # = b14112887. LOCATION = lbks. 
+
+CALL NO. = QA76.73.J39 F45 2012. 
+TITLE = jQuery mobile : up and running / Maximiliano Firtman. 
+PUBLISHER = Sebastopol, Calif. : O'Reilly Media, c2012. 
+RECORD # = b1411303x. LOCATION = lbks. 
+
+CALL NO. = QA76.73.J39 R45 2011. 
+TITLE = JQuery Mobile / Jon Reid. 
+PUBLISHER = Sebastopol, CA : O'Reilly, c2011. 
+RECORD # = b14113016. LOCATION = lbks. 
+
+
+
+CALL NO. = QA76.73.J39 W452 2011. 
+TITLE = JQuery UI 1.8 : the user interface library for jQuery : build highly 
+interactive web applications with ready-to-use widgets from the jQuery user 
+interface library / Dan Wellman. 
+PUBLISHER = Birmingham : Packt Pub., 2011. 
+RECORD # = b14113041. LOCATION = lbks. 
+
+CALL NO. = QA76.73.P47 J67 2010. 
+TITLE = Php jQuery cookbook : over 60 simple but highly effective recipes to 
+create interactive web applications using PHP with jQuery / Vijay Joshi. 
+PUBLISHER = Birmingham, U.K. : Packt Pub., 2 010. 
+RECORD # = b13997488. LOCATION = lbks. 
+
+CALL NO. = QA76.73.P98 B37 2011. 
+TITLE = Head first Python / Paul Barry. 
+PUBLISHER = Sebastapol, CA : O'Reilly, 2011. 
+RECORD # = b14113363. LOCATION = lbks. 
+
+CALL NO. = QA76.73.P98 G34 2012. 
+TITLE = Starting out with Python / Tony Gaddis. 
+PUBLISHER = Boston : Pearson Addison-Wesley, c2012. 
+RECORD # = b14113478. LOCATION = lbks. 
+
+CALL NO. = QA76.73.P98 H84 2011. 
+TITLE = Real world instrumentation with Python / J. M. Hughes. 
+PUBLISHER = Beijing ; Sebastopol, CA : O'Reilly, c2011. 
+RECORD # = b14113466. LOCATION = lbks. 
+
+CALL NO. = QA76.73.P98 L34 2011. 
+TITLE = A primer on scientific programming with Python / Hans Petter Langtangen.
+PUBLISHER = Dordrecht [The Netherlands] ; New York : Springer, c2011. 
+RECORD # = b14239012. LOCATION = lbks. 
+
+CALL NO. = QA76.73.P98 L53 2013. 
+TITLE = Introduction to programming using Python / Y. Daniel Liang. 
+PUBLISHER = Boston : Pearson, c2013. 
+RECORD # = b14113387. LOCATION = lbks. 
+
+CALL NO. = QA76.73.P98 L88 2011. 
+TITLE = Programming Python / Mark Lutz. 
+PUBLISHER = Sebastopol, CA : O'Reilly, c2011. 
+RECORD # = b14113430. LOCATION = lbks. 
+
+CALL NO. = QA76.73.P98 T87 2011. 
+TITLE = Python testing cookbook : over 70 simple but incredibly effective 
+recipes for taking control of automated testing using powerful Python testing 
+tools / Greg L. Turnquist. 
+PUBLISHER = Birmingham,  U.K. : Packt Pub., c2011. 
+RECORD # = b14113454. LOCATION = lbks. 
+
+CALL NO. = QA76.73.R83 M33 2009. 
+TITLE = Ruby in practice / Jeremy McAnally, Assaf Arkin ; with Yehuda Katz ... 
+[et al.]. 
+PUBLISHER = Greenwich, CT : Manning, c2009. 
+RECORD # = b14115293. LOCATION = lbks. 
+
+
+
+CALL NO. = QA76.73.R83 U45 2009. 
+TITLE = Ruby / by Larry Ullman. 
+PUBLISHER = Berkeley, Calif. : Peachpit, 2009. 
+RECORD # = b1411530x. LOCATION = lbks. 
+
+CALL NO. = QA76.758 .L64 2009. 
+TITLE = Version control with Git / Jon Loeliger. 
+PUBLISHER = Beijing : O'Reilly, c2009. 
+RECORD # = b14113259. LOCATION = lbks. 
+
+CALL NO. = QA76.76.A65 T56 2011. 
+TITLE = Getting started with GEO, CouchDB & Node.js  / Mick Thompson. 
+PUBLISHER = Sebastopol, CA : O'Reilly, 2011. 
+RECORD # = b14112966. LOCATION = lbks. 
+
+CALL NO. = QA76.76.C672 G359 2010. 
+TITLE = Game physics pearls / edited by Gino van den Bergen and Dirk Gregorius. 
+PUBLISHER = Natick, Mass. : A.K. Peters, c2010. 
+RECORD # = b13997452. LOCATION = lbks. 
+
+CALL NO. = QA76.76.H94 C38 2012. 
+TITLE = HTML5 and CSS3 / Elizabeth Castro, Bruce Hyslop. 
+PUBLISHER = Berkeley, Calif. : Peachpit, c2012. 
+RECORD # = b14113211. LOCATION = lbks. 
+
+CALL NO. = QA76.76.H94 F744 2011. 
+TITLE = Head First HTML5 programming : building web apps with Javascript / Eric 
+Freeman, Elisabeth Robson. 
+PUBLISHER = Beijing ; Sebastopol, CA : O'Reilly, 2011. 
+RECORD # = b1411351x. LOCATION = lbks. 
+
+CALL NO. = QA76.76.H94 F76 2010. 
+TITLE = From A to <A> : keywords of markup / Bradley Dilger and Jeff Rice, 
+editors. 
+PUBLISHER = Minneapolis : University of Minnesota Press, c2010. 
+RECORD # = b13997440. LOCATION = lbks. 
+
+CALL NO. = QA76.76.H94 f845 2011. 
+TITLE = HTML5 Canvas : native interactivity and animation for the Web / Steve 
+Fulton and Jeff Fulton. 
+PUBLISHER = Beijing ; Sebastopol, Calif. : O'Reilly, 2011. 
+RECORD # = b14113223. LOCATION = lbks. 
+
+CALL NO. = QA76.76.H94 H65 2011. 
+TITLE = HTML5 Geolocation / Anthony T. Holdener. 
+PUBLISHER = Sebastopol, CA : O'Reilly, 2011. 
+RECORD # = b14113235. LOCATION = lbks. 
+
+CALL NO. = QA76.76.H94 H678 2011. 
+TITLE = Foundations of XML processing : the tree-automata approach / Haruo 
+Hosoya. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2011. 
+RECORD # = b13997439. LOCATION = lbks. 
+
+
+
+CALL NO. = QA76.76.H94 K47 2012. 
+TITLE = Programming HTML5 applications / Zachary Kessin. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2011, c2012. 
+RECORD # = b14113247. LOCATION = lbks. 
+
+CALL NO. = QA76.76.H94 P54 2010. 
+TITLE = HTML5 : up and running / Mark Pilgrim. 
+PUBLISHER = Sebastopol, CA : O'Reilly, 2010. 
+RECORD # = b14113545. LOCATION = lbks. 
+
+CALL NO. = QA76.76.H94 S34 2012. 
+TITLE = HTML5 cookbook / Christopher Schmitt and Kyle Simpson. 
+PUBLISHER = Beijing ; Cambridge, Mass. : O'Reilly, 2011, c2012. 
+RECORD # = b14113521. LOCATION = lbks. 
+
+CALL NO. = QA76.76.O63 K75 2010. 
+TITLE = Programming Windows Azure / Sriram Krishnan. 
+PUBLISHER = Beijing ; Cambridge [Mass.] : O'Reilly, c2010. 
+RECORD # = b14113132. LOCATION = lbks. 
+
+CALL NO. = QA76.76.O63 M363 2009. 
+TITLE = Programming Cocoa with Ruby : create compelling Mac Apps using RubyCocoa
+/ Brian Marick ; [edited by Daniel H. Steinberg]. 
+PUBLISHER = Raleigh, N.C. : Pragmatic Bookshelf, c2009. 
+RECORD # = b14115268. LOCATION = lbks. 
+
+CALL NO. = QA76.76.P37 P98 2011. 
+TITLE = Rails antipatterns : best practice Ruby on Rails refactoring / Chad 
+Pytel, Tammer Saleh. 
+PUBLISHER = Upper Saddle River, NJ : Addison-Wesley, c2011. 
+RECORD # = b1411527x. LOCATION = lbks. 
+
+CALL NO. = QA76.76.R42 W345 2010. 
+TITLE = Refactoring in Ruby / William C. Wake, Kevin Rutherford. 
+PUBLISHER = Upper Saddle River, NJ : Addison-Wesley, c2010. 
+RECORD # = b14115281. LOCATION = lbks. 
+
+CALL NO. = QA76.9.A25 S35 2010. 
+TITLE = Elements of computer security / David Salomon. 
+PUBLISHER = New York : Springer-Verlag, 2010. 
+RECORD # = b13997592. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D3 A53 2010. 
+TITLE = CouchDB : the definitive guide / J. Chris Anderson, Jan Lehnardt, and 
+Noah Slater. 
+PUBLISHER = Beijing ; Cambridge [Mass.] : O'Reilly, c2010. 
+RECORD # = b14112917. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D3 B354 2012. 
+TITLE = MongoDB in action / Kyle Banker. 
+PUBLISHER = Shelter Island, NY : Manning, c2012. 
+RECORD # = b14113077. LOCATION = lbks. 
+
+
+
+CALL NO. = QA76.9.D3 B769 2012. 
+TITLE = Getting started with CouchDB / M.C. Brown. 
+PUBLISHER = Sebastopol, CA : O'Reilly, c2012. 
+RECORD # = b14112954. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D3 C457 2010. 
+TITLE = MongoDB : the definitive guide / Kristina Chodorow and Michael Dirolf ; 
+[foreword by Jeremy Zawodny]. 
+PUBLISHER = Beijing ; Farnham : O'Reilly, 2010. 
+RECORD # = b14113089. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D3 C463 2011. 
+TITLE = 50 tips and tricks for MongoDB developers / Kristina Chodorow. 
+PUBLISHER = Sebastopol, CA : O'Reilly, 2011. 
+RECORD # = b14112875. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D3 F715 2012. 
+TITLE = MongoDB and PHP / Steve Francia. 
+PUBLISHER = Sebastopol, CA : O'Reilly, c2012. 
+RECORD # = b14113065. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D3 .H649 2011. 
+TITLE = Scaling CouchDB : replication, clustering, and administration / by 
+Bradley Holt. 
+PUBLISHER = Beijing ; Farnham : O'Reilly, c2011. 
+RECORD # = b14113156. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D3 H65 2011. 
+TITLE = Writing and Querying Mapreduce Views in Couchdb / Bradley Holt. 
+PUBLISHER = Sebastapol, CA : Oreilly & Associates Inc., 2011. 
+RECORD # = b14113193. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D3 L55 2010. 
+TITLE = Data-intensive text processing with MapReduce / Jimmy Lin and Chris 
+Dyer. 
+PUBLISHER = San Rafael : Morgan & Claypool, c2010. 
+RECORD # = b14112929. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D3 O365 2011. 
+TITLE = MongoDB and Python / by Niall O'higgins. 
+PUBLISHER = Sebastopol, CA : O'Reilly, c2011. 
+RECORD # = b14113399. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D5 L36 2011. 
+TITLE = Hadoop in action / Chuck Lam. 
+PUBLISHER = Greenwich, Conn. : Manning Publications c2011. 
+RECORD # = b14112978. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D5 U52 2012. 
+TITLE = Understanding big data : analytics for enterprise class Hadoop and 
+streaming data / Paul C. Zikopoulos ... [et al.]. 
+PUBLISHER = New York : McGraw-Hill, c2012. 
+RECORD # = b14113181. LOCATION = lbks. 
+
+
+
+CALL NO. = QA76.9.M35 G35 2011. 
+TITLE = Discrete mathematics / Jean Gallier. 
+PUBLISHER = New York : Springer Verlag, 2011. 
+RECORD # = b14099032. LOCATION = lbks. 
+
+CALL NO. = QA76.9.U83 B34 2011. 
+TITLE = A new theory of information & the Internet : public sphere meets 
+protocol / Mark Balnaves, Michele Willson. 
+PUBLISHER = New York [etc.] : Peter Lang, 2011. 
+RECORD # = b14101166. LOCATION = lbks. 
+
+CALL NO. = QA93 .C731 2010. 
+TITLE = Figuring it out : entertaining encounters with everyday math / Nuno 
+Crato. 
+PUBLISHER = Heidelberg ; New York : Springer, c2010. 
+RECORD # = b14099068. LOCATION = lbks. 
+
+CALL NO. = QA93 .S973 2010. 
+TITLE = A mathematical medley : fifty easy pieces on mathematics / George G. 
+Szpiro ; translated by Eva Burke. 
+PUBLISHER = Providence, R.I. : American Mathematical Society, c2010. 
+RECORD # = b14099111. LOCATION = lbks. 
+
+CALL NO. = QA95 .S724 2010. 
+TITLE = Cows in the maze / Ian Stewart. 
+PUBLISHER = Oxford : Oxford University Press, 2010. 
+RECORD # = b14099019. LOCATION = lbks. 
+
+CALL NO. = QA162 .S62 2009. 
+TITLE = Introduction to abstract algebra / Jonathan D.H. Smith. 
+PUBLISHER = Boca Raton, FL : CRC Press, 2009. 
+RECORD # = b13997531. LOCATION = lbks. 
+
+CALL NO. = QA164 .G37 2011. 
+TITLE = The Erd{232}os distance problem / Julia Garibaldi, Alex Iosevich, Steven
+Senger. 
+PUBLISHER = Providence, R.I. : American Mathematical Society, c2011. 
+RECORD # = b14099044. LOCATION = lbks. 
+
+CALL NO. = QA174.2 .C85 2008. 
+TITLE = Group theory : birdtracks, Lie's, and exceptional groups / Predrag 
+Cvitanovi{226}c. 
+PUBLISHER = Princeton, N.J. : Princeton University Press, c2008. 
+RECORD # = b1399749x. LOCATION = lbks. 
+
+CALL NO. = QA178 .M45 2008. 
+TITLE = Groups, graphs, and trees : an introduction to the geometry of infinite 
+groups / John Meier. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2008. 
+RECORD # = b13997506. LOCATION = lbks. 
+
+CALL NO. = QA188 .C66 2010. 
+TITLE = Mathematical connections : a capstone course / John B. Conway. 
+PUBLISHER = Providence, R.I. : American Mathematical Society, c2010. 
+RECORD # = b14099093. LOCATION = lbks. 
+
+
+
+CALL NO. = QA188 .J44 2010. 
+TITLE = Matrix operations for engineers and scientists : an essential guide in 
+linear algebra / Alan Jeffrey. 
+PUBLISHER = Dordrecht [Netherlands] ; New York : Springer, c2010. 
+RECORD # = b14099214. LOCATION = lbks. 
+
+CALL NO. = QA241 .W625 2011. 
+TITLE = Number theory in the spirit of Liouville / Kenneth S. Williams. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2011. 
+RECORD # = b14099147. LOCATION = lbks. 
+
+CALL NO. = QA248 .S778 2010. 
+TITLE = Roads to infinity : the mathematics of truth and proof / John Stillwell.
+PUBLISHER = Natick, Mass. : A K Peters, c2010. 
+RECORD # = b14099184. LOCATION = lbks. 
+
+CALL NO. = QA267.7 .G652 2010. 
+TITLE = P, NP, and NP-completeness : the basics of computational complexity / 
+Oded Goldreich. 
+PUBLISHER = New York : Cambridge University Press, 2010. 
+RECORD # = b14113417. LOCATION = lbks. 
+
+CALL NO. = QA269 .G83 2008. 
+TITLE = Insights into game theory : an alternative mathematical experience / Ein
+-Ya Gura and Michael Maschler. 
+PUBLISHER = Cambridge, UK ; New York : Cambridge University Press, 2008. 
+RECORD # = b1399752x. LOCATION = lbks. 
+
+CALL NO. = QA274.73 .L385 2010. 
+TITLE = Random walk and the heat equation / Gregory F. Lawler. 
+PUBLISHER = Providence, R.I. : American Mathematical Society, c2010. 
+RECORD # = b14113144. LOCATION = lbks. 
+
+CALL NO. = QA278.2 .B56 2010. 
+TITLE = Regression : linear models in statistics / N.H. Bingham, John M. Fry. 
+PUBLISHER = London ; New York : Springer, c2010. 
+RECORD # = b14099172. LOCATION = lbks. 
+
+CALL NO. = QA279.5 .S628 2010. 
+TITLE = Bayesian decision analysis : principles and practice / Jim Q. Smith. 
+PUBLISHER = Cambridge, UK ; New York : Cambridge University Press, 2010. 
+RECORD # = b14112905. LOCATION = lbks. 
+
+CALL NO. = QA301 .C49 2010. 
+TITLE = Excursions in classical analysis : pathways to advanced problem solving 
+and undergraduate research / Hongwei Chen. 
+PUBLISHER = Washington, DC : Mathematical Association of America, c2010. 
+RECORD # = b14099056. LOCATION = lbks. 
+
+CALL NO. = QA303.2 .K59 2010. 
+TITLE = Counterexamples in calculus / Sergiy Klymchuk. 
+PUBLISHER = Washington, D.C. : Mathematical Association of America, c2010. 
+RECORD # = b13997555. LOCATION = lbks. 
+
+
+
+CALL NO. = QA303.3 .C355 2010. 
+TITLE = Advanced calculus : a geometric view / James J. Callahan. 
+PUBLISHER = New York : Springer, c2010. 
+RECORD # = b14098970. LOCATION = lbks. 
+
+CALL NO. = QA331.7 .N67 2010. 
+TITLE = Complex variables for scientists and engineers : an introduction / 
+Richard E. Norton ; edited by Ernest  Abers. 
+PUBLISHER = Oxford ; New York : Oxford University Press, 2010. 
+RECORD # = b14099007. LOCATION = lbks. 
+
+CALL NO. = QA402.5 .F67 2010. 
+TITLE = Optimization : theory and practice / Wilhelm Forst, Dieter Hoffmann. 
+PUBLISHER = New York ; London : Springer, c2010. 
+RECORD # = b14113107. LOCATION = lbks. 
+
+CALL NO. = QA403 .C43 2008. 
+TITLE = Harmonic analysis on finite groups : representation theory, Gelfand 
+pairs and Markov chains / Tullio Ceccherini-Silberstein, Fabio Scarabotti, 
+Filippo Tolli. 
+PUBLISHER = Cambridge : Cambridge University Press, 2008. 
+RECORD # = b13997518. LOCATION = lbks. 
+
+CALL NO. = QA445 .S38 2011. 
+TITLE = Points and lines : characterizing the classical geometries / Ernest E. 
+Shult. 
+PUBLISHER = Heidelberg ; New York : Springer, c2011. 
+RECORD # = b14099159. LOCATION = lbks. 
+
+CALL NO. = QA460.P8 P67 2010. 
+TITLE = The Pythagorean theorem : the story of its power and beauty / Alfred S. 
+Posamentier ; afterword by Herbert A. Hauptman. 
+PUBLISHER = Amherst, N.Y. : Prometheus Books, 2010. 
+RECORD # = b14099160. LOCATION = lbks. 
+
+CALL NO. = QA474 .B944 2010. 
+TITLE = Methods for Euclidean geometry / Owen Byer, Felix Lazebnik, Deirdre L. 
+Smeltzer. 
+PUBLISHER = Washington, DC : Mathematical Association of America, 2010. 
+RECORD # = b14102274. LOCATION = lbks. 
+
+CALL NO. = QA641 .B32 2010. 
+TITLE = Differential geometry of curves and surfaces / Thomas Banchoff, Stephen 
+Lovett. 
+PUBLISHER = Natick, Mass. : A.K. Peters, c2010. 
+RECORD # = b14099020. LOCATION = lbks. 
+
+CALL NO. = QA691 .Y38 2010. 
+TITLE = The shape of inner space : string theory and the geometry of the 
+universe's hidden dimensions / Shing-tung Yau and Steve Nadis ; illustrations by
+Xianfeng (David) Gu and Xiaotian (Tim) Yin. 
+PUBLISHER = New York : Basic Books, c2010. 
+RECORD # = b14099202. LOCATION = lbks. 
+
+
+
+CALL NO. = T14.5 .N673 2011. 
+TITLE = Living with complexity / Donald A. Norman. 
+PUBLISHER = Cambridge, Mass. : MIT Press, c2011. 
+RECORD # = b13997567. LOCATION = lbks. 
+
+CALL NO. = T57.85 .N523 2010. 
+TITLE = Networks : an introduction / M.E.J. Newman. 
+PUBLISHER = Oxford ; New York : Oxford University Press, 2010. 
+RECORD # = b13997476. LOCATION = lbks. 
+
+CALL NO. = T58.64 .S556 2010. 
+TITLE = A manager's guide to information systems and technology / Jae K. Shim. 
+PUBLISHER = London : Global Professional Publishing, 2010. 
+RECORD # = b13997373. LOCATION = lbks. 
+
+CALL NO. = T185 .H39 2009. 
+TITLE = Group theory in the bedroom and other mathematical diversions / Brian 
+Hayes. 
+PUBLISHER = New York : Hill and Wang, 2009, c2008. 
+RECORD # = b1409907x. LOCATION = lbks. 
+
+CALL NO. = TK5102.92 .B64 2010. 
+TITLE = Modem theory : an introduction to telecommunications / Richard E. 
+Blahut. 
+PUBLISHER = Cambridge, UK ; New York : Cambridge University Press, 2010. 
+RECORD # = b13997464. LOCATION = lbks. 
+
+CALL NO. = TK5103.2 .W398 2010. 
+TITLE = Being mobile : future wireless technologies and applications / William 
+Webb. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2010. 
+RECORD # = b13997403. LOCATION = lbks. 
+
+CALL NO. = TK5105.875.I57 V378 2010. 
+TITLE = Internet architecture and innovation / Barbara van Schewick. 
+PUBLISHER = Cambridge, MA : The MIT Press, c2010. 
+RECORD # = b14113375. LOCATION = lbks. 
+
+CALL NO. = TK5105.875.I6 H37 2012. 
+TITLE = SharePoint 2010 site owner's manual : flexible collaboration without 
+programming / Yvonne M. Harryman. 
+PUBLISHER = Shelter Island, NY : Manning, c2012. 
+RECORD # = b14115347. LOCATION = lbks. 
+
+CALL NO. = TK5105.875.I6 S9 2012. 
+TITLE = SharePoint 2010 for project management / Dux Raymond Sy. 
+PUBLISHER = Farnham : O'Reilly, 2012. 
+RECORD # = b14115335. LOCATION = lbks. 
+
+CALL NO. = TK5105.875.I6 W45 2011. 
+TITLE = SharePoint 2010 Workflows in action / Phil Wicklund. 
+PUBLISHER = Greenwich, Conn. : Manning ; London : Pearson Education 
+[distributor], c2011. 
+RECORD # = b14115360. LOCATION = lbks. 
+
+
+
+CALL NO. = TK5105.875.I6 W48 2011. 
+TITLE = SharePoint 2010 Web parts in action / Wictor Wil{226}en. 
+PUBLISHER = Stamford, CT : Manning Publications, c2011. 
+RECORD # = b14115359. LOCATION = lbks. 
+
+CALL NO. = TK5105.888 .D47 2010. 
+TITLE = Designing with progressive enhancement : building the Web that works for
+everyone / Todd Parker ... [et al.]. 
+PUBLISHER = Berkeley, CA : New Riders, c2010. 
+RECORD # = b13997427. LOCATION = lbks. 
+
+CALL NO. = TK5105.888 .V54 2011. 
+TITLE = Ordering disorder : grid principles for web design / Khoi Vinh. 
+PUBLISHER = Berkeley, Calif. : New Riders, 2011. 
+RECORD # = b14113405. LOCATION = lbks. 
+
+CALL NO. = TK5105.88813 H39 2011. 
+TITLE = Azure in action / Chris Hay, Brian H. Prince. 
+PUBLISHER = Stamford, CT : Manning Publications Co., c2011. 
+RECORD # = b14112899. LOCATION = lbks. 
+
+CALL NO. = TK5105.88813 .M68 2010. 
+TITLE = Moving applications to the cloud on the Microsoft Windows Azure platform
+/ authors, Dominic Betts ... [et al.]. 
+PUBLISHER = [Redmond, Wash.] : Microsoft ; Farnham : O'Reilly [distributor], 
+2010. 
+RECORD # = b14113090. LOCATION = lbks. 
+
+CALL NO. = TK5105.8885.R92 H37 2012. 
+TITLE = Sinatra : up and running / Alan Harris and Konstantin Haase. 
+PUBLISHER = Sebastopol, CA : Oreilly & Associates Inc 2012. 
+RECORD # = b14115256. LOCATION = lbks. 
+
+CALL NO. = TS171 .G726 2010. 
+TITLE = Design is how it works : how the smartest companies turn products into 
+icons / Jay Greene. 
+PUBLISHER = New York : Portfolio, 2010. 
+RECORD # = b13997324. LOCATION = lbks. 
+

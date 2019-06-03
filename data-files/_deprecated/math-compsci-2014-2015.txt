@@ -1,0 +1,987 @@
+
+
+CALL NO. = G70.212 .W47 2013. 
+TITLE = Python geospatial development : learn to build sophisticated mapping 
+applications from scratch using Python tools for geospatial development / Erik 
+Westra. 
+PUBLISHER = Birmingham : Packt Pub., 2013. 
+RECORD # = b15212403. LOCATION = lbks. 
+
+
+CALL NO. = HB615 .W554 2015. 
+TITLE = Think agile : how smart entrepreneurs adapt in order to succeed / Taffy 
+Williams. 
+PUBLISHER = New York : American Management Association, [2015]. 
+RECORD # = b15211800. LOCATION = lbks. 
+
+
+CALL NO. = HD9696.8.A2 Y66 2012. 
+TITLE = The dynamic internet : how technology, users, and businesses are 
+transforming the network / Christopher S. Yoo. 
+PUBLISHER = Washington, D.C. : AEI Press, c2012. 
+RECORD # = b15208461. LOCATION = lbks. 
+
+
+CALL NO. = HF5548.4.M523 C56 2014. 
+TITLE = Beginning power BI with Excel 2013 : self-service business intelligence 
+using Power Pivot, power view, power query, and power map / Dan Clark. 
+PUBLISHER = [New York, New York] : Apress, [2014]. 
+PUBLISHER = New York, NY : Distributed to the Book trade worldwide by Springer. 
+PUBLISHER = {496}2014. 
+RECORD # = b15211502. LOCATION = lbks. 
+
+
+CALL NO. = HF5548.4.M523 C665 2013. 
+TITLE = DAX formulas for PowerPivot : the Excel pro's guide to mastering DAX / 
+Rob Collie. 
+PUBLISHER = Uniontown, OH : Holy Macro! Books, c2013. 
+RECORD # = b15208448. LOCATION = lbks. 
+
+
+CALL NO. = HF5548.4.M523 C665 2014. 
+TITLE = PowerPivot alchemy / by Rob Collie & Bill Jelen. 
+PUBLISHER = Uniontown, OH, USA : Holy Macro! Books, [2014]. 
+RECORD # = b15208539. LOCATION = lbks. 
+
+
+CALL NO. = HG4529.5 .J67 2013. 
+TITLE = Introduction to mathematical portfolio theory / Mark S. Joshi, Jane M. 
+Paterson. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2013. 
+RECORD # = b15207079. LOCATION = lbks. 
+
+
+
+
+CALL NO. = HS30.213.T58 D45 2014. 
+TITLE = Dashboarding and reporting with Power Pivot and Excel : how to design & 
+create a financial dashboard with Power Pivot - end to end / by Kasper de Jonge.
+PUBLISHER = 201404. 
+PUBLISHER = Uniontown : Holy Macro!, 2014. 
+RECORD # = b15208436. LOCATION = lbks. 
+
+
+CALL NO. = K2290.S73 S36 2013. 
+TITLE = Math on trial : how numbers get used and abused in the courtroom / Leila
+Schneps and Coralie Colmez. 
+PUBLISHER = New York : Basic Books, [2013]. 
+RECORD # = b15266539. LOCATION = lbks. 
+
+
+CALL NO. = ML3550.5 .D66 2014. 
+TITLE = "I hear America singing" : folk music and national identity / Rachel 
+Clare Donaldson. 
+PUBLISHER = Philadelphia : Temple University Press, 2014. 
+RECORD # = b14948849. LOCATION = lbks. 
+
+
+CALL NO. = Q141 .A725 2012. 
+TITLE = Seduced by logic : {226}Emilie du Ch{227}atelet, Mary Somerville, and 
+the Newtonian revolution / Robyn Arianrhod. 
+PUBLISHER = New York : Oxford University Press, 2012. 
+RECORD # = b15212282. LOCATION = lbks. 
+
+
+CALL NO. = Q325.5 .G37 2013. 
+TITLE = Learning scikit-learn : machine learning in Python : experience the 
+benefits of machine learning techniques by applying them to real-world problems 
+using Python and the open source scikit-learn library / Ra{226}ul Garreta, 
+Guillermo Moncecchi. 
+PUBLISHER = Birmingham, UK : Packt Publishing Ltd., 2013. 
+PUBLISHER = {496}2013. 
+RECORD # = b15208734. LOCATION = lbks. 
+
+
+CALL NO. = QA9 .H335 2013. 
+TITLE = The mathematics of coordinated inference : a study of generalized hat 
+problems / by Christopher S. Hardin, Alan D. Taylor. 
+PUBLISHER = Wien : Springer, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b15207109. LOCATION = lbks. 
+
+
+CALL NO. = QA9.54 .L68 2014. 
+TITLE = Three views of logic : mathematics, philosophy, and computer science / 
+Donald W. Loveland, Richard E. Hodel, S.G. Sterrett. 
+PUBLISHER = Princeton, New Jersey : Princeton University Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b1520716x. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA22 .J67 2011. 
+TITLE = The crest of the peacock : non-European roots of mathematics / George 
+Gheverghese Joseph. 
+PUBLISHER = Princeton : Princeton University Press, {496}2011. 
+RECORD # = b15212221. LOCATION = lbks. 
+
+
+CALL NO. = QA22 .R38 2014. 
+TITLE = Count like an Egyptian : an hands-on introduction to ancient mathematics
+/ David Reimer. 
+PUBLISHER = Princeton : Princeton University Press, [2014]. 
+RECORD # = b15266485. LOCATION = lbks. 
+
+
+CALL NO. = QA27.R8 G73 2009. 
+TITLE = Naming infinity : a true story of religious mysticism and mathematical 
+creativity / Loren Graham and Jean-Michel Kantor. 
+PUBLISHER = Cambridge, Mass. : Belknap Press of Harvard University Press, 2009. 
+RECORD # = b15212257. LOCATION = lbks. 
+
+
+CALL NO. = QA39.3 .W363 2013. 
+TITLE = Mathematics in the real world / W.D. Wallis. 
+PUBLISHER = [Boston, Mass.] : Birkh{232}auser, [2013]. 
+PUBLISHER = New York : Springer Science+Business. 
+PUBLISHER = {496} 2013. 
+RECORD # = b14926702. LOCATION = lbks. 
+
+
+CALL NO. = QA41 .M39 2014. 
+TITLE = Enlightening symbols : a short history of mathematical notation and its 
+hidden powers / Joseph Mazur. 
+PUBLISHER = Princeton : Princeton University Press, [2014]. 
+RECORD # = b15207043. LOCATION = lbks. 
+
+
+CALL NO. = QA76 .K47 2011. 
+TITLE = D is for digital : what a well-informed person should know about 
+computers and communications / Brian W. Kernighan. 
+PUBLISHER = [S.l.] : DisforDigital.net : Printed by CreateSpace, c2011. 
+RECORD # = b15078188. LOCATION = lrsvc. 
+
+
+CALL NO. = QA76.17 .D36 2014. 
+TITLE = It began with Babbage : the genesis of computer science / Subrata 
+Dasgupta. 
+PUBLISHER = Oxford, [England] : Oxford University Press, [2014]. 
+RECORD # = b15208722. LOCATION = lbks. 
+
+
+CALL NO. = QA76.59 .S39 2012. 
+TITLE = The mobile wave : how mobile intelligence will change everything / 
+Michael Saylor. 
+PUBLISHER = New York : Vanguard Press, {496}2012. 
+RECORD # = b15208515. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA76.6 .G654 2015. 
+TITLE = Becoming a better programmer / Pete Goodliffe. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media Inc., [2015]. 
+PUBLISHER = {496}2015. 
+RECORD # = b15211496. LOCATION = lbks. 
+
+
+CALL NO. = QA76.62 .F67 2014. 
+TITLE = Functional thinking : paradigm over syntax / Neal Ford. 
+PUBLISHER = Beijing : O'Reilly, 2014. 
+PUBLISHER = {496}2014. 
+RECORD # = b15211563. LOCATION = lbks. 
+
+
+CALL NO. = QA76.625 .D53 2015. 
+TITLE = Write modern web apps with the MEAN stack : Mongo, Express, AngularJS, 
+and Node.js / Jeff Dickey. 
+PUBLISHER = [Berkeley, CA] : Peachpit Press, [2015]. 
+RECORD # = b15208795. LOCATION = lbks. 
+
+
+CALL NO. = QA76.625 .M476 2014. 
+TITLE = Building web apps with WordPress / Brian Messenlehner and Jason Coleman.
+PUBLISHER = Sebastopol, CA : O'Reilly Media, Inc., 2014. 
+RECORD # = b15212191. LOCATION = lbks. 
+
+
+CALL NO. = QA76.64 .H398 2013. 
+TITLE = Jump start Rails / by Andy Hawthorne. 
+PUBLISHER = Collingwood, Vic. : SitePoint, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b15212348. LOCATION = lbks. 
+
+
+CALL NO. = QA76.64 .M36 2014. 
+TITLE = Learning Cocoa with Objective-C / Jon Manning, Paris Buttfield-Addison, 
+and Tim Nugent. 
+PUBLISHER = Beijing : O'Reilly, 2014. 
+RECORD # = b15211691. LOCATION = lbks. 
+
+
+CALL NO. = QA76.7 .L44 2015. 
+TITLE = Beginning Swift programming / Wei-Meng Lee. 
+PUBLISHER = Indianapolis, IN : Wrox, a Wiley Brand, [2015]. 
+RECORD # = b15211514. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.C15 K53 2014. 
+TITLE = 21st Century C : C Tips from the New School / Ben Klemens. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, Inc., 2015. 
+PUBLISHER = {496}2015. 
+RECORD # = b15212300. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA76.73.C15 R443 2013. 
+TITLE = Understanding and using C pointers / Richard Reese. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2013. 
+RECORD # = b15211812. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.C163 K87 2012. 
+TITLE = Safe C++ : [how to avoid common mistakes] / Vladimir Kushnir. 
+PUBLISHER = Sebastopol, CA : O'Reilly & Associates, {496}2012. 
+RECORD # = b15211757. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.C565 E538 2012. 
+TITLE = Clojure programming / Chas Emerick, Brian Carper, and Christophe Grand. 
+PUBLISHER = Sebastopol, Calif. : O'Reilly, 2012. 
+RECORD # = b15211538. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.F163 A87 2013. 
+TITLE = F{497} for quantitative finance : an introductory guide to utilizing 
+F?for quantitative finance leveraging the .NET platform / Johan Astborg. 
+PUBLISHER = Birmingham : Packt Pub., c2013. 
+RECORD # = b15208485. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.J38 S83 2014. 
+TITLE = Functional programming in Java : harnessing the power of Java 8 Lambda 
+expressions / Venkat Subramaniam ; [foreword by Brian Goetz ; edited by 
+Jacquelyn Carter]. 
+PUBLISHER = 201402. 
+PUBLISHER = Dallas : The Pragmatic Bookshelf, 2014. 
+RECORD # = b14924237. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.J38 S846 2014. 
+TITLE = Guide to Java : a concise introduction to programming / James T. Streib,
+Takako Soma. 
+PUBLISHER = London : Springer, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b15208709. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.P223 H67 2013. 
+TITLE = Jump start PHP / by Callum Hopkins. 
+PUBLISHER = Collingwood, Victoria : SitePoint, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b15211654. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.P224 M58 2013. 
+TITLE = PHP web services : [APIs for the modern web] / Lorna Jane Mitchell. 
+PUBLISHER = Beijing : O'Reilly Media, [2013]. 
+RECORD # = b15208771. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA76.73.P224 S25 2013. 
+TITLE = Learning PHP design patterns / William Sanders. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2013. 
+RECORD # = b15211708. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.P98 G67 2014. 
+TITLE = High performance Python / Micha Gorelick and Ian Ozsvald. 
+PUBLISHER = Sebastopol, CA : O'Reilly, [2014]. 
+RECORD # = b15208710. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.P98 .H55 2015. 
+TITLE = Python for finance / Yves Hilpisch. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2015. 
+RECORD # = b15212713. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.P98 P53 2014. 
+TITLE = Creating apps in Kivy / Dusty Phillips. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b1521218x. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.P98 R677 2014. 
+TITLE = IPython interactive computing and visualization cookbook : over 100 
+hands-on recipes to sharpen your skills in high-performance numerical computing 
+and data science with Python / Cyrille Rossant. 
+PUBLISHER = Birmingham, UK : Packt Publishing Ltd., 2014. 
+RECORD # = b15418595. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.R83 R83 2013. 
+TITLE = Agile web development with Rails 4 / by Sam Ruby, Dave Thomas, David 
+Heinemeier Hansson ;edited by Susannah Davidson Pfalzer. 
+PUBLISHER = Dallas, Texas : The Pragmatic Bookshelf, 2013. 
+RECORD # = b15266308. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.S28 .S85 2014. 
+TITLE = Learning scala / Jason Swartz. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2014, c2015. 
+RECORD # = b15266382. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.S28 W35 2014. 
+TITLE = Programming Scala / Dean Wampler and Alex Payne. 
+PUBLISHER = Beijing : O'Reilly, [2014]. 
+PUBLISHER = {496}2015. 
+RECORD # = b15211733. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA76.73.S67 B67 2013. 
+TITLE = PostgreSQL replication : understand basic replication concepts and 
+efficiently replicate interruptions / Zoltan B{232}osz{232}ormenyi, Hans-
+J{232}urgen Sch{232}onig. 
+PUBLISHER = Birmingham, UK : Packt Publishing Limited, 2013. 
+RECORD # = b14919291. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.S67 B73 2013. 
+TITLE = Microsoft Tabular Modeling cookbook / Paul te Braak. 
+PUBLISHER = Birmingham : Packt Publishing, 2014. 
+RECORD # = b1520859x. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.V347 H374 2013. 
+TITLE = Vagrant : up and running / Mitchell Hashimoto. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2013. 
+RECORD # = b14919321. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.A63 M37 2014. 
+TITLE = Swift development with Cocoa / Jonathon Manning, Paris Buttfield-Addison,
+and Tim Nugent. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, Inc., 2014. 
+PUBLISHER = {496}2015. 
+RECORD # = b15211770. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.A63 R53 2013. 
+TITLE = RESTful Web APIs / Leonard Richardson and Mike Amundsen ; foreword by 
+Sam Ruby. 
+PUBLISHER = Sebastopol, Calif. : O'Reilly, 2013. 
+RECORD # = b15211745. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.A65 D346 2013. 
+TITLE = Learning Laravel 4 application development : develop real-world web 
+applications in Laravel 4 using its refined and expressive syntax / Hardik 
+Dangar. 
+PUBLISHER = Birmingham : Packt Pub., c2013. 
+RECORD # = b15212373. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.A65 G37 2014. 
+TITLE = Learning Android / Marko Gargenta and Masumi Nakamura. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2014. 
+RECORD # = b1521168x. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.A65 G66 2014. 
+TITLE = Google Apps Script / James Ferreira. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b15211587. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA76.76.A65 G67 2014. 
+TITLE = Efficient Android threading / Anders G{232}oransson. 
+PUBLISHER = {496}2014. 
+PUBLISHER = Sebastopol, California : O'Reilly, 2014. 
+RECORD # = b15211551. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.A65 H55 2014. 
+TITLE = Programming Sound with Pure Data : Make Your Apps Come Alive with 
+Dynamic Audio / Tony Hillerson. 
+PUBLISHER = Dallas, TX : Pragmatic Bookshelf, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14924286. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.A65 H656 2014. 
+TITLE = Automate with Grunt : the build tool for JavaScript / Brian P. Hogan ; 
+edited by Susannah Davidson Pfalzer. 
+PUBLISHER = Dallas, Texas : The Pragmatic Bookshelf, 2014. 
+PUBLISHER = {496}2014. 
+RECORD # = b15212312. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.A65 O86 2013. 
+TITLE = Developing Backbone.js applications / Addy Osmani. 
+PUBLISHER = Sebastapol, Calif. : O'Reilly Media, {496}2013. 
+RECORD # = b15208679. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.A65 S554 2014. 
+TITLE = Ember.js in action / Joachim Haagen Skeie. 
+PUBLISHER = Shelter Island, NY : Manning Publications Co., [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b15208680. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.A65 T34 2013. 
+TITLE = Learning Android canvas : develop and deploy graphics-rich Android 
+applications using Android Canvas / Mir Nauman Tahir. 
+PUBLISHER = Birmingham : Packt Pub., 2013. 
+RECORD # = b1521235x. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.C672 M26 2014. 
+TITLE = iOS game development cookbook : simple solutions for game development 
+problems/ Jonathon Manning and Paris Buttfield-Addison. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2014. 
+RECORD # = b15211617. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.C69 A785 2013. 
+TITLE = Puppet 3 cookbook : build reliable, scalable, secure, and high-
+performance systems to fully utilize the power of cloud computing / John 
+Arundel. 
+PUBLISHER = Birmingham, UK : Packt Publishing Limited, 2013. 
+RECORD # = b14919308. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA76.76.C69 B63 2013. 
+TITLE = Puppet types and providers / Dan Bode and Nan Liu. 
+PUBLISHER = Sebastopol, CA : O'Reilly, 2013. 
+RECORD # = b15212397. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.D47 A384 2014. 
+TITLE = Agile software architecture : aligning agile processes and software 
+architectures / edited by  Muhammad Ali Babar, Alan W. Brown, Ivan Mistrik. 
+PUBLISHER = Amsterdam : Morgan Kaufmann, 2014. 
+RECORD # = b15211484. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.D47 B452 2015. 
+TITLE = Introducing GitHub : a non-technical guide / Peter Bell and Brent Beer. 
+PUBLISHER = Beijing : O'Reilly, [2015]. 
+RECORD # = b15211599. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.D47 K35 2012. 
+TITLE = Code simplicity / Max Kanat-Alexander. 
+PUBLISHER = Sebastopol, CA : O'Reilly, c2012. 
+RECORD # = b1521154x. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.D47 L548 2014. 
+TITLE = Testing in Scrum : a guide for software quality assurance in the agile 
+world / Tilo Linz. 
+PUBLISHER = Santa Barbara, CA : Rocky Nook, 2014. 
+RECORD # = b15211794. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.D47 S74 2014. 
+TITLE = Learning agile : understanding Scrum, XP, Lean, and Kanban / Andrew 
+Stellman and Jennifer Greene. 
+PUBLISHER = Beijing : O'Reilly, 2014. 
+PUBLISHER = {496}2015. 
+RECORD # = b15211678. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.E95 K434 2013. 
+TITLE = Smart machines : IBM's Watson and the era of cognitive computing / John 
+E. Kelly III, Steve Hamm. 
+PUBLISHER = New York : Columbia Business School Publishing, [2013]. 
+RECORD # = b15208588. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.H94 A865 2012. 
+TITLE = Smashing mobile web development : going mobile with HTML5, CSS3, and 
+Javascript / Greg Avola and Jon Raasch. 
+PUBLISHER = West Sussex, UK : John Wiley & Sons Inc., 2012. 
+RECORD # = b14924298. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA76.76.H94 B76 2014. 
+TITLE = Jump start HTML5 / by Tiffany B. Brown, Kerry Butters, and Sandeep 
+Panda. 
+PUBLISHER = Australia : SitePoint Pty., c2014. 
+RECORD # = b15211642. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.P37 D47 2014. 
+TITLE = Backbone.js patterns and best practices : a one-stop guide to best 
+practices and design patterns when building applications using Backbone.js / 
+Swarnendu De. 
+PUBLISHER = Birmingham, UK : Packt Publishing, Limited, 2014. 
+RECORD # = b15208655. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.P37 M56 2013. 
+TITLE = MapReduce design patterns / Donald Miner & Adam Shook. 
+PUBLISHER = Sebastopol, CA : Oreilly, 2013. 
+RECORD # = b14919618. LOCATION = lbks. 
+
+
+CALL NO. = QA76.76.S63 G75 2014. 
+TITLE = Flask web development / Miguel Grinberg. 
+PUBLISHER = Sebastopol, CA : O'Reilly, 2014. 
+RECORD # = b15208692. LOCATION = lbks. 
+
+
+CALL NO. = QA76.774.A53 B56 2014. 
+TITLE = Learning Android intents : explore and apply the power of intents in 
+Android application development / Muhammad Usama bin Aftab, Wajahat Karim. 
+PUBLISHER = Birmingham : Packt Pub., 2014. 
+RECORD # = b15212361. LOCATION = lbks. 
+
+
+CALL NO. = QA76.774.I67 N34 2014. 
+TITLE = iOS 8 swift programming cookbook : solutions & examples for iOS apps / 
+Vandad Nahavandipoor. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2014. 
+PUBLISHER = {496}2015. 
+RECORD # = b15211605. LOCATION = lbks. 
+
+
+CALL NO. = QA76.889 .G75 2014. 
+TITLE = Computing with quantum cats : from Colossus to Qubits / John Gribbin. 
+PUBLISHER = Amherst, New York : Prometheus Books, 2014. 
+RECORD # = b15208667. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.A25 E467 2014. 
+TITLE = Emerging trends in ICT security / edited by Babak Akhgar, Hamid R. 
+Arabnia. 
+PUBLISHER = Amsterdam ; Boston : Morgan Kaufmann/Elsevier, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b15208473. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA76.9.A25 L43 2013. 
+TITLE = Security basics for computer architects / Ruby B. Lee. 
+PUBLISHER = [San Rafael, Calif.] : Morgan & Claypool Publishers, {496}2013. 
+RECORD # = b15208576. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.A43 S429 2011. 
+TITLE = Algorithms / Robert Sedgewick and Kevin Wayne. 
+PUBLISHER = Upper Saddle River, NJ : Addison-Wesley, c2011. 
+RECORD # = b14926714. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.D3 C67 2013. 
+TITLE = MongoDB applied design patterns / Rick Copeland. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, Inc., {496}2013. 
+RECORD # = b14924195. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.D343 A338 2013. 
+TITLE = Uncharted : big data as a lens on human culture / Erez Aiden and Jean-
+Baptiste Michel. 
+PUBLISHER = New York : Riverhead Books, a member of Penguin Group (USA), 2013. 
+PUBLISHER = {496}2013. 
+RECORD # = b15208606. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.D343 C472 2015. 
+TITLE = Data mining algorithms : explained using R / Pawel Cichosz. 
+PUBLISHER = Chichester, West Sussex, United Kingdom : Wiley, 2015. 
+RECORD # = b15212324. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.D343 N363 2013. 
+TITLE = Tableau data visualization cookbook : over 70 recipes for creating 
+visual stories with your data using Tableau / Ashutosh Nandeshwar. 
+PUBLISHER = Birmingham : Packt, c2013. 
+RECORD # = b15212415. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.D37 T54 2014. 
+TITLE = Google BigQuery analytics / Jordan Tigani, Siddartha Naidu. 
+PUBLISHER = Indianapolis, IN : Wiley, [2014]. 
+RECORD # = b15208618. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.H85 P378 2014. 
+TITLE = User story mapping : discover the whole story, build the right product /
+Jeff Patton ; with Peter Economy ; forewords by Martin Fowler, Alan Cooper, and 
+Marty Cagan. 
+PUBLISHER = Beijing ; Sebastopol, CA : O'Reilly, 2014. 
+RECORD # = b15211824. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA76.9.I152 M87 2013. 
+TITLE = Tableau your data! : fast and easy visual analysis with Tableau Software
+/ Daniel G. Murray and the InterWorks BI Team. 
+PUBLISHER = Indianapolis, IN : John Wiley & Sons, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b15211782. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.M65 S87 2012. 
+TITLE = Hacking the future : privacy, identity, and anonymity on the Web / Cole 
+Stryker. 
+PUBLISHER = New York : Overlook Duckworth, 2012. 
+RECORD # = b1491959x. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.O35 W39 2014. 
+TITLE = Object-oriented analysis and design for information systems : modeling 
+with UML, OCL, and IFML / Raul Sidnei Wazlawick. 
+PUBLISHER = Amsterdam : Elsevier, Morgan Kaufmann is an imprint of Elsevier, 
+[2014]. 
+RECORD # = b1491962x. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.S88 D683 2013. 
+TITLE = Practical data analysis : transform, model, and visualize your data 
+through hands-on projects, developed in open source tools / Hector Cuesta. 
+PUBLISHER = Birmingham, UK : Packt, 2013. 
+RECORD # = b15208540. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.T48 R455 2014. 
+TITLE = Relevance ranking for vertical search engines / edited by Bo Long, Yi 
+Chang. 
+PUBLISHER = Amsterdam : Morgan Kaufmann, an imprint of Elsevier, [2014]. 
+RECORD # = b15208564. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.U83.J634 2014. 
+TITLE = Designing with the mind in mind simple : guide to understanding user 
+interface design guidelines / Jeff Johnson. 
+PUBLISHER = Amsterdam ; Boston : Elsevier, Morgan Kaufmann is an imprint of 
+Elsevier, [2014]. 
+RECORD # = b14919576. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.U83 .K59 2013. 
+TITLE = UX for lean startups : faster, smarter user experience research and 
+design / Laura Klein. 
+PUBLISHER = Farnham : O'Reilly, 2013. 
+RECORD # = b15211836. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA76.9.U83 W55 2014. 
+TITLE = User interface inspection methods : a user-centered design method / 
+Chauncey Wilson. 
+PUBLISHER = Amsterdam : Elsevier/Morgan Kaufmann, 2014. 
+RECORD # = b1491931x. LOCATION = lbks. 
+
+
+CALL NO. = QA93 .C47 2014. 
+TITLE = Math bytes : Google bombs, chocolate-covered pi, and other cool bits in 
+computing / Timothy P. Chartier. 
+PUBLISHER = Princeton : Princeton University Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b15208758. LOCATION = lbks. 
+
+
+CALL NO. = QA99 .E45 2014. 
+TITLE = How not to be wrong : the power of mathematical thinking / Jordan 
+Ellenberg. 
+PUBLISHER = New York : The Penguin Press, 2014. 
+RECORD # = b15207067. LOCATION = lbks. 
+
+
+CALL NO. = QA99 .Z541 2014. 
+TITLE = Do I count? : stories from mathematics / G{232}unter M. Ziegler ; 
+translated by Thomas von Foerster. 
+PUBLISHER = Boca Raton : CRC Press, Taylor & Francis Group, 2014. 
+RECORD # = b1520702x. LOCATION = lbks. 
+
+
+CALL NO. = QA154.3 .C86 2013. 
+TITLE = Learning modern algebra : from early attempts to prove Fermat's last 
+theorem / Al Cuoco and Joseph J. Rotman. 
+PUBLISHER = Washington, DC : Mathematical Association of America, c2013. 
+RECORD # = b14918699. LOCATION = lbks. 
+
+
+CALL NO. = QA164|b.C663 2013. 
+TITLE = Combinatorics : ancient and modern / edited by Robin Wilson and John J. 
+Watkins. 
+PUBLISHER = Oxford : Oxford University Press, 2013. 
+RECORD # = b15078061. LOCATION = lbks. 
+
+
+CALL NO. = QA166 .F85 2014. 
+TITLE = Covering walks in graphs / Futaba Fujie, Ping Zhang. 
+PUBLISHER = New York : Springer, [2014]. 
+RECORD # = b15207018. LOCATION = lbks. 
+
+
+CALL NO. = QA166 .P69 2014. 
+TITLE = An introduction to grids, graphs, and networks / C. Pozrikidis. 
+PUBLISHER = Oxford ; New York : Oxford University Press, [2014]. 
+RECORD # = b15208497. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA166 .P76 2013. 
+TITLE = Ramsey theory for discrete structures / Hans J{232}urgen Pr{232}omel. 
+PUBLISHER = Cham ; New York : Springer, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b15207122. LOCATION = lbks. 
+
+
+CALL NO. = QA196 .R63 2014. 
+TITLE = Topics in quaternion linear algebra / Leiba Rodman. 
+PUBLISHER = Princeton : Princeton University Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b1526645x. LOCATION = lbks. 
+
+
+CALL NO. = QA241 .R458 2014. 
+TITLE = Primality testing for beginners / Lasse Rempe-Gillen, Rebecca Waldecker.
+PUBLISHER = Providence, Rhode Island : American Mathematical Society, [2014]. 
+RECORD # = b15207110. LOCATION = lbks. 
+
+
+CALL NO. = QA248 .S777 2013. 
+TITLE = The real numbers : an introduction to set theory and analysis / John 
+Stillwell. 
+PUBLISHER = Cham [Switzerland] ; New York : Springer, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b15207146. LOCATION = lbks. 
+
+
+CALL NO. = QA269 .B36 2014. 
+TITLE = Logic in games / Johan van Benthem. 
+PUBLISHER = Cambridge, MA ; London, England : The MIT Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b15208746. LOCATION = lbks. 
+
+
+CALL NO. = QA273.A35 E25 2013. 
+TITLE = Paradoxes in probability theory / William Eckhardt. 
+PUBLISHER = Dordrecht ; New York : Springer, {496}2013. 
+RECORD # = b15212270. LOCATION = lbks. 
+
+
+CALL NO. = QA276 .M92 2014. 
+TITLE = Making sense of data I : a practical guide to exploratory data analysis 
+and data mining / Glenn J. Myatt, Wayne P. Johnson. 
+PUBLISHER = Hoboken, New Jersey : John Wiley & Sons, Inc., [2014]. 
+RECORD # = b15212385. LOCATION = lbks. 
+
+
+CALL NO. = QA299.6 .P667 2014. 
+TITLE = Real analysis for the undergraduate : with an invitation to functional 
+analysis / Matthew A. Pons with illustrations by Robert F. Allen. 
+PUBLISHER = New York, NY : Springer, 2014. 
+PUBLISHER = {496}2014. 
+RECORD # = b15207134. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QA303.2 .F47 2014. 
+TITLE = Everyday calculus : discovering the hidden math all around us / Oscar E.
+Fernandez. 
+PUBLISHER = Princeton : Princeton University Press, [2014]. 
+RECORD # = b15078012. LOCATION = lbks. 
+
+
+CALL NO. = QA331.5 M67 2014. 
+TITLE = An easy path to convex analysis and applications / Boris S. Mordukhovich,
+Nguyen Mau Nam. 
+PUBLISHER = [San Rafael, CA] : Morgan & Claypool, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b15207031. LOCATION = lbks. 
+
+
+CALL NO. = QA372 .A363 2014. 
+TITLE = A textbook on ordinary differential equations / Shair Ahmad, Antonio 
+Ambrosetti. 
+PUBLISHER = Cham : Springer Verlag, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b15207158. LOCATION = lbks. 
+
+
+CALL NO. = QA377 .O484 2014. 
+TITLE = Introduction to partial differential equations / Peter J. Olver. 
+PUBLISHER = Switzerland : Springer International Publishing, 2014. 
+RECORD # = b15266722. LOCATION = lbks. 
+
+
+CALL NO. = QA447 .M37 2014. 
+TITLE = Beautiful geometry / Eli Maor and Eugen Jost. 
+PUBLISHER = Princeton : Princeton University Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b15206981. LOCATION = lbks. 
+
+
+CALL NO. = QA611 .C676 2014. 
+TITLE = A course in point set topology / John B. Conway. 
+PUBLISHER = Cham : Springer, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b15207006. LOCATION = lbks. 
+
+
+CALL NO. = QA614.86 .F352 2013. 
+TITLE = Fractals : a very short introduction / Kenneth Falconer. 
+PUBLISHER = Oxford, United Kingdom : Oxford University Press, 2013. 
+PUBLISHER = {496}2013. 
+RECORD # = b15207055. LOCATION = lbks. 
+
+
+CALL NO. = QH323.5 .L39 2013. 
+TITLE = Mathematics for the life sciences : calculus, modeling, probability, and
+dynamical systems / Glenn Ledder. 
+PUBLISHER = New York : Springer, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b15207092. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QH324.2 .W86 2013. 
+TITLE = Computational biology : a practical introduction to biodata processing 
+and analysis with Linux, MySQL, and R / R{232}obbe W{232}unschiers. 
+PUBLISHER = Heidelberg ; New York : Springer, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14919564. LOCATION = lbks. 
+
+
+CALL NO. = T385 .E385 2015. 
+TITLE = SVG essentials / J. David Eisenberg and Amelia Bellamy-Royds. 
+PUBLISHER = Sebastopol, CA : O'Reilly, 2014. 
+PUBLISHER = {496}2015. 
+RECORD # = b15211769. LOCATION = lbks. 
+
+
+CALL NO. = TA1634 .T878 2014. 
+TITLE = Vision-based interaction / Matthew Turk, Gang Hua. 
+PUBLISHER = [San Rafael, Calif.] : Morgan & Claypool Publishers, {496}2014. 
+RECORD # = b15208783. LOCATION = lbks. 
+
+
+CALL NO. = TJ211.415 .K39 2013. 
+TITLE = Mobile robotics : mathematics, models and methods / Alonzo Kelly, 
+Carnegie Mellon University. 
+PUBLISHER = New York, NY, USA : Cambridge University Press, 2013. 
+RECORD # = b1520876x. LOCATION = lbks. 
+
+
+CALL NO. = TK5102.85 .S53 2014. 
+TITLE = Introduction to information security : a strategic-based approach / 
+Timothy J. Shimeall, Jonathan M. Spring. 
+PUBLISHER = Amsterdam ; Boston : Syngress, an imprint of Elsevier, 2014. 
+RECORD # = b15208503. LOCATION = lbks. 
+
+
+CALL NO. = TK5103.3 .T69 2014. 
+TITLE = Getting started with Bluetooth low energy : tools and techniques for low
+-power networking / Kevin Townsend, Carles Cuf{226}i, Akiba, and Robert 
+Davidson. 
+PUBLISHER = Sebastopol, CA : O'Reilly, 2014. 
+RECORD # = b15211575. LOCATION = lbks. 
+
+
+CALL NO. = TK5105.546 .M37 2015. 
+TITLE = Networks-on-chip : from implementations to programming paradigms / 
+editor-in-chief Zhying Wang; authors Sheng Ma [and three others]. 
+PUBLISHER = Amsterdam : Elsevier, Morgan Kaufmann Pub, 2015. 
+RECORD # = b15211721. LOCATION = lbks. 
+
+
+CALL NO. = TK5105.885.A26   B64 2013. 
+TITLE = Murach's ASP.NET 4.5 Web programming with C# 2012 / Mary Delamater, Anne
+Boehm. 
+PUBLISHER = Fresno, Calif. : Mike Murach & Associates, c2013. 
+RECORD # = b14924201. LOCATION = lbks. 
+
+
+
+
+CALL NO. = TK5105.8855 .K19 2013. 
+TITLE = Guide to computer network security / Joseph Migga Kizza. 
+PUBLISHER = London : Springer, 2012. 
+PUBLISHER = London Springer, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14919588. LOCATION = lbks. 
+
+
+CALL NO. = TK5105.888 .B68 2014. 
+TITLE = 100 ideas that changed the web / Jim Boulton. 
+PUBLISHER = London : Laurence King Publishing, 2014. 
+RECORD # = b15266400. LOCATION = lbks. 
+
+
+CALL NO. = TK5105.888 .K78 2014. 
+TITLE = Don't make me think, revisited : a common sense approach to Web 
+usability / Steve Krug. 
+PUBLISHER = [Berkeley, Calif.] : New Riders, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b1520845x. LOCATION = lbks. 
+
+
+CALL NO. = TK5105.888 L39 2013. 
+TITLE = Jump start CSS / by Louis Lazaris. 
+PUBLISHER = Vic, Australia : SitePoint, [2013]. 
+PUBLISHER = {169}2013. 
+RECORD # = b15211630. LOCATION = lbks. 
+
+
+CALL NO. = TK5105.888 .P378 2013. 
+TITLE = Getting started with Zurb Foundation 4 : design and build professional 
+websites with Zurb Foundation's mobile-first responsive framework / Andrew D. 
+Patterson. 
+PUBLISHER = Birmingham : Packt Pub., 2013. 
+RECORD # = b14924249. LOCATION = lbks. 
+
+
+CALL NO. = TK5105.888 .R34 2014. 
+TITLE = Jump start bootstrap / by Syed Fazle Rahman. 
+PUBLISHER = Collingwood, VIC, Australia : SitePoint, c2014. 
+RECORD # = b15211629. LOCATION = lbks. 
+
+
+CALL NO. = TK5105.8885.D54 E46 2015. 
+TITLE = Lightweight Django / Julia Elman and Mark Lavin. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2015. 
+RECORD # = b1521171x. LOCATION = lbks. 
+
+
+CALL NO. = TK7882 .P57 2014. 
+TITLE = Plan, activity, and intent recognition : theory and practice / edited by
+Gita Sukthankar, Robert P. Goldman, Christopher Geib, David V. Pynadath, Hung 
+Hai Bui. 
+PUBLISHER = Amsterdam ; Boston : Elsevier, [2014]. 
+RECORD # = b15208527. LOCATION = lbks. 
+
+
+
+
+CALL NO. = TK7895.M4 S655 2013. 
+TITLE = Getting Started with Memcached / Ahmed Soliman. 
+PUBLISHER = Birmingham : Packt Publishing, 2013. 
+RECORD # = b14924250. LOCATION = lbks. 
+
+
+CALL NO. = TS171.4 .H868 2014. 
+TITLE = Product design for the web : principles of designing & releasing web 
+products / Randy J. Hunt, Creative director, Etsy. 
+PUBLISHER = [Place of publication not identified] : New Riders, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b15208552. LOCATION = lbks. 
+
+

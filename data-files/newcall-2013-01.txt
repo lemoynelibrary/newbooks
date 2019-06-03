@@ -1,0 +1,303 @@
+
+
+CALL NO. = PN1993.15 .M655 1986. 
+TITLE = Mona Lisa [videorecording] / Handmade Films presents ; a Palace 
+production. 
+PUBLISHER = Chatsworth, CA : Image Entertainment, [2011]. 
+RECORD # = b11628157. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .H583 1953. 
+TITLE = The hitch-hiker [videorecording] / Kino International ; an RKO Radio 
+Picture ; The Filmakers. 
+PUBLISHER = New York : Kino on Video, {496}1998. 
+RECORD # = b11774654. LOCATION = lmvc. 
+
+CALL NO. = GN803 .P757 2012. 
+TITLE = Europe before Rome : a site-by-site tour of the Stone, Bronze, and Iron 
+ages / T. Douglas Price. 
+PUBLISHER = New York, NY : Oxford University Press, c2013. 
+RECORD # = b14620273. LOCATION = lbks. 
+
+CALL NO. = PN1993.15 .H429 1991. 
+TITLE = Hearts of darkness [videorecording] : a filmmaker's apocalypse / a 
+Showtime presentation ;  Zaloom-Mayfield Productions in association with 
+Zoetrope Studios. 
+PUBLISHER = Hollywood, Calif. : Paramount, c2007. 
+RECORD # = b14741222. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .I504 1960. 
+TITLE = Inherit the wind [videorecording] / a United Artists release ; produced 
+and directed by Stanley Kramer ; screenplay by Nathan E. Douglas and Harold 
+Jacob Smith. 
+PUBLISHER = [Culver City, CA : MGM/UA Home Video] ; Santa Monica, CA : MGM Home 
+Entertainment [distributor], 2001. 
+RECORD # = b14741246. LOCATION = lmvc. 
+
+CALL NO. = JC423 .F433 2012. 
+CALL NO. = JC423 .F433 2012. 
+TITLE = Sharing democracy / Michaele L. Ferguson. 
+PUBLISHER = New York : Oxford University Press, 2012. 
+RECORD # = b14741271. LOCATION = lbks. 
+
+CALL NO. = PN1993.15 .L337 1947. 
+TITLE = The lady from Shanghai [videorecording] / Columbia Pictures Corporation.
+PUBLISHER = Culver City, Calif. : Columbia TriStar Home Video, [2000]. 
+RECORD # = b14741349. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .D455 1995. 
+TITLE = Devil in a blue dress [videorecording] / TriStar Pictures presents a 
+Clinica Estetico and Mundy Lane Entertainment production  ; screenplay by Carl 
+Franklin ; produced by Jesse Beaton and Gary Goetzman ; directed by Carl 
+Franklin. 
+PUBLISHER = Culver City, CA : Columbia TriStar Home Video, c1998. 
+RECORD # = b14741362. LOCATION = lmvc. 
+
+
+
+CALL NO. = PN1993.15 .R429 1948. 
+TITLE = Red River [videorecording] / Monterey Productions. ; screenplay by 
+Borden Chase and Charles Schnee ; directed and produced by Howard Hawks. 
+PUBLISHER = Santa Monica, CA : MGM Home Entertainment, [1998]. 
+RECORD # = b14741386. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .J83 1992. 
+TITLE = Juice [videorecording] / Paramount Pictures presents in association with
+Island World. 
+PUBLISHER = Hollywood, Calif. : Paramount, 2000. 
+RECORD # = b14741398. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .D665 1973. 
+TITLE = "Don't look now" [videorecording] / Paramount Pictures. 
+PUBLISHER = Hollywood, Calif. : Paramount Home Video, c2002. 
+RECORD # = b14741416. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .D245 1991. 
+TITLE = Daughters of the dust [videorecording] / [presented by] American 
+Playhouse Theatrical Films ; in association with WMG present ; a Geechee Girls 
+production. 
+PUBLISHER = New York : Kino on Video, c1999. 
+RECORD # = b14741465. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .B815 1997. 
+TITLE = The butcher boy [videorecording] / Butcher Boy Films ; Warner Bros. 
+Pictures ; Geffen Pictures presents. 
+PUBLISHER = Burbank, CA : Warner Home Video, [2007]. 
+RECORD # = b14741507. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .L76 1948. 
+TITLE = Louisiana story [videorecording] / Robert J. Flaherty Production. 
+PUBLISHER = Narberth, PA : Alpha Home Entertainment, 2008, c1948. 
+RECORD # = b14741519. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .W88 1992. 
+TITLE = Emily Bront{232}e's Wuthering Heights [videorecording] / Paramount 
+Pictures presents ; produced by Mary Selway ; screenplay by Anne Devlin ; 
+directed by Peter Kosminsky. 
+PUBLISHER = Hollywood, Calif. : Paramount Home Entertainment, {496}2003. 
+RECORD # = b14741532. LOCATION = lbks. 
+
+CALL NO. = PN1993.15 .M8965 1946. 
+TITLE = My darling Clementine [videorecording] / Twentieth Century Fox Film 
+Corporation. 
+PUBLISHER = Beverly Hills, Calif. : Twentieth Century Fox Home Entertainment, 
+c2007. 
+RECORD # = b14741568. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .N353 1922. 
+TITLE = Nanook of the North [videorecording] : a story of life and love in the 
+actual Arctic / Revillon Fr{225}eres  ; Path{226}epicture. 
+PUBLISHER = [Irvington, N.Y.] : Criterion Collection, c1998. 
+RECORD # = b1474157x. LOCATION = lmvc. 
+
+
+
+CALL NO. = PZ7.N43843 As 2009. 
+TITLE = The Ask and the Answer / Patrick Ness. 
+PUBLISHER = Somerville, Mass. : Candlewick Press, 2009. 
+RECORD # = b14741714. LOCATION = ltm. 
+
+CALL NO. = PZ7.G823 Fau 2012. 
+TITLE = The fault in our stars / John Green. 
+PUBLISHER = New York : Dutton Books, c2012 (Printed in USA). 
+RECORD # = b14741738. LOCATION = ltm. 
+
+CALL NO. = PZ7.B619 Dan 2010. 
+TITLE = Dangerous angels : the Weetzie Bat books / Francesca Lia Block. 
+PUBLISHER = New York : HarperTeen, 2010. 
+RECORD # = b14741775. LOCATION = ltm. 
+
+CALL NO. = PZ7.N43843 Mon 2010. 
+TITLE = Monsters of men / Patrick Ness. 
+PUBLISHER = Somerville, Mass. : Candlewick Press, c2010. 
+RECORD # = b14741787. LOCATION = ltm. 
+
+CALL NO. = TR647 .W44 1984. 
+TITLE = The Charlot collection of Edward Weston photographs : Honolulu Academy 
+of Arts, September 13-October 28, 1984 / Van Deren Coke ; essays by Jean Charlot
+and Zohmah Charlot. 
+PUBLISHER = Honolulu, Hawaii : Honolulu Academy of Arts, 1984. 
+RECORD # = b14743140. LOCATION = lbks. 
+
+CALL NO. = HV7419 .S57 2012. 
+TITLE = In doubt : the psychology of the criminal justice process / Dan Simon. 
+PUBLISHER = Cambridge, Mass. : Harvard University Press, 2012. 
+RECORD # = b14743152. LOCATION = lbks. 
+
+CALL NO. = PN1992.15 .C32 2012. 
+TITLE = Call the midwife. Season one [videorecording] / a Neal Street production
+for BBC. 
+PUBLISHER = Burbank, CA : Warner Home Video, c2012. 
+RECORD # = b14743164. LOCATION = lbks. 
+
+CALL NO. = F595 .D93 2012. 
+TITLE = The Dust Bowl : an illustrated history / by Dayton Duncan ; with a 
+preface by Ken Burns ; picture research by Aileen Silverstone and Susan 
+Shumaker. 
+PUBLISHER = San Francisco : Chronicle Books, [2012].
+RECORD # = b14743188. LOCATION = lbks. 
+
+CALL NO. = F595 .D87 2012. 
+TITLE = The dust bowl [videorecording] / a production of Florentine Films and 
+WETA Television. 
+PUBLISHER = [United States] : PBS Distribution, c2012. 
+RECORD # = b1474319x. LOCATION = lmvc. 
+
+CALL NO. = E185.97.W4 B673 2012. 
+TITLE = Booker T. Washington rediscovered / edited by Michael Scott Bieze and 
+Marybeth Gasman. 
+PUBLISHER = Baltimore : Johns Hopkins University Press, 2012. 
+RECORD # = b14743206. LOCATION = lbks. 
+
+
+
+CALL NO. = F3429.3.G6 .O9 2012. 
+TITLE = Bound lives : Africans, Indians, and the making of race in colonial Peru
+/ Rachel Sarah O'Toole. 
+PUBLISHER = Pittsburgh : University of Pittsburgh Press, c2012. 
+RECORD # = b14743218. LOCATION = lbks. 
+
+CALL NO. = D792.S65 H36 2012. 
+TITLE = Red phoenix rising : the Soviet Air Force in World War II / Von Hardesty
+and Ilya Grinberg. 
+PUBLISHER = Lawrence : University Press of Kansas, 2012. 
+RECORD # = b14743383. LOCATION = lbks. 
+
+CALL NO. = BX8695.Y7 T87 2012. 
+TITLE = Brigham Young, pioneer prophet / John G. Turner. 
+PUBLISHER = Cambridge, Massachusetts ; London, England : The Belknap Press of 
+Harvard University Press, 2012. 
+RECORD # = b14743577. LOCATION = lbks. 
+
+CALL NO. = BX4655.3 .C63 2011. 
+TITLE = China's saints : Catholic martyrdom during the Qing (1644-1911) / 
+Anthony E. Clark. 
+PUBLISHER = Bethlehem [Pa.] : Lehigh University Press ; Lanham, Md. : Rowman & 
+Littlefield Pub. Group, c2011. 
+RECORD # = b14743589. LOCATION = lbks. 
+
+CALL NO. = BS1158.H4 Z341 2012. 
+TITLE = From Gods to God : how the Bible debunked, suppressed, or changed 
+ancient myths & legends / Avigdor Shinan & Yair Zakovitch ; translated by 
+Valerie Zakovitch. 
+PUBLISHER = Lincoln : University of Nebraska Press, c2012. 
+RECORD # = b14743607. LOCATION = lbks. 
+
+CALL NO. = BS580.A3 L483 2012. 
+TITLE = Inheriting Abraham : the legacy of the patriarch in Judaism, 
+Christianity, and Islam / Jon D. Levenson. 
+PUBLISHER = Princeton : Princeton University Press, c2012. 
+RECORD # = b14743619. LOCATION = lbks. 
+
+CALL NO. = BP67.U6 M35 2012. 
+TITLE = Islam and America : building a future without prejudice / Anouar Majid. 
+PUBLISHER = Lanham [Md.] : Rowman & Littlefield Publishers, c2012. 
+RECORD # = b14743620. LOCATION = lbks. 
+
+CALL NO. = BL65.j87 R54 2012. 
+TITLE = Occupy religion : theology of the multitude / Joerg Rieger and Kwok Pui-
+lan. 
+PUBLISHER = Lanham, Md. : Rowman & Littlefield Publishers, c2012. 
+RECORD # = b14743656. LOCATION = lbks. 
+
+CALL NO. = BT375.3 .C76 2012. 
+TITLE = The power of parable : how fiction by Jesus became fiction about Jesus /
+John Dominic Crossan. 
+PUBLISHER = New York : HarperOne, c2012. 
+RECORD # = b1474367x. LOCATION = lbks. 
+
+
+
+CALL NO. = BL80.3 .R44 2012. 
+TITLE = The religions of Canadians / edited by Jamie S. Scott. 
+PUBLISHER = North York, Ont. : University of Toronto Press, c2012. 
+RECORD # = b14743681. LOCATION = lbks. 
+
+CALL NO. = BS2825.52 .P34 2012. 
+TITLE = Revelations : visions, prophecy, and politics in the book of Revelation 
+/ Elaine Pagels. 
+PUBLISHER = New York : Viking, 2012. 
+RECORD # = b14743693. LOCATION = lbks. 
+
+CALL NO. = F1435.3.A6 C64 2012. 
+TITLE = Royal cities of the ancient Maya / text by Michael D. Coe ; photographs 
+by Barry Brukoff. 
+PUBLISHER = New York : Vendome Press, 2012. 
+RECORD # = b1474398x. LOCATION = lbks. 
+
+CALL NO. = E453 .O13 2013. 
+TITLE = Freedom national : the destruction of slavery in the United States, 1861
+-1865 / James Oakes. 
+PUBLISHER = New York : W.W. Norton, c2013. 
+RECORD # = b14743991. LOCATION = lbks. 
+
+CALL NO. = HQ1090.3 .V35 2012. 
+TITLE = Triumphs of experience : the men of the Harvard Grant Study / George E. 
+Vaillant. 
+PUBLISHER = Cambridge, Mass. : Belknap Press of Harvard University Press, 2012. 
+RECORD # = b14744004. LOCATION = lbks. 
+
+CALL NO. = LB1139.5.L35 M56 2012. 
+TITLE = Exploring nonfiction with young learners / Darla Miner and Jill Zitnay. 
+PUBLISHER = Lanham : Rowan & Littlefield Education, c2012. 
+RECORD # = b14744016. LOCATION = lbks. 
+
+CALL NO. = LB1584 .M78 2012. 
+TITLE = History and imagination : reenactments for elementary social studies / 
+Ronald Vaughan Morris. 
+PUBLISHER = Lanham : Rowman & Littlefield Education, c2012. 
+RECORD # = b14744028. LOCATION = lbks. 
+
+CALL NO. = LB1707 .S44 2011. 
+TITLE = Strong community service learning : philosophical perspectives / Eric C.
+Sheffield. 
+PUBLISHER = New York : Peter Lang, c2011. 
+RECORD # = b14744041. LOCATION = lbks. 
+
+CALL NO. = ND553.C33 D34 2012. 
+TITLE = C{226}ezanne : a life / Alex Danchev. 
+RECORD # = b14744053. LOCATION = lbks. 
+
+CALL NO. = N6797.H57 A4 2012. 
+TITLE = David Hockney : a bigger picture / [exhibition curators, Marco 
+Livingstone and Edith Devaney]. 
+PUBLISHER = New York : Abrams, c2012. 
+RECORD # = b14744065. LOCATION = lbks. 
+
+
+
+CALL NO. = ND623.L5 A683 2012. 
+TITLE = Leonardo and the Last supper / Ross King. 
+PUBLISHER = New York : Walker & Company, 2012. 
+RECORD # = b14744077. LOCATION = lbks. 
+
+CALL NO. = TR267 .A352 2012. 
+TITLE = Digital photo art : new directions / Theresa Airey. 
+PUBLISHER = New York : Pixiq, c2012. 
+RECORD # = b14744089. LOCATION = lbks. 
+
+CALL NO. = LB3013.3 .B813 2012. 
+TITLE = Bully : an action plan for teachers and parents to combat the bullying 
+crisis / edited by Lee Hirsch and Cynthia Lowen ; with Dina Santorelli. 
+PUBLISHER = New York : Weinstein Books, c2012. 
+RECORD # = b14744090. LOCATION = lbks. 
+

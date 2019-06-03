@@ -1,0 +1,974 @@
+
+CALL NO. = B72 .C68 2009. 
+TITLE = The book of dead philosophers / Simon Critchley. 
+PUBLISHER = New York : Vintage Books, 2009, c2008. 
+RECORD # = b13763398. LOCATION = lbks. 
+
+CALL NO. = B505 .H45 1997. 
+TITLE = Hellenistic philosophy : introductory readings / translated, with 
+introduction and notes, by Brad Inwood and L.P. Gerson. 
+PUBLISHER = Indianapolis, Ind. : Hackett Pub. Co., c1997. 
+RECORD # = b13763465. LOCATION = lbks. 
+
+CALL NO. = B840 .B67 2007. 
+TITLE = Magical criticism : the recourse of savage philosophy / Christopher 
+Bracken. 
+PUBLISHER = Chicago : University of Chicago Press, c2007. 
+RECORD # = b13763489. LOCATION = lbks. 
+
+CALL NO. = B2430 .B271 2008. 
+TITLE = Conditions / Alain Badiou ; translated by Steven Corcoran. 
+PUBLISHER = London ; New York : Continuum, 2008. 
+RECORD # = b13763416. LOCATION = lbks. 
+
+CALL NO. = B2430.B33954R43 2007. 
+TITLE = Reading Bataille now / edited by Shannon Winnubst. 
+PUBLISHER = Bloomington : Indiana University Press, c2007. 
+RECORD # = b13763544. LOCATION = lbks. 
+
+CALL NO. = B2948 .C283 2008. 
+TITLE = The Cambridge companion to Hegel and nineteenth-century philosophy / 
+edited by Frederick C. Beiser. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2008. 
+RECORD # = b13763404. LOCATION = lbks. 
+
+CALL NO. = B3376.W564 F62 2009. 
+TITLE = Taking Wittgenstein at his word : a textual study / Robert J. Fogelin. 
+PUBLISHER = Princeton, N.J. : Princeton University Press, c2009. 
+RECORD # = b13763532. LOCATION = lbks. 
+
+CALL NO. = BF149 .T34 2010. 
+TITLE = Taking sides. Clashing views on psychological issues / selected, edited,
+and with introductions by Brent Slife. 
+PUBLISHER = New York McGraw-Hill c2010. 
+RECORD # = b13763143. LOCATION = lbks. 
+
+CALL NO. = BF515 .B56 2010. 
+TITLE = How pleasure works : the new science of why we like what we like / Paul 
+Bloom. 
+PUBLISHER = New York : W. W. Norton, c2010. 
+RECORD # = b13758755. LOCATION = lbks. 
+
+CALL NO. = BF575.G8 K38 2009. 
+TITLE = Guilt : the bite of conscience / Herant Katchadourian. 
+PUBLISHER = Stanford, Calif. : Stanford General Books, c2010. 
+RECORD # = b1376343x. LOCATION = lbks. 
+
+CALL NO. = BH39 .B795 2006. 
+TITLE = On the anarchy of poetry and philosophy : a guide for the unruly / 
+Gerald L. Bruns. 
+PUBLISHER = New York : Fordham University Press, 2006. 
+RECORD # = b13763507. LOCATION = lbks. 
+
+
+CALL NO. = BH39 .D84 2009. 
+TITLE = The art instinct : beauty, pleasure, & human evolution / Denis Dutton. 
+PUBLISHER = New York : Bloomsbury Press, 2009. 
+RECORD # = b13763374. LOCATION = lbks. 
+
+CALL NO. = BJ52 .L43 2006. 
+TITLE = Radical hope : ethics in the face of cultural devastation / Jonathan 
+Lear. 
+PUBLISHER = Cambridge, Mass. : Harvard University Press, 2006. 
+RECORD # = b13763519. LOCATION = lbks. 
+
+CALL NO. = BJ1012 .S428 2010. 
+TITLE = The ethical life : fundamental readings in ethics and moral problems / 
+Russ Shafer-Landau. 
+PUBLISHER = New York : Oxford University Press, 2010. 
+RECORD # = b13763428. LOCATION = lbks. 
+
+CALL NO. = BJ1231 .K44 2010. 
+TITLE = A history of Catholic moral theology in the twentieth century : from 
+confessing sins to liberating consciences / James F. Keenan. 
+PUBLISHER = London ; New York : Continuum, 2010. 
+RECORD # = b13762886. LOCATION = lbks. 
+
+CALL NO. = BL48 .R453 2010. 
+TITLE = The promise of salvation : a theory of religion / Martin Riesebrodt ; 
+translated by Steven Rendall. 
+PUBLISHER = Chicago : University of Chicago Press, 2010. 
+RECORD # = b13762898. LOCATION = lbks. 
+
+CALL NO. = BL53 .T39 2009. 
+TITLE = Religious experience reconsidered : a building block approach to the 
+study of religion and other special things / Ann Taves. 
+PUBLISHER = Princeton, N.J. : Princeton University Press, c2009. 
+RECORD # = b13762904. LOCATION = lbks. 
+
+CALL NO. = BL2747.3 .G36 2009. 
+TITLE = A reasonable God : engaging the new face of atheism / Gregory E. 
+Ganssle. 
+PUBLISHER = Waco, Tex. : Baylor University Press, c2009. 
+RECORD # = b13763520. LOCATION = lbks. 
+
+CALL NO. = BP190.5.G56 S65 2010. 
+TITLE = Globalization and Islamism : beyond fundamentalism / Nevzat Soguk. 
+PUBLISHER = Lanham, Md. : Rowman & Littlefield Publishers, c2011. 
+RECORD # = b13762874. LOCATION = lbks. 
+
+CALL NO. = BQ4022 .G66 2010. 
+TITLE = Buddhayana : living Buddhism / Anil Goonewardene. 
+PUBLISHER = New York : Continuum, 2010. 
+RECORD # = b13669096. LOCATION = lbks. 
+
+CALL NO. = BX1396 .C48 2007. 
+TITLE = The church confronts modernity : Catholicism since 1950 in the United 
+States, Ireland, and Quebec / edited by Leslie Woodcock Tentler. 
+PUBLISHER = Washington, D.C. : Catholic University of America Press, c2007. 
+RECORD # = b13758676. LOCATION = lbks. 
+
+CALL NO. = BX1682.T35 G74 2003. 
+TITLE = Priests, witches and power : popular Christianity after mission in 
+Southern Tanzania / Maia Green. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2003. 
+RECORD # = b13771206. LOCATION = lbks. 
+
+CALL NO. = BX1913 .M58 2009. 
+TITLE = Pastoring multiple parishes : an emerging model of pastoral leadership /
+Mark Mogilka and Kate Wiskus. 
+PUBLISHER = Chicago : Loyola Press, c2009. 
+RECORD # = b13761134. LOCATION = lbks. 
+
+CALL NO. = BX7260.E3 R58 2010. 
+TITLE = Jonathan Edwards on worship : public and private devotion to God / Ted 
+Rivera. 
+PUBLISHER = Eugene, Or. : Pickwick Publications, 2010. 
+RECORD # = b13772570. LOCATION = lbks. 
+
+CALL NO. = D13 .M847 2010. 
+TITLE = The future of history / Alun Munslow. 
+PUBLISHER = Houndmills, Basingstoke, Hampshire ; New York : Palgrave Macmillan, 
+2010. 
+RECORD # = b13772120. LOCATION = lbks. 
+
+CALL NO. = D524.6 .P76 2010. 
+TITLE = Civilians in a world at war, 1914-1918 / Tammy M. Proctor. 
+PUBLISHER = New York : New York University Press, c2010. 
+RECORD # = b1377217x. LOCATION = lbks. 
+
+CALL NO. = D764 .L817 2006. 
+TITLE = June 1941 : Hitler and Stalin / John Lukacs. 
+PUBLISHER = New Haven : Yale University Press, c2006. 
+RECORD # = b1377296x. LOCATION = lbks. 
+
+CALL NO. = D804.348 .S763 2010. 
+TITLE = Histories of the Holocaust / Dan Stone. 
+PUBLISHER = Oxford ; New York : Oxford University Press, 2010. 
+RECORD # = b13772107. LOCATION = lbks. 
+
+CALL NO. = D860 .J83 2010. 
+TITLE = Ill fares the land / Tony Judt. 
+PUBLISHER = New York : Penguin Press, 2010. 
+RECORD # = b13762540. LOCATION = lbks. 
+
+CALL NO. = DA47.9.I73 B49 2007. 
+TITLE = Ireland : the politics of enmity, 1789-2006 / Paul Bew. 
+PUBLISHER = Oxford ; New York : Oxford University Press, 2007. 
+RECORD # = b13769492. LOCATION = lbks. 
+
+CALL NO. = DA688 .F57 2010. 
+TITLE = When London was capital of America / Julie Flavell. 
+PUBLISHER = New Haven [Conn.] : Yale University Press, c2010. 
+RECORD # = b13762679. LOCATION = lbks. 
+
+CALL NO. = DA962 .M28 2010. 
+TITLE = The rising : Ireland--Easter 1916 / Fearghal McGarry. 
+PUBLISHER = Oxford ; New York : Oxford University Press, 2010. 
+RECORD # = b13772016. LOCATION = lbks. 
+
+CALL NO. = DC73.6 .C44 2009. 
+TITLE = Charlemagne and Louis the Pious : the lives by Einhard, Notker, Ermoldus,
+Thegan, and the Astronomer / translated with introductions and annotations by 
+Thomas F.X. Noble. 
+PUBLISHER = University Park, Pa. : Pennsylvania State University Press, c2009. 
+RECORD # = b13772004. LOCATION = lbks. 
+
+CALL NO. = DF234.37 .B7413 2010. 
+TITLE = Alexander the Great and his empire : a short introduction / Pierre 
+Briant ; translated by Am{226}elie Kuhrt. 
+PUBLISHER = Princeton : Princeton University Press, c2010. 
+RECORD # = b13772223. LOCATION = lbks. 
+
+
+CALL NO. = DK759.K53 J67 2003. 
+TITLE = Material culture and sacred landscape : the anthropology of the Siberian
+Khanty / Peter Jordan. 
+PUBLISHER = Walnut Creek, CA : AltaMira Press, c2003. 
+RECORD # = b13771188. LOCATION = lbks. 
+
+CALL NO. = DS327.3 .I75 2010. 
+TITLE = Islamic Central Asia : an anthology of historical sources / edited by 
+Scott C. Levi and Ron Sela. 
+PUBLISHER = Bloomington : Indiana University Press, c2010. 
+RECORD # = b13772090. LOCATION = lbks. 
+
+CALL NO. = DS475 .G55 2007. 
+TITLE = The ruling caste : imperial lives in the Victorian Raj / David Gilmour. 
+PUBLISHER = New York : Farrar, Straus and Giroux, 2007. 
+RECORD # = b13772971. LOCATION = lbks. 
+
+CALL NO. = DS556.45.M6 S25 2003. 
+TITLE = The ethnography of Vietnam's Central Highlanders : a historical 
+contextualization, 1850-1990 / Oscar Salemink. 
+PUBLISHER = Honolulu : University of Hawai'i Press, c2003. 
+RECORD # = b13771176. LOCATION = lbks. 
+
+CALL NO. = DS752.3 .B76 2010. 
+TITLE = The troubled empire : China in the Yuan and Ming dynasties / Timothy 
+Brook. 
+PUBLISHER = Cambridge, Mass. : Belknap Press of Harvard University Press, 2010. 
+RECORD # = b13773021. LOCATION = lbks. 
+
+CALL NO. = DT1058.K86 L44 2002. 
+TITLE = The Dobe Ju/'hoansi / Richard B. Lee. 
+PUBLISHER = [Belmont, CA] : Wadsworth Thomson Learning, c2003. 
+RECORD # = b1377265x. LOCATION = lbks. 
+
+CALL NO. = DU870 .S335 2010. 
+TITLE = Aphrodite's island : the European discovery of Tahiti / Anne Salmond. 
+PUBLISHER = Berkeley, Calif. : University of California Press 2010. 
+RECORD # = b1375869x. LOCATION = lbks. 
+
+CALL NO. = E97 .B754 2006. 
+TITLE = Boarding school blues : revisiting American Indian educational 
+experiences / edited and with an introduction by Clifford E. Trafzer, Jean A. 
+Keller, and Lorene Sisquoc. 
+PUBLISHER = Lincoln : University of Nebraska Press, c2006. 
+RECORD # = b13772193. LOCATION = lbks. 
+
+CALL NO. = E98.S6 I53 2009. 
+TITLE = Indian slavery in colonial America / edited and with an introduction by 
+Alan Gallay. 
+PUBLISHER = Lincoln : University of Nebraska Press, c2009. 
+RECORD # = b13762552. LOCATION = lbks. 
+
+CALL NO. = E169.1 .F538 2010. 
+TITLE = Made in America : a social history of American culture and character / 
+Claude S. Fischer. 
+PUBLISHER = Chicago ; London : The University of Chicago Press, 2010. 
+RECORD # = b13772077. LOCATION = lbks. 
+
+CALL NO. = E169.12 .K463 2007. 
+TITLE = 1973 nervous breakdown : Watergate, Warhol, and the birth of post-
+sixties America / Andreas Killen. 
+PUBLISHER = New York : Bloomsbury : Distributed to the trade by Holtzbrinck, 
+2007, c2006. 
+RECORD # = b13772259. LOCATION = lbks. 
+
+
+CALL NO. = E176.1 .G829 2009. 
+TITLE = Inventing the job of president : leadership style from George Washington
+to Andrew Jackson / Fred I. Greenstein. 
+PUBLISHER = Princeton : Princeton University Press, c2009. 
+RECORD # = b13758767. LOCATION = lbks. 
+
+CALL NO. = E185.61 .V35 2010. 
+TITLE = Living with Jim Crow : African American women and memories of the 
+segregated South / Anne Valk and Leslie Brown. 
+PUBLISHER = New York : Palgrave Macmillan, 2010. 
+RECORD # = b13772065. LOCATION = lbks. 
+
+CALL NO. = E185.86 .P33 2010. 
+TITLE = Freedom is not enough : the Moynihan report and America's struggle over 
+black family life : from LBJ to Obama / James T. Patterson. 
+PUBLISHER = New York : Basic Books, c2010. 
+RECORD # = b13758731. LOCATION = lbks. 
+
+CALL NO. = E185.86 .R52 2009. 
+TITLE = Wrong place, wrong time : trauma and violence in the lives of young 
+black men / John A. Rich. 
+PUBLISHER = Baltimore : Johns Hopkins University Press, 2009. 
+RECORD # = b1375886x. LOCATION = lbks. 
+
+CALL NO. = E628 .B47 2010. 
+TITLE = Civil War wives : the lives and times of Angelina Grimk{226}e Weld, 
+Varina Howell Davis, and Julia Dent Grant / Carol Berkin. 
+PUBLISHER = New York : Vintage Books, 2010. 
+RECORD # = b13804820. LOCATION = lbks. 
+
+CALL NO. = E661 .S64 2009. 
+TITLE = Speaking history : oral histories of the American past, 1865-present / 
+[compiled by] Sue Armitage and Laurie Mercier. 
+PUBLISHER = New York : Palgrave Macmillan, 2009. 
+RECORD # = b13772983. LOCATION = lbks. 
+
+CALL NO. = E721 .T47 2010. 
+TITLE = The war lovers : Roosevelt, Lodge, Hearst, and the rush to empire, 1898 
+/ Evan Thomas. 
+PUBLISHER = New York : Little, Brown and Co., 2010. 
+RECORD # = b13762667. LOCATION = lbks. 
+
+CALL NO. = E840.8.K35 H424 2010. 
+TITLE = Edward Kennedy : an intimate biography / Burton Hersh. 
+PUBLISHER = Berkeley : Counterpoint : Distributed by Publishers Group West, 
+c2010. 
+RECORD # = b13772144. LOCATION = lbks. 
+
+CALL NO. = E872 .G534 2009. 
+TITLE = An outsider in the White House : Jimmy Carter, his advisors, and the 
+making of American foreign policy / Betty Glad. 
+PUBLISHER = Ithaca : Cornell University Press, 2009. 
+RECORD # = b13759218. LOCATION = lbks. 
+
+CALL NO. = F220.A1 S65 2007. 
+TITLE = There goes my everything : white Southerners in the age of civil rights,
+1945-1975 / Jason Sokol. 
+PUBLISHER = New York : Vintage Books, 2007. 
+RECORD # = b1377301x. LOCATION = lbks. 
+
+CALL NO. = F379.N557 G47 2007. 
+TITLE = New Orleans after the promises : poverty, citizenship, and the search 
+for the Great Society / Kent B. Germany. 
+PUBLISHER = Athens : University of Georgia Press, c2007. 
+RECORD # = b13771425. LOCATION = lbks. 
+
+
+CALL NO. = F1392.C45 R65 2010. 
+TITLE = The Chinese in Mexico, 1882-1940 / Robert Chao Romero. 
+PUBLISHER = Tucson : University of Arizona Press, c2010. 
+RECORD # = b13772181. LOCATION = lbks. 
+
+CALL NO. = F1413 .B85 2009. 
+TITLE = Building nineteenth-century Latin America : re-rooted cultures, 
+identities, and nations / edited by William G. Acree Jr. and Juan Carlos 
+Gonz{226}alez Espitia. 
+PUBLISHER = Nashville : Vanderbilt University Press, 2009. 
+RECORD # = b13762515. LOCATION = lbks. 
+
+CALL NO. = F2651.F55 G72 2009. 
+TITLE = Fordlandia : the rise and fall of Henry Ford's forgotten jungle city / 
+Greg Grandin. 
+PUBLISHER = New York : Metropolitan Books, 2009. 
+RECORD # = b13762539. LOCATION = lbks. 
+
+CALL NO. = G105 .M66 2007. 
+TITLE = From Squaw Tit to Whorehouse Meadow : how maps name, claim, and inflame 
+/ Mark Monmonier. 
+PUBLISHER = Chicago, Ill. : University of Chicago Press ; Bristol : University 
+Presses Marketing [distributor], 2007. 
+RECORD # = b13772235. LOCATION = lbks. 
+
+CALL NO. = G1381.S1 H39 2009. 
+TITLE = Historical atlas of the American West : with original maps / Derek 
+Hayes. 
+PUBLISHER = Berkeley : University of California Press, c2009. 
+RECORD # = b13772089. LOCATION = lrefs. 
+
+CALL NO. = GC190.2 .B76 2010. 
+TITLE = The great ocean conveyor : discovering the trigger for abrupt climate 
+change / Wally Broecker. 
+PUBLISHER = Princeton : Princeton University Press, c2010. 
+RECORD # = b13770676. LOCATION = lbks. 
+
+CALL NO. = GN346 .B443 2009. 
+TITLE = Being there : the fieldwork encounter and the making of truth / edited 
+by John Borneman, Abdellah Hammoudi. 
+PUBLISHER = Berkeley : University of California Press, c2009. 
+RECORD # = b13772685. LOCATION = lbks. 
+
+CALL NO. = GN671.S2 S53 2009. 
+TITLE = The trashing of Margaret Mead : anatomy of an anthropological 
+controversy / Paul Shankman. 
+PUBLISHER = Madison, Wis. : University of Wisconsin Press, c2009. 
+RECORD # = b1377136x. LOCATION = lbks. 
+
+CALL NO. = GT476 .L34 2009. 
+TITLE = Ladies and gents : public toilets and gender / edited by Olga Gershenson
+and Barbara Penner. 
+PUBLISHER = Philadelphia : Temple University Press, 2009. 
+RECORD # = b13758780. LOCATION = lbks. 
+
+CALL NO. = GV716 .R673 2010. 
+TITLE = Major league winners : using sports and cultural centers as tools for 
+economic development / Mark S. Rosentraub. 
+PUBLISHER = Boca Raton, FL : CRC Press, c2010. 
+RECORD # = b13770160. LOCATION = lbks. 
+
+CALL NO. = GV865 .H83 2010. 
+TITLE = Hub fans bid kid adieu : John Updike on Ted Williams / [John Updike]. 
+PUBLISHER = New York : Library of America, 2010. 
+RECORD # = b1376052x. LOCATION = lbks. 
+
+
+CALL NO. = GV1623 .W4 2010. 
+TITLE = City folk : English country dance and the politics of the folk in modern
+America / Daniel J. Walkowitz. 
+PUBLISHER = New York : New York University Press, c2010. 
+RECORD # = b13763039. LOCATION = lbks. 
+
+CALL NO. = GV1788 .S17 2010. 
+TITLE = On technique / Dean Speer. 
+PUBLISHER = Gainesville, Fla. : University Press of Florida, c2010. 
+RECORD # = b13763106. LOCATION = lbks. 
+
+CALL NO. = H61 .S447 2010. 
+TITLE = Making the social world : the structure of human civilization / John R. 
+Searle. 
+PUBLISHER = Oxford ; New York : Oxford University Press, 2010. 
+RECORD # = b13763490. LOCATION = lbks. 
+
+CALL NO. = HB3711 .K63 2010. 
+TITLE = Recessions and depressions : understanding business cycles / Todd A. 
+Knoop. 
+PUBLISHER = Santa Barbara, Calif. : Praeger, c2010. 
+RECORD # = b13770196. LOCATION = lbks. 
+
+CALL NO. = HB3722 .P42 2010. 
+TITLE = On the brink : inside the race to stop the collapse of the global 
+financial system / Henry M. Paulson, Jr. 
+PUBLISHER = New York : Business Plus, 2010. 
+RECORD # = b13758809. LOCATION = lbks. 
+
+CALL NO. = HC106.84 .R67 2010. 
+TITLE = Rebound : why America will emerge stronger from the financial crisis / 
+Stephen J. Rose. 
+PUBLISHER = New York : St. Martin's Press, c2010. 
+RECORD # = b13770184. LOCATION = lbks. 
+
+CALL NO. = HC427.95 N35 2010. 
+TITLE = China's megatrends : the 8 pillars of a new society / John and Doris 
+Naisbitt. 
+PUBLISHER = New York, NY : Harper Business, c2010. 
+RECORD # = b13770275. LOCATION = lbks. 
+
+CALL NO. = HD30.255 .B878 2009. 
+TITLE = Business management and environmental stewardship : environmental 
+thinking as a prelude to management action / edited by Robert Staib. 
+PUBLISHER = Basingstoke : Palgrave Macmillan, c2009. 
+RECORD # = b13763763. LOCATION = lbks. 
+
+CALL NO. = HD30.255 O47 2010. 
+TITLE = Better green business : handbook for environmentally responsible and 
+profitable business practices / Eric G. Olson. 
+PUBLISHER = Upper Saddle River, N.J. : Wharton School Pub., c2010. 
+RECORD # = b13763751. LOCATION = lbks. 
+
+CALL NO. = HD30.255 .W49 2010. 
+TITLE = The sustainable MBA : the manager's guide to green business / Giselle 
+Weybrecht. 
+PUBLISHER = Chichester, England : Wiley, c2010. 
+RECORD # = b13763775. LOCATION = lbks. 
+
+CALL NO. = HD38.7 .W38 2010. 
+TITLE = Hyperformance : using competitive intelligence for better strategy and 
+execution / T.J. Waters. 
+PUBLISHER = San Francisco : Jossey-Bass, c2010. 
+RECORD # = b13770688. LOCATION = lbks. 
+
+
+CALL NO. = HD60 .Y85 2010. 
+TITLE = Building social business : the new kind of capitalism that serves 
+humanity's most pressing needs / Muhammad Yunus with Karl Weber. 
+PUBLISHER = New York : Public Affairs, 2010. 
+RECORD # = b13770640. LOCATION = lbks. 
+
+CALL NO. = HD2757.2 L96 2010. 
+TITLE = Cornered : the new monopoly capitalism and the economics of destruction 
+/ Barry Lynn. 
+PUBLISHER = Hoboken, N.J. : John Wiley & Sons, c2010. 
+RECORD # = b13770202. LOCATION = lbks. 
+
+CALL NO. = HF5415.2 .A486 2002. 
+TITLE = Marketing research that won't break the bank : a practical guide to 
+getting the information you need / Alan R. Andreasen ; foreword by William A. 
+Smith. 
+PUBLISHER = San Francisco : Jossey-Bass, c2002. 
+RECORD # = b13770251. LOCATION = lbks. 
+
+CALL NO. = HF5827.85 .K55 2010. 
+TITLE = Killing us softly 4 [videorecording] : advertising's image of women / a 
+Media Education Foundation production. 
+PUBLISHER = Northampton, MA : Media Education Foundation, c2010. 
+RECORD # = b13804121. LOCATION = lmvc. 
+
+CALL NO. = HG181 .B25 2009. 
+TITLE = Plunder and blunder : the rise and fall of the bubble economy / Dean 
+Baker ; foreword by Thomas Frank. 
+PUBLISHER = Sausalito, CA : PoliPointPress, c2009. 
+RECORD # = b13770172. LOCATION = lbks. 
+
+CALL NO. = HG925 .E867 2009. 
+TITLE = The euro at ten : the next global currency? / Jean Pisani-Ferry & Adam 
+S. Posen, editors. 
+PUBLISHER = Washington, DC : Peterson Institute for International Economics ; 
+Brussels, Belgium : Bruegel, c2009. 
+RECORD # = b13770214. LOCATION = lbks. 
+
+CALL NO. = HG930.5 .M269 2009. 
+TITLE = The euro : the politics of the new global currency / David Marsh. 
+PUBLISHER = New Haven, Conn. ; London : Yale University Press, c2009. 
+RECORD # = b13770226. LOCATION = lbks. 
+
+CALL NO. = HG2565 .W47 2009. 
+TITLE = In Fed we trust : Ben Bernanke's war on the great panic / David Wessel. 
+PUBLISHER = New York : Crown Business, c2009. 
+RECORD # = b13770238. LOCATION = lbks. 
+
+CALL NO. = HM1271 .S34 2010. 
+TITLE = Toleration : the liberal virtue / Bican {240}Sahin. 
+PUBLISHER = Lanham, Md. : Lexington Books, c2010. 
+RECORD # = b13771875. LOCATION = lbks. 
+
+CALL NO. = HQ759.4 .F865 2007. 
+TITLE = Destinies of the disadvantaged : the politics of teenage childbearing / 
+Frank F. Furstenberg. 
+PUBLISHER = New York : Russell Sage Foundation, c2007. 
+RECORD # = b13771358. LOCATION = lbks. 
+
+CALL NO. = HQ767.5.U5 O27 2010. 
+TITLE = The Church and abortion : a Catholic dissent / George Dennis O'Brien. 
+PUBLISHER = Lanham : Rowman & Littlefield Publishers, c2010. 
+RECORD # = b13754968. LOCATION = lbks. 
+
+
+CALL NO. = HQ1190 .B575 2007. 
+TITLE = The Blackwell guide to feminist philosophy / edited by Linda Mart{226}in
+Alcoff and Eva Feder Kittay. 
+PUBLISHER = Malden, MA ; Oxford : Blackwell Pub., 2007. 
+RECORD # = b13763386. LOCATION = lbks. 
+
+CALL NO. = HQ1426 .E38 2005. 
+TITLE = For her own good : two centuries of the experts' advice to women / 
+Barbara Ehrenreich and Deirdre English. 
+PUBLISHER = New York : Anchor Books, 2005. 
+RECORD # = b1376083x. LOCATION = lbks. 
+
+CALL NO. = HT861 .D74 2009. 
+TITLE = Abolition : a history of slavery and antislavery / Seymour Drescher. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2009. 
+RECORD # = b13762497. LOCATION = lbks. 
+
+CALL NO. = HT1126 .K54 2010. 
+TITLE = Slavery in Brazil / Herbert S. Klein, Francisco Vidal Luna. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2010. 
+RECORD # = b13772028. LOCATION = lbks. 
+
+CALL NO. = HV875.55 .H47 2008
+TITLE = Kinship by design : a history of adoption in the modern United States / 
+Ellen Herman. 
+PUBLISHER = Chicago : University of Chicago Press, 2008. 
+RECORD # = b13771437. LOCATION = lbks. 
+
+CALL NO. = HV6322.7 .G78 2007. 
+TITLE = The failure to prevent genocide in Rwanda : the role of bystanders / 
+Fred Gr{232}unfeld, Anke Huijboom. 
+PUBLISHER = Leiden ; Boston : Martinus Nijhoff, c2007. 
+RECORD # = b13771371. LOCATION = lbks. 
+
+CALL NO. = HV8593 .B74 2007. 
+TITLE = Torture and the ticking bomb / Bob Brecher. 
+PUBLISHER = Malden, MA ; Oxford : Blackwell Pub., 2007. 
+RECORD # = b13771462. LOCATION = lbks. 
+
+CALL NO. = JK275 I57 2010. 
+TITLE = The insecure American : how we got here and what we should do about it /
+edited by Hugh Gusterson and Catherine Besteman ; foreword by Barbara 
+Ehrenreich. 
+PUBLISHER = Berkeley : University of California Press, c2010. 
+RECORD # = b13772703. LOCATION = lbks. 
+
+CALL NO. = JK526 2008 .C655 2010. 
+TITLE = Communicator-in-chief : how Barack Obama used new media technology to 
+win the White House / edited by John Allen Hendricks and Robert E. Denton, Jr. 
+PUBLISHER = Lanham : Lexington Books, c2010. 
+RECORD # = b13771486. LOCATION = lbks. 
+
+CALL NO. = JK606 .W53 2009. 
+TITLE = Presidents in retirement : alone and out of office / Paul B. Wice. 
+PUBLISHER = Lanham, MD : Lexington Books, c2009. 
+RECORD # = b13771528. LOCATION = lbks. 
+
+CALL NO. = JN900 .C65 2009. 
+TITLE = The Internet and democratic citizenship : theory, practice and policy / 
+Stephen Coleman, Jay G. Blumler. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, c2009. 
+RECORD # = b13771516. LOCATION = lbks. 
+
+CALL NO. = JQ1516 .Z449 2010. 
+TITLE = China's peaceful rise in a global context : a domestic aspect of China's
+road map to democratization / Jinghao Zhou. 
+PUBLISHER = Lanham, Md. : Lexington Books, c2010. 
+RECORD # = b13771474. LOCATION = lbks. 
+
+
+CALL NO. = K738 .F35 2006. 
+TITLE = A common hunger : land rights in Canada and South Africa / Joan G. 
+Fairweather. 
+PUBLISHER = Calgary : University of Calgary Press, c2006. 
+RECORD # = b13772168. LOCATION = lbks. 
+
+CALL NO. = KF3133.C4 M55 2010. 
+TITLE = The chemist's companion guide to patent law / Chris P. Miller, Mark J. 
+Evans. 
+PUBLISHER = Hoboken, N.J. : John Wiley, c2010. 
+RECORD # = b13772624. LOCATION = lbks. 
+
+CALL NO. = KF3821 .P69 2007. 
+TITLE = Legal aspects of health care administration / George D. Pozgar ; legal 
+review, Nina M. Santucci. 
+PUBLISHER = Sudbury, Mass. : Jones and Bartlett Publishers, c2007. 
+RECORD # = b13773707. LOCATION = lrefs. 
+
+CALL NO. = KF4754.5 .M49 2009. 
+TITLE = Gay families and the courts : the quest for equal rights / Susan Gluck 
+Mezey. 
+PUBLISHER = Lanham, Md. : Rowman & Littlefield Publishers, c2009. 
+RECORD # = b13759206. LOCATION = lbks. 
+
+CALL NO. = KF8748 .F79 2009. 
+TITLE = The will of the people : how public opinion has influenced the Supreme 
+Court and shaped the meaning of the Consitution / Barry Friedman. 
+PUBLISHER = New York : Farrar, Straus and Giroux, 2009. 
+RECORD # = b13758858. LOCATION = lbks. 
+
+CALL NO. = LA229 .P34 2005 v.2. 
+TITLE = How college affects students : a third decade of research / Ernest T. 
+Pascarella, Patrick T. Terenzini. 
+PUBLISHER = San Francisco : Jossey-Bass, c2005. 
+RECORD # = b13804212. LOCATION = lbks. 
+
+CALL NO. = LB1027 .J58 2010. 
+TITLE = Laughing and learning : an alternative to shut up and listen / Peter M. 
+Jonas. 
+PUBLISHER = Lanham, Md. : Rowman & Littlefield Education, c2010. 
+RECORD # = b13769698. LOCATION = ltm. 
+
+CALL NO. = LB1028.38 .L48 2010. 
+TITLE = From fear to Facebook : one school's journey / Matt Levinson. 
+PUBLISHER = Eugene, Or. : International Society for Technology in Education, 
+c2010. 
+RECORD # = b13759991. LOCATION = lbks. 
+
+CALL NO. = LB1044.87 .H64 2011. 
+
+CALL NO. = LB1044.87 .H64 2011. 
+TITLE = The virtual worlds handbook : how to use Second Life and other 3D 
+virtual environments / Elizabeth Hodge, Sharon Collins, Tracy Giordano. 
+PUBLISHER = Sudbury, Mass. : Jones and Bartlett Publishers, c2011. 
+RECORD # = b13769601. LOCATION = lbks. 
+TITLE = The virtual worlds handbook : how to use Second Life and other 3D 
+virtual environments / Elizabeth Hodge, Sharon Collins, Tracy Giordano. 
+PUBLISHER = Sudbury, Mass. : Jones and Bartlett Publishers, c2011. 
+RECORD # = b13769601. LOCATION = lbks. 
+
+CALL NO. = LB1050.6 .B75 2010. 
+TITLE = Bringing reading research to life / edited by Margaret G. McKeown, Linda
+Kucan. 
+PUBLISHER = New York : Guilford Press, c2010. 
+RECORD # = b13769649. LOCATION = lbks. 
+
+
+CALL NO. = LB1731 .A85 2009. 
+TITLE = Action learning in schools : reframing teachers' professional learning 
+and development / Peter Aubusson, Robyn Ewing and Garry Hoban. 
+PUBLISHER = London ; New York : Routledge, 2009. 
+RECORD # = b13759966. LOCATION = lbks. 
+
+CALL NO. = LB1731.4 .N49 2009. 
+TITLE = New teacher mentoring : hopes and promise for improving teacher 
+effectiveness / Ellen Moir ... [et al.]. 
+PUBLISHER = Cambridge, Mass. : Harvard Education Press, c2009. 
+RECORD # = b13760014. LOCATION = lbks. 
+
+CALL NO. = LB2395.7 .B68 2010. 
+TITLE = Online learning : a user-friendly approach for high school and college 
+students / Leslie Bowman. 
+PUBLISHER = Lanham : Rowman & Littlefield Education, c2010. 
+RECORD # = b13760026. LOCATION = lbks. 
+
+CALL NO. = LB2395.7 .H22 2006. 
+TITLE = The handbook of blended learning : global perspectives, local designs / 
+[edited by] Curtis J. Bonk, Charles R. Graham ; forewords by Jay Cross, Michael 
+G. Moore. 
+PUBLISHER = San Francisco : Pfeiffer, c2006. 
+RECORD # = b1377024x. LOCATION = lbks. 
+
+CALL NO. = 2LB2805 .C427 2010. 
+TITLE = American schools : the art of creating a democratic learning community /
+Sam Chaltain. 
+PUBLISHER = Lanham, Md. : Rowman & Littlefield, c2010. 
+RECORD # = b13769637. LOCATION = lbks. 
+
+CALL NO. = LB2805 .E528 2010. 
+
+CALL NO. = LB2805 .E528 2010. 
+TITLE = Encyclopedia of educational reform and dissent / editors, Thomas C. Hunt
+... [et al.]. 
+PUBLISHER = Thousand Oaks, Calif. : SAGE Publications, c2010. 
+RECORD # = b13759978. LOCATION = lrefs. 
+TITLE = Encyclopedia of educational reform and dissent / editors, Thomas C. Hunt
+... [et al.]. 
+PUBLISHER = Thousand Oaks, Calif. : SAGE Publications, c2010. 
+RECORD # = b13759978. LOCATION = lrefs. 
+
+CALL NO. = LB3012.5 .A53 2010. 
+TITLE = Against the odds : insights from one district's small school reform / 
+Larry Cuban ... [et al.]. 
+PUBLISHER = Cambridge, Mass. : Harvard Education Press, c2010. 
+RECORD # = b13769625. LOCATION = lbks. 
+
+CALL NO. = LC213 .D37 2010. 
+TITLE = The flat world and education : how America's commitment to equity will 
+determine our future / Linda Darling-Hammond. 
+PUBLISHER = New York : Teachers College Press, c2010. 
+RECORD # = b1375998x. LOCATION = lbks. 
+
+CALL NO. = LC2731 .K34 2009. 
+TITLE = Motivating Black males to achieve in school & in life / Baruti K. 
+Kafele. 
+PUBLISHER = Alexandria, VA : ASCD, c2009. 
+RECORD # = b13769765. LOCATION = lbks. 
+
+CALL NO. = ML82 .H42 2010. 
+TITLE = Songs in Black and lavender : race, sexual politics, and women's music /
+Eileen M. Hayes ; foreword by Linda Tillery. 
+PUBLISHER = Urbana : University of Illinois Press, c2010. 
+RECORD # = b13771310. LOCATION = lbks. 
+
+
+CALL NO. = ML3082 .K343 2010. 
+TITLE = The practice of medieval music : studies in chant and performance / 
+Thomas Forrest Kelly. 
+PUBLISHER = Farnham, Surrey, England : Burlington, VT : Ashgate Pub., c2010. 
+RECORD # = b1375676x. LOCATION = lbks. 
+
+CALL NO. = ML3830 .H195 2010. 
+TITLE = Handbook of music and emotion : theory, research, applications / Patrik 
+N. Juslin and John A. Sloboda. 
+PUBLISHER = Oxford : Oxford University Press, c2010. 
+RECORD # = b13771267. LOCATION = lbks. 
+
+CALL NO. = ML3920 .S82 2010. 
+TITLE = Where music helps : community music therapy in action and reflection / 
+Brynjulf Stige ... [et al.]. 
+PUBLISHER = Farnham, England ; Burlington, VT : Ashgate, c2010. 
+RECORD # = b1376309x. LOCATION = lbks. 
+
+CALL NO. = MT1 .S563 2009. 
+TITLE = Sociology and music education / [edited by] Ruth Wright. 
+PUBLISHER = Burlington, VT : Ashgate, c2009. 
+RECORD # = b13756771. LOCATION = lbks. 
+
+CALL NO. = NE1112.W37 A4 2010. 
+
+CALL NO. = NE1112.W37 A4 2010. 
+TITLE = Six novels in woodcuts / Lynd Ward ; edited by Art Spiegelman. 
+PUBLISHER = New York, N. Y. : Library of America, 2010. 
+RECORD # = b13760658. LOCATION = lbks. 
+TITLE = Six novels in woodcuts / Lynd Ward ; edited by Art Spiegelman. 
+PUBLISHER = New York, N. Y. : Library of America, 2010. 
+RECORD # = b13760658. LOCATION = lbks. 
+
+CALL NO. = PN1993.5.E8 L58 2010. 
+TITLE = Screening strangers : migration and diaspora in contemporary European 
+cinema / Yosefa Loshitzky. 
+PUBLISHER = Bloomington, Ind. : Indiana University Press, c2010. 
+RECORD # = b13763064. LOCATION = lbks. 
+
+CALL NO. = PN1999.U57 C66 2010. 
+TITLE = Universal women : filmmaking and institutional change in early Hollywood
+/ Mark Garrett Cooper. 
+PUBLISHER = Urbana : University of Illinois Press, c2010. 
+RECORD # = b13763088. LOCATION = lbks. 
+
+CALL NO. = PN2075 .T94 2010. 
+TITLE = Actor training / edited by Alison Hodge. 
+PUBLISHER = London ; New York : Routledge, 2010. 
+RECORD # = b13763027. LOCATION = lbks. 
+
+CALL NO. = PN2091.S8 D57 2009. 
+TITLE = Directors & designers / [edited by] Christine White. 
+PUBLISHER = Bristol, UK ; Chicago : Intellect, 2009. 
+RECORD # = b13771231. LOCATION = lbks. 
+
+CALL NO. = PN5499.K42 M868 2009. 
+TITLE = Writing for Kenya : the life and works of Henry Muoria / by Wangari 
+Muoria-Sal ... [et al.]. 
+PUBLISHER = Leiden ; Boston : Brill, 2009. 
+RECORD # = b13762680. LOCATION = lbks. 
+
+CALL NO. = PR6068.O93 Z69 2004. 
+TITLE = Harry Potter and philosophy : if Aristotle ran Hogwarts / edited by 
+David Baggett and Shawn E. Klein. 
+PUBLISHER = Chicago, Ill. : Open Court, c2004. 
+RECORD # = b13763441. LOCATION = lbks. 
+
+
+CALL NO. = PS1306 .A1 2010. 
+TITLE = The adventures of Tom Sawyer / Mark Twain ; with an introduction by 
+Russell Baker. 
+PUBLISHER = New York : Library of America, 2010, c1991. 
+RECORD # = b13762461. LOCATION = lbks. 
+
+CALL NO. = PS1342.R4 B47 2010. 
+TITLE = Heretical fictions : religion in the literature of Mark Twain / Lawrence
+I. Berkove and Joseph Csicsila. 
+PUBLISHER = Iowa City : University of Iowa Press, c2010. 
+RECORD # = b13772557. LOCATION = lbks. 
+
+CALL NO. = PS2384 .M6 2010. 
+TITLE = Moby Dick / Herman Melville ; with an introduction by Edward Said ; 
+[notes and chronology by G. Thomas Tanselle]. 
+PUBLISHER = New York : Library of America : Distributed to the trade in the U.S.
+by Penguin Group, 2010, c1991. 
+RECORD # = b13760555. LOCATION = lbks. 
+
+CALL NO. = PS3048 .A1 2010. 
+TITLE = Walden / Henry David Thoreau ; with an introduction by Edward Hoagland. 
+PUBLISHER = New York : Library of America, 2010. 
+RECORD # = b13760488. LOCATION = lbks. 
+
+CALL NO. = PS3503.E4488 A6 2010. 
+TITLE = Novels, 1970-1982 / Saul Bellow. 
+PUBLISHER = New York : Library of America : Distributed to the trade in the U.S.
+by Penguin Group (USA), c2010. 
+RECORD # = b13760610. LOCATION = lbks. 
+
+CALL NO. = PS3525.E43 P8 2010. 
+TITLE = H.L. Mencken : Prejudices, first, second, and third series. 
+PUBLISHER = New York : Library of America : Distributed by Penguin Group, 2010. 
+RECORD # = b13760580. LOCATION = lbks. 
+
+CALL NO. = PS3525.E43 P81 2010. 
+TITLE = H.L. Mencken : Prejudices, fourth, fifth, and sixth series. 
+PUBLISHER = New York : Library of America : Distributed by Penguin Group, 2010. 
+RECORD # = b13760592. LOCATION = lbks. 
+
+CALL NO. = PS3568.O855 A6 2010. 
+TITLE = Novels 1993-1995 / Philip Roth ; [Ross Miller wrote the chronology and 
+notes for this volume]. 
+PUBLISHER = New York : Library of America, c2010. 
+RECORD # = b13760609. LOCATION = lbks. 
+
+CALL NO. = PZ7.L644 Lin 2010. 
+TITLE = Ling & Ting : not exactly the same! / by Grace Lin. 
+PUBLISHER = New York : Little, Brown, 2010. 
+RECORD # = b13763738. LOCATION = ltm. 
+
+CALL NO. = QA10.7 .A44 2010. 
+TITLE = Duel at dawn : heroes, martyrs, and the rise of modern mathematics / 
+Amir Alexander. 
+PUBLISHER = Cambridge, Mass. : Harvard University Press, 2010. 
+RECORD # = b13773045. LOCATION = lbks. 
+
+CALL NO. = QA22 .R859 2010. 
+TITLE = The Babylonian theorem : the mathematical journey to Pythagoras and 
+Euclid / Peter S. Rudman. 
+PUBLISHER = Amherst, N.Y. : Prometheus Books, 2010. 
+RECORD # = b13773033. LOCATION = lbks. 
+
+CALL NO. = QA63 .H83 2009. 
+TITLE = Mythematics : solving the Twelve Labors of Hercules / Michael Huber. 
+PUBLISHER = Princeton, N.J. : Princeton University Press, c2009. 
+RECORD # = b13773070. LOCATION = lbks. 
+
+
+CALL NO. = QA76.73.J39 J68 2010. 
+TITLE = jQuery cookbook / jQuery Community Experts. 
+PUBLISHER = Beijing ; Cambridge : O'Reilly, c2010. 
+RECORD # = b13770263. LOCATION = lbks. 
+
+CALL NO. = QA177 .B67 2010. 
+TITLE = Mirrors and reflections : the geometry of finite reflection groups / 
+Alexandre V. Borovik, Anna Borovik. 
+PUBLISHER = New York : Springer, c2010. 
+RECORD # = b13773203. LOCATION = lbks. 
+
+CALL NO. = QC981.8.C37 H76 2009. 
+TITLE = Carbon sinks and climate change : forests in the fight against global 
+warming / Colin A.G. Hunt. 
+PUBLISHER = Cheltenham, Glos. ; Northampton, Mass. : Edward Elgar, c2009. 
+RECORD # = b13770652. LOCATION = lbks. 
+
+CALL NO. = QC981.8.C5 G666 2010. 
+TITLE = How to cool the planet : geoengineering and the audacious quest to fix 
+earth's climate / Jeff Goodell. 
+PUBLISHER = Boston : Houghton Mifflin Harcourt, 2010. 
+RECORD # = b13773550. LOCATION = lbks. 
+
+CALL NO. = QH545.W26 T96 2010. 
+TITLE = Military legacies : a world made by war / James A. Tyner. 
+PUBLISHER = New York : Routledge, 2010. 
+RECORD # = b13772041. LOCATION = lbks. 
+
+CALL NO. = QP376 .S77 2010. 
+TITLE = The secret life of the grown-up brain : the surprising talents of the 
+middle-aged mind / Barbara Strauch. 
+PUBLISHER = New York : Viking, 2010. 
+RECORD # = b13763787. LOCATION = lbks. 
+
+CALL NO. = W 18 .H434 2011. 
+TITLE = Health professional as educator : principles of teaching and learning / 
+Susan B. Bastable ... [et al.]. 
+PUBLISHER = Sudbury, MA : Jones & Bartlett Learning, c2011. 
+RECORD # = b13773690. LOCATION = lbks. 
+
+CALL NO. = W 21 G284c 2010. 
+TITLE = The checklist manifesto : how to get things right / Atul Gawande. 
+PUBLISHER = New York : Metropolitan Books, 2010. 
+RECORD # = b13772612. LOCATION = lbks. 
+
+CALL NO. = W 84.AA1 R845c 2010. 
+TITLE = Comprehensive healthcare for the U.S. : an idealized model / William F. 
+Roth. 
+PUBLISHER = Boca Raton, FL : CRC Press, c2010. 
+RECORD # = b13769595. LOCATION = lbks. 
+
+CALL NO. = WA 21 C854c 2009. 
+TITLE = Case studies in public health ethics / Steven S. Coughlin. 
+PUBLISHER = Washington, DC : American Public Health Association, c2009. 
+RECORD # = b13769583. LOCATION = lbks. 
+
+CALL NO. = WC 100 E77 2008. 
+TITLE = Essential infectious disease topics for primary care / edited by Neil S.
+Skolnik ; associate editor, Ross H. Albert. 
+PUBLISHER = Totowa, NJ : Humana Press, c2008. 
+RECORD # = b13773720. LOCATION = lbks. 
+
+CALL NO. = WC 534 H612e 2008. 
+TITLE = Ebola, culture, and politics : the anthropology of an emerging disease /
+Barry S. Hewlett, Bonnie L. Hewlett. 
+PUBLISHER = Belmont, CA : Thomson Higher Education, c2008. 
+RECORD # = b13771346. LOCATION = lbks. 
+
+
+CALL NO. = WM 34 N827c 2008. 
+TITLE = Clinician's guide to evidence-based practices : mental health and the 
+addictions / John C. Norcross, Thomas P. Hogan, & Gerald P. Koocher. 
+PUBLISHER = Oxford ; New York : Oxford University Press, 2008. 
+RECORD # = b13773719. LOCATION = lbks. 
+
+CALL NO. = WM 100 T474m 2007. 
+TITLE = Mental illness / Marie L. Thompson. 
+PUBLISHER = Westport, Conn. : Greenwood Press, 2007. 
+RECORD # = b13773732. LOCATION = lbks. 
+
+CALL NO. = WY 16|bA512h 2010. 
+TITLE = Nursing : scope and standards of practice / American Nurses Association.
+PUBLISHER = Silver Spring, Md. : American Nurses Association, 2010. 
+RECORD # = b13757416. LOCATION = lbks. 
+
+CALL NO. = WY 86 A512n 2010. 
+TITLE = Nursing's social policy statement : the essence of the profession / 
+American Nurses Association. 
+PUBLISHER = Silver Spring, Md. : American Nurses Association, 2010. 
+RECORD # = b13757404. LOCATION = lbks. 
+
+CALL NO. = WY 105 Z999 2010. 
+TITLE = 101 global leadership lessons for nurses : shared legacies from leaders 
+and their mentors / edited by Nancy Rollins Gantz. 
+PUBLISHER = Indianapolis, IN : Sigma Theta Tau International, c2010. 
+RECORD # = b13769571. LOCATION = lbks. 
+
+CALL NO. = WY 152 S422 2010. 
+TITLE = Gerontological nursing : scope and standards of practice / American 
+Nurses Association. 
+PUBLISHER = Silverspring, Md. : American Nurses Association, c2010. 
+RECORD # = b13773677. LOCATION = lbks. 
+
+CALL NO. = Z695.9 .K65 2010. 
+TITLE = Abstracts and abstracting : a genre and set of skills for the twenty-
+first century / Tibor Koltay. 
+PUBLISHER = Oxford : Chandos Pub., 2010. 
+RECORD # = b13769510. LOCATION = lbks. 

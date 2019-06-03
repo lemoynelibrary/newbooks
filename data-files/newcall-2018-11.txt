@@ -1,0 +1,302 @@
+
+
+CALL NO. = BL51 .P5453 1999. 
+TITLE = Philosophy of religion : the big questions / edited by Eleonore Stump 
+and Michael J. Murray. 
+PUBLISHER = Malden, Mass. : Blackwell Publishers, 1999. 
+RECORD # = b21499032. LOCATION = lbks. 
+
+
+CALL NO. = BL625.4 .M66 2017. 
+CALL NO. = BL625.4 .M66 2017. 
+TITLE = Ageless soul : the lifelong journey toward meaning and joy / Thomas 
+Moore. 
+PUBLISHER = New York, NY : St. Martins Press, 2017. 
+PUBLISHER = {u00A9}2017. 
+RECORD # = b21499251. LOCATION = lscr. LOCATION = lbks. 
+
+
+CALL NO. = BT216 .R83 1999. 
+TITLE = When Jesus became God / Richard E. Rubenstein. 
+PUBLISHER = New York : Harcourt Brace & Co., {u00A9}1999. 
+RECORD # = b23273318. LOCATION = lbks. 
+
+
+CALL NO. = BT590.P45 T39 2018. 
+TITLE = What did Jesus look like? / Joan E. Taylor. 
+PUBLISHER = London ; New York : Bloomsbury T&T Clark, [2018]. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b21498957. LOCATION = lbks. 
+
+
+CALL NO. = D27 .L36 2018. 
+TITLE = Seapower states : maritime culture, continental empires and the conflict
+that made the modern world / Andrew Lambert. 
+PUBLISHER = New Haven : Yale University Press, [2018]. 
+RECORD # = b23273033. LOCATION = lbks. 
+
+
+CALL NO. = E183 .F64 2018. 
+TITLE = Fascism : why not here? / Brian E. Fogarty. 
+PUBLISHER = [Nebraska] : Potomac Books, an imprint of the University of Nebraska
+Press, [2018]. 
+RECORD # = b2327279x. LOCATION = lbks. 
+
+
+CALL NO. = E184.M88 D35 2017. 
+TITLE = Dalya's other country / Other Country Films presents a film by Julia 
+Meltzer ; directed by Julia Meltzer ; producer, Julia Meltzer ; co-producer, 
+Mustafa Rony Zeno ; associate producer, Catherine Hollander ; a production of 
+Other Country Films in association with American Documentary / POV. 
+PUBLISHER = United States : Other Country Films [2017]. 
+PUBLISHER = {u00A9}2017. 
+RECORD # = b23274050. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = GE197 .T87 2018. 
+TITLE = The Republican reversal : conservatives and the environment from Nixon 
+to Trump / James Morton Turner and Andrew C. Isenberg. 
+PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2018. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b2327301x. LOCATION = lbks. 
+
+
+CALL NO. = HD9019.M382 U378 2018. 
+TITLE = The business of cannabis : new policies for the new marijuana industry /
+D.J. Summers. 
+PUBLISHER = Santa Barbara, California : Praeger, An Imprint of ABC-CLIO, LLC, 
+[2018]. 
+RECORD # = b21498647. LOCATION = lbks. 
+
+
+CALL NO. = HM743.F33 S47 2018. 
+TITLE = Frenemies : how social media polarizes America / Jaime E. Settle. 
+PUBLISHER = Cambridge, United Kingdom ; New York, NY : Cambridge University 
+Press, 2018. 
+RECORD # = b21498763. LOCATION = lbks. 
+
+
+CALL NO. = HM846 .F739 2017. 
+TITLE = Thank you for being late : an optimist's guide to thriving in the age of
+accelerations / Thomas L. Friedman. 
+PUBLISHER = New York : Picador, 2017. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b21498581. LOCATION = lbks. 
+
+
+CALL NO. = HN49.R33 M64 2018. 
+TITLE = Mutual radicalization : how groups and nations drive each other to 
+extremes / Fathali M. Moghaddam. 
+PUBLISHER = Washington, DC : American Psychological Association, [2018]. 
+RECORD # = b23272983. LOCATION = lbks. 
+
+
+CALL NO. = HQ1170 .H87 2016. 
+TITLE = From victims to suspects : muslim women since 9/11 / Shakira Hussein. 
+PUBLISHER = Sydney, New South Wales : NewSouth Publishing, 2016. 
+RECORD # = b23272867. LOCATION = lbks. 
+
+
+CALL NO. = HT861 .W43 2018. 
+TITLE = What is a slave society? : the practice of slavery in global perspective
+/ edited by Noel Lenski (Yale University), Catherine M. Cameron (University of 
+Colorado, Boulder) ; with the assistance of Joshua Fincher. 
+PUBLISHER = Cambridge, United Kingdom : Cambridge University Press, 2018. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b23273458. LOCATION = lbks. 
+
+
+
+
+CALL NO. = HV95 .K675 2018. 
+TITLE = Ensuring poverty : welfare reform in feminist perspective / Felicia 
+Kornbluh and Gwendolyn Mink. 
+PUBLISHER = 1806. 
+PUBLISHER = Philadelphia : University of Pennsylvania Press, [2018]. 
+RECORD # = b23272752. LOCATION = lbks. 
+
+
+CALL NO. = HV640.4.C3 C75 2018. 
+TITLE = Criminalization of migration context and consequences / edited by Idil 
+Atak and James C. Simeon. 
+PUBLISHER = Montreal : McGill-Queens's Univeristy Press, 2018. 
+RECORD # = b23272715. LOCATION = lbks. 
+
+
+CALL NO. = HV5805.S52 A3 2008. 
+TITLE = Tweak : growing up on methamphetamines / Nic Sheff. 
+PUBLISHER = New York : Atheneum Books For Young Readers, 2008. 
+RECORD # = b2327329x. LOCATION = lbks. 
+
+
+CALL NO. = HV5831.C2 S54 2009. 
+TITLE = Beautiful boy : a father's journey through his son's addiction / David 
+Sheff. 
+PUBLISHER = Boston : Mariner Books, Houghton Mifflin Harcourt, 2009. 
+RECORD # = b23273306. LOCATION = lbks. 
+
+
+CALL NO. = HV8699.U5 C64 2016. 
+TITLE = Convicting the innocent : death row and America's broken system of 
+justice / Stanley Cohen. 
+PUBLISHER = New York, NY : Skyhorse Publishing, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b23272740. LOCATION = lbks. 
+
+
+CALL NO. = JK305 .P366 2018. 
+TITLE = Parchment barriers : political polarization and the limits of 
+constitutional order / edited by Zachary Courser, Eric Helland, and Kenneth P. 
+Miller. 
+PUBLISHER = Lawrence, Kansas : University Press of Kansas, [2018]. 
+RECORD # = b23272922. LOCATION = lbks. 
+
+
+CALL NO. = JV6483 .W54 2018. 
+TITLE = Welcoming new Americans? : local governments and immigrant incorporation
+/ Abigail Fisher Williamson. 
+PUBLISHER = Chicago, IL : The University of Chicago Press, 2018. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b21498969. LOCATION = lbks. 
+
+
+
+
+CALL NO. = JZ5675 .L36 2018. 
+TITLE = Atomic assurance : the alliance politics of nuclear proliferation / 
+Alexander Lanoszka. 
+PUBLISHER = Ithaca [New York] : Cornell University Press, 2018. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b23272703. LOCATION = lbks. 
+
+
+CALL NO. = KF8742 .R84 2018. 
+TITLE = American justice 2018 : the shifting Supreme Court / Todd Ruger. 
+PUBLISHER = Philadelphia : University of Pennsylvania Press, [2018]. 
+RECORD # = b23272776. LOCATION = lbks. 
+
+
+CALL NO. = N8217.E88 P37 2018. 
+TITLE = Orientalist lives : western artists in the Middle East, 1830-1920 / 
+James Parry. 
+PUBLISHER = Cairo, Egypt ; New York, NY : The American University in Cairo Press,
+2018. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b23273264. LOCATION = lbkso. 
+
+
+CALL NO. = ND2889 .B76 2018. 
+TITLE = Understanding illuminated manuscripts : a guide to technical terms / 
+Michelle P. Brown ; revised by Elizabeth C. Teviotdale and Nancy K. Turner. 
+PUBLISHER = 1812. 
+PUBLISHER = Los Angeles : J. Paul Getty Museum, [2018]. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b21492918. LOCATION = lbks. 
+
+
+CALL NO. = PN1995.9.B62 C68 2018. 
+TITLE = Corporeality in early cinema : viscera, skin, and physical form / edited
+by Marina Dahlquist, Doron Galili, Jan Olsson, and Valentine Robert. 
+PUBLISHER = Bloomington, Indiana : Indiana University Press, [2018]. 
+RECORD # = b21024522. LOCATION = lbks. 
+
+
+CALL NO. = PN1995.9.C513 A63 2018. 
+TITLE = The apartment complex : urban living and global screen cultures / Pamela
+Robertson Wojcik, editor. 
+PUBLISHER = Durham : Duke University Press, 2018. 
+RECORD # = b21024479. LOCATION = lbks. 
+
+
+CALL NO. = PN2277.N52 A44 2018. 
+TITLE = The American Negro Theatre and the long civil rights era / Jonathan 
+Shandell. 
+PUBLISHER = Iowa City : University of Iowa Press, [2018]. 
+RECORD # = b21498660. LOCATION = lbks. 
+
+
+
+
+CALL NO. = PR3091 .V36 2018. 
+TITLE = Clues to acting Shakespeare / Wesley Van Tassel. 
+PUBLISHER = New York, NY: Allworth Press, an imprint of Skyhorse Publishing, 
+Inc., [2018]. 
+RECORD # = b21024510. LOCATION = lbks. 
+
+
+CALL NO. = PR6110.O417 E94 2018. 
+TITLE = Everything under / Daisy Johnson. 
+PUBLISHER = London : Jonathan Cape, [2018]. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b2327332x. LOCATION = lbks. 
+
+
+CALL NO. = PR9199.4.E35 W37 2018. 
+TITLE = Washington Black / Esi Edugyan. 
+PUBLISHER = New York : Alfred A. Knopf, 2018. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b23273288. LOCATION = lbks. 
+
+
+CALL NO. = PS508.T73 M43 2017. 
+TITLE = Meanwhile, elsewhere : science fiction and fantasy from transgender 
+writers / edited by Cat Fitzpatrick and Casey Plett. 
+PUBLISHER = New York, NY : Topside Press, [2017]. 
+PUBLISHER = {u00A9}2017. 
+RECORD # = b23273446. LOCATION = lbks. 
+
+
+CALL NO. = PS3611.U7386 M37 2018. 
+TITLE = The Mars room : a novel / Rachel Kushner. 
+PUBLISHER = {u00A9}2018. 
+PUBLISHER = New York, NY : Scribner, [2018]. 
+RECORD # = b23273276. LOCATION = lbks. 
+
+
+CALL NO. = PS3611.W36 C72 2013. 
+TITLE = Crazy rich Asians / Kevin Kwan. 
+PUBLISHER = London : Corvus, 2014. 
+RECORD # = b23273653. LOCATION = lbks. 
+
+
+CALL NO. = PS3612.L57 A6 2018. 
+CALL NO. = PS3612.L57 A6 2018. 
+TITLE = The moving of the water : stories / David Lloyd. 
+PUBLISHER = Albany : Excelsior Editions, an imprint of State University of New 
+York Press, 2018. 
+RECORD # = b21498994. LOCATION = lscla. LOCATION = lbks. 
+
+
+CALL NO. = QD251.3 .C367 2007. 
+CALL NO. = QD251.3 .C367 2007. 
+TITLE = Advanced organic chemistry / Frank A. Carey and Richard J. Sundberg. 
+PUBLISHER = New York : Springer, {u00A9}2007. 
+RECORD # = b21496857. LOCATION = lbks. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QD480 .M65 2017. 
+TITLE = Atomic architect molecular modeling kit. 
+PUBLISHER = [Place of publication not identified] : Atomic Architect, [between 
+2000 and 2017?]. 
+RECORD # = b23274207. LOCATION = lmk. 
+
+
+CALL NO. = TK5105.8855 .S36 2018. 
+TITLE = Click here to kill everybody : security and survival in a hyper-
+connected world / Bruce Schneier. 
+PUBLISHER = New York, NY : W.W. Norton & Company, [2018]. 
+RECORD # = b23272788. LOCATION = lbks. 
+
+
+CALL NO. = ZA4081.86 .G66 2018. 
+TITLE = CLIPP 44 : Institutional Repositories / compiled and written by Brighid 
+M. Gonzales. 
+PUBLISHER = Chicago, Illinois : Association of College and Research Libraries, a
+division of the American Library Association, 2018. 
+RECORD # = b23273331. LOCATION = lbks. 
+
+

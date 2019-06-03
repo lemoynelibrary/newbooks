@@ -1,0 +1,115 @@
+
+
+CALL NO. = LA132 .H35 1994. 
+CALL NO. = 1246. 
+TITLE = The heart of the nation / executive editor and correspondent, Hedrick 
+Smith ; producers, Philip Burton, Kathleen McCleery, Steven York ; a co-
+production of Hedrick Smith Productions, Inc. and WETA/Washington. 
+PUBLISHER = Princeton, NJ : Films for the Humanities & Sciences, c2005. 
+RECORD # = b17663593. LOCATION = lrsvm. LOCATION = lmvc. 
+
+
+CALL NO. = D810.J4 J49 2014. 
+TITLE = Jewish resistance against the Nazis / edited by Patrick Henry. 
+PUBLISHER = Washington, D.C. : The Catholic University of America Press, [2014].
+PUBLISHER = {496}2014. 
+RECORD # = b17174089. LOCATION = lbks. 
+
+
+CALL NO. = DK43 .F54 2014. 
+TITLE = Revolutionary Russia, 1891-1991 : a history / Orlando Figes. 
+PUBLISHER = New York : Metropolitan Books/Henry Holt and Company, 2014. 
+RECORD # = b17075117. LOCATION = lbks. 
+
+
+CALL NO. = LA217 .U45 1992. 
+TITLE = Unequal education / a presentation of Films for the Humanities & 
+Sciences ; from WNET/New York and WTTW/Chicago ; executive producer, Howard 
+Weinberg ; senior producer, Betsy McCarthy ; directors, Joseph Camp, Robert 
+Morris ; series producers, Tom Casciato, Megan Cogswell, Kathleen Hughes, 
+Stanley Nelson, Gail Pellett ; produced and reported by Linden Harrigan, Carolie
+Jenkins, Carol Roman, Dawn Sparks ; a production of Public Affairs Television, 
+Inc. 
+PUBLISHER = Princeton, N.J. : Films for the Humanities & Sciences, [2006]. 
+PUBLISHER = Princeton, N.J. : Films Media Group. 
+PUBLISHER = {496}2006. 
+RECORD # = b1766360x. LOCATION = lrsvm. 
+
+
+CALL NO. = LB1576 .C3125 2015. 
+TITLE = Writing pathways : performance assessments and learning progressions, 
+Grades K-8 / Lucy Calkins ; with Kelly Boland Hohne, Audra Kirshbaum Robb, and 
+colleagues from the Teachers College Reading and Writing Project ; photography 
+by Peter Cunningham. 
+PUBLISHER = Portsmouth, NH : Heinemann, {496}2015. 
+RECORD # = b17658184. LOCATION = lbkso. 
+
+
+CALL NO. = PN1993.15 .K48 1948. 
+TITLE = Key Largo / Warner Bros. Pictures presents a Warner Bros.-First National
+picture ; screen play by Richard Brooks and John Huston ; produced by Jerry Wald
+; directed by John Huston. 
+PUBLISHER = Burbank, CA : Warner Home Video : Turner Entertainment Co., [2005]. 
+RECORD # = b17175434. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .T429 2012. 
+TITLE = A terrible beauty / written by Keith Farrell ; producer, Dave Farrell ; 
+director, Keith Farrell. 
+PUBLISHER = [S.l.] : Tile Films, [2012]. 
+RECORD # = b17600923. LOCATION = lmvc. 
+
+
+CALL NO. = PR2828 .A1 1993. 
+CALL NO. = PR2828 .A1 1993. 
+TITLE = Much ado about nothing [videorecording] / Samuel Goldwyn Company, a 
+Renaissance Films production ; adapted for the screen by Kenneth Branagh ; 
+produced by Stephen Evans, David Parfitt, and Kenneth Branagh ; directed by 
+Kenneth Branagh. 
+PUBLISHER = Santa Monica, Calif. : MGM Home Entertainment, [2003]. 
+RECORD # = b1144793x. LOCATION = lmvc. LOCATION = lrsvm. 
+
+
+CALL NO. = PS3619.M5955 L64 2011. 
+TITLE = Life on Mars : poems / Tracy K. Smith. 
+PUBLISHER = Minneapolis, Minnesota : Graywolf Press, [2011]. 
+RECORD # = b17175781. LOCATION = lbks. 
+
+
+CALL NO. = WB555 .S278O 2014. 
+TITLE = Occupational therapy in community-based practice settings / Marjorie E. 
+Scaffa, S. Maggie Reitz. 
+PUBLISHER = Philadelphia : F.A. Davis Company, [2014]. 
+RECORD # = b17661559. LOCATION = lbks. 
+
+
+CALL NO. = WM 450.5.O2 K84L 1991. 
+TITLE = Life management skills II : reproducible activity handouts created for 
+facilitators / Kathy L. Korb, Stacey D. Azok, Estelle A. Leutenberg. 
+PUBLISHER = Beachwood, Ohio : Wellness Reproductions, Inc., {496}1991. 
+RECORD # = b17661626. LOCATION = lbks. 
+
+
+CALL NO. = WM 450.5 .O2 K84L 1999. 
+TITLE = Life management skills V : reproducible activity handouts created for 
+facilitators / Kathy L. Korba-Khalsa, Estelle A. Leutenberg. 
+PUBLISHER = Beachwood, Ohio : Wellness Reproductions & Pub., {496}1999. 
+RECORD # = b17661638. LOCATION = lbks. 
+
+
+CALL NO. = WM450.5.O2 K84L 2002. 
+TITLE = Life management skills VII : reproducible activity handouts created for 
+facilitators / Kathy L. Korb-Khalsa, Estelle A. Leutenberg. 
+PUBLISHER = Plainview, N.Y. : Wellness Reproductions & Pub., {496}2002. 
+RECORD # = b1766164x. LOCATION = lbks. 
+
+
+CALL NO. = WM450.5.O2 K84L 2004. 
+TITLE = Life management skills VIII : reproducible activity handouts created for
+facilitators / Kathy L. Korb-Khalsa, Estelle A. Leutenberg. 
+PUBLISHER = Plainview, NY : Wellness Reproductions, {496}2004. 
+RECORD # = b17661651. LOCATION = lbks. 
+
+

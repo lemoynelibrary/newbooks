@@ -1,0 +1,1403 @@
+
+
+CALL NO. = AM5 .A38 2008. 
+TITLE = Museums in motion : an introduction to the history and functions of 
+museums / Edward P. Alexander and Mary Alexander. 
+PUBLISHER = Lanham : AltaMira Press, {u00A9}2008. 
+RECORD # = b17755384. LOCATION = lbks. 
+
+
+CALL NO. = AM5 .W35 2015. 
+TITLE = Museums 101 / Mark Walhimer. 
+PUBLISHER = Lanham ; Boulder ; New York ; London : Rowman & Littlefield, [2015].
+RECORD # = b17755256. LOCATION = lbks. 
+
+
+CALL NO. = AM7 .B353 2014. 
+TITLE = The art of museum exhibitions : how story and imagination create 
+aesthetic experiences / Leslie Bedford. 
+PUBLISHER = Walnut Creek, California : Left Coast Press, [2014]. 
+RECORD # = b17755268. LOCATION = lbks. 
+
+
+CALL NO. = AM11 .A63 2008. 
+TITLE = National Standards & best practices for U.S. museums / the American 
+Association of Museums ; Commentary by Elizabeth E. Merritt. 
+PUBLISHER = Washington, DC : American Association of Museums, {u00A9}2008. 
+RECORD # = b17755396. LOCATION = lbks. 
+
+
+CALL NO. = AM121 .G465 2016. 
+TITLE = Museum administration 2.0 / by Hugh H. Genoways and Lynne M. Ireland ; 
+revised by Cinnamon Catlin-Legutko. 
+PUBLISHER = 1608. 
+PUBLISHER = Lanham, MD : Rowman & Littlefield, [2016]. 
+RECORD # = b1775513x. LOCATION = lbks. 
+
+
+CALL NO. = B3318.T44 K67 2016. 
+TITLE = The birth of theater from the spirit of philosophy : Nietzsche and the 
+modern drama / David Kornhaber. 
+PUBLISHER = Evanston, Illinois : Northwestern University Press, 2016. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17756467. LOCATION = lbks. 
+
+
+CALL NO. = BF633 .S45 2016. 
+TITLE = Human programming : brainwashing, automatons, and American unfreedom / 
+Scott Selisker. 
+PUBLISHER = Minneapolis : University of Minnesota Press, [2016]. 
+RECORD # = b1775656x. LOCATION = lbks. 
+
+
+CALL NO. = BF1461 .W39 2016. 
+TITLE = Ghostly encounters : the hauntings of everyday life / Dennis Waskul with
+Michele Waskul. 
+PUBLISHER = Philadelphia : Temple University Press, [2016]. 
+RECORD # = b17752358. LOCATION = lbks. 
+
+
+
+
+CALL NO. = BF1566 .L3 2016. 
+TITLE = Witches and demons : a comparative perspective on witchcraft and 
+satanism / Jean La Fontaine. 
+PUBLISHER = New York : Berghahn, 2016. 
+RECORD # = b17752413. LOCATION = lbks. 
+
+
+CALL NO. = BM520.52 .O94 2015. 
+CALL NO. = BM520.52 .O94 2015. 
+TITLE = The Oxford encyclopedia of the Bible and law / Brent A. Strawn, editor 
+in chief. 
+PUBLISHER = Oxford ; New York : Oxford University Press, [2015]. 
+RECORD # = b17750222. LOCATION = lrefs. LOCATION = lrefs. 
+
+
+CALL NO. = BP173.75 .S524 2016. 
+TITLE = Brand Islam : the marketing and commodification of piety / Faegheh 
+Shirazi. 
+PUBLISHER = Austin : University of Texas Press, [2016]. 
+RECORD # = b17756480. LOCATION = lbks. 
+
+
+CALL NO. = BS455 .N65 2015. 
+TITLE = In the beginning was the word : the Bible in American public life, 1492-
+1783 / Mark A. Noll. 
+PUBLISHER = Oxford ; New York : Oxford University Press, [2016]. 
+RECORD # = b1775687x. LOCATION = lbks. 
+
+
+CALL NO. = BV3340 .K38 2007. 
+TITLE = Christian moderns : freedom and fetish in the mission encounter / Webb 
+Keane. 
+PUBLISHER = Berkeley : University of California Press, {u00A9}2007. 
+RECORD # = b17750362. LOCATION = lbks. 
+
+
+CALL NO. = BX4220.I8 W6513 2015. 
+TITLE = The nuns of Sant'Ambrogio : a true story of a convent in scandal / 
+Hubert Wolf ; translated by Ruth Martin. 
+PUBLISHER = New York : Alfred A. Knopf, 2015. 
+RECORD # = b17750209. LOCATION = lbks. 
+
+
+CALL NO. = CT275.P417 A75 2016. 
+TITLE = The huntress : the adventures, escapades, and triumphs of Alicia 
+Patterson: aviatrix, sportswoman, journalist, publisher / Alice Arlen and 
+Michael J. Arlen. 
+PUBLISHER = New York : Pantheon Books, [2016]. 
+RECORD # = b17756200. LOCATION = lbks. 
+
+
+CALL NO. = D157 .C763 2016. 
+TITLE = The crusader world / edited by Adrian J. Boas. 
+PUBLISHER = New York, NY : Routledge, Taylor & Francis Group, 2016. 
+RECORD # = b17756790. LOCATION = lbks. 
+
+
+
+
+CALL NO. = D759 .P75 2015. 
+TITLE = When Britain saved the west : the story of 1940 / Robin Prior. 
+PUBLISHER = New Haven : Yale University Press, [2015]. 
+RECORD # = b17678821. LOCATION = lbks. 
+
+
+CALL NO. = D805.6.L35 I58 2016. 
+TITLE = Interpreting in Nazi concentration camps / edited by Michaela Wolf ; 
+with an essay by Primo Levi. 
+PUBLISHER = New York : Bloomsbury Academic, an imprint of Bloomsbury Publishing 
+Inc, 2016. 
+RECORD # = b17757356. LOCATION = lbks. 
+
+
+CALL NO. = DA355 .G87 2016. 
+TITLE = Elizabeth : the forgotten years / John Guy. 
+PUBLISHER = New York : Viking, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17756807. LOCATION = lbks. 
+
+
+CALL NO. = DA520 .U37 2014. 
+TITLE = In these times : living in Britain through Napoleon's wars, 1793-1815 / 
+Jenny Uglow. 
+PUBLISHER = New York : Farrar, Straus and Giroux, 2014. 
+RECORD # = b17750106. LOCATION = lbks. 
+
+
+CALL NO. = DC203 .R678 2014. 
+TITLE = Napoleon : a life / Andrew Roberts. 
+PUBLISHER = New York, New York : Viking, 2014. 
+PUBLISHER = {u00A9}2014. 
+RECORD # = b17750180. LOCATION = lbks. 
+
+
+CALL NO. = DC317 .M365 2014. 
+TITLE = Massacre : the life and death of the Paris Commune / John Merriman. 
+PUBLISHER = New York, NY : Basic Books, [2014]. 
+RECORD # = b17750167. LOCATION = lbks. 
+
+
+CALL NO. = DH186.5 .H37 2014. 
+TITLE = The Dutch wars of independence : warfare and commerce in the Netherlands
+1570-1680 / Marjolein 't Hart. 
+PUBLISHER = London ; New York : Routledge, Taylor & Francis Group, 2014. 
+PUBLISHER = {u00A9}2014. 
+RECORD # = b1775012x. LOCATION = lbks. 
+
+
+CALL NO. = DK34.M8 C36 2015. 
+TITLE = The Muslim question and Russian imperial governance / Elena I. Campbell.
+PUBLISHER = Bloomington : Indiana University Press, [2015]. 
+PUBLISHER = {u00A9}2015. 
+RECORD # = b17750179. LOCATION = lbks. 
+
+
+
+
+CALL NO. = DK948.85 .K47 2015. 
+TITLE = Making Uzbekistan : Nation, Empire, and Revolution in the Early USSR / 
+Adeeb Khalid. 
+PUBLISHER = Ithaca ; London : Cornell University Press, 2015. 
+PUBLISHER = {u00A9}2015. 
+RECORD # = b17756881. LOCATION = lbks. 
+
+
+CALL NO. = DS79.757 .O28 2016. 
+TITLE = Not the Chilcot report / Peter Oborne. 
+PUBLISHER = London : Head of Zeus, 2016. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17755359. LOCATION = lbks. 
+
+
+CALL NO. = DS119.7 .B7139 2015. 
+TITLE = Cursed victory : Israel and the Occupied Territories : a history / Ahron
+Bregman. 
+PUBLISHER = New York : Pegasus Books, 2015. 
+PUBLISHER = {u00A9}2014. 
+RECORD # = b17678158. LOCATION = lbks. 
+
+
+CALL NO. = DS155 .M3713 2016. 
+TITLE = In the land of a thousand gods : a history of Asia Minor in the ancient 
+world / Christian Marek, in collaboration with Peter Frei ; translated by Steven
+Rendall. 
+PUBLISHER = Princeton : Princeton University Press, [2016]. 
+RECORD # = b17755840. LOCATION = lbks. 
+
+
+CALL NO. = DS283 .S76 2015. 
+TITLE = Xerxes : a Persian life / Richard Stoneman. 
+PUBLISHER = New Haven : Yale University Press, [2015]. 
+RECORD # = b17678766. LOCATION = lbks. 
+
+
+CALL NO. = DT33.7 .C66 2014. 
+TITLE = Citizenship between empire and nation : remaking France and French 
+Africa, 1945-1960 / Frederick Cooper. 
+PUBLISHER = Princeton, New Jersey : Princeton University Press, [2014]. 
+PUBLISHER = {u00A9}2014. 
+RECORD # = b17678389. LOCATION = lbks. 
+
+
+CALL NO. = DT636.5 P73 2009. 
+TITLE = Pray the devil back to Hell / Fork Films ; [Gini Reticker, director ; 
+Abigail E. Disney, producer]. 
+PUBLISHER = [United States] : Passion River Films, [2009]. 
+RECORD # = b17831283. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = E91 .H37 2015. 
+TITLE = Native tongues : colonialism and race from encounter to the reservation 
+/ Sean P. Harvey. 
+PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2015. 
+RECORD # = b17750192. LOCATION = lbks. 
+
+
+CALL NO. = E99.D25 .F73 2015. 
+TITLE = Fractured Land / presented by Two Island Films ; a film by Damien Gillis
+and Fiona Rayher. 
+PUBLISHER = [Vancouver, British Columbia] : Two Island Films Ltd., 2015. 
+PUBLISHER = Vancouver, British Columbia : Moving Images distribution, 2015. 
+RECORD # = b17831519. LOCATION = lmvc. 
+
+
+CALL NO. = E99.O45 K45 2015. 
+TITLE = Laura Cornelius Kellogg : Our democracy and the American Indian and 
+other works / edited by Kristina Ackley and Cristina Stanciu ; foreword by 
+Loretta V. Metoxen. 
+PUBLISHER = Syracuse, New York : Syracuse University Press, 2015. 
+RECORD # = b17750143. LOCATION = lbks. 
+
+
+CALL NO. = E159 .B415 2016. 
+TITLE = Bending the future : fifty ideas for the next fifty years of historic 
+preservation in the United States / edited by Max Page and Marla R. Miller. 
+PUBLISHER = Amherst : University of Massachusetts Press, [2016]. 
+RECORD # = b17756443. LOCATION = lbks. 
+
+
+CALL NO. = E185.61 .W737 2015. 
+TITLE = Rethinking the black freedom movement / Yohuru Williams. 
+PUBLISHER = New York : Routledge,Taylor & Francis Group, 2016. 
+RECORD # = b17757095. LOCATION = lbks. 
+
+
+CALL NO. = E185.615 .F526 2016. 
+TITLE = The fire this time : a new generation speaks about race / edited by 
+Jesmyn Ward. 
+PUBLISHER = New York : Scribner, 2016. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17756182. LOCATION = lbks. 
+
+
+CALL NO. = E185.615 .I83 2016. 
+TITLE = Civil Racism : the 1992 Los Angeles Rebellion and the Crisis of Racial 
+Burnout / Lynn Mie Itagaki. 
+PUBLISHER = Minneapolis : University of Minnesota Press, [2016]. 
+RECORD # = b17756832. LOCATION = lbks. 
+
+
+
+
+CALL NO. = E185.615 .T76 2016. 
+TITLE = Jackson, 1964 : and other dispatches from fifty years of reporting on 
+race in America / Calvin Trillin. 
+PUBLISHER = New York : Random House, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17752619. LOCATION = lbks. 
+
+
+CALL NO. = E185.625 .S763 2016. 
+TITLE = Long past slavery : representing race in the Federal Writers' Project / 
+Catherine A. Stewart. 
+PUBLISHER = Chapel Hill : The University of North Carolina Press, [2016]. 
+RECORD # = b17754811. LOCATION = lbks. 
+
+
+CALL NO. = E185.86 .S257 2016. 
+TITLE = A chance for change : Head Start and Mississippi's black freedom 
+struggle / Crystal R. Sanders. 
+PUBLISHER = 1604. 
+PUBLISHER = Chapel Hill : The University of North Carolina Press, [2016]. 
+RECORD # = b17756819. LOCATION = lbks. 
+
+
+CALL NO. = E185.97.H24 D45 2016. 
+TITLE = Making Roots : a nation captivated / Matthew F. Delmont. 
+PUBLISHER = Oakland, California : University of California Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17756571. LOCATION = lbks. 
+
+
+CALL NO. = E209 .S36 2015. 
+TITLE = Fighting over the founders : how we remember the American Revolution / 
+Andrew M. Schocket. 
+PUBLISHER = New York : New York University Press, [2015]. 
+RECORD # = b17750131. LOCATION = lbks. 
+
+
+CALL NO. = E415.7 .D42 2015. 
+TITLE = An agrarian republic : farming, antislavery politics, and nature parks 
+in the Civil War era / Adam Wesley Dean. 
+PUBLISHER = Chapel Hill : The University of North Carolina Press, 2015. 
+RECORD # = b17750258. LOCATION = lbks. 
+
+
+CALL NO. = E449 .B766 2016. 
+TITLE = Liberty power : antislavery third parties and the transformation of 
+American politics / Corey M. Brooks. 
+PUBLISHER = Chicago ; London : The University of Chicago Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b1775690x. LOCATION = lbks. 
+
+
+
+
+CALL NO. = E469 .D53 2015. 
+TITLE = Our man in Charleston : Britain's secret agent in the Civil War South / 
+Christopher Dickey. 
+PUBLISHER = New York : Crown Publishers, [2015]. 
+RECORD # = b17678924. LOCATION = lbks. 
+
+
+CALL NO. = E476.69 .F73 2015. 
+TITLE = The civilian war : Confederate women and Union soldiers during Sherman's
+March / Lisa Tendrich Frank. 
+PUBLISHER = Baton Rouge : Louisiana State University Press, [2015]. 
+RECORD # = b17750118. LOCATION = lbks. 
+
+
+CALL NO. = F128.9.N4 O65 2014. 
+TITLE = Upsetting the apple cart : Black-Latino coalitions in New York City from
+protest to public office / Frederick Douglass Opie. 
+PUBLISHER = New York : Columbia University Press, 2014. 
+RECORD # = b17750246. LOCATION = lbks. 
+
+
+CALL NO. = F475.G3 A53 2016. 
+TITLE = Abolitionizing Missouri : German immigrants and racial ideology in 
+nineteenth-century America / Kristen Layne Anderson. 
+PUBLISHER = Baton Rouge : Louisiana State University Press, [2016]. 
+RECORD # = b17756820. LOCATION = lbks. 
+
+
+CALL NO. = F596.2 .P54 2016. 
+TITLE = Making the White Man's West : Whiteness and the Creation of the American
+West / Jason E. Pierce. 
+PUBLISHER = Boulder : University Press of Colorado, [2016]. 
+RECORD # = b17756893. LOCATION = lbks. 
+
+
+CALL NO. = GN772.2.A1 V66 2016. 
+TITLE = The first signs : unlocking the mysteries of the world's oldest symbols 
+/ Genevieve von Petzinger. 
+PUBLISHER = New York : Atria Books, 2016. 
+RECORD # = b17755888. LOCATION = lbks. 
+
+
+CALL NO. = GR340 .M87 2015. 
+TITLE = From Dog bridegroom to Wolf girl : contemporary Japanese fairy-tale 
+adaptations in conversation with the West / Mayako Murai. 
+PUBLISHER = Detroit, Michigan : Wayne State University Press, [2015]. 
+PUBLISHER = {u00A9}2015. 
+RECORD # = b17755098. LOCATION = lbks. 
+
+
+CALL NO. = GV709 .P48 2016. 
+TITLE = Sex testing : gender policing in women's sports / Lindsay Parks Pieper. 
+PUBLISHER = Urbana : University of Illinois Press, [2016]. 
+RECORD # = b17752292. LOCATION = lbks. 
+
+
+
+
+CALL NO. = GV1469.3 .C646 2016. 
+TITLE = Atari to Zelda : Japan's videogames in global contexts / Mia Consalvo. 
+PUBLISHER = Cambridge, Massachusetts ; London, England : the MIT Press, [2016]. 
+RECORD # = b17756455. LOCATION = lbks. 
+
+
+CALL NO. = GV1623 .Z45 2016. 
+TITLE = Shapes of American ballet : teachers and training before Balanchine / 
+Jessica Zeller. 
+PUBLISHER = New York : Oxford University Press, [2016]. 
+RECORD # = b17755281. LOCATION = lbks. 
+
+
+CALL NO. = GV1782 .H66 2016. 
+TITLE = Dance production : design and technology / Jeromy Hopgood. 
+PUBLISHER = New York : Focal Press, is an imprint of the Taylor & Francis Group,
+an Informa business, [2016]. 
+RECORD # = b17755190. LOCATION = lbks. 
+
+
+CALL NO. = HB501 .A455 2016. 
+TITLE = After capitalism : horizons of finance, culture, and citizenship / 
+edited by Kennan Ferguson and Patrice Petro. 
+PUBLISHER = New Brunswick, New Jersey : Rutgers University Press, [2016]. 
+RECORD # = b1775737x. LOCATION = lbks. 
+
+
+CALL NO. = HB615 .F86 2014. 
+TITLE = Windfall : the booming business of global warming / McKenzie Funk. 
+PUBLISHER = New York : Penguin Press, 2014. 
+RECORD # = b17672533. LOCATION = lbks. 
+
+
+CALL NO. = HB3654.A3 F66 2016. 
+TITLE = One child : the story of China's most radical experiment / Mei Fong. 
+PUBLISHER = Boston : Houghton Mifflin Harcourt, 2016. 
+RECORD # = b17755086. LOCATION = lbks. 
+
+
+CALL NO. = HB3782 .P55 2016. 
+TITLE = Why save the bankers? : and other essays on our economic and political 
+crisis / Thomas Piketty ; translated from the French and annotated by Seth 
+Ackerman. 
+PUBLISHER = Boston : Houghton Mifflin Harcourt, 2016. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17750350. LOCATION = lbks. 
+
+
+CALL NO. = HC79.C3 R643 2016. 
+TITLE = Reliability and risk : the challenge of managing interconnected 
+infrastructures / Emery Roe and Paul R. Schulman. 
+PUBLISHER = Stanford, California : Stanford Business Books, an imprint of 
+Stanford University Press, 2016. 
+RECORD # = b17756649. LOCATION = lbks. 
+
+
+
+
+CALL NO. = HD69.S8 T45 2009. 
+TITLE = The collaborative habit : life lessons for working together / Twyla 
+Tharp ; with Jesse Kornbluth. 
+PUBLISHER = New York : Simon & Schuster, 2009. 
+RECORD # = b17755153. LOCATION = lbks. 
+
+
+CALL NO. = HD1527.C2 M36 2016. 
+TITLE = Farm worker futurism : speculative technologies of resistance / Curtis 
+Marez. 
+PUBLISHER = Minneapolis : University of Minnesota Press, [2016]. 
+RECORD # = b17756509. LOCATION = lbks. 
+
+
+CALL NO. = HD6490.W42 U65 2014. 
+TITLE = Making an American workforce : the Rockefellers and the legacy of Ludlow
+/ edited by Fawn-Amber Montoya. 
+PUBLISHER = Boulder : University Press of Colorado, [2014]. 
+RECORD # = b17750155. LOCATION = lbks. 
+
+
+CALL NO. = HD8039.C2582 U62 2016. 
+TITLE = The filth of progress : immigrants, Americans, and the building of 
+canals and railroads in the West / Ryan Dearinger. 
+PUBLISHER = Oakland, California : University of California Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17757411. LOCATION = lbks. 
+
+
+CALL NO. = HF5415.12615 .W47 2012. 
+TITLE = For the win : how game thinking can revolutionize your business / Kevin 
+Werbach, Dan Hunter. 
+PUBLISHER = Philadelphia : Wharton Digital Press, 2012. 
+RECORD # = b17752139. LOCATION = lbks. 
+
+
+CALL NO. = HF5549.5.M63 B875 2014. 
+TITLE = Gamify : how gamification motivates people to do extraordinary things / 
+Brian Burke (Gartner, Inc.). 
+PUBLISHER = Brookline, MA : Bibliomotion, Books + media, [2014]. 
+RECORD # = b17752164. LOCATION = lbks. 
+
+
+CALL NO. = HF5549.5.S38 B496 2015. 
+TITLE = The magnetic organization : attracting and retaining the best talent / 
+Dipak Kumar Bhattacharyya. 
+PUBLISHER = Los Angeles ; New York : SAGE, 2015. 
+RECORD # = b17752590. LOCATION = lbks. 
+
+
+CALL NO. = HJ7033.5.Z5 M37 2016. 
+TITLE = Margins of the market : trafficking and capitalism across the Arabian 
+Sea / Johan Mathew. 
+PUBLISHER = Oakland, California : University of California Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17756613. LOCATION = lbks. 
+
+
+
+
+CALL NO. = HM743.T95 T85 2014. 
+TITLE = Twitter and society / edited by Katrin Weller, Axel Bruns, Jean Burgess,
+Merja Mahrt, & Cornelius Puschmann. 
+PUBLISHER = New York, NY : Peter Lang, [2014]. 
+RECORD # = b17677828. LOCATION = lbks. 
+
+
+CALL NO. = HM846 .H368 2016. 
+TITLE = The age of em : work, love, and life when robots rule the Earth / Robin 
+Hanson. 
+PUBLISHER = Oxford : Oxford University Press, 2016. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17756479. LOCATION = lbks. 
+
+
+CALL NO. = HM851 .S37 2016. 
+TITLE = The four-dimensional human : ways of being in the digital world / 
+Laurence Scott. 
+PUBLISHER = New York, NY : W. W. Norton & Company, [2016]. 
+PUBLISHER = {u00A9}2015. 
+RECORD # = b17757319. LOCATION = lbks. 
+
+
+CALL NO. = HM1261 .J64 2015. 
+TITLE = Meeting the ethical challenges of leadership : casting light or shadow /
+Craig E. Johnson, George Fox University. 
+PUBLISHER = Los Angeles : Sage, [2015]. 
+RECORD # = b17755748. LOCATION = lbks. 
+
+
+CALL NO. = HN90.S6 I84 2016. 
+TITLE = White trash : the 400-year untold history of class in America / Nancy 
+Isenberg. 
+PUBLISHER = New York, New York : Viking, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17755876. LOCATION = lbks. 
+
+
+CALL NO. = HQ801 .W62 2016. 
+TITLE = Labor of love : the invention of dating / Moira Weigel. 
+PUBLISHER = New York, NY : Farrar, Straus and Giroux, [2016]. 
+RECORD # = b17755062. LOCATION = lbks. 
+
+
+CALL NO. = HQ1236.5.U6 H39 2016. 
+TITLE = Women on the run : gender, media, and political campaigns in a polarized
+era / Danny Hayes, George Washington University, Jennifer L. Lawless, American 
+University. 
+PUBLISHER = New York NY : Cambridge University Press, 2016. 
+RECORD # = b17752334. LOCATION = lbks. 
+
+
+
+
+CALL NO. = HQ1381 .M3613 2016. 
+TITLE = Who cooked Adam Smith's dinner? : a story about women and economics / 
+Katrine Mar{u00E7}al ; translated from the Swedish by Saskia Vogel. 
+PUBLISHER = New York, NY : Pegasus Books LLC, 2016. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17751755. LOCATION = lbks. 
+
+
+CALL NO. = HQ1438.T4 T58 2015. 
+TITLE = Texas women : their histories, their lives / [edited by] Elizabeth Hayes
+Turner, Stephanie Cole, Rebecca Sharpless. 
+PUBLISHER = Athens, Georgia : The University of Georgia Press, 2015. 
+RECORD # = b17750234. LOCATION = lbks. 
+
+
+CALL NO. = HT1575 .D53 2012. 
+TITLE = What does it mean to be white? : developing white racial literacy / 
+Robin DiAngelo. 
+PUBLISHER = New York : Peter Lang, {u00A9}2012. 
+RECORD # = b17679199. LOCATION = lbks. 
+
+
+CALL NO. = HV1276.7 .M35 2014. 
+TITLE = Orphans and destitute children in the late Ottoman Empire / Nazan 
+Maksudyan. 
+PUBLISHER = Syracuse, New York : Syracuse University Press, 2014. 
+RECORD # = b17750210. LOCATION = lbks. 
+
+
+CALL NO. = HV5801 .W325 2016. 
+TITLE = Narconomics : how to run a drug cartel / Tom Wainwright. 
+PUBLISHER = New York : PublicAffairs, [2016]. 
+RECORD # = b17751676. LOCATION = lbks. 
+
+
+CALL NO. = HV6250.25 .M395 2015. 
+TITLE = Victims : trauma, testimony and justice / Ross McGarry and Sandra 
+Walklate. 
+PUBLISHER = Abingdon, Oxon ; New York, NY : Routledge, 2015. 
+PUBLISHER = {u00A9}2015. 
+RECORD # = b17751767. LOCATION = lbks. 
+
+
+CALL NO. = HV6432 .B4624 2016. 
+TITLE = United States of Jihad : investigating America's homegrown terrorists / 
+Peter Bergen. 
+PUBLISHER = New York : Crown Publishers, [2016]. 
+RECORD # = b17755074. LOCATION = lbks. 
+
+
+CALL NO. = HV8073 .S2 2015. 
+TITLE = Criminalistics : an introduction to forensic science / Richard 
+Saferstein, Ph.D., Forensic Science Consultant, Mt. Laurel, New Jersey. 
+PUBLISHER = Boston : Pearson, [2015]. 
+RECORD # = b17755980. LOCATION = lbks. 
+
+
+
+
+CALL NO. = JC573.2.U6 H624 2016. 
+TITLE = Strangers in their own land : anger and mourning on the American right /
+Arlie Russell Hochschild. 
+PUBLISHER = New York : New Press, 2016. 
+RECORD # = b17830692. LOCATION = lbks. 
+
+
+CALL NO. = JC591 .G37 2016. 
+TITLE = Free speech : ten principles for a connected world / Timothy Garton Ash.
+PUBLISHER = New Haven ; London : Yale University Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17752310. LOCATION = lbks. 
+
+
+CALL NO. = JK275 .T78 2016. 
+TITLE = Great again : how to fix our crippled America / Donald J. Trump. 
+PUBLISHER = New York : Threshold Editions, 2016. 
+PUBLISHER = {u00A9}2015. 
+RECORD # = b1775589x. LOCATION = lbks. 
+
+
+CALL NO. = JQ1850.A91 K72 2016. 
+TITLE = The naked blogger of Cairo : creative insurgency in the Arab world / 
+Marwan M. Kraidy. 
+PUBLISHER = Cambridge, Massachusetts : Harvard University Press, [2016]. 
+RECORD # = b17752280. LOCATION = lbks. 
+
+
+CALL NO. = KF213.S32 R56 2016. 
+TITLE = Scalia's court : a legacy of landmark opinions and dissents / with edits
+and commentary by Kevin A. Ring. 
+PUBLISHER = Washington, DC : Regnery Publishing, a division of Salem Media Group,
+[2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17754835. LOCATION = lbks. 
+
+
+CALL NO. = KF9223 .G74 2016. 
+TITLE = Rogue justice : the making of the security state / Karen J. Greenberg. 
+PUBLISHER = New York : Crown Publishers, [2016]. 
+RECORD # = b17754847. LOCATION = lbks. 
+
+
+CALL NO. = LB2331.72 .G55 2010. 
+TITLE = A guide to faculty development / Kay Gillespie, Douglas L. Robertson and
+Associates ; afterword by William H. Bergquist. 
+PUBLISHER = San Francisco : Jossey-Bass, {u00A9}2010. 
+RECORD # = b17751445. LOCATION = lbks. 
+
+
+CALL NO. = M1070.A75 S27 2001. 
+TITLE = Satchmo! : a tribute to Louis Armstrong / arranged by Ted Ricketts. 
+PUBLISHER = Milwaukee, WI : Hal Leonard Corp., {u00A9}2001. 
+RECORD # = b17768147. LOCATION = lbks. 
+
+
+
+
+CALL NO. = M1075 .S25 1995. 
+TITLE = A salute to the big bands : a tribute to Louis Armstrong / arranged by 
+Calvin Custer. 
+PUBLISHER = [Miami, FL] : Warner Bros., 1995. 
+RECORD # = b17768159. LOCATION = lbks. 
+
+
+CALL NO. = M1366.F52 T57 2003. 
+TITLE = A tisket a tasket : as performed by Ella Fitzgerald & the Chick Webb 
+Orchestra / music by Ella Fitzgerald and Al Feldman ; transcribed and adapted by
+Klaus Lessmann. 
+PUBLISHER = Luton : Lush Life Music, [2003]. 
+RECORD # = b17768135. LOCATION = lbks. 
+
+
+CALL NO. = M1366.P784 T57 2003. 
+TITLE = Night and day / words and music by Cole Porter ; arranged by Dave Wolpe.
+PUBLISHER = Van Nuys, Calif. : Alfred Publishing, 2008. 
+RECORD # = b17768160. LOCATION = lbks. 
+
+
+CALL NO. = ML300 .F35 2016. 
+TITLE = Classics for the masses : shaping Soviet musical identity under Lenin 
+and Stalin / Pauline Fairclough. 
+PUBLISHER = New Haven : Yale University Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17831337. LOCATION = lbks. 
+
+
+CALL NO. = ML1015.G9 T76 2016. 
+TITLE = K{u012B}k{u0101} kila : how the Hawaiian steel guitar changed the sound 
+of modern music / John W. Troutman. 
+PUBLISHER = Chapel Hill : The University of North Carolina Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17752309. LOCATION = lbks. 
+
+
+CALL NO. = ML1711 .V37 2016. 
+TITLE = The secret life of the American musical : how Broadway shows are built /
+Jack Viertel. 
+PUBLISHER = New York : Sarah Crichton Books, 2016. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17756418. LOCATION = lbks. 
+
+
+CALL NO. = ML3540.7 M93 2016. 
+TITLE = Music video games : performance, politics, and play / edited by: Michael
+Austin. 
+PUBLISHER = New York : Bloomsbury Academic, 2016. 
+RECORD # = b17756352. LOCATION = lbks. 
+
+
+
+
+CALL NO. = ML3565 .N56 2016. 
+TITLE = Chocolate surrealism : music, movement, memory, and history in the 
+circum-Caribbean / Njoroge Njoroge. 
+PUBLISHER = Jackson : University Press of Mississippi, [2016]. 
+RECORD # = b17755785. LOCATION = lbks. 
+
+
+CALL NO. = ML3918.P67 B72 2016. 
+TITLE = Categorizing sound : genre and twentieth-century popular music / David 
+Brackett. 
+PUBLISHER = Oakland : University of California Press, [2016]. 
+RECORD # = b17756522. LOCATION = lbks. 
+
+
+CALL NO. = ML3918.P67 D35 2016. 
+TITLE = Popular music and the politics of novelty / Pete Dale. 
+PUBLISHER = New York, NY : Bloomsbury Academic, 2016. 
+PUBLISHER = 2016. 
+RECORD # = b17752425. LOCATION = lbks. 
+
+
+CALL NO. = ML3918.R63 D86 2016. 
+TITLE = Global punk : resistance and rebellion in everyday life / Kevin C. Dunn.
+PUBLISHER = New York : Bloomsbury Academic, an imprint of Bloomsbury Publishing 
+Inc, 2016. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17755797. LOCATION = lbks. 
+
+
+CALL NO. = ML3921.8.R36 N83 2016. 
+TITLE = The street is my pulpit : hip hop and Christianity in Kenya / Mwenda 
+Ntarangwi. 
+PUBLISHER = Urbana : University of Illinois Press, [2016]. 
+RECORD # = b17752346. LOCATION = lbks. 
+
+
+CALL NO. = MT260 .I2513 2016. 
+TITLE = The Russian violin school : the legacy of Yuri Yankelevich / edited and 
+translated by Masha Lankovsky. 
+PUBLISHER = New York : Oxford University Press, [2016]. 
+RECORD # = b17756650. LOCATION = lbks. 
+
+
+CALL NO. = MT893 .P87 2016. 
+TITLE = Musical theatre song : a comprehensive course in selection, preparation 
+and presentation for the modern performer / Stephen Purdy. 
+PUBLISHER = London : Bloomsbury Methuen Drama, 2016. 
+RECORD # = b17756212. LOCATION = lbks. 
+
+
+CALL NO. = MT956 .D44 2016. 
+TITLE = Acting in musical theatre : a comprehensive course / by Joe Deer and 
+Rocco dal Vera. 
+PUBLISHER = London ; New York : Routledge, 2016. 
+RECORD # = b1775611x. LOCATION = lbks. 
+
+
+
+
+CALL NO. = MT956 .F56 2016. 
+TITLE = Get the callback : the art of auditioning for musical theatre / Jonathan
+Flom. 
+PUBLISHER = Lanham : Rowman & Littlefield, [2016]. 
+RECORD # = b17756169. LOCATION = lbks. 
+
+
+CALL NO. = MT956 .M67 2016. 
+TITLE = Acting the song : performance skills for the musical theatre / Tracey 
+Moore with Allison Bergman. 
+PUBLISHER = New York : Allworth Press, an imprint of Skyhorse Publishing, Inc., 
+[2016]. 
+RECORD # = b17756133. LOCATION = lbks. 
+
+
+CALL NO. = N6494.I56 U54 2015. 
+TITLE = Unexpected art : serendipitous installations, site-specific works, and 
+surprising interventions / edited by Jenny Moussa Spring ; Preface by Florentijn
+Hofman ; Introduction by Christian L. Frock. 
+PUBLISHER = San Francisco : Chronicle Books, [2015]. 
+RECORD # = b17755116. LOCATION = lbks. 
+
+
+CALL NO. = NA2750 .D665 2012. 
+TITLE = Make space : how to set the stage for creative collaboration / Scott 
+Doorley & Scott Witthoft ; with a foreword by David Kelley. 
+PUBLISHER = Hoboken, New Jersey : John Wiley & Sons, [2012]. 
+PUBLISHER = {u00A9}2012. 
+RECORD # = b17756261. LOCATION = lbks. 
+
+
+CALL NO. = NC1559.H47 C66 2016. 
+TITLE = The comics of Herg{u00E9} : when the lines are not so clear / edited by 
+Joe Sutliff Sanders. 
+PUBLISHER = Jackson : University Press of Mississippi, [2016]. 
+RECORD # = b17756510. LOCATION = lbks. 
+
+
+CALL NO. = ND1043.5 .M87 2016. 
+TITLE = The Shining inheritance : Italian painters at the Qing court, 1699-1812 
+/ Marco Musillo. 
+PUBLISHER = Los Angeles : The Getty Research Institute, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17752231. LOCATION = lbks. 
+
+
+CALL NO. = NK1390 .D49 2016. 
+TITLE = Design objects and the museum / edited by Liz Farrelly and Joanna 
+Weddell. 
+PUBLISHER = London ; New York : Bloomsbury, Bloomsbury Academic, an imprint of 
+Bloomsbury Publishing Plc, 2016. 
+RECORD # = b17755232. LOCATION = lbks. 
+
+
+
+
+CALL NO. = NX550.B4 S73 2016. 
+TITLE = Dada presentism : an essay on art & history / Maria Stavrinaki ; 
+translated by Daniela Ginsburg. 
+PUBLISHER = Stanford, California : Stanford University Press, [2016]. 
+RECORD # = b1775740x. LOCATION = lbks. 
+
+
+CALL NO. = P96.S45 O45 2016. 
+TITLE = Hunting girls : sexual violence from The hunger games to campus rape / 
+Kelly Oliver. 
+PUBLISHER = New York : Columbia University Press, [2016]. 
+RECORD # = b17752279. LOCATION = lbks. 
+
+
+CALL NO. = P120.A24 F74 2017. 
+TITLE = Academic language mastery. Grammar and syntax in context / David E. 
+Freeman, Yvonne S. Freeman, Ivannia Soto. 
+PUBLISHER = Thousand Oaks, California : Corwin, a SAGE Company, [2017]. 
+RECORD # = b1783143x. LOCATION = lbks. 
+
+
+CALL NO. = PA3003 .B67 2015. 
+TITLE = Greek music, drama, sport, and fauna : the collected classical papers of
+E.K. Borthwick / edited by Calum Maciver. 
+PUBLISHER = Prenton, U.K. : Francis Cairns, 2015. 
+RECORD # = b17755955. LOCATION = lbks. 
+
+
+CALL NO. = PE1066 .M39 2003. 
+CALL NO. = PE1066 .M39 2003. 
+TITLE = Maximizing learning for English language learners / executive producer, 
+John Checkley ; producer/writer, Pauline Steinhorn ; produced by ASCD. 
+PUBLISHER = Washington, DC : ASCD, [2006]. 
+PUBLISHER = {u00A9}2006. 
+RECORD # = b17831301. LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN147.5 .K59 2016. 
+TITLE = The magic words : writing great books for children and young adults / 
+Cheryl B. Klein. 
+PUBLISHER = 1609. 
+PUBLISHER = New York : W. W. Norton & Company, [2016]. 
+RECORD # = b17756224. LOCATION = lbks. 
+
+
+CALL NO. = PN1009.A1 R413 2016. 
+TITLE = Reading in the dark : horror in children's literature and culture / 
+edited by Jessica R. McCort. 
+PUBLISHER = Jackson : University Press of Mississippi, [2016]. 
+RECORD # = b17756546. LOCATION = lbks. 
+
+
+
+
+CALL NO. = PN1991.4.C64 A83 2016. 
+TITLE = Anatomy of sound : Norman Corwin and media authorship / edited by Jacob 
+Smith and Neil Verma. 
+PUBLISHER = Oakland, California : University of California Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17752395. LOCATION = lbks. 
+
+
+CALL NO. = PN1994 .W65 2012. 
+TITLE = Film : a very short introduction / Michael Wood. 
+PUBLISHER = Oxford ; New York : Oxford University Press, 2012. 
+RECORD # = b17756431. LOCATION = lbks. 
+
+
+CALL NO. = PN1995.9.D555 C43 2016. 
+TITLE = Projecting race : postwar America, civil rights and documentary film / 
+Stephen Charbonneau. 
+PUBLISHER = London ; New York : Wallflower Press [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17755165. LOCATION = lbks. 
+
+
+CALL NO. = PN1995.9.S26 H28 2016. 
+TITLE = Monsters in the machine : science fiction film and the militarization of
+America after World War II / Steffen Hantke. 
+PUBLISHER = Jackson : University Press of Mississippi, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17755864. LOCATION = lbks. 
+
+
+CALL NO. = PN1995.9.S45 T73 2016. 
+TITLE = Transgression in Anglo-American cinema : gender, sex, and the deviant 
+body / edited by Joel Gwynne. 
+PUBLISHER = London ; New York : Wallflower Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b1775236x. LOCATION = lbks. 
+
+
+CALL NO. = PN1997.M68 L38 2015. 
+TITLE = A book about the film Monty Python and the Holy Grail : all the 
+references from African swallows to Zoot / Darl Larsen. 
+PUBLISHER = Lanham : Rowman & Littlefield, [2015]. 
+RECORD # = b17755839. LOCATION = lbks. 
+
+
+CALL NO. = PN2053 .P67 2015. 
+TITLE = Unmasking theatre design : a designer's guide to finding inspiration and
+cultivating creativity / Lynne Porter. 
+PUBLISHER = New York : Focal Press, 2015. 
+RECORD # = b17755311. LOCATION = lbks. 
+
+
+
+
+CALL NO. = PN2091.E4 A28 2016. 
+TITLE = The art of light on stage : lighting in contemporary theatre / Yaron 
+Abulafia. 
+PUBLISHER = Abingdon, Oxon ; New York : Routledge, 2016. 
+RECORD # = b17755244. LOCATION = lbks. 
+
+
+CALL NO. = PN2091.E4 A45 2015. 
+TITLE = Vectorworks for entertainment design : using Vectorworks to design and 
+document scenery, lighting, and sound / by Kevin Lee Allen. 
+PUBLISHER = New York : Focal Press, 2015. 
+RECORD # = b17755141. LOCATION = lbks. 
+
+
+CALL NO. = PN2091.S6 K3 2016. 
+TITLE = Sound and music for the theatre : the art and technique of design / 
+Deena Kaye, James LeBrecht ; [with contributing writer David Budries]. 
+PUBLISHER = New York ; Abingdon, Oxon : Routledge, Taylor & Francis Group : 
+Focal Press, 2016. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17755293. LOCATION = lbks. 
+
+
+CALL NO. = PN2091.S8 C37 1994. 
+TITLE = Backstage handbook : an illustrated almanac of technical information / 
+by Paul Carter ; illustrations by George Chiang. 
+PUBLISHER = Louisville, Ky. : Broadway Press, 2012, {u00A9}1994. 
+RECORD # = b17755372. LOCATION = lbks. 
+
+
+CALL NO. = PN3352.P7 F79 2016. 
+TITLE = Speaking pictures : neuropsychoanalysis and authorship in film and 
+literature / Alistair Fox. 
+PUBLISHER = Bloomington ; Indianapolis : Indiana University Press, 2016. 
+RECORD # = b17755177. LOCATION = lbks. 
+
+
+CALL NO. = PN4129.15 .A53 2016. 
+TITLE = TED talks : the official TED guide to public speaking / Chris Anderson. 
+PUBLISHER = Boston : Houghton Mifflin Harcourt, 2016. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17751603. LOCATION = lbks. 
+
+
+CALL NO. = PN4867.2 .N33 2016. 
+TITLE = Making the news popular : mobilizing U.S. news audiences / Anthony M. 
+Nadler. 
+PUBLISHER = Urbana : University of Illinois Press, [2016]. 
+RECORD # = b17755207. LOCATION = lbks. 
+
+
+CALL NO. = PR990 .F57 2016. 
+TITLE = The legacy of the moral tale : children's literature and the English 
+novel, 1744-1859 / Patrick C. Fleming. 
+PUBLISHER = Knoxville : The University of Tennessee Press, [2016]. 
+RECORD # = b17757332. LOCATION = lbks. 
+
+
+
+
+CALL NO. = PR3091 .D45 2016. 
+TITLE = Designers' Shakespeare / edited by John Russell Brown and Stephen Di 
+Benedetto. 
+PUBLISHER = Abingdon, Oxon ; New York, NY : Routledge, 2016. 
+RECORD # = b17755323. LOCATION = lbks. 
+
+
+CALL NO. = PS129 .P53 2016. 
+TITLE = American rhapsody : writers, musicians, movie stars, and one great 
+building / Claudia Roth Pierpont. 
+PUBLISHER = New York : Farrar, Straus and Giroux, 2016. 
+RECORD # = b17756091. LOCATION = lbks. 
+
+
+CALL NO. = PS2018 .S55 2016. 
+TITLE = The civil wars of Julia Ward Howe : a biography / Elaine Showalter. 
+PUBLISHER = New York : Simon & Schuster, 2016. 
+RECORD # = b1775608x. LOCATION = lbks. 
+
+
+CALL NO. = PS3573.H4768 U53 2016. 
+TITLE = The underground railroad : a novel / Colson Whitehead. 
+PUBLISHER = New York : Doubleday, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17757290. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.A25 G53 2015. 
+TITLE = Managing risk in information systems / Darril Gibson. 
+PUBLISHER = Burlington, MA : Jones & Bartlett Learning, [2015]. 
+RECORD # = b17674864. LOCATION = lbks. 
+
+
+CALL NO. = QC762 .S55 1996. 
+TITLE = Principles of magnetic resonance / C.P. Slichter. 
+PUBLISHER = Berlin ; New York : Springer, 1996. 
+RECORD # = b17830679. LOCATION = lrsvc. 
+
+
+CALL NO. = QH313.5.F67 L5 2015. 
+TITLE = Forensic biology / Richard Li, John Jay College of Criminal Justice, New
+York, New York, USA. 
+PUBLISHER = Boca Raton : CRC Press, Taylor & Francis Group, [2015]. 
+RECORD # = b17756042. LOCATION = lbks. 
+
+
+CALL NO. = QL639.3 .B35 2016. 
+TITLE = What a fish knows : the inner lives of our underwater cousins / Jonathan
+Balcombe. 
+PUBLISHER = New York : Scientific American/Farrar, Straus, and Giroux, 2016. 
+RECORD # = b17751731. LOCATION = lbks. 
+
+
+
+
+CALL NO. = QR171.A1 Y66 2016. 
+TITLE = I contain multitudes : the microbes within us and a grander view of life
+/ Ed Yong. 
+PUBLISHER = New York, NY : Ecco, an imprint of HarperCollinsPublishers, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17756340. LOCATION = lbks. 
+
+
+CALL NO. = QW4 .D565h 2016. 
+TITLE = The human superorganism : how the microbiome is revolutionizing the 
+pursuit of a healthy life / Rodney Dietert, PhD. 
+PUBLISHER = New York, New York : Dutton, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17757265. LOCATION = lbks. 
+
+
+CALL NO. = QZ53 .G558g 2016. 
+TITLE = Gender medicine : the groundbreaking new science of gender- and sex-
+related diagnosis and treatment / Marek Glezerman, M.D. ; foreword by Amos Oz. 
+PUBLISHER = New York : Overlook Duckworth, 2016. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17751743. LOCATION = lbks. 
+
+
+CALL NO. = T58.6 .I57 2015. 
+TITLE = Enterprise information systems : 17th International Conference, ICEIS 
+2015, Barcelona, Spain, April 27-30, 2015, Revised selected papers / Slimane 
+Hammoudi, Leszek Maciaszek, Ernest Teniente, Olivier Camp, Jos{u00E9} Cordeiro 
+(eds.). 
+PUBLISHER = [Cham, Switzerland?] : Springer, [2015]. 
+PUBLISHER = {u00A9}2015. 
+RECORD # = b1767914x. LOCATION = lbks. 
+
+
+CALL NO. = T357 .D67 2012. 
+TITLE = Drafting for the theatre / Dennis Dorn & Mark Shanda. 
+PUBLISHER = Carbondale : Southern Illinois University Press, 2012. 
+RECORD # = b17755335. LOCATION = lbks. 
+
+
+CALL NO. = TD181.N72 N5135 2016. 
+TITLE = Love Canal : a toxic history from Colonial times to the present / 
+Richard S. Newman. 
+PUBLISHER = New York : Oxford University Press, [2016]. 
+RECORD # = b17756017. LOCATION = lbks. 
+
+
+CALL NO. = TK1005 .B27 2016. 
+TITLE = The grid : the fraying wires between Americans and our energy future / 
+Gretchen Bakke. 
+PUBLISHER = New York, NY : Bloomsbury USA, an imprint of Bloomsbury Publishing 
+Plc, 2016. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17756170. LOCATION = lbks. 
+
+
+
+
+CALL NO. = TR140.A73 L83 2016. 
+TITLE = Diane Arbus : portrait of a photographer / Arthur Lubow. 
+PUBLISHER = New York, NY : Ecco, an imprint of HarperCollins Publishers, [2016].
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17756108. LOCATION = lbks. 
+
+
+CALL NO. = TR642 .A25 1983. 
+TITLE = Examples : the making of 40 photographs / Ansel Adams. 
+PUBLISHER = Boston : Little, Brown, 1989, {u00A9}1983. 
+RECORD # = b17752644. LOCATION = lbks. 
+
+
+CALL NO. = TS533.2 .H33 2016. 
+TITLE = The gunning of America : business and the making of American gun culture
+/ Pamela Haag. 
+PUBLISHER = New York : Basic Books, [2016]. 
+RECORD # = b17756911. LOCATION = lbks. 
+
+
+CALL NO. = TT507 .C92 2009. 
+TITLE = The magic garment : principles of costume design / Rebecca Cunningham, 
+professor emerita, Brooklyn College. 
+PUBLISHER = Long Grove, IL : Waveland Press, [2009]. 
+PUBLISHER = {u00A9}2009. 
+RECORD # = b17755815. LOCATION = lbks. 
+
+
+CALL NO. = TT507 .L42 1990. 
+TITLE = Costume design in the movies : an illustrated guide to the work of 157 
+great designers / Elizabeth Leese. 
+PUBLISHER = New York : Dover Publications, c1991. 
+RECORD # = b17755657. LOCATION = lbks. 
+
+
+CALL NO. = TT507 .S77 2015. 
+TITLE = Costume construction / Katherine Strand-Evans.
+PUBLISHER = Long Grove, Illinois : Waveland Press, 2015. 
+RECORD # = b1775530x. LOCATION = lbks. 
+
+
+CALL NO. = TX724 .W455 2016. 
+TITLE = Rhapsody in schmaltz : Yiddish food and why we can't stop eating it / 
+Michael Wex. 
+PUBLISHER = New York : St. Martin's Press, [2016]. 
+RECORD # = b17767374. LOCATION = lbks. 
+
+
+CALL NO. = U22 .M55 2016. 
+TITLE = Military operations and the mind : war ethics and soldiers' well-being /
+edited by St{u00E9}phanie A.H. B{u00E9}langer and Daniel Lagac{u00E9}-Roy. 
+PUBLISHER = Montreal ; Kingston ; London ; Chicago : McGill-Queen's University 
+Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17756601. LOCATION = lbks. 
+
+
+
+
+CALL NO. = U43.U4 R63 2016. 
+TITLE = Grunt : the curious science of humans at war / Mary Roach. 
+PUBLISHER = New York : W. W. Norton & Company, Inc., 2016. 
+RECORD # = b17755967. LOCATION = lbks. 
+
+
+CALL NO. = UA600 .G65 2016. 
+TITLE = Going to war? : trends in military interventions / edited by 
+St{u00E9}fanie von Hlatky and H. Christian Breede. 
+PUBLISHER = Montreal ; Kingston ; London ; Chicago : McGill-Queen's University 
+Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17756583. LOCATION = lbks. 
+
+
+CALL NO. = W13 .M894 2016. 
+TITLE = Mosby's pocket dictionary of medicine, nursing & health professions / 
+Marie T. O'Tool, editor. 
+PUBLISHER = St. Louis, MO : Mosby/Elsevier, [2016]. 
+PUBLISHER = {u00A9}2017. 
+RECORD # = b17755712. LOCATION = lrefs. 
+
+
+CALL NO. = W15 .S632h 2007. 
+TITLE = Slee's health care terms / Debora A. Slee, Vergil N. Slee, H. Joachim 
+Schmidt. 
+PUBLISHER = Sudbury, MA ; Toronto : Jones and Bartlett Publishers, {u00A9}2008. 
+RECORD # = b17752577. LOCATION = lrefs. 
+
+
+CALL NO. = W50 .P397m 2015. 
+TITLE = Medical ethics : accounts of ground-breaking cases / Gregory E. Pence, 
+University of Alabama at Birmingham. 
+PUBLISHER = New York, NY : McGraw-Hill, [2015]. 
+RECORD # = b17677919. LOCATION = lbks. 
+
+
+CALL NO. = W76 .M437 2015. 
+TITLE = Just medicine : a cure for racial inequality in American health care / 
+Dayna Bowen Matthew. 
+PUBLISHER = New York : New York University Press, [2015]. 
+PUBLISHER = {u00A9}2015. 
+RECORD # = b17755724. LOCATION = lbks. 
+
+
+CALL NO. = W750 .F715 2016. 
+TITLE = Forensic toxicology : drug use and misuse / edited by Susannah Davies 
+(LTG, London, UK), Atholl Johnston (Queen Mary University of London, UK), David 
+Holt (St George's, University of London, UK). 
+PUBLISHER = Cambridge : Royal Society Of Chemistry, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17755979. LOCATION = lbks. 
+
+
+
+
+CALL NO. = W750 .P888f 2016. 
+TITLE = Forensic toxicology : mechanisms and pathology / Robert H. Powers, 
+Dorothy E. Dean. 
+PUBLISHER = Boca Raton, FL : CRC Press, [2016]. 
+RECORD # = b1775592x. LOCATION = lbkso. 
+
+
+CALL NO. = WA105 .P368e 2016. 
+TITLE = Epidemics in modern Asia / Robert Peckham, University of Hong Hong. 
+PUBLISHER = Canbridge, United Kingdom : Cambridge University Press, 2016. 
+RECORD # = b17755827. LOCATION = lbks. 
+
+
+CALL NO. = WA300.1 M352h 2015. 
+TITLE = The health gap : the challenge of an unequal world / Michael Marmot. 
+PUBLISHER = New York, New York ; London, England : Bloomsbury Press, an imprint 
+of Bloomsbury Publishing Plc., 2015. 
+PUBLISHER = {u00A9}2015. 
+RECORD # = b17676356. LOCATION = lbks. 
+
+
+CALL NO. = WB39 .G258d 2017. 
+TITLE = Documentation manual for occupational therapy : writing SOAP notes / 
+Crystal A. Gateley, Sherry Borcherding. 
+PUBLISHER = Thorofare, NJ : SLACK Incorporated, [2017]. 
+PUBLISHER = {u00A9}2017. 
+RECORD # = b17676708. LOCATION = lbks. 
+
+
+CALL NO. = WB60 .H561b 2016. 
+TITLE = Beyond human : how cutting-edge science is extending our lives / Eve 
+Herold. 
+PUBLISHER = New York : Thomas Dunne Books/St. Martin's Press, 2016. 
+RECORD # = b1775561x. LOCATION = lbks. 
+
+
+CALL NO. = WB555 .S291c 2015. 
+TITLE = Clinician's guide for implementing Ayres Sensory Integration : promoting
+participation for children with autism / Roseann C. Schaaf, PhD, ORT/L, FAOTA, 
+and Zoe Mailloux, OTD, ORT/L, FAOTA. 
+PUBLISHER = Bethesda, MD : AOTA Press, The American Occupational Therapy 
+Association, Inc., [2015]. 
+PUBLISHER = {u00A9}2015. 
+RECORD # = b17676459. LOCATION = lbks. 
+
+
+CALL NO. = WC264 .F882d 2016. 
+TITLE = Deadly river : cholera and cover-up in post-earthquake Haiti / Ralph R. 
+Frerichs. 
+PUBLISHER = Ithaca : ILR Press, an imprint of Cornell University Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17757344. LOCATION = lbks. 
+
+
+
+
+CALL NO. = WC556 .M462s 2016. 
+TITLE = Selling science : polio and the promise of gamma globulin / Stephen E. 
+Mawdsley. 
+PUBLISHER = New Brunswick, New Jersey : Rutgers University Press, [2016]. 
+RECORD # = b17756662. LOCATION = lbks. 
+
+
+CALL NO. = WI100 .M468m 2016. 
+TITLE = The mind-gut connection : how the hidden conversation within our bodies 
+impacts our mood, our choices, and our overall health / Dr. Emeran Mayer. 
+PUBLISHER = New York, NY : Harper Wave, an imprint of HarperCollinsPublishers, 
+[2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17757277. LOCATION = lbks. 
+
+
+CALL NO. = WL300 .B964i 2016. 
+TITLE = Idiot brain : what your head is really up to / Dean Burnett. 
+PUBLISHER = New York : W.W. Norton & Company, 2016. 
+RECORD # = b17756194. LOCATION = lbks. 
+
+
+CALL NO. = WT31 .L8489 2016. 
+TITLE = Long-term care in an aging society : theory and practice / Graham D. 
+Rowles, PHD, Pamela B. Teaster, PHD, editors. 
+PUBLISHER = New York : Springer Publishing Company, [2016]. 
+RECORD # = b17755633. LOCATION = lbks. 
+
+
+CALL NO. = WX 162 (2016). 
+CALL NO. = WX162 .P915l 2016. 
+TITLE = Long-term care : managing across the continuum / John R. Pratt. 
+PUBLISHER = Burlington, MA : Jones & Bartlett Learning, [2016]. 
+RECORD # = b15877772. LOCATION = lnet. LOCATION = lbks. 
+
+
+CALL NO. = WY16.AA1 I59a 2016. 
+TITLE = Assessing progress on the Institute of Medicine report The future of 
+nursing / Committee for Assessing Progress on Implementing the Recommendations 
+of the Institute of Medicine Report The future of nursing: leading change, 
+advancing health ; Stuart H. Altman, Adrienne Stith Butler, Lauren Shern, 
+editors ; Institute of Medicine, the National Academies of Sciences, Engineering,
+Medicine. 
+PUBLISHER = Washington, DC : The National Academies Press, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b17755621. LOCATION = lbks. 
+
+
+CALL NO. = WY18.2 .G572 2014. 
+TITLE = GNRS : geriatric nursing review syllabus : a core curriculum in advanced
+practice geriatric nursing / editors-in-chief, Ellen Flaherty, Barbara Resnick. 
+PUBLISHER = New York, NY : American Geriatrics Society, {u00A9}2014. 
+RECORD # = b1775138x. LOCATION = lrefs. 
+
+
+
+
+CALL NO. = WY100 .A385a 2014. 
+TITLE = Applying nursing process : the foundation for clinical reasoning / 
+Rosalinda Alfaro-LeFevre. 
+PUBLISHER = Philadelphia : Wolters Kluwer Health/Lippincott Williams & Wilkins, 
+{u00A9}2014. 
+RECORD # = b17756078. LOCATION = lbks. 
+
+
+CALL NO. = Z4 .H68 2016. 
+TITLE = The book : a cover-to-cover exploration of the most powerful object of 
+our time / Keith Houston. 
+PUBLISHER = New York : W.W. Norton & Company, [2016]. 
+PUBLISHER = {u00A9}2016. 
+RECORD # = b1775172x. LOCATION = lbks. 
+
+
+CALL NO. = Z659 .H22 2016. 
+TITLE = The bad-ass librarians of Timbuktu : and their race to save the world's 
+most precious manuscripts / Joshua Hammer. 
+PUBLISHER = New York : Simon & Schuster, 2016. 
+RECORD # = b17752632. LOCATION = lbks. 
+
+
+CALL NO. = Z711.25.C65 A78 2016. 
+TITLE = The craft of librarian instruction : using acting techniques to create 
+your teaching presence / by Julie Artman, Jeff Sundquist, Douglas R. Dechow. 
+PUBLISHER = Chicago, Illinois : Association of College and Research Libraries, a
+division of the American Library Association, 2016. 
+RECORD # = b17751627. LOCATION = lbks. 
+
+
+CALL NO. = Z716.4 .H367 2016. 
+TITLE = Which side are you on? : seven social responsibility debates in American
+librarianship, 1990-2015 / Elaine Harger. 
+PUBLISHER = Jefferson, North Carolina : McFarland & Company, Inc., Publishers, 
+[2016]. 
+RECORD # = b17751615. LOCATION = lbks. 
+
+

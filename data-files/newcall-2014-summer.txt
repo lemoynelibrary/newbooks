@@ -1,0 +1,3332 @@
+
+
+CALL NO. = AM5 .A43 2012. 
+TITLE = Museum basics / Timothy Ambrose and Crispin Paine. 
+PUBLISHER = Abingdon, Oxon ; New York : Routledge, 2012. 
+RECORD # = b14919916. LOCATION = lbks. 
+
+CALL NO. = AM7 .B383 2013. 
+TITLE = Theatre & museums / Susan Bennett. 
+PUBLISHER = Houndmills, Basingstoke, Hampshire ; New York : Palgrave Macmillan, 
+2013. 
+RECORD # = b14920967. LOCATION = lbks. 
+
+CALL NO. = AM7 .B57 2012. 
+TITLE = Transforming museums in the twenty-first century / Graham Black. 
+PUBLISHER = Milton Park, Abingdon, Oxon ; New York, NY : Routledge, 2012. 
+RECORD # = b14921054. LOCATION = lbks. 
+
+CALL NO. = AM7 .C87 2011. 
+TITLE = Museums matter : in praise of the encyclopedic museum / James Cuno. 
+PUBLISHER = Chicago : University of Chicago Press, c2011. 
+RECORD # = b14920918. LOCATION = lbks. 
+
+CALL NO. = AM7 .F352 2013. 
+TITLE = The museum experience revisited / John H. Falk and Lynn D. Dierking. 
+PUBLISHER = Walnut Creek, Calif. : Left Coast Press, Inc., c2013. 
+RECORD # = b1491993x. LOCATION = lbks. 
+
+CALL NO. = AM7 .N67 2014. 
+TITLE = Creativity in museum practice / Linda Norris and Rainey Tisdale. 
+PUBLISHER = Walnut Creek, California : Left Coast Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14919825. LOCATION = lbks. 
+
+CALL NO. = AM7 .T35 2011. 
+TITLE = Museum educator's handbook / by Graeme K. Talboys. 
+PUBLISHER = Burlington : Ashgate, 2011. 
+RECORD # = b14921030. LOCATION = lbks. 
+
+CALL NO. = AM11 .G46 2012. 
+TITLE = Starting right : a basic guide to museum planning / Gerald George and 
+Carol Maryan-George. 
+PUBLISHER = Lanham, Md. : AltaMira Press, 2012. 
+RECORD # = b14920049. LOCATION = lbks. 
+
+CALL NO. = AM11 .H84 1998. 
+TITLE = Museum theatre : communicating with visitors through drama / Catherine 
+Hughes. 
+PUBLISHER = Portsmouth, NH : Heinemann, c1998. 
+RECORD # = b14920177. LOCATION = lbks. 
+
+CALL NO. = AM11 .S39 2012. 
+TITLE = Riches, rivals & radicals : 100 years of museums in America / Marjorie 
+Schwarzer. 
+PUBLISHER = Washington, D.C. : American Alliance of Museums, [2012]. 
+PUBLISHER = {496}2012. 
+RECORD # = b14920001. LOCATION = lbks. 
+
+
+
+CALL NO. = AM121 .B47 2013. 
+TITLE = Magnetic : the art and science of engagement / Anne Bergeron and Beth 
+Tuttle. 
+PUBLISHER = Washington, DC : The AAM Press, 2013. 
+RECORD # = b14919898. LOCATION = lbks. 
+
+CALL NO. = AM121 .F74 2011. 
+TITLE = Marketing and public relations for museums, galleries, cultural and 
+heritage attractions / Ylva French and Sue Runyard. 
+PUBLISHER = Abingdon, Oxon [U.K.] ; New York : Routledge, 2011. 
+RECORD # = b14921017. LOCATION = lbks. 
+
+CALL NO. = AM121 .M37 2012. 
+TITLE = Manual of museum planning : sustainable space, facilities, and 
+operations / edited by Barry Lord, Gail Dexter Lord, and Lindsay Martin. 
+PUBLISHER = Lanham, Md. : AltaMira Press, c 2012. 
+RECORD # = b14921005. LOCATION = lbks. 
+
+CALL NO. = AM121 .S63 2012. 
+CALL NO. = AM121 .S63 2012. 
+CALL NO. = AM121 .S63 2012. 
+CALL NO. = AM121 .S63 2012. 
+CALL NO. = AM121 .S63 2012. 
+CALL NO. = AM121 .S63 2012. 
+TITLE = The small museum toolkit / edited by Cinnamon Catlin-Legutko and Stacy 
+Klingler. 
+PUBLISHER = Lanham, Md. : AltaMira Press, c2012. 
+RECORD # = b14920037. LOCATION = lbks. 
+
+CALL NO. = AM121 W45 2013. 
+TITLE = Interpretive planning for museums : integrating visitor perspectives in 
+decision making / Marcella Wells, Barbara Butler, and Judith Koke. 
+PUBLISHER = Walnut Creek, California : Left Coast Press, Inc., [2013]. 
+RECORD # = b14919862. LOCATION = lbks. 
+
+CALL NO. = AM122 .C55 2011. 
+TITLE = Fundraising for small museums : in good times and bad / Salvatore G. 
+Cilella, Jr. 
+PUBLISHER = Lanham, Md. : AltaMira Press, c2011. 
+RECORD # = b14920864. LOCATION = lbks. 
+
+CALL NO. = AM133|b.M383 2011. 
+TITLE = Museum collections management : a handbook / Freda Matassa. 
+PUBLISHER = London : Facet Publishing, 2011. 
+RECORD # = b14921029. LOCATION = lbks. 
+
+CALL NO. = AM139 .B78 2012. 
+TITLE = Records management for museums and galleries : an introduction / 
+Charlotte Brunskill and Sarah R. Demb. 
+PUBLISHER = Oxford : Chandos, 2012. 
+RECORD # = b14919990. LOCATION = lbks. 
+
+
+
+CALL NO. = AM151 .M42 2013. 
+TITLE = Creating exhibitions : collaboration in the planning, development, and 
+design of innovative experiences / Polly McKenna-Cress, Janet A. Kamien. 
+PUBLISHER = Hoboken,  New Jersey : Wiley, [2013]. 
+RECORD # = b14919813. LOCATION = lbks. 
+
+CALL NO. = AM151 .M87 2012. 
+TITLE = Museum display design = Bo wu guan chen lie she ji / Yu Ping bian ; 
+Chang Wenxin yi. 
+PUBLISHER = Shenyang Liaoning ke xue ji shu chu ban she, 2012. 
+RECORD # = b14919928. LOCATION = lbks. 
+
+CALL NO. = AM151 .O43 2013. 
+TITLE = The secret museum / Molly Oldfield. 
+PUBLISHER = Richmond Hill, Ontario ; Buffalo, New York : Firefly Books, [2013]. 
+RECORD # = b14920013. LOCATION = lbks. 
+
+CALL NO. = AM151 .W66 2014. 
+TITLE = The objects of experience : transforming visitor-object encounters in 
+museums / Elizabeth Wood and Kiersten F Latham. 
+PUBLISHER = Walnut Creek, CA : Left Coast Press, Inc., [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14919965. LOCATION = lbks. 
+
+CALL NO. = B128.C44 A63 2014. 
+TITLE = Reconstructing the Confucian Dao : Zhu Xi's appropriation of Zhou Dunyi 
+/ Joseph A. Adler. 
+PUBLISHER = Albany : State University of New York Press, [2014]. 
+RECORD # = b14923579. LOCATION = lbks. 
+
+CALL NO. = B2430 .B339 2001. 
+TITLE = The unfinished system of nonknowledge / Georges Bataille ; edited and 
+with an introduction by Stuart Kendall ; translated by Michelle Kendall and 
+Stuart Kendall. 
+PUBLISHER = Minneapolis, MN : University of Minnesota Press, c2001. 
+RECORD # = b14918183. LOCATION = lbks. 
+
+CALL NO. = BD632 .L575 2011. 
+TITLE = Violence and splendor / Alphonso Lingis. 
+PUBLISHER = Evanston, Ill. : Northwestern University Press, c2011. 
+RECORD # = b14918195. LOCATION = lbks. 
+
+CALL NO. = BF321 .G57 2013. 
+TITLE = Focus : the hidden driver of excellence / Daniel Goleman. 
+PUBLISHER = New York : Harper, [2013]. 
+RECORD # = b14910780. LOCATION = lbks. 
+
+CALL NO. = BF575.L8 J636 2013. 
+TITLE = Love sense : the revolutionary new science of romantic relationships / 
+Dr. Sue Johnson. 
+PUBLISHER = New York : Little, Brown and Company, 2013. 
+RECORD # = b14918031. LOCATION = lbks. 
+
+
+
+CALL NO. = BF575.T7 G96 2013. 
+TITLE = Institutional trust and economic policy : lessons from the history of 
+the euro / D{226}ora Gyorffy. 
+PUBLISHER = Budapest ; New York : Central European University Press, 2013. 
+RECORD # = b14925278. LOCATION = lbks. 
+
+CALL NO. = BF637.C45 C686 2014. 
+TITLE = Finding Augusta : habits of mobility and governance in the digital era /
+Heidi Rae Cooley. 
+PUBLISHER = Hanover, New Hampshire : Dartmouth College Press, [2014]. 
+RECORD # = b14918493. LOCATION = lbks. 
+
+CALL NO. = BF637.C45 H195 2004. 
+TITLE = The etiquette of illness : what to say when you can't find the words / 
+Susan P. Halpern. 
+PUBLISHER = New York : Bloomsbury, 2004. 
+RECORD # = b14915534. LOCATION = lbks. 
+
+CALL NO. = BF637.L4 V35 2011. 
+TITLE = Naturally selected : the evolutionary science of leadership / Mark Van 
+Vugt and Anjana Ahuja. 
+PUBLISHER = New York : HarperBusiness, c2011. 
+RECORD # = b14917099. LOCATION = lbks. 
+
+CALL NO. = BF637.N4 U79 1993. 
+TITLE = Getting past no : negotiating your way from confrontation to cooperation
+/ William Ury. 
+PUBLISHER = New York : Bantam Books, 1993. 
+RECORD # = b14917580. LOCATION = lbks. 
+
+CALL NO. = BF698 .M343 2014. 
+TITLE = Personal intelligence : the power of personality and how it shapes our 
+lives / John D. Mayer. 
+PUBLISHER = New York : Scientific American / Farrar, Straus and Giroux, 2014. 
+RECORD # = b14925424. LOCATION = lbks. 
+
+CALL NO. = BF717 .B28 2013. 
+TITLE = Play, playfulness, creativity and innovation / Patrick Bateson and Paul 
+Martin. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2013. 
+RECORD # = b14917415. LOCATION = lbks. 
+
+CALL NO. = BF717 .C44 2004. 
+TITLE = The child's right to play : a global approach / edited by Rhonda L. 
+Clements and Leah Fiorentino. 
+PUBLISHER = Westport, Conn. : Praeger, 2004. 
+RECORD # = b14917348. LOCATION = lbks. 
+
+CALL NO. = BF717 .C45 2013. 
+TITLE = Children's play and development : cultural-historical perspectives / Ivy
+Schousboe, Ditte Winther-Lindqvist, editors. 
+PUBLISHER = Dordrecht : Springer, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14917336. LOCATION = lbks. 
+
+
+
+CALL NO. = BF717 .G73 2013. 
+TITLE = Free to learn : why unleashing the instinct to play will make our 
+children happier, more self-reliant, and better students for life / Peter Gray. 
+PUBLISHER = New York : Basic Books, [2013]. 
+RECORD # = b14917361. LOCATION = lbks. 
+
+CALL NO. = BF717 .L33 2009. 
+TITLE = The Praeger handbook of play across the life cycle : fun from infancy to
+old age / Luciano L'Abate ; foreword by Arthur M. Horne. 
+PUBLISHER = Santa Barbara, Calif. : Praeger/ABC-CLIO, c2009. 
+RECORD # = b14917439. LOCATION = lbks. 
+
+CALL NO. = BF717 .O94 2011. 
+TITLE = The Oxford handbook of the development of play / edited by Anthony D. 
+Pellegrini. 
+PUBLISHER = New York : Oxford University Press, 2011. 
+RECORD # = b14917373. LOCATION = lbks. 
+
+CALL NO. = BF717 .P45 2009. 
+TITLE = The role of play in human development / Anthony D. Pellegrini. 
+PUBLISHER = New York : Oxford University Press, 2009. 
+RECORD # = b14917440. LOCATION = lbks. 
+
+CALL NO. = BF717 .P575 2007. 
+TITLE = Play and development : evolutionary, sociocultural, and functional 
+perspectives / [edited by] Artin G{232}onc{232}u and Suzanne Gaskins. 
+PUBLISHER = Mahwah, N.J. : Lawrence Erlba{232}um, 2007. 
+RECORD # = b14917397. LOCATION = lbks. 
+
+CALL NO. = BF717 .P575 2011. 
+TITLE = Play and playfulness : developmental, cultural, and clinical aspects / 
+edited by Monisha C. Akhtar. 
+PUBLISHER = Lanham, Md. : Jason Aronson, c2011. 
+RECORD # = b14917403. LOCATION = lbks. 
+
+CALL NO. = BF717 .P578 2006. 
+TITLE = Play=learning : how play motivates and enhances children's cognitive and
+social-emotional growth / edited by Dorothy G. Singer, Roberta Michnick 
+Golinkoff, Kathy Hirsh-Pasek. 
+PUBLISHER = Oxford ; New York : Oxford University Press, 2006. 
+RECORD # = b14917385. LOCATION = lbks. 
+
+CALL NO. = BJ52 .E725 2013. 
+TITLE = Ethics in the field : contemporary challenges / edited by Jeremy 
+MacClancy and Agust{226}in Fuentes. 
+PUBLISHER = New York : Berghahn Books, 2013. 
+RECORD # = b14925011. LOCATION = lbks. 
+
+CALL NO. = BL80.3 .M27 2005. 
+TITLE = The invention of world religions, or, How European universalism was 
+preserved in the language of pluralism / Tomoko Masuzawa. 
+PUBLISHER = Chicago : University of Chicago Press, 2005. 
+RECORD # = b14924158. LOCATION = lbks. 
+
+
+
+CALL NO. = BL240.3 .A39 2014. 
+TITLE = Why science does not disprove God / Amir D. Aczel. 
+PUBLISHER = New York, NY : William Morrow, an imprint of HarperCollinsPublishers,
+[2014]. 
+RECORD # = b1492433x. LOCATION = lbks. 
+
+CALL NO. = BL2400 .I43 2014. 
+TITLE = Africa's social and religious quest : a comprehensive survey and 
+analysis of the African situation / Randee Ijatuyi-Morphe. 
+PUBLISHER = Lanham : University Press of America, 2014. 
+RECORD # = b1492447x. LOCATION = lbks. 
+
+CALL NO. = BL2400 .W49 2012. 
+TITLE = The Wiley-Blackwell companion to African religions / edited by Elias 
+Kifon Bongmba ; Foreword Jacob K. Olupona. 
+PUBLISHER = Malden, MA : Wiley-Blackwell, 2012. 
+RECORD # = b1491881x. LOCATION = lbks. 
+
+CALL NO. = BL2525 .R33 2014. 
+TITLE = Radiant truths : essential dispatches, reports, confessions, & other 
+essays on American belief / edited and introduced by Jeff Sharlet. 
+PUBLISHER = New Haven, CT : Yale University Press, [2014]. 
+RECORD # = b14918791. LOCATION = lbks. 
+
+CALL NO. = BL2532.P35 O24 2010. 
+TITLE = Society of the dead : Quita Manaquita and Palo praise in Cuba / Todd 
+Ram{226}on Ochoa. 
+PUBLISHER = Berkeley : University of California, c2010. 
+RECORD # = b14918146. LOCATION = lbks. 
+
+CALL NO. = BP134.J37 S27 2014. 
+TITLE = Islam's Jesus / Zeki Saritoprak. 
+PUBLISHER = 1405. 
+PUBLISHER = Gainesville : University Press of Florida, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14923191. LOCATION = lbks. 
+
+CALL NO. = BP161.3 .M43 2013. 
+TITLE = Islam and the challenge of civilization / Abdelwahab Meddeb ; translated
+by Jane Kuntz. 
+PUBLISHER = New York : Fordham University Press, 2013. 
+RECORD # = b14925321. LOCATION = lbks. 
+
+CALL NO. = BP173.7 H355 2014. 
+TITLE = Temptations of power : Islamists and illiberal democracy in a new Middle
+East / by Shadi Hamid. 
+PUBLISHER = 1404. 
+PUBLISHER = New York : Oxford University Press, USA, 2014. 
+RECORD # = b14917956. LOCATION = lbks. 
+
+CALL NO. = BR430 .A84 2013. 
+TITLE = The Ashgate research companion to the Counter-Reformation / edited by 
+Alexandra Bamji, Geert H. Janssen, and Mary Laven. 
+PUBLISHER = Farnham, Surrey, England ; Burlington, Vt. : Ashgate, {496}2013. 
+RECORD # = b1491606x. LOCATION = lbks. 
+
+
+
+CALL NO. = BR515 .C69 2014. 
+TITLE = American Christianity : the continuing revolution / Stephen Cox. 
+PUBLISHER = Austin : University of Texas Press, 2014. 
+RECORD # = b14918729. LOCATION = lbks. 
+
+CALL NO. = BR600 .R53 2003. 
+TITLE = Being-in-Christ and putting death in its place : an anthropologist's 
+account of Christian performance in Spanish America and the American South / 
+Miles Richardson. 
+PUBLISHER = Baton Rouge : Louisiana State University Press, c2003. 
+RECORD # = b14918067. LOCATION = lbks. 
+
+CALL NO. = BR1640 .H88 2012. 
+TITLE = A short history of global evangelicalism / Mark Hutchinson, John Wolffe.
+PUBLISHER = Cambridge [England] ; New York : Cambridge University Press, c2012. 
+RECORD # = b14925503. LOCATION = lbks. 
+
+CALL NO. = BR1644 .G56 2013. 
+TITLE = Global Pentecostalism in the 21st century / edited by Robert W. Hefner ;
+afterword by Peter L. Berger. 
+PUBLISHER = Bloomington : Indiana University Press, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14925151. LOCATION = lbks. 
+
+CALL NO. = BS465 .S285 2014. 
+TITLE = How the Bible became holy / Michael L. Satlow. 
+PUBLISHER = New Haven : Yale University Press, [2014]. 
+RECORD # = b14924493. LOCATION = lbks. 
+
+CALL NO. = BS1285.52 .C66 2014. 
+TITLE = The ten commandments : a short history of an ancient text / Michael 
+Coogan. 
+PUBLISHER = New Haven : Yale University Press, 2014. 
+RECORD # = b1492450x. LOCATION = lbks. 
+
+CALL NO. = BT301.2 .F76 2004. 
+TITLE = From Jesus to Christ [videorecording] : the first Christians / a 
+Frontline coproduction with InVision Productions, Ltd. ; WGBH Boston ; WTVS 
+Detroit ; WPBT Miami ; WNET New York, and KCTS Seattle. 
+PUBLISHER = [United States] : PBS Home Video, [2004]. 
+RECORD # = b14922137. LOCATION = lmvc. 
+
+CALL NO. = BT301.3 .M35 2014. 
+TITLE = Jesus : a pilgrimage / James Martin, SJ. 
+PUBLISHER = New York, NY : HarperOne, [2014]. 
+RECORD # = b14918766. LOCATION = lbks. 
+
+CALL NO. = BT303.2 .E56 2010. 
+TITLE = The Routledge encyclopedia of the historical Jesus / Craig A. Evans, 
+editor. 
+PUBLISHER = New York ; London : Routledge, 2010. 
+RECORD # = b14918808. LOCATION = lrefs. 
+
+
+
+CALL NO. = BT304.9 .E37 2014. 
+TITLE = How Jesus became God : the exaltation of a Jewish preacher from Galilee 
+/ Bart D. Ehrman. 
+PUBLISHER = New York, NY : HarperOne, 2014. 
+RECORD # = b14918754. LOCATION = lbks. 
+
+CALL NO. = BT695.5 J63 2014. 
+TITLE = Ask the beasts : Darwin and the god of love / Elizabeth A. Johnson. 
+PUBLISHER = London : Bloomsbury, 2014. 
+RECORD # = b14924481. LOCATION = lbks. 
+
+CALL NO. = BV803 .C65 2014. 
+TITLE = Faith, fiction & force in medieval baptismal debates / Marcia L. Colish.
+PUBLISHER = Washington, D.C. : Catholic University of America Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14922988. LOCATION = lbks. 
+
+CALL NO. = BX1378.6 .S43 2014. 
+TITLE = Frontline. Secrets of the Vatican. [videorecording] / Quicksilver Media 
+Production for WGBH/Frontline and Channel 4. 
+PUBLISHER = [United States] : PBS Distribution, [2014]. 
+RECORD # = b14916897. LOCATION = lmvc. 
+
+CALL NO. = BX1406.3 .D89 2014. 
+TITLE = Common threads : a cultural history of clothing in American Catholicism 
+/ Sally Dwyer-McNulty. 
+PUBLISHER = Chapel Hill, NC : University of North Carolina Press, [2014]. 
+RECORD # = b14922769. LOCATION = lbks. 
+
+CALL NO. = CB245 .C58 2012. 
+TITLE = Civilization [videorecording] : the West and the rest / Chimerica Media 
+; BBC. 
+PUBLISHER = Burbank, Calif. : BBC, c2012. 
+RECORD # = b14922058. LOCATION = lmvc. 
+
+CALL NO. = CB358 .G56 2013. 
+TITLE = Global intellectual history / edited by Samuel Moyn & Andrew Sartori. 
+PUBLISHER = New York : Columbia University Press, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14925114. LOCATION = lbks. 
+
+CALL NO. = CB358 L278 2013. 
+TITLE = An inquiry into modes of existence : an anthropology of the moderns / 
+Bruno Latour ; translated by Catherine Porter. 
+PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2013. 
+RECORD # = b14918109. LOCATION = lbks. 
+
+CALL NO. = DA843 .L286 2013. 
+TITLE = Origins of the Suez crisis : postwar development diplomacy and the 
+struggle over Third World industrialization, 1945-1956 / Guy Laron. 
+PUBLISHER = Washington, D.C. : Woodrow Wilson Center Press ; Baltimore : The 
+Johns Hopkins University Press, [2013]. 
+RECORD # = b14925412. LOCATION = lbks. 
+
+
+
+CALL NO. = DC423 .S553 2014. 
+TITLE = A taste for intrigue : the multiple lives of Fran{240}cois Mitterrand / 
+Philip Short. 
+PUBLISHER = New York : Henry Holt and Company, 2014. 
+RECORD # = b14925539. LOCATION = lbks. 
+
+CALL NO. = DF233 .W68 2014. 
+TITLE = By the spear : Philip II, Alexander the Great, and the rise and fall of 
+the Macedonian empire / Ian Worthington. 
+PUBLISHER = 1406. 
+PUBLISHER = Oxford : Oxford University Press, 2014. 
+RECORD # = b1492271x. LOCATION = lbks. 
+
+CALL NO. = DP260 .V35 2014. 
+TITLE = Hotel Florida : truth, love, and death in the Spanish Civil War / Amanda
+Vaill. 
+PUBLISHER = New York : Farrar, Straus and Giroux, 2014. 
+RECORD # = b14925229. LOCATION = lbks. 
+
+CALL NO. = DS102.95 .S76 2014. 
+TITLE = The story of the Jews / ; an Oxford Film and Television production for 
+BBC and Thirteen in association with WNET. 
+PUBLISHER = Arlington, VA : PBS Distribution, [2014]. 
+RECORD # = b14922277. LOCATION = lmvc. 
+
+CALL NO. = DS570.N67 C3 2009. 
+TITLE = Control in a world of change : emotion and morality in a northern Thai 
+town / by Julia Cassaniti. 
+PUBLISHER = 2009. 
+RECORD # = b14917129. LOCATION = lbks. 
+
+CALL NO. = DS779.4 .W376 2013. 
+TITLE = China in the 21st century : what everyone needs to know / Jeffrey N. 
+Wasserstrom ; with contributions by Maura Elizabeth Cunningham. 
+PUBLISHER = New York, N.Y. : Oxford University Press, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14924894. LOCATION = lbks. 
+
+CALL NO. = DS918 .J34 2013. 
+TITLE = Brothers at war : the unending conflict in Korea / Sheila Miyoshi Jager.
+PUBLISHER = New York : W. W. Norton & Company, [2013]. 
+RECORD # = b14922708. LOCATION = lbks. 
+
+CALL NO. = DS935.65 .A76 2013. 
+TITLE = Tyranny of the weak : North Korea and the world, 1950-1992 / Charles K. 
+Armstrong. 
+PUBLISHER = Ithaca : Cornell University Press, 2013. 
+RECORD # = b14924122. LOCATION = lbks. 
+
+CALL NO. = DU280.G68 M44 2014. 
+TITLE = The reef : a passionate history / Iain McCalman. 
+PUBLISHER = New York : Scientific American : Farrar, Straus and Giroux, 2014. 
+RECORD # = b14925461. LOCATION = lbks. 
+
+
+
+CALL NO. = DU740.42 .F44 2012. 
+TITLE = Sound and sentiment : birds, weeping, poetics, and song in Kaluli 
+expression / Steven Feld. 
+PUBLISHER = Durham [N.C.] : Duke University Press, c2012. 
+RECORD # = b14918201. LOCATION = lbks. 
+
+CALL NO. = E78.C7 L36 2013. 
+TITLE = Connecticut's indigenous peoples : what archaeology, history, and oral 
+traditions teach us about their communities and cultures / Lucianne Lavin, 
+Institute of American Indian Studies ; with a contribution to the introduction 
+by Paul Grant-Costa, Yale Indian Papers Project ; edited by Rosemary Volpe, Yale
+Peabody Museum of Natural History. 
+PUBLISHER = 1312. 
+PUBLISHER = New Haven : Yale Peabody Museum of Natural History : Yale University
+Press, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14915972. LOCATION = lbks. 
+
+CALL NO. = E169.1 .N714 2014. 
+TITLE = 1964 [videorecording] / Insignia Films Production for American 
+Experience.
+PUBLISHER = [U.S.] : Pbs, 2014. 
+RECORD # = b14922149. LOCATION = lmvc. 
+
+CALL NO. = E183.8.P18 H24 2013. 
+TITLE = Magnificent delusions : Pakistan, the United States, and an epic history
+of misunderstanding / Husain Haqqani. 
+PUBLISHER = New York : PublicAffairs, [2013]. 
+RECORD # = b14925370. LOCATION = lbks. 
+
+CALL NO. = E184.A65 B38 2014. 
+TITLE = The making of Arab Americans : from Syrian nationalism to U.S. 
+citizenship / Hani J. Bawardi. 
+PUBLISHER = Austin : University of Texas Press, 2014. 
+RECORD # = b14923282. LOCATION = lbks. 
+
+CALL NO. = E184.A75 N57 2014. 
+TITLE = Undercover Asian : multiracial Asian Americans in visual culture / 
+LeiLani Nishime. 
+PUBLISHER = Urbana, Illinois : University of Illinois Press, [2014]. 
+RECORD # = b14919497. LOCATION = lbks. 
+
+CALL NO. = E185 .A47 2014. 
+TITLE = The African Americans : many rivers to cross  / A film by Kunhardt McGee
+Productions & Inkwell Films, and THIRTEEN Productions, LLC in association with 
+Ark Media. 
+PUBLISHER = [Arlington, VA] : PBS Distribution, [2014]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14922125. LOCATION = lbks. 
+
+CALL NO. = E185.61 .M324 2013. 
+TITLE = The march : the story of the greatest march in American history / 
+produced by Smoking Dogs Films U.K. 
+PUBLISHER = [United States] : PBS Distribution, [2013]. 
+RECORD # = b14922150. LOCATION = lmvc. 
+
+
+
+CALL NO. = E185.625 .J658 2013. 
+TITLE = A dreadful deceit : the myth of race from the colonial era to Obama's 
+America / Jacqueline Jones. 
+PUBLISHER = New York : Basic Books, [2013]. 
+RECORD # = b14920712. LOCATION = lbks. 
+
+CALL NO. = E443 .T49 2014. 
+TITLE = Ring shout, wheel about : the racial politics of music and dance in 
+North American slavery / Katrina Dyonne Thompson. 
+PUBLISHER = Urbana : University of Illinois Press, 2014. 
+RECORD # = b14919448. LOCATION = lbks. 
+
+CALL NO. = E445.V8 T38 2013. 
+TITLE = The internal enemy : slavery and war in Virginia, 1772-1832 / Alan 
+Taylor. 
+PUBLISHER = New York : W. W. Norton & Company, [2013]. 
+RECORD # = b14920657. LOCATION = lbks. 
+
+CALL NO. = E449.D75 F76 2010. 
+TITLE = The Frederick Douglass encyclopedia / Julius E. Thompson, James L. 
+Conyers, Jr., and Nancy J. Dawson, editors. 
+PUBLISHER = Santa Barbara, Calif. : Greenwood Press, {496}2010. 
+RECORD # = b14927779. LOCATION = lbks. 
+
+CALL NO. = E457.45 .L56 2014. 
+TITLE = Lincoln@Gettysburg : how the telegraph helped Abraham Lincoln to reshape
+America / Partisan Pictures production for PBS. 
+PUBLISHER = [United States] : [PBS?], [2013?]. 
+PUBLISHER = [United States] : PBS Distribution, 2014. 
+RECORD # = b14922095. LOCATION = lmvc. 
+
+CALL NO. = E464 .C563 2014. 
+TITLE = The Civil War : the final year told by those who lived it / Aaron 
+Sheehan-Dean, editor. 
+PUBLISHER = New York : The Library of America, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14918602. LOCATION = lbks. 
+
+CALL NO. = E628 .H38 2013. 
+TITLE = The rhetoric of rebel women : Civil War diaries and Confederate 
+persuasion / Kimberly Harrison. 
+PUBLISHER = Carbondale : Southern Illinois University Press, [2013]. 
+RECORD # = b14923622. LOCATION = lbks. 
+
+CALL NO. = E628 .M3 1994. 
+TITLE = Women in the Civil War / by Mary Elizabeth Massey ; introduction to the 
+Bison Book edition by Jean V. Berlin. 
+PUBLISHER = Lincoln : University of Nebraska Press, 1994. 
+RECORD # = b14920232. LOCATION = lbks. 
+
+CALL NO. = E887.C55 P37 2014. 
+TITLE = Hillary Clinton in the news : gender and authenticity in American 
+politics / Shawn J. Parry-Giles. 
+PUBLISHER = Urbana : University of Illinois Press, [2014]. 
+RECORD # = b14918511. LOCATION = lbks. 
+
+
+
+CALL NO. = F128.9.A1 N46 2013. 
+TITLE = Imperial blues : geographies of race and sex in Jazz Age New York / 
+Fiona I. B. Ng{227}o. 
+PUBLISHER = Durham : Duke University Press, 2014. 
+RECORD # = b14918523. LOCATION = lbks. 
+
+CALL NO. = F294.A89 N445 2013. 
+TITLE = Atlanta, cradle of the New South : race and remembering in the Civil 
+War's aftermath / William A. Link. 
+PUBLISHER = Chapel Hill : The University of North Carolina Press, [2013]. 
+RECORD # = b1491590x. LOCATION = lbks. 
+
+CALL NO. = F1928.2 .I44 2013. 
+TITLE = The idea of Haiti : rethinking crisis and development / Millery 
+Polyn{226}e, editor. 
+PUBLISHER = Minneapolis : University of Minnesota Press, [2013]. 
+RECORD # = b14925230. LOCATION = lbks. 
+
+CALL NO. = G465 .L563 2004. 
+TITLE = Trust / Alphonso Lingis. 
+PUBLISHER = Minneapolis : University of Minnesota Press, 2004. 
+RECORD # = b14918353. LOCATION = lbks. 
+
+CALL NO. = GE105 .G563 2012. 
+TITLE = Global environmental issues / edited by Frances Harris. 
+PUBLISHER = Hoboken, NJ : Wiley-Blackwell, 2012. 
+RECORD # = b14921522. LOCATION = lbks. 
+
+CALL NO. = GF75 .W67 2013. 
+TITLE = Invisible nature : healing the destructive divide between people and the
+environment / Kenneth Worthy. 
+PUBLISHER = Amherst, New York : Prometheus Books, 2013. 
+RECORD # = b14925308. LOCATION = lbks. 
+
+CALL NO. = GN269 .B57 2012. 
+TITLE = Race decoded : the genomic fight for social justice / Catherine Bliss. 
+PUBLISHER = Stanford, California : Stanford University Press, [2012]. 
+RECORD # = b14920384. LOCATION = lbks. 
+
+CALL NO. = GN345 .T375 1999. 
+TITLE = Defacement : public secrecy and the labor of the negative / Michael 
+Taussig. 
+PUBLISHER = Stanford, Calif. : Stanford University Press, c1999. 
+RECORD # = b14916496. LOCATION = lbks. 
+
+CALL NO. = GN345 .T73 2013. 
+TITLE = Transcultural montage / edited by Christian Suhr and Rane Willerslev. 
+PUBLISHER = New York : Berghahn Books, 2013. 
+RECORD # = b14925576. LOCATION = lbks. 
+
+CALL NO. = GN635.C5 F37 2012. 
+TITLE = Ten thousand things : nurturing life in contemporary Beijing / Judith 
+Farquhar and Qicheng Zhang. 
+PUBLISHER = New York : Zone Books, 2012. 
+RECORD # = b14918158. LOCATION = lbks. 
+
+
+
+CALL NO. = GR830.V3 I58 2013. 
+TITLE = Images of the modern vampire : the hip and the atavistic / edited by 
+Barbara Brodman and James E. Doan. 
+PUBLISHER = Madison : Fairleigh Dickinson University Press ; Lanham, Maryland : 
+Co-published with The Rowman & Littlefield Publishing Group, Inc., [2013]. 
+RECORD # = b14917798. LOCATION = lbks. 
+
+CALL NO. = GR830.V3 U55 2013. 
+TITLE = The universal vampire : origins and evolution of a legend / Barbara 
+Brodman and James E. Doan. 
+PUBLISHER = Madison : Fairleigh Dickinson University Press, co-published with 
+the Rowman & Littlefield Pub. Group, Inc., [2013]. 
+RECORD # = b14917865. LOCATION = lbks. 
+
+CALL NO. = GV865.W5 B73 2013. 
+TITLE = The kid : the immortal life of Ted Williams / Ben Bradlee, Jr. 
+PUBLISHER = New York : Little, Brown and Company, 2013. 
+RECORD # = b14927226. LOCATION = lbks. 
+
+CALL NO. = GV1132.A45 .T75 2013. 
+TITLE = The trials of Muhammad Ali / Kartemquin Films ; Independent Lens ; 
+Independent Television Service ; a film by Bill Siegel ; directed and produced 
+by Bill Siegel ; produced by Rachel Pikelny ; a co-production of Kartemquin 
+Educational Films, Projecto Willis, LLC, and the Independent Television Service.
+PUBLISHER = New York, NY : distributed by Kino Lorber. 
+PUBLISHER = {496}2014. 
+RECORD # = b14922113. LOCATION = lmvc. 
+
+CALL NO. = GV1469.34.P79 J67 2013. 
+TITLE = Gameworld interfaces / Kristine J{178}rgensen. 
+PUBLISHER = Cambridge, Massachusetts : The MIT Press, [2013]. 
+RECORD # = b1491850x. LOCATION = lbks. 
+
+CALL NO. = H86 .H277 2010. 
+TITLE = Harcourt social studies. States and regions / series authors, Michael J.
+Berson, Tyrone C. Howard, Cinthia Salinas. 
+PUBLISHER = Orlando, Fla. : Houghton Mifflin Harcourt School Publishing, c2010. 
+RECORD # = b14921789. LOCATION = ltm. 
+
+CALL NO. = H97 .B37 2012. 
+TITLE = A practical guide for policy analysis : the eightfold path to more 
+effective problem solving / Eugene Bardach. 
+PUBLISHER = Los Angeles : Sage ; Thousand Oaks : CQ Press, c2012. 
+RECORD # = b1491833x. LOCATION = lbks. 
+
+CALL NO. = HB105.T3 L381 2009. 
+TITLE = The science of passionate interests : an introduction to Gabriel Tarde's
+economic anthropology / Bruno Latour and Vincent Antonin L{226}epinay. 
+PUBLISHER = Chicago : Prickly Paradigm Press : Distributed by the University of 
+Chicago Press, c2009. 
+RECORD # = b14918134. LOCATION = lbks. 
+
+
+
+CALL NO. = HB501 .P436 2014. 
+CALL NO. = HB501 .P436 2014. 
+TITLE = Capital in the twenty-first century  / Thomas Piketty ; translated by 
+Arthur Goldhammer. 
+PUBLISHER = Cambridge Massachusetts : The Belknap Press of Harvard University 
+Press, 2014. 
+RECORD # = b14924079. LOCATION = lbks. 
+
+CALL NO. = HC79.I5 .M547 2011. 
+TITLE = The haves and the have-nots : a brief and idiosyncratic history of 
+global inequality / Branko Milanovic. 
+PUBLISHER = New York : Basic Books, c2011. 
+RECORD # = b14925217. LOCATION = lbks. 
+
+CALL NO. = HD41 .K37 2013. 
+TITLE = Competition policy and price fixing / Louis Kaplow. 
+PUBLISHER = Princeton, New Jersey : Princeton University Press, [2013]. 
+RECORD # = b1492657x. LOCATION = lbks. 
+
+CALL NO. = HD57.7 .A78 2008. 
+TITLE = The art of followership : how great followers create great leaders and 
+organizations / editors, Ronald E. Riggio, Ira Chaleff, Jean Lipman-Blumen ; 
+foreword by James MacGregor Burns. 
+PUBLISHER = San Francisco, CA : Jossey-Bass, c2008. 
+RECORD # = b14917555. LOCATION = lbks. 
+
+CALL NO. = HD2346.U52 .N558 2013. 
+TITLE = Floating city : a rogue sociologist lost and found in New York's 
+underground economy / Sudhir Venkatesh. 
+PUBLISHER = New York : The Penguin Press, 2013. 
+RECORD # = b14918869. LOCATION = lbks. 
+
+CALL NO. = HD2899 .V38 2013. 
+TITLE = Conquering the chaos : win in India, win everywhere / Ravi Venkatesan. 
+PUBLISHER = Boston, Massachusetts : Harvard Business Review Press, [2013]. 
+RECORD # = b14924924. LOCATION = lbks. 
+
+CALL NO. = HD6509.C48 P38 2014. 
+TITLE = The crusades of Cesar Chavez : a biography / Miriam Pawel. 
+PUBLISHER = New York, NY : Bloomsbury Press, 2014. 
+RECORD # = b14927767. LOCATION = lbks. 
+
+CALL NO. = HF1359 .J357 2009. 
+TITLE = The creation and destruction of value : the globalization cycle / Harold
+James. 
+PUBLISHER = Cambridge, Mass. : Harvard University Press, 2009. 
+RECORD # = b14924948. LOCATION = lbks. 
+
+CALL NO. = HF1379 .I567 2011. 
+CALL NO. = HF1379 .I567 2011. 
+CALL NO. = HF1379 .I567 2011. 
+TITLE = International business in the 21st century / Bruce D. Keillor, general 
+editor ; Timothy J. Wilkinson, editor. 
+PUBLISHER = Santa Barbara, Calif. : Praeger, c2011. 
+RECORD # = b1492528x. LOCATION = lbks. 
+
+
+
+CALL NO. = HF5387 .G464 2010. 
+TITLE = Giving voice to values : how to speak your mind when you know what's 
+right / Mary C. Gentile. 
+PUBLISHER = New Haven, Conn. ; London : Yale University Press, c2010. 
+RECORD # = b1492402x. LOCATION = lbks. 
+
+CALL NO. = HF5387 .J645 2012. 
+TITLE = Organizational ethics : a practical approach / Craig E. Johnson. 
+PUBLISHER = Thousand Oaks, Calif. : SAGE Publications, c2012. 
+RECORD # = b14917609. LOCATION = lbks. 
+
+CALL NO. = HF5388 .C35 2014. 
+TITLE = A catechism for business : tough ethical questions & insights from 
+Catholic teaching / edited by Andrew V. Abela and Joseph E. Capizzi. 
+PUBLISHER = Washington, D.C. : Catholic University of America Press, [2014]. 
+RECORD # = b14909133. LOCATION = lbks. 
+
+CALL NO. = HF5415.127 G464 2014. 
+TITLE = Generation like. 
+PUBLISHER = [United States] : PBS / Frontline, [2014]. 
+RECORD # = b14917932. LOCATION = lmvc. 
+
+CALL NO. = HF5415.155 .L545 2010. 
+TITLE = The light bulb conspiracy [videorecording] : the untold story of planned
+obsolescence / Arte France, Televisi{226}on Espa{228}nola, Televisi{226}o de 
+Catalunya present ; an Article Z/Media 3.14 production ;  in collaboration with 
+YLE, TG4, NRK, RTBF, SBS-TV Australia, T{226}el{226}evision Suisse Romande. 
+PUBLISHER = [San Francisco, CA] : Distributed by Video Project, c2010. 
+RECORD # = b14934577. LOCATION = lmvc. 
+
+CALL NO. = HF5547 .S33 2014. 
+TITLE = Cubed : a secret history of the workplace / Nikil Saval. 
+PUBLISHER = New York : Doubleday, [2014]. 
+RECORD # = b14924961. LOCATION = lbks. 
+
+CALL NO. = HF5549.5.M63 B368 2009. 
+TITLE = Motivate like a CEO : communicate your strategic vision and inspire 
+people to act! / Suzanne Bates. 
+PUBLISHER = New York : McGraw-Hill, c2009. 
+RECORD # = b14917592. LOCATION = lbks. 
+
+CALL NO. = HF5549.5.T7 G37 2011. 
+TITLE = Business improv : experiential learning exercises to train employees to 
+handle every situation with success / Val Gee and Sarah Gee. 
+PUBLISHER = New York : McGraw-Hill, c2011. 
+RECORD # = b14920141. LOCATION = lbks. 
+
+CALL NO. = HF5549.5.T7 K658 2013. 
+TITLE = Training to imagine : practical improvisational theatre techniques for 
+trainers and managers to enhance creativity, teamwork, leadership and learning /
+Kat Koppett ; foreword by Sivasailam "Thiagi" Thiagarajan. 
+PUBLISHER = Sterling, Va. : Stylus Pub., c2013. 
+RECORD # = b14920207. LOCATION = lbks. 
+
+
+
+CALL NO. = HF5718.22 .G353 2014. 
+TITLE = Talk like TED : the 9 public speaking secrets of the world's top minds /
+Carmine Gallo. 
+PUBLISHER = New York : St. Martin's Press, 2014. 
+RECORD # = b14917646. LOCATION = lbks. 
+
+CALL NO. = HG171 .F47 2008 (DVD). 
+TITLE = The ascent of money [videorecording] / PBS ; a co-production of 
+Chimerica Media Limited and THIRTEEN in association with WNET. 
+PUBLISHER = [London] : Chimerica Media Ltd. ; [Alexandria, VA] : Distributed by 
+PBS Distribution, c2009. 
+RECORD # = b14922162. LOCATION = lbks. 
+
+CALL NO. = HG229 .S295 2013. 
+TITLE = Rational expectations and inflation / Thomas J. Sargent. 
+PUBLISHER = Princeton, N.J. : Princeton University Press, c2013. 
+RECORD # = b1492545x. LOCATION = lbks. 
+
+CALL NO. = HG3881.5.B38 L43 2013. 
+TITLE = Tower of Basel : the shadowy history of the secret bank that runs the 
+world / Adam LeBor. 
+PUBLISHER = New York : Public Affairs, c2013. 
+RECORD # = b14925564. LOCATION = lbks. 
+
+CALL NO. = HM548 .S275 2014. 
+TITLE = Expulsions : brutality and complexity in the global economy / Saskia 
+Sassen. 
+PUBLISHER = Cambridge, Massachusetts : The Belknap Press of Harvard University 
+Press, 2014. 
+RECORD # = b14922976. LOCATION = lbks. 
+
+CALL NO. = HM1231 .P75 2014. 
+TITLE = Propaganda and American democracy / edited by Nancy Snow. 
+PUBLISHER = Baton Rouge : Louisiana State University Press, 2014. 
+RECORD # = b14919400. LOCATION = lbks. 
+
+CALL NO. = HQ766.3 .K25 2014. 
+TITLE = Sex, violence & justice : contraception and the Catholic Church / Aline 
+H. Kalbian. 
+PUBLISHER = Washington, DC : Georgetown University Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14923701. LOCATION = lbks. 
+
+CALL NO. = HQ767.2 .J64 2003. 
+TITLE = Abortion from the religious and moral perspective : an annotated 
+bibliography / George F. Johnston. 
+PUBLISHER = Westport, Conn. : Praeger Pub., 2003. 
+RECORD # = b14918717. LOCATION = lbks. 
+
+CALL NO. = HQ767.87 .T73 2014. 
+TITLE = Tracing childhood : bioarchaeological investigations of early lives in 
+antiquity / edited by Jennifer L. Thompson, Marta P. Alfonso-Durruty, and John 
+J. Crandall ; foreword by Clark Spencer Larsen. 
+PUBLISHER = Gainesville : University Press of Florida, [2014]. 
+RECORD # = b14923877. LOCATION = lbks. 
+
+
+
+CALL NO. = HQ799.2.I5 B68 2014. 
+TITLE = It's complicated : the social lives of networked teens / Danah Boyd. 
+PUBLISHER = New Haven : Yale University Press, [2014]. 
+RECORD # = b14918870. LOCATION = lbks. 
+
+CALL NO. = HQ1061 .G56 2014. 
+TITLE = Global aging : comparative perspectives on aging and the life course / 
+[edited by] Suzanne R. Kunkel, J. Scott Brown, Frank J. Whittington ; with 
+Jasleen K. Chahal. 
+PUBLISHER = New York : Springer Publishing Company, [2014]. 
+RECORD # = b14925084. LOCATION = lbks. 
+
+CALL NO. = HQ1075 .G463 2014. 
+TITLE = Gendering the recession : media and culture in an age of austerity / 
+Diane Negra and Yvonne Tasker, editors. 
+PUBLISHER = Durham : Duke University Press, 2014. 
+PUBLISHER = {496}2014. 
+RECORD # = b14923038. LOCATION = lbks. 
+
+CALL NO. = HQ1161 .G464 2007. 
+TITLE = The gender of globalization : women navigating cultural and economic 
+marginalities / edited by Nandini Gunewardena and Ann Kingsolver. 
+PUBLISHER = Santa Fe, N.M. : School for Advanced Research Press, 2007. 
+RECORD # = b14925072. LOCATION = lbks. 
+
+CALL NO. = HQ1180 .P54 2013. 
+TITLE = Taking sides : clashing views in women's studies / [selected, edited, 
+and with issue framing material] by Rachel Pienta. 
+PUBLISHER = [New York] : McGraw, 2013. 
+RECORD # = b14922757. LOCATION = lbks. 
+
+CALL NO. = HQ1412 .M163 2014. 
+TITLE = Flappers : six women of a dangerous generation / Judith Mackrell. 
+PUBLISHER = New York : Sarah Crichton Books, Farrar, Straus and Giroux, 2014. 
+PUBLISHER = {496}2013. 
+RECORD # = b14918328. LOCATION = lbks. 
+
+CALL NO. = HT119 .T65 2013. 
+TITLE = Smart cities : big data, civic hackers, and the quest for a new utopia /
+Anthony M. Townsend. 
+PUBLISHER = New York, NY : W.W. Norton & Company, Inc., [2013]. 
+RECORD # = b14918043. LOCATION = lbks. 
+
+CALL NO. = HV515.5 .K56 2013. 
+TITLE = A policy travelogue : tracing welfare reform in Aotearoa/New Zealand and
+Canada / Catherine Kingfisher. 
+PUBLISHER = New York : Berghahn, 2013. 
+RECORD # = b14925436. LOCATION = lbks. 
+
+CALL NO. = HV5801 .M35 1993. 
+TITLE = Food of the gods : the search for the original tree of knowledge : a 
+radical history of plants, drugs, and human evolution / Terence McKenna. 
+PUBLISHER = New York : Bantam Books, 1993. 
+RECORD # = b14924171. LOCATION = lbks. 
+
+
+
+CALL NO. = HV5825 .B677 2009. 
+TITLE = Righteous dopefiend / Philippe Bourgois, Jeff Schonberg. 
+PUBLISHER = Berkeley : University of California Press, c2009. 
+RECORD # = b14918122. LOCATION = lbks. 
+
+CALL NO. = HV6534.N5 C67 2014. 
+TITLE = Kitty Genovese : the murder, the bystanders, the crime that changed 
+America / Kevin Cook. 
+PUBLISHER = New York : W. W. Norton & Company, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14918882. LOCATION = lbks. 
+
+CALL NO. = HV8144.F43 M43 2014. 
+TITLE = The burglary : the discovery of J. Edgar Hoover's secret FBI / Betty 
+Medsger. 
+PUBLISHER = New York : Alfred A. Knopf, 2014. 
+PUBLISHER = {496}2014. 
+RECORD # = b14918857. LOCATION = lbks. 
+
+CALL NO. = HV8699.U5 S268 2014. 
+TITLE = Gruesome spectacles : botched executions and America's death penalty / 
+Austin Sarat ; with Katherine Blumstein, Aubrey Jones, Heather Richard, Madeline
+Sprung-Keyser. 
+PUBLISHER = Stanford, California : Stanford Law Books, an imprint of Stanford 
+University Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14924304. LOCATION = lbks. 
+
+CALL NO. = HV9067.H6 S658 2011. 
+TITLE = The sleep of reason : the James Bulger case / by David James Smith. 
+PUBLISHER = London : Faber, 2011. 
+RECORD # = b14926325. LOCATION = lbks. 
+
+CALL NO. = HV9471 .C574 2014. 
+TITLE = The punishment imperative : the rise and failure of mass incarceration 
+in America / Todd R. Clear and Natasha A. Frost. 
+PUBLISHER = New York : New York University Press, [2014]. 
+RECORD # = b14916423. LOCATION = lbks. 
+
+CALL NO. = JF1525.W45 B43 2012. 
+TITLE = Wikileaks : news in the networked era / Charlie Beckett with James Ball.
+PUBLISHER = Cambridge, UK ; Malden, MA : Polity Press, 2012. 
+RECORD # = b14923932. LOCATION = lbks. 
+
+CALL NO. = JF1525.W45 G74 2014. 
+TITLE = No place to hide : Edward Snowden, the NSA, and the U.S. surveillance 
+state / Glenn Greenwald. 
+PUBLISHER = New York : Metropolitan Books/Henry Holt 2014. 
+RECORD # = b14924316. LOCATION = lbks. 
+
+CALL NO. = JN30 .S713 2013. 
+TITLE = The European Union explained : institutions, actors, global impact / 
+Andreas Staab. 
+PUBLISHER = Bloomington, Indiana : Indiana University Press, 2013. 
+RECORD # = b14925023. LOCATION = lbks. 
+
+
+
+CALL NO. = JN7995.P57 B87 2014. 
+TITLE = Pirate politics : the new information policy contests  / Patrick 
+Burkart. 
+PUBLISHER = Cambridge, Mass. : The MIT Press, 2014. 
+RECORD # = b14919382. LOCATION = lbks. 
+
+CALL NO. = JQ3701.A58 P47 2014. 
+TITLE = Perspectives on Western Sahara : myths, nationalisms, and geopolitics / 
+edited by Anouar Boukhars and Jacques Roussellier. 
+PUBLISHER = Lanham, Maryland : Rowman & Littlefield, [2014]. 
+RECORD # = b14924109. LOCATION = lbks. 
+
+CALL NO. = JV105 .S79 2010. 
+TITLE = Carnal knowledge and imperial power : race and the intimate in colonial 
+rule / Ann Laura Stoler. 
+PUBLISHER = Berkeley : University of California Press, c2010. 
+RECORD # = b14918079. LOCATION = lbks. 
+
+CALL NO. = JV6483 .D423 2007. 
+TITLE = Debating immigration / edited by Carol M. Swain. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2007. 
+RECORD # = b14917506. LOCATION = lbks. 
+
+CALL NO. = JV6483 .O77 2010. 
+TITLE = Beside the golden door : U.S. immigration reform in a new era of 
+globalization / Pia M. Orrenius and Madeline Zavodny. 
+PUBLISHER = Washington, D.C. : AEI Press, c2010. 
+RECORD # = b14924869. LOCATION = lbks. 
+
+CALL NO. = JZ1318 .A665 2014. 
+TITLE = We the peoples : a UN for the 21st century / Kofi Annan ; edited by 
+Edward Mortimer. 
+PUBLISHER = Boulder ; London : Paradigm Publishers, 2014. 
+RECORD # = b14925588. LOCATION = lbks. 
+
+CALL NO. = JZ1318 .C638 2013. 
+TITLE = Fifty key thinkers on globalization / William D. Coleman and Alina 
+Sajed. 
+PUBLISHER = London ; New York : Routledge, 2013. 
+RECORD # = b14925035. LOCATION = lbks. 
+
+CALL NO. = JZ1318 .S366 2014. 
+TITLE = Maxwell's demon and the golden apple : global discord in the new 
+millennium / Randall L. Schweller. 
+PUBLISHER = Baltimore, Maryland : The Johns Hopkins University Press, 2014. 
+RECORD # = b14925382. LOCATION = lbks. 
+
+CALL NO. = JZ1320 .G55 2014. 
+TITLE = Global interdependence : the world after 1945 / edited by Akira Iriye. 
+PUBLISHER = Cambridge, Massachusetts ; London, England : The Belknap Press of 
+Harvard University Press, 2014. 
+RECORD # = b14925138. LOCATION = lbks. 
+
+
+
+CALL NO. = JZ5534 .H873 2010. 
+CALL NO. = JZ5534 .H873 2010. 
+TITLE = World peace and other fourth-grade achievements [videorecording] / a 
+Rosalia Films production in association with Silverthorn Films ; presented by 
+America Public Television. 
+PUBLISHER = [Charlottesville, Va.] : Rosalia Films ; [Memphis, Tenn] : 
+[Distributed by] The Martin Institute for Teaching Excellence, c2010. 
+RECORD # = b14925783. LOCATION = lmvc. 
+
+CALL NO. = KF3050 .P53 2013. 
+TITLE = Critical race theory and copyright in American dance : whiteness as 
+status property / Caroline Joan S. Picart. 
+PUBLISHER = New York, NY : Palgrave Macmillan, 2013. 
+RECORD # = b14918456. LOCATION = lbks. 
+
+CALL NO. = LB1025.3 .A934 2014. 
+TITLE = Teaching the taboo : courage and imagination in the classroom / Rick 
+Ayers, William Ayers ; foreword to the first edition by Haki R. Madhubuti ; 
+foredword to the second edition by Carol D. Lee. 
+PUBLISHER = New York, NY : Teachers College Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14919205. LOCATION = lbks. 
+
+CALL NO. = LB1025.3 .D68 2012. 
+TITLE = Assignments matter : making the connections that help students meet 
+standards / Eleanor Dougherty. 
+PUBLISHER = Alexandria, Virginia, USA : ASCD, [2012]. 
+RECORD # = b14922320. LOCATION = lbks. 
+
+CALL NO. = LB1025.3 .W47 2011. 
+TITLE = Embedded formative assessment / Dylan Wiliam. 
+PUBLISHER = Bloomington, IN : Solution Tree Press, c2011. 
+RECORD # = b14919084. LOCATION = lbks. 
+
+CALL NO. = Lb 1029.T4 N48 2013. 
+TITLE = A guide to co-teaching : new lessons and strategies to facilitate 
+student learning / Richard A. Villa, Jacqueline S. Thousand, Ann I. Nevin. 
+PUBLISHER = Thousand Oaks, California : Corwin, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14921832. LOCATION = lbks. 
+
+CALL NO. = LB1044.87 .I34 2012. 
+TITLE = Increasing student engagement and retention using immersive interfaces :
+virtual worlds, gaming, and simulation / edited by Charles Wankel, St. John's 
+University, New York, USA, Patrick Blessinger, St. John's University, New York, 
+USA, in collaboration with Jurate Stanaityte, Neil Washington ; created in 
+partnership with Higher Education, Teaching and Learning. 
+PUBLISHER = Bingley, United Kingdom : Emerald, 2012. 
+PUBLISHER = {496}2012. 
+RECORD # = b14924365. LOCATION = lbks. 
+
+
+
+CALL NO. = LB1044.87 .I53 2012. 
+TITLE = Increasing student engagement and retention using social technologies : 
+Facebook, e-portfolios and other social networking services / edited by Laura A.
+Wankel, Patrick Blessinger, in collaboration with Jurate Stanaityte, Neil 
+Washington. 
+PUBLISHER = Bingley, UK : Emerald, 2012. 
+RECORD # = b14924389. LOCATION = lbks. 
+
+CALL NO. = LB1044.87 .I537 2013. 
+TITLE = Increasing student engagement and retention using multimedia 
+technologies : video annotation, multimedia applications, videoconferencing and 
+transmedia storytelling / edited by Laura A. Wankel, Patrick Blessinger, in 
+collaboration with Jurate Stanaityte, Neil Washington. 
+PUBLISHER = Bingley : Emerald, 2013. 
+RECORD # = b14924377. LOCATION = lbks. 
+
+CALL NO. = LB1572 .P35 2014. 
+TITLE = Teaching the core skills of listening and speaking / Erik Palmer. 
+PUBLISHER = Alexandria, Va. : ASCD, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14922368. LOCATION = lbks. 
+
+CALL NO. = LB1576.7 .J64 2014. 
+TITLE = Reading, writing, and literacy 2.0 : teaching with online texts, tools, 
+and resources, K-8 / Denise Johnson. 
+PUBLISHER = New York, NY : Teachers College, Columbia University, 2014. 
+RECORD # = b14919242. LOCATION = lbks. 
+
+CALL NO. = LB1578 .F744 2014. 
+TITLE = On our way to English / program authors: Dr. Yvonne S. Freeman, Dr. 
+David E. Freeman, Dr. Margo Gottlieb, Dr. Robert Marzano, Mary Lou McCloskey, 
+Dr. Cecilia Silva, Lydia Stack, Aurora Col{226}on Garcia. 
+PUBLISHER = Orlando, Florida : Houghton Mifflin Harcourt Publishing Company, 
+[2014]. 
+RECORD # = b14921820. LOCATION = ltm. 
+
+CALL NO. = LB1590.3 .Z94 2011. 
+TITLE = Academic conversations : classroom talk that fosters critical thinking 
+and content understandings / Jeff Zwiers & Marie Crawford. 
+PUBLISHER = Portland, Me. : Stenhouse Publishers, c2011. 
+RECORD # = b14918924. LOCATION = lbks. 
+
+CALL NO. = LB1607.5 .B53 2013. 
+TITLE = Rigor is not a four-letter word / Barbara R. Blackburn. 
+PUBLISHER = Larchmont, NY : Eye on Education, [2013]. 
+RECORD # = b14918985. LOCATION = lbks. 
+
+CALL NO. = LB1631.C657 C65 2014. 
+TITLE = Common core curriculum : English, grades 9-12. 
+PUBLISHER = San Francisco, CA : Common Core/Jossey-Bass, a Wiley brand, [2014]. 
+RECORD # = b14918948. LOCATION = lbks. 
+
+
+
+CALL NO. = LB1631 .G43 2009. 
+TITLE = English learners, academic literacy, and thinking : learning in the 
+challenge zone / Pauline Gibbons ; foreword by Jim Cummings. 
+PUBLISHER = Portsmouth, NH : Heinemann, c2009. 
+RECORD # = b14919102. LOCATION = lbks. 
+
+CALL NO. = LB1631 .H558 2013. 
+TITLE = Common core for the not-so-common learner : English language arts 
+strategies, grades 6-12 / Andrea Honigsfeld, Maria G. Dove. 
+PUBLISHER = Thousand Oaks, Calif. : Corwin, [2013]. 
+RECORD # = b14918961. LOCATION = lbks. 
+
+CALL NO. = LB1632 .O95 2014. 
+TITLE = The Common Core reading book : lessons for increasingly complex 
+literature, informational texts, and content-area reading, 6-8 / Gretchen 
+Owocki. 
+PUBLISHER = Portsmouth, NH : Heinemann, [2014]. 
+RECORD # = b14924341. LOCATION = lbks. 
+
+CALL NO. = LB1632 .R343 2010. 
+CALL NO. = LB1632 .R343 2010. 
+TITLE = Reading and writing for resiliency [videorecording] : the life-changing 
+power of enabling texts / Alfred W. Tatum. 
+PUBLISHER = Portsmouth, NH : Heinemann, c2010. 
+RECORD # = b14920530. LOCATION = lmvc. 
+
+CALL NO. = LB1738 .E25 2014. 
+CALL NO. = LB1738 .E25 2014. 
+TITLE = East Meets West in Teacher Preparation : Crossing Chinese and American 
+Borders / Edited by Wen Ma ; Foreword by Allan Luke. 
+PUBLISHER = New York, NY : Teachers College Press, 2014. 
+RECORD # = b14915984. LOCATION = lbks. 
+
+CALL NO. = LB2328.32.U6 R46 2014. 
+TITLE = Remaking college : innovation and the liberal arts / edited by Rebecca 
+Chopp, Susan Frost, Daniel H. Weiss. 
+PUBLISHER = Baltimore, Maryland : Johns Hopkins University Press, c2014. 
+RECORD # = b14936306. LOCATION = lbks. 
+
+CALL NO. = LB2341 .B476 2008. 
+TITLE = Understanding college and university organization : theories for 
+effective policy and practice / James L. Bess and Jay R. Dee ; foreword by D. 
+Bruce Johnstone. 
+PUBLISHER = Sterling, Va. : Stylus, 2008. 
+RECORD # = b14919230. LOCATION = lbks. 
+
+CALL NO. = LB2371 .C47 2012. 
+TITLE = A guide to academia : getting into and surviving grad school, postdocs, 
+and a research job / Prosanta Chakrabarty, Ph. D. 
+PUBLISHER = Chichester, West Sussex, UK : Wiley-Blackwell, 2012. 
+RECORD # = b14920293. LOCATION = lbks. 
+
+
+
+CALL NO. = LB2838 .D28 2013. 
+TITLE = Getting teacher evaluation right : what really matters for effectiveness
+and improvement / Linda Darling-Hammond. 
+PUBLISHER = New York : Teachers College Press, [2013]. 
+RECORD # = b14919114. LOCATION = lbks. 
+
+CALL NO. = LB3013 .T54 2003. 
+TITLE = The teacher's toolbox for differentiating instruction : 700 strategies, 
+tips, tools and techniques / by Linda Tilton ; with illustrations by Dana 
+Hanson. 
+PUBLISHER = Shorewood, Minn. : Covington Cove Publications, c2003. 
+RECORD # = b14919199. LOCATION = lbks. 
+
+CALL NO. = LB3013.6 .T56 2013. 
+TITLE = The school psychology licensure exam guide / Peter S. Thompson, PhD, 
+NSCP. 
+PUBLISHER = New York, NY : Springer Publishing Company, LLC, [2013]. 
+RECORD # = b1492366x. LOCATION = lbks. 
+
+CALL NO. = LB3051.B32 2012. 
+TITLE = Common formative assessment : a toolkit for professional learning 
+communities at WorkTM / Kim Bailey & Chris Jakicic. 
+PUBLISHER = Bloomington, IN : Solution Tree Press, c2012. 
+RECORD # = b14918973. LOCATION = lbks. 
+
+CALL NO. = LC213 .B35 2014. 
+TITLE = (Un)learning disability : recognizing and changing restrictive views of 
+student ability / Annmarie D. Baines ; foreword by Ray McDermott. 
+PUBLISHER = New York : Teachers College Press, Teachers College, Columbia 
+University, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14918912. LOCATION = lbks. 
+
+CALL NO. = LC1201 M385 2013. 
+TITLE = Inclusion : effective practices for all students / James McLeskey, 
+Michael S. Rosenberg, David L. Westling. 
+PUBLISHER = Boston : Pearson, c2013. 
+RECORD # = b1492237x. LOCATION = lbks. 
+
+CALL NO. = LC1203.G7 G64 2014. 
+TITLE = Inclusive primary teaching : a critical approach to equality and special
+educational needs / by Janet Goepel, Helen Childerhouse, Sheila Sharpe. 
+PUBLISHER = Northwich : Critical Publishing, 2014. 
+RECORD # = b14919138. LOCATION = lbks. 
+
+CALL NO. = LC3071 .L43 2014. 
+CALL NO. = LC3071 .L43 2014. 
+TITLE = Learner's privilege and responsibility : a critical examination of the 
+experiences and perspectives of learners from Chinese backgrounds in the United 
+States / Edited by Wen Ma, Le Moyne College; Chuang Wang, University of North 
+Carolina at Charlotte. 
+RECORD # = b14916460. LOCATION = lbks. 
+
+
+
+CALL NO. = LC4091 .G595 2013. 
+TITLE = Reaching and teaching students in poverty : strategies for erasing the 
+opportunity gap / Paul C. Gorski. 
+PUBLISHER = New York : Teachers College Press, [2013]. 
+RECORD # = b14919175. LOCATION = lbks. 
+
+CALL NO. = LC4601 .E26 2014. 
+TITLE = Educating learners with down syndrome : research, theory and practice 
+with children and adolescents / edited by Rhonda Faragher and Barbara Clarke. 
+PUBLISHER = London ; New York : Routledge, 2014. 
+RECORD # = b14919072. LOCATION = lbks. 
+
+CALL NO. = LC4704.5 .A33 2014. 
+TITLE = The address / a Florentine Films production.; produced in association 
+with WETA Washington, DC. 
+PUBLISHER = Arlington, VA : PBS Distribution, [2014]. 
+RECORD # = b1492187x. LOCATION = lmvc. 
+
+CALL NO. = M1003.H76 op.32 1979. 
+TITLE = The planets : suite for large orchestra : op. 32 / Gustav Holst ; new 
+edition prepared by Imogen Holst & Colin Matthews. 
+PUBLISHER = London : Curwen, 1979. 
+RECORD # = b14926167. LOCATION = lbks. 
+
+CALL NO. = M1003.H76 op.32 #4 2000. 
+TITLE = The planets. Jupiter, the bringer of jollity / Gustav Holst. 
+PUBLISHER = Michigan : Luck's Music Library, [approximately 2000?]. 
+RECORD # = b14918286. LOCATION = lbks. 
+
+CALL NO. = M1527.2.G43 S69 2013. 
+CALL NO. = M1527.2.G43 S69 2013. 
+CALL NO. = M1527.2.G43 S69 2013. 
+TITLE = Star trek into darkness / written and arranged by Michael Giacchino. 
+PUBLISHER = Milwaukee, WI : Hal Leonard Corporation, [2013]. 
+RECORD # = b14926349. LOCATION = lbks. 
+
+CALL NO. = ML60.C13 S5 2011. 
+TITLE = Silence : lectures and writings / by John Cage ; with foreword by Kyle 
+Gann. 
+PUBLISHER = Middletown, Conn. : Wesleyan University Press, 2011. 
+RECORD # = b1491945x. LOCATION = lbks. 
+
+CALL NO. = ML160 .G823 2009. 
+TITLE = A concise history of western music / Paul Griffiths. 
+PUBLISHER = Cambridge, UK ; New York : Cambridge University Press, 2009. 
+RECORD # = b14918420. LOCATION = lbks. 
+
+CALL NO. = ML400 .K873 2014. 
+TITLE = I'll take you there : Mavis Staples, the Staple Singers, and the march 
+up freedom's highway / Greg Kot. 
+PUBLISHER = New York : Scribner, 2014. 
+RECORD # = b14925242. LOCATION = lbks. 
+
+
+
+CALL NO. = ML410.B1 B224 v.9. 
+TITLE = J.S. Bach and his German contemporaries / edited by Andrew Talle. 
+PUBLISHER = Urbana : University of Illinois Press, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14918535. LOCATION = lbks. 
+
+CALL NO. = ML410.S6872 S59 2014. 
+TITLE = Six by Sondheim. 
+PUBLISHER = [Place of publication not identified] : [Publisher not identified], 
+[2014]. 
+PUBLISHER = New York, NY : HBO Home Entertainment. 
+RECORD # = b14934747. LOCATION = lmvc. 
+
+CALL NO. = ML420.S44 P48 2008. 
+TITLE = Pete Seeger [videorecording] : the power of song / the Weinstein Company
+and Live Nation Artists. 
+PUBLISHER = [New York, N.Y.] : Weinstein Co. Home Entertainment ; Santa Monica, 
+CA : Distributed by Genius Products, [2008]. 
+RECORD # = b1492206x. LOCATION = lmvc. 
+
+CALL NO. = ML1711.8.N3 D53 2014. 
+TITLE = The complete book of 1960s Broadway musicals / Dan Dietz. 
+PUBLISHER = Lanham, Maryland : Rowman & Littlefield, [2014]. 
+RECORD # = b14918419. LOCATION = lbks. 
+
+CALL NO. = ML1711.8.N3 H57 2011. 
+TITLE = Off-Broadway musicals since 1919 : from Greenwich Village follies to The
+toxic avenger / Thomas S. Hischak. 
+PUBLISHER = Lanham, Md. : Scarecrow Press, 2011. 
+RECORD # = b14918584. LOCATION = lbks. 
+
+CALL NO. = ML1729.4 .G43 2014. 
+TITLE = The politics of appropriation : German romantic music and the ancient 
+Greek legacy / Jason Geary. 
+PUBLISHER = New York : Oxford University Press, 2014. 
+RECORD # = b14919394. LOCATION = lbks. 
+
+CALL NO. = ML2075 .D664 2014. 
+TITLE = Occult aesthetics : synchronization in sound film / K.J. Donnelly. 
+PUBLISHER = New York : Oxford University Press, [2014]. 
+RECORD # = b14918572. LOCATION = lbks. 
+
+CALL NO. = ML3020.2 .K46 2014. 
+TITLE = Singing Jeremiah : music and meaning in Holy Week / Robert L. Kendrick. 
+PUBLISHER = Bloomington ; Indianapolis : Indiana University Press, 2014. 
+PUBLISHER = 2014. 
+RECORD # = b14923737. LOCATION = lbks. 
+
+CALL NO. = ML3129.7.B38 F57 2014. 
+TITLE = Music, piety, and propaganda : the soundscapes of counter-reformation 
+Bavaria / Alexander J. Fisher. 
+PUBLISHER = New York : Oxford University Press, 2014. 
+RECORD # = b14918560. LOCATION = lbks. 
+
+
+
+CALL NO. = ML3508.8.N48 H63 2014. 
+TITLE = Creating jazz counterpoint : New Orleans, barbershop harmony, and the 
+blues / Vic Hobson. 
+PUBLISHER = Jackson : University Press of Mississippi, [2014]. 
+RECORD # = b14918444. LOCATION = lbks. 
+
+CALL NO. = ML3790 .A45 2011. 
+TITLE = Artist management for the music business / Paul Allen. 
+PUBLISHER = Burlington, MA : Focal Press, c2011. 
+RECORD # = b14919795. LOCATION = lbks. 
+
+CALL NO. = ML3790 .B84 2013. 
+TITLE = The art of music production : the theory and practice / Richard James 
+Burgess. 
+PUBLISHER = Oxford ; New York : Oxford University Press, [2013]. 
+RECORD # = b14919783. LOCATION = lbks. 
+
+CALL NO. = ML3790 .F49 2013. 
+TITLE = Music production : recording : a guide for producers, engineers and 
+musicians / Carlos Lellis Ferreira. 
+PUBLISHER = New York : Focal Press, 2013. 
+RECORD # = b14919953. LOCATION = lbks. 
+
+CALL NO. = ML3790 .F596 2013. 
+TITLE = Introduction to the music industry : an entrepreneurial approach / 
+Catherine Fitterman Radbill. 
+PUBLISHER = New York : Routledge, 2013. 
+RECORD # = b14919874. LOCATION = lbks. 
+
+CALL NO. = ML3790 .H347 2012. 
+TITLE = Download! : how the Internet transformed the record business / Phil 
+Hardy. 
+PUBLISHER = London : Omnibus Press, c2012. 
+RECORD # = b14925801. LOCATION = lbks. 
+
+CALL NO. = ML3790 .H493 2011. 
+TITLE = What is music production? : a producer's guide : the role, the people, 
+the process / Russ Hepworth-Sawyer, Craig Golding. 
+PUBLISHER = Burlington, MA : Focal Press, c2011. 
+RECORD # = b14920062. LOCATION = lbks. 
+
+CALL NO. = ML3790 .L49 2013. 
+TITLE = Less noise, more soul : the search for balance in the art, technology, 
+and commerce of music / edited by David Flitner. 
+PUBLISHER = Milwaukee, WI : Hal Leonard Books, an imprint of Hal Leonard 
+Corporation, 2013. 
+RECORD # = b14919886. LOCATION = lbks. 
+
+CALL NO. = ML3790 .M350 2013. 
+TITLE = Recording history : the British record industry, 1888-1931 / Peter 
+Martland. 
+PUBLISHER = Lanham, Md. : Scarecrow Press, 2013. 
+RECORD # = b14919989. LOCATION = lbks. 
+
+
+
+CALL NO. = ML3790 .M728 2012. 
+TITLE = The music industry / Noah Berlatsky, book editor. 
+PUBLISHER = Detroit, MI : Greenhaven Press, c2012. 
+RECORD # = b14919941. LOCATION = lbks. 
+
+CALL NO. = ML3790 .P35 2012. 
+TITLE = All you need to know about the music business / Donald S. Passman. 
+PUBLISHER = New York : Free Press, 2012. 
+RECORD # = b14919771. LOCATION = lbks. 
+
+CALL NO. = ML3790 .R63 2013. 
+TITLE = The death and life of the music industry in the digital age / by Jim 
+Rogers. 
+PUBLISHER = New York : Bloomsbury Academic, 2013. 
+RECORD # = b14919837. LOCATION = lbks. 
+
+CALL NO. = ML3790 .T69 2010. 
+TITLE = The green musician's guide : sound ideas for a sound planet / Jeff 
+Touzeau ; [foreword by Shawn Kilmurray]. 
+PUBLISHER = Boston, MA : Course Technology, c2011. 
+RECORD # = b14920876. LOCATION = lbks. 
+
+CALL NO. = ML3790 .W388 2012. 
+TITLE = Managing artists in pop music : what every artist and manager must know 
+to succeed / Mitch Weiss and Perri Gaffney. 
+PUBLISHER = New York : Allworth Press, c2012. 
+RECORD # = b14919904. LOCATION = lbks. 
+
+CALL NO. = ML3790 .W49 2013. 
+TITLE = What is the future of the music industry? / Ronald D. Lankford, Jr., 
+book editor. 
+PUBLISHER = Farmington Hills, MI : Greenhaven Press, [2013]. 
+RECORD # = b14920074. LOCATION = lbks. 
+
+CALL NO. = ML3858 .G38 2014. 
+TITLE = Gestures of music theater : the performativity of song and dance / 
+edited by Dominic Symonds and Millie Taylor. 
+PUBLISHER = New York : Oxford University Press, [2014]. 
+RECORD # = b1491864x. LOCATION = lbks. 
+
+CALL NO. = ML3918.R63 S3 2013. 
+TITLE = Punk rock and German crisis : adaptation and resistance after 1977 / 
+Cyrus Shahan. 
+PUBLISHER = New York, NY : Palgrave Macmillan, 2013. 
+RECORD # = b14919412. LOCATION = lbks. 
+
+CALL NO. = MT662 .D67 2014. 
+TITLE = West African drumming and dance in North American universities : an 
+ethnomusicological perspective / George Worlasi Kwasi Dor. 
+PUBLISHER = Jackson : University Press of Mississippi, 2014. 
+RECORD # = b14919515. LOCATION = lbks. 
+
+CALL NO. = N66 .D26 2014. 
+TITLE = What art is / Arthur C. Danto. 
+PUBLISHER = New Haven : Yale University Press, 2014. 
+RECORD # = b14920219. LOCATION = lbks. 
+
+
+
+CALL NO. = NK4850 .M55 2014. 
+TITLE = Clothing the clergy : virtue and power in medieval Europe, c. 800-1200 /
+Maureen C. Miller. 
+PUBLISHER = Ithaca : Cornell University Press, 2014. 
+RECORD # = b14924328. LOCATION = lbks. 
+
+CALL NO. = NX456.5.P38 H39 2009. 
+TITLE = Why art matters : artists and peacebuilding / Dena L. Hawes. 
+PUBLISHER = Saarbr{232}ucken, Germany : VDM Verlag, c2009. 
+RECORD # = b14920220. LOCATION = lbks. 
+
+CALL NO. = P94.5.H58 L38 2013. 
+TITLE = Latinos and narrative media : participation and portrayal / edited by 
+Frederick Luis Aldama. 
+PUBLISHER = New York : Palgrave Macmillan, 2013. 
+RECORD # = b14918559. LOCATION = lbks. 
+
+CALL NO. = P96.D62 B66 2014. 
+TITLE = Engaging with reality : documentary and globalization / Id Bondebjerg. 
+PUBLISHER = Bristol, U.K. : Intellect, 2014. 
+RECORD # = b1491847x. LOCATION = lbks. 
+
+CALL NO. = P96.I5 G535 2014. 
+TITLE = Global communication : new agendas in communication / edited by Karin G.
+Wilkins, Joe D. Straubhaar, and Shanti Kumar. 
+PUBLISHER = New York : Routledge, 2014. 
+RECORD # = b14925096. LOCATION = lbks. 
+
+CALL NO. = P120.W66 W66 2013. 
+TITLE = Women and rhetoric between the wars / edited by Ann George, M. Elizabeth
+Weiser, and Janet Zepernick. 
+PUBLISHER = Carbondale : Southern Illinois University Press, c2013. 
+RECORD # = b14923944. LOCATION = lbks. 
+
+CALL NO. = PA3015.R5 H372 2013. 
+TITLE = Helen of Troy : beauty, myth, devastation / Ruby Blondell. 
+PUBLISHER = Oxford ; New York : Oxford University Press, [2013]. 
+RECORD # = b14917786. LOCATION = lbks. 
+
+CALL NO. = PC2112 .B54 2008. 
+TITLE = Bien dit! : Holt French 1, 1A, and 1B / John DeMado ... [et al.]. 
+PUBLISHER = Austin, Tex. : Holt, Rinehart and Winston, c2008. 
+RECORD # = b14921819. LOCATION = ltm. 
+
+CALL NO. = PC4112 .A93 2010. 
+TITLE = Avancemos 1 / Estella Gahala, Estella Gahala, Patricia Hamilton Carlin, 
+Audrey L. Heining-Boynton, Ricardo Otheguy, Barbara J. Rupert. 
+PUBLISHER = Boston : Holt McDougal, 2010. 
+RECORD # = b14921807. LOCATION = ltm. 
+
+CALL NO. = PE1128.A2 E248 2012. 
+TITLE = Making content comprehensible for English learners : the SIOP{170} model
+/ Jana Echevarr{178}a, MaryEllen Vogt, Deborah J. Short. 
+PUBLISHER = Boston : Pearson, 2012. 
+RECORD # = b1491914x. LOCATION = ltm. 
+
+
+
+CALL NO. = PE1128.A2 F45 2010. 
+TITLE = English language learners : teaching strategies that work / Larry 
+Ferlazzo. 
+PUBLISHER = Santa Barbara, Calif. : Linworth, 2010. 
+RECORD # = b14919096. LOCATION = ltm. 
+
+CALL NO. = PE1128.A2 G682 2013. 
+TITLE = Teaching vocabulary to English language learners / Michael F. Graves, 
+Diane August , Jeannette Mancilla-Martinez ; foreword by Catherine E. Snow. 
+PUBLISHER = New York : Teachers College Press, c2013. 
+RECORD # = b14919217. LOCATION = ltm. 
+
+CALL NO. = PE1128.A2 H288 2013. 
+TITLE = Special education considerations for English language learners : 
+delivering a continuum of services / Else Hamayan, Barbara Marler, Cristina 
+S{226}anchez-L{226}opez, Jack Damico. 
+PUBLISHER = Philadelphia : Caslon Publishing, [2013]. 
+RECORD # = b14921704. LOCATION = ltm. 
+
+CALL NO. = PE1128.A2 H575 2013. 
+TITLE = Explicit Direct Instruction for English Learners / John Hollingsworth, 
+Silvia E. Ybarra. 
+PUBLISHER = Thousand Oaks : Corwin Press, [2013]. 
+RECORD # = b14921686. LOCATION = ltm. 
+
+CALL NO. = PE1128.A2 T387 2010. 
+TITLE = Teaching adolescent English language learners : essential strategies for
+middle and high school / Nancy Cloud ... [et al.] ; with a foreword by Deborah 
+Short. 
+PUBLISHER = Philadelphia : Caslon Pub., c2010. 
+RECORD # = b14921716. LOCATION = ltm. 
+
+CALL NO. = PE1128.A2 W15 2012. 
+TITLE = Implementing effective instruction for English language learners : 12 
+key practices for administrators, teachers, leadership teams / Suzanne Wagner, 
+Tamara King. 
+PUBLISHER = Philadelphia : Caslon Pub., c2012. 
+RECORD # = b14921698. LOCATION = ltm. 
+
+CALL NO. = PK6379 .A34 2009. 
+TITLE = Oxford picture dictionary : English/Farsi / Jayme Adelson-Goldstein, 
+Norma Shapiro ; translation reviewed by Ramin Eshtiaghi. 
+PUBLISHER = New York, NY : Oxford University Press, c2009. 
+RECORD # = b14919163. LOCATION = lbks. 
+
+CALL NO. = PL768.J6 W66 2013. 
+TITLE = Wondrous brutal fictions : eight Buddhist tales from the early Japanese 
+puppet theater / translated, with an introduction, by R. Keller Kimbrough. 
+PUBLISHER = New York : Columbia University Press, [2013]. 
+RECORD # = b14924134. LOCATION = lbks. 
+
+CALL NO. = PL856.U673 S551 2014. 
+TITLE = Colorless Tsukuru Tazaki and his years of pilgrimage : a novel / Haruki 
+Murakami ; translated from the Japanese by Philip Gabriel. 
+PUBLISHER = New York : Alfred A. Knopf, 2014. 
+RECORD # = b14936501. LOCATION = lbks. 
+
+
+
+CALL NO. = PL8010 .J335 2014. 
+TITLE = Africa in stereo : modernism, music, and pan-African solidarity / Tsitsi
+Ella Jaji. 
+PUBLISHER = Oxford ; New York : Oxford University Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14918377. LOCATION = lbks. 
+
+CALL NO. = PN56.M54 C355 2011. 
+TITLE = The Cambridge companion to European modernism / edited by Pericles 
+Lewis. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2011. 
+RECORD # = b14922721. LOCATION = lbks. 
+
+CALL NO. = PN56.S54 M67 2014. 
+TITLE = Shipwrecked : disaster and transformation in Homer, Shakespeare, Defoe, 
+and the modern world / James V. Morrison. 
+PUBLISHER = Ann Arbor : University of Michigan Press, [2014]. 
+RECORD # = b14923725. LOCATION = lbks. 
+
+CALL NO. = PN212 .N379 2012. 
+TITLE = Narrative theory : core concepts and critical debates / David Herman 
+[and others]. 
+PUBLISHER = Columbus : Ohio State University Press, {496}2012. 
+RECORD # = b14923348. LOCATION = lbks. 
+
+CALL NO. = PN1021 .N39 2012. 
+TITLE = The Princeton encyclopedia of poetry and poetics / Roland Greene, editor
+in chief ; Stephen Cushman, general editor ; Clare Cavanagh, Jahan Ramazani, 
+Paul Rouzer, associate editors ; Harris Feinsod, David Marno, Alexandra 
+Slessarev, assistant editors. 
+PUBLISHER = Princeton : Princeton University Press, c2012. 
+RECORD # = b14923476. LOCATION = lbks. 
+
+CALL NO. = PN1661 .A44 2013. 
+TITLE = Then what happens? : storytelling and adapting for the theatre / Mike 
+Alfreds. 
+PUBLISHER = London : Nick Hern Books, 2013. 
+RECORD # = b14923865. LOCATION = lbks. 
+
+CALL NO. = PN1992.15 C32 Season.3 2014. 
+TITLE = Call the midwife. Season three / Neal Street production for the BBC. 
+PUBLISHER = Warner Home Video. 
+PUBLISHER = [London] : BBC, [2014]. 
+PUBLISHER = Burbank, CA : Warner Home Video, [2014]. 
+RECORD # = b14921893. LOCATION = lmvc. 
+
+
+
+CALL NO. = PN1992.15 .F75. 
+CALL NO. = PN1992.15 .F75. 
+CALL NO. = PN1992.15 .F75. 
+CALL NO. = PN1992.15 .F75. 
+CALL NO. = PN1992.15 .F75. 
+CALL NO. = PN1992.15 .F75. 
+CALL NO. = PN1992.15 .F75. 
+CALL NO. = PN1992.15 .F75. 
+CALL NO. = PN1992.15 .F75. 
+CALL NO. = PN1992.15 .F75. 
+TITLE = Friends [videorecording] : the complete series / distributed by Warner 
+Home Video. 
+PUBLISHER = Neutral Bay, N.S.W. : Warner Home Video, 2010. 
+RECORD # = b1491797x. LOCATION = lmvc. 
+
+CALL NO. = PN1992.15 .G35 2014 Season 3. 
+CALL NO. = PN1992.15 .G35 2014 Season 3. 
+TITLE = Game of thrones. The complete third season / HBO Entertainment ; [and 
+five others] ; Television 360 ; Startling Television ; Bighead Littlehead ; a 
+presentation of Home Box Office. 
+PUBLISHER = [Los Angeles, California] : Home Box Office, Inc., [2014]. 
+PUBLISHER = Burbank, CA : Distributed by Warner Home Video, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14922010. LOCATION = lmvc. 
+
+CALL NO. = PN1992.15 .M5 Season 1. 
+TITLE = Modern family. The complete first season [videorecording] / Levitan 
+Lloyd ; 20th Century Fox Television. 
+PUBLISHER = Beverly Hills, CA : 20th Century Fox Home Entertainment, c2010. 
+RECORD # = b14918249. LOCATION = lmvc. 
+
+CALL NO. = PN1992.15 .M5 Season 2. 
+TITLE = Modern family. The complete second season [videorecording] / Levitan 
+Lloyd ; 20th Century Fox Television. 
+PUBLISHER = Beverly Hills, CA : 20th Century Fox Home Entertainment, [2011]. 
+RECORD # = b14918250. LOCATION = lmvc. 
+
+CALL NO. = PN1992.15 .M5 Season 3. 
+TITLE = Modern family. The complete third season [videorecording]  / Levitan 
+Lloyd ; 20th Century Fox Television. 
+PUBLISHER = Beverly Hills, Calif. : 20th Century Fox Home Entertainment, 2012. 
+RECORD # = b14918262. LOCATION = lmvc. 
+
+CALL NO. = PN1992.15 .M5 Season 4. 
+TITLE = Modern family. the complete fourth season / Levitan Lloyd ; 20th Century
+Fox Television. 
+PUBLISHER = Beverly Hills, Calif. : Twentieth Century Fox Home Entertainment, 
+[2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14922381. LOCATION = lmvc. 
+
+
+
+CALL NO. = PN1992.15 .W3 Season 1. 
+TITLE = The walking dead. The complete first season [videorecording] / Circle of
+Confusion ; Valhalla Entertainment ; Darkwoods Productions ; AMC Studios ; AMC 
+presents. 
+PUBLISHER = Beverly Hills, Calif. : Anchor Bay Entertainment, {496}2010. 
+RECORD # = b14918213. LOCATION = lmvc. 
+
+CALL NO. = PN1992.15 .W3 Season 2. 
+TITLE = The walking dead. The complete second season [videorecording] / Circle 
+of Confusion ; Valhalla Entertainment ; Darkwoods Productions ; AMC Studios ; 
+AMC presents. 
+PUBLISHER = Beverly Hills, CA : Anchor Bay Entertainment, [2012]. 
+RECORD # = b14918225. LOCATION = lmvc. 
+
+CALL NO. = PN1992.15 .W3 Season 3. 
+TITLE = The walking dead. The complete third season [videorecording] / AMC 
+presents ;  Circle of Confusion ; Valhalla Entertainment ; AMC Studios. 
+PUBLISHER = Beverly Hills, CA : Anchor Bay Entertainment, [2013]. 
+RECORD # = b14918237. LOCATION = lmvc. 
+
+CALL NO. = PN1992.4.S64 J384 2014. 
+TITLE = Joss Whedon, a creative portrait : from Buffy the Vampire Slayer to 
+Marvel's The Avengers / David Lavery. 
+PUBLISHER = London I.B. Tauris, 2014. 
+PUBLISHER = {496}2014. 
+RECORD # = b14918547. LOCATION = lbks. 
+
+CALL NO. = PN1992.8.H64 V55 2014. 
+TITLE = Ethereal queer : television, historicity, desire / Amy Villarejo. 
+PUBLISHER = 1310. 
+PUBLISHER = Durham : Duke University Press, 2014. 
+RECORD # = b14918481. LOCATION = lbks. 
+
+CALL NO. = PN1992.8.M54 C86 2014. 
+TITLE = The colorblind screen : television in post-racial America / edited by 
+Sarah Nilsen and Sarah E. Turner. 
+PUBLISHER = New York : New York University Press, [2014]. 
+RECORD # = b14918390. LOCATION = lbks. 
+
+CALL NO. = PN1993.15 .A675 1959. 
+CALL NO. = PN1993.15 .A675 1959. 
+CALL NO. = PN1993.15 .A675 1959. 
+TITLE = The Apu trilogy. 
+PUBLISHER = [South Korea] : PD Entertainment, [2008]. 
+PUBLISHER = {496}2008. 
+RECORD # = b14926507. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .A88 1982. 
+TITLE = The atomic cafe [videorecording] / the Archives Project presents ; 
+produced and directed by Kevin Rafferty, Jayne Loader, Pierce Rafferty. 
+PUBLISHER = [New York] : Docurama : Distributed by New Video, 2008. 
+RECORD # = b14921881. LOCATION = lbks. 
+
+
+
+CALL NO. = PN1993.15 .B645 2011. 
+TITLE = The best exotic Marigold Hotel [videorecording] / Fox Searchlight 
+Pictures presents ; in association with Participant Media and ImageNation Abu 
+Dhabi ; a Blueprint Pictures production ; made in association with Dune 
+Entertainment and Ingenious Media. 
+PUBLISHER = Beverly Hills, Calif. : 20th Century Fox Home Entertainment, c2012. 
+RECORD # = b14924055. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .B6625 1950. 
+TITLE = Born yesterday [videorecording] / Columbia Pictures Corporation 
+presents. 
+PUBLISHER = [Burbank, CA] : Columbia TriStar Home Video, 1999. 
+RECORD # = b14922034. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .C775 1996. 
+TITLE = The crucible [videorecording] / Twentieth Century Fox. 
+PUBLISHER = Beverly Hills, Calif. : Twentieth Century Fox Home Entertainment, 
+c2011. 
+RECORD # = b14925643. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .D67 1973. 
+TITLE = The double headed eagle [videorecording] : Hitler's rise to power, 1918-
+1933 / Kino International ; Visual Programme Systems presents ; British Film 
+Institute. 
+PUBLISHER = New York, NY : Kino on Video [distributor], 2006. 
+RECORD # = b14922289. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .D84 1933. 
+TITLE = Duck soup [videorecording] / a Paramount picture ; Paramount presents. 
+PUBLISHER = Universal City, CA : Universal Studios Home Entertainment, [2011]. 
+RECORD # = b14922046. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .F3 1967. 
+TITLE = Falstaff [videorecording] : chimes at midnight / L'Union 
+G{226}en{226}erale Cin{226}ematographique et La Soci{226}et{226}e des Films 
+Sirius. 
+PUBLISHER = [Brighton, England] : Mr Bongo, c2012. 
+RECORD # = b14921972. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .F47 1986. 
+TITLE = Ferris Bueller's day off [videorecording] / Paramount Picrtures. 
+PUBLISHER = Hollywood, CA : Paramount, c2011. 
+RECORD # = b14921960. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .F531 1997. 
+TITLE = ---First do no harm [videorecording] / Mill Creek Entertainment. 
+PUBLISHER = Burbank, CA : Mill Creek Entertainment, c2012. 
+RECORD # = b14927676. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .H437 2013. 
+TITLE = Her / Warner Bros. Pictures presents an Annapurna Pictures production. 
+PUBLISHER = Burbank, CA : Distributed by Warner Home Video, [2014]. 
+RECORD # = b14915704. LOCATION = lmvc. 
+
+
+
+CALL NO. = PN1993.15 .H487 1921. 
+TITLE = High heels [videorecording] / Paramount Pictures ; Miramax Films 
+presents Almodovar's high heels. 
+PUBLISHER = Santa Monica, Ca. : Lionsgate, 2000. 
+RECORD # = b14921959. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .J75 1961. 
+TITLE = Judgment at Nuremberg [videorecording] / United Artists. 
+PUBLISHER = [Taipei, Taiwan : Evervision, 2000?]. 
+RECORD # = b14922216. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .K5575 1984. 
+CALL NO. = PN1993.15 .K5575 1984. 
+TITLE = The killing fields / Warner Bros Entertainment. 
+PUBLISHER = [Place of publication not identified] : Warner Bros Ent. Canada Inc.,
+[2014?]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14928255. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .L382 1987. 
+TITLE = The last emperor [videorecording] / made by Yanco Films Linited and Tao 
+Film SRL in association with Recorded Picture Company (Productions) Limited ; 
+Screenframe Limited, AAA Sporofilms. 
+PUBLISHER = Irvington, NY : Criterion Collection, c2008. 
+RECORD # = b14921923. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .L4362 1991. 
+TITLE = Let him have it [videorecording] / Le Studio Canal+, Film Trustees ; in 
+association with British Screen presents ; a Vermilion production. 
+PUBLISHER = Chatsworth, CA : Image Entertainment, 2005, c1991. 
+RECORD # = b14922198. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .L6435 1990. 
+TITLE = The long walk home [videorecording] / Dave Bell Associates ; New Visions
+Pictures ; director, Richard Pearce ; writer, John Cork ; producers, Howard W. 
+Koch, Dave Bell. 
+PUBLISHER = [United States] : Lions Gate Films, [2013]. 
+RECORD # = b14922009. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .L715 1973. 
+TITLE = Lost horizon [videorecording] / Columbia Pictures presents a Ross Hunter
+production.
+PUBLISHER = Culver City, CA : Sony Pictures Home Entertainment, c2011. 
+RECORD # = b14921911. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .L823 1997. 
+TITLE = Love! Valour! Compassion! [videorecording] / Fine Line Features presents
+a Krost/Chapin Production. 
+PUBLISHER = [United States] : New Line Home Entertainment, [2004]. 
+RECORD # = b14922265. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .M5212 1990. 
+TITLE = Metropolitan [videorecording] / Westerly Films in association with 
+Allagash Films. 
+PUBLISHER = [Irvington, N.Y.] : Criterion Collection, [2006]. 
+RECORD # = b14922253. LOCATION = lmvc. 
+
+
+
+CALL NO. = PN1993.15 .M8215 1939. 
+TITLE = Frank Capra's Mr. Smith goes to Washington [videorecording] / Columbia 
+Pictures Corporation presents. 
+PUBLISHER = Culver City, Calif. : Sony Pictures Home Entertainment, c2008. 
+RECORD # = b14922022. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .S363 1992. 
+TITLE = Scent of a woman [videorecording] / Universal Pictures presents a City 
+Light Films production. 
+PUBLISHER = Universal City, CA : Universal Home Video, [1998]. 
+RECORD # = b14921984. LOCATION = lmvc. 
+
+CALL NO. = PN1993.15 .W49 1981. 
+TITLE = Whose life is it anyway? [videorecording] / Metro-Goldwyn-Mayer presents
+; a Cooney-Schute production. 
+PUBLISHER = Burbank, CA : Distributed by Warner Home Video, [2007]. 
+RECORD # = b1492223x. LOCATION = lmvc. 
+
+CALL NO. = PN1993.5.E19 D43 2014. 
+TITLE = Coproducing Asia : locating Japanese-Chinese regional film and media / 
+Stephanie DeBoer. 
+PUBLISHER = Minneapolis ; London : University of Minnesota Press, [2014]. 
+RECORD # = b14918432. LOCATION = lbks. 
+
+CALL NO. = PN1995 .R84 2014. 
+TITLE = Self-projection : the director's image in art cinema / Linda Haverty 
+Rugg. 
+PUBLISHER = Minneapolis : University of Minnesota Press, [2014]. 
+RECORD # = b14923683. LOCATION = lbks. 
+
+CALL NO. = PN1995.9.D37 A27 2014. 
+TITLE = Death and the moving image : ideology, iconography and I / Michele 
+Aaron. 
+PUBLISHER = Edinburgh : Edinburgh University Press, [2014]. 
+RECORD # = b14918468. LOCATION = lbks. 
+
+CALL NO. = PN1995.9.H6 J33 2013. 
+TITLE = Technology, monstrosity, and reproduction in twenty-first century horror
+/ Kimberly Jackson. 
+PUBLISHER = New York, NY : Palgrave Macmillan, 2013. 
+RECORD # = b14919473. LOCATION = lbks. 
+
+CALL NO. = PN1995.9.S45 C86 2014. 
+TITLE = Wicked cinema : sex and religion on screen / Daniel S. Cutrara. 
+PUBLISHER = Austin : University of Texas Press, 2014. 
+RECORD # = b14919527. LOCATION = lbks. 
+
+CALL NO. = PN1997.N385 I89 2014. 
+TITLE = Mad as hell : the making of Network and the fateful vision of the 
+angriest man in movies / David Itzkoff. 
+PUBLISHER = New York : Times Books, Henry Holt and Company, [2014]. 
+RECORD # = b14925369. LOCATION = lbks. 
+
+
+
+CALL NO. = PN1998.3.C347 L56 2014. 
+TITLE = Tsai Ming-liang and a cinema of slowness / Song Hwee Lim. 
+PUBLISHER = Honolulu : University of Hawai{176}i Press, [2014]. 
+RECORD # = b14919485. LOCATION = lbks. 
+
+CALL NO. = PN2037 .B32 2015. 
+TITLE = Theatre : a way of seeing / Milly S. Barranger, the University of North 
+Carolina at Chapel Hill. 
+PUBLISHER = Australia : Cengage Learning, [2015]. 
+PUBLISHER = {496}2015. 
+RECORD # = b14920050. LOCATION = lbks. 
+
+CALL NO. = PN2037 .C27 2014. 
+TITLE = The enjoyment of theatre / Jim Patterson, University of South Carolina, 
+Tim Donahue. 
+PUBLISHER = Upper Saddle River, New Jersey : Pearson, [2014]. 
+RECORD # = b14919849. LOCATION = lbks. 
+
+CALL NO. = PN2039 .J56 2012. 
+TITLE = Theatre & the visual / Dominic Johnson ; [foreword by Del LaGrace 
+Volcano]. 
+PUBLISHER = Basingstoke ; New York : Palgrave Macmillan, 2012. 
+PUBLISHER = 201209. 
+RECORD # = b14920979. LOCATION = lbks. 
+
+CALL NO. = PN2051 .A28 2011. 
+CALL NO. = PN2051 .A28 2011. 
+TITLE = Acting together : performance and the creative transformation of 
+conflict / edited by Cynthia Cohen, Roberto Guti{226}errez Varea, and Polly 
+Walker. 
+PUBLISHER = Oakland, CA : New Village Press, c2011-
+RECORD # = b14920104. LOCATION = lbks. 
+
+CALL NO. = PN2053 .C32 2013. 
+TITLE = Stagecraft fundamentals : a guide and reference for theatrical 
+production / Rita Kogler Carver. 
+PUBLISHER = Boston : Focal Press, 2013. 
+RECORD # = b14920955. LOCATION = lbks. 
+
+CALL NO. = PN2053 .V63 2010. 
+TITLE = How to run a theatre : a witty, practical and fun guide to arts 
+management / Jim Volz. 
+PUBLISHER = London : Methuen Drama, c2010. 
+RECORD # = b14920888. LOCATION = lbks. 
+
+CALL NO. = PN2055 .E55 2013. 
+TITLE = So you want to work in theatre? / Susan Elkin. 
+PUBLISHER = London : Nick Hern Books, 2013. 
+RECORD # = b14923750. LOCATION = lbks. 
+
+CALL NO. = PN2055 .G49 2014. 
+TITLE = Self-management for actors : getting down to (show) business / Bonnie 
+Gillespie. 
+PUBLISHER = Los Angeles : Cricket Feet Publishing, c2014. 
+RECORD # = b14920025. LOCATION = lbks. 
+
+
+
+CALL NO. = PN2058 .C36 2013. 
+TITLE = Acting in documentary theatre / Tom Cantrell. 
+PUBLISHER = Houndmills, Basingstoke, Hampshire ; New York : Palgrave Macmillan, 
+2013. 
+RECORD # = b14922538. LOCATION = lbks. 
+
+CALL NO. = PN2061 .C32 2012. 
+TITLE = In-depth acting / by Dee Cannon ; foreword by Pierce Brosnan. 
+PUBLISHER = London : Oberon Books, 2012. 
+RECORD # = b14923154. LOCATION = lbks. 
+
+CALL NO. = PN2061 .S56 2012. 
+TITLE = In rehearsal : in the world, in the room and on your own / by Gary 
+Sloan. 
+PUBLISHER = London ; New York : Routledge, 2012. 
+RECORD # = b14923142. LOCATION = lbks. 
+
+CALL NO. = PN2061 .W43 2012. 
+TITLE = Modern voice : working with actors on contemporary text / Catherine 
+Weate. 
+PUBLISHER = London : Oberon Books, 2012. 
+RECORD # = b14923336. LOCATION = lbks. 
+
+CALL NO. = PN2071.A92 W55 2011. 
+TITLE = Mastering monologues and acting sides : how to audition successfully for
+both traditional and new media / Janet Wilcox. 
+PUBLISHER = New York : Allworth Press, {496}2011. 
+RECORD # = b14923294. LOCATION = lbks. 
+
+CALL NO. = PN2071.F6 B485 2013. 
+TITLE = Teach yourself accents : the British Isles : a handbook for young actors
+and speakers / Robert Blumenfeld. 
+PUBLISHER = Milwaukee, WI : Limelight Editions, an imprint of Hal Leonard 
+Corporation, 2013. 
+RECORD # = b14923816. LOCATION = lbks. 
+
+CALL NO. = PN2071.F6 S53 2012. 
+TITLE = How to do standard English accents / Edda Sharpe & Jan Hadyn Rowles. 
+PUBLISHER = London : Oberon Books, 2012. 
+RECORD # = b14923129. LOCATION = lbks. 
+
+CALL NO. = PN2071.I5 S575 2010. 
+TITLE = So you think you're funny? : a students' guide to improv comedy / The 
+Immediate Gratification Players. 
+PUBLISHER = Colorado Springs, Colo. : Meriwether Pub., c2010. 
+RECORD # = b14923749. LOCATION = lbks. 
+
+CALL NO. = PN2071.M6 S39 2012. 
+TITLE = Physical expression and the performing artist : moving beyond the 
+plateau / Jerald Schwiebert with Candace Platt. 
+PUBLISHER = Ann Arbor : The University of Michigan Press, c2012. 
+RECORD # = b14923439. LOCATION = lbks. 
+
+
+
+CALL NO. = PN2071.P78 M67 2011. 
+TITLE = Freeing the actor / Eric Morris. 
+PUBLISHER = Los Angeles, CA : Ermor Enterprises, {496}2011. 
+RECORD # = b14923026. LOCATION = lbks. 
+
+CALL NO. = PN2075 .L48 2012. 
+TITLE = Teaching classroom drama and theatre : practical projects for secondary 
+schools / Martin Lewis and John Rainer. 
+PUBLISHER = London ; New York : Routledge, 2012. 
+RECORD # = b14923828. LOCATION = ltm. 
+
+CALL NO. = PN2080 .O24 2013. 
+TITLE = The Oberon book of modern monologues for women. 2 / chosen and edited by
+Catherine Weate. 
+PUBLISHER = London : Oberon Books, 2013. 
+RECORD # = b14923385. LOCATION = lbks. 
+
+CALL NO. = PN2080 .O24 2013b. 
+TITLE = The Oberon book of modern monologues for men. 2 / chosen and edited by 
+Catherine Weate. 
+PUBLISHER = London : Oberon Books, 2013. 
+RECORD # = b14923373. LOCATION = lbks. 
+
+CALL NO. = PN2080 .S239 2013. 
+TITLE = Scenes and monologues from Steinberg/ATCA new play award finalists, 2008
+-2012 / edited by Bruce Burgun ; assisted by Mark Kamie ; introduction by Jay 
+Handelman, Bill Hirschman, and Jeffrey Eric Jenkins. 
+PUBLISHER = Milwaukee, WI : Applause Theatre & Cinema Books, an imprint of Hal 
+Leonard Corporation, 2013. 
+RECORD # = b14923646. LOCATION = lbks. 
+
+CALL NO. = PN2080 .S243 2013. 
+TITLE = Scenes and monologues of spiritual experience : from the best 
+contemporary plays / edited by Roger Ellis. 
+PUBLISHER = Milwaukee, WI : Applause Theatre & Cinema Books, 2013. 
+RECORD # = b14923658. LOCATION = lbks. 
+
+CALL NO. = PN2085 .G5 2013. 
+TITLE = Theatrical design and production : an introduction to scene design and 
+construction, lighting, sound, costume, and makeup / J. Michael Gillette. 
+PUBLISHER = New York, NY : McGraw-Hill, c2013. 
+RECORD # = b14921042. LOCATION = lbks. 
+
+CALL NO. = PN2086 .M66 2013. 
+TITLE = The business of theatrical design / James L. Moody. 
+PUBLISHER = New York : Allworth Press, 2013. 
+RECORD # = b14919801. LOCATION = lbks. 
+
+CALL NO. = PN2091.E4 S52 2014. 
+TITLE = A practical guide to stage lighting / Steven Louis Shelley. 
+PUBLISHER = New York : Focal Press, 2014. 
+PUBLISHER = {496}2014. 
+RECORD # = b14923452. LOCATION = lbks. 
+
+
+
+CALL NO. = PN2091.M3 T43 2002. 
+TITLE = Technical design solutions for theatre : the technical brief collection 
+/ [editors] Bronislaw J. Sammler, Don Harvey. 
+PUBLISHER = Boston : Focal Press, 2002. 
+RECORD # = b1492383x. LOCATION = lbks. 
+
+CALL NO. = PN2091.S8 S763 2013. 
+TITLE = The properties director's handbook : managing a prop shop for theatre / 
+Sandra J. Strawn. 
+PUBLISHER = Burlington, MA : Focal Press, 2013. 
+RECORD # = b14923506. LOCATION = lbks. 
+
+CALL NO. = PN2101 .G72 2013. 
+TITLE = A primer in theatre history : from the Greeks to the Spanish Golden Age 
+/ William Grange ; with illustrations by Mallory Prucha. 
+PUBLISHER = Lanham, Maryland : University Press of America, [2013?]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14923464. LOCATION = lbks. 
+
+CALL NO. = PN2266 .H382 2012. 
+TITLE = Entertainment industry : a reference handbook / Michael J. Haupert. 
+PUBLISHER = Santa Barbara, Calif. : ABC-CLIO, LLC, 2012. 
+RECORD # = b14919850. LOCATION = lbks. 
+
+CALL NO. = PN2277.S4 B53 2013. 
+TITLE = Programming theater history : the Actor's Workshop of San Francisco / 
+Herbert Blau ; introduction by Elin Diamond. 
+PUBLISHER = Abingdon, Oxon ; New York : Routledge, 2013. 
+RECORD # = b1492349x. LOCATION = lbks. 
+
+CALL NO. = PN2589 .B68 2012. 
+TITLE = Shakespeare's London theatreland : archaeology, history and drama / by 
+Julian Bowsher. 
+PUBLISHER = London : Museum of London Archaeology, 2012. 
+RECORD # = b14923713. LOCATION = lbks. 
+
+CALL NO. = PN2595.132 .P76 2013. 
+TITLE = Programme notes : case studies for locating experimental theatre / 
+edited by Lois Keidan and CJ Mitchell. 
+PUBLISHER = London : Live Art Development Agency : Oberon Books, 2013. 
+RECORD # = b14923488. LOCATION = lbks. 
+
+CALL NO. = PN3305 .P45 2014. 
+TITLE = Performance and community : commentary and case studies / edited by 
+Caoimhe McAvinchey. 
+PUBLISHER = London : Bloomsbury Methuen Drama, [2014]. 
+RECORD # = b14919977. LOCATION = lbks. 
+
+CALL NO. = PN3443 .L44 2013. 
+TITLE = Girls transforming : invisibility and age-shifting in children's fantasy
+fiction since the 1970s / Sanna Lehtonen. 
+PUBLISHER = Jefferson, North Carolina : McFarland & Company, Inc., Publishers, 
+2013. 
+RECORD # = b1492304x. LOCATION = lbks. 
+
+
+
+CALL NO. = PN4305.M6 E934 2011. 
+TITLE = Exceptional monologues 2 : for men and women / edited by Roxane Heinze-
+Bradshaw and Katherine DiSavino. 
+PUBLISHER = New York : Samuel French, {496}2011. 
+RECORD # = b14922964. LOCATION = lbks. 
+
+CALL NO. = PN4756 .M353 2013. 
+TITLE = Media ethics / No{232}el Merino, book editor. 
+PUBLISHER = Detroit : Greenhaven Press, 2012. 
+RECORD # = b14923300. LOCATION = lbks. 
+
+CALL NO. = PN6727.S515 Z84 2013. 
+TITLE = Super boys : the amazing adventures of Jerry Siegel and Joe Shuster : 
+the creators of Superman / Brad Ricca. 
+PUBLISHER = New York : St. Martin's Press, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14917853. LOCATION = lbks. 
+
+CALL NO. = PQ2603.A695 Z486 2008. 
+TITLE = Correspondence / Georges Bataille, Michel Leiris ; edited with notes by 
+Louis Yvert ; afterword by Bernard No{232}el ; translated by Liz Heron. 
+PUBLISHER = Calcutta : New York : Seagull Books, 2008. 
+RECORD # = b14922514. LOCATION = lbks. 
+
+CALL NO. = PQ6102 .B69 2014. 
+TITLE = Unruly women : performance, penitence, and punishment in early modern 
+Spain / Margaret E. Boyle. 
+PUBLISHER = Toronto, Canada ; da Buffalo ; London : University of Toronto Press,
+[2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14919503. LOCATION = lbks. 
+
+CALL NO. = PQ7372 .Y36 2000. 
+TITLE = Cubanas a cap{226}itulo : selecci{226}on de ensayos sobre mujeres 
+cubanas y literatura / Mirta Y{226}a{228}nez. 
+PUBLISHER = Santiago de Cuba : Editorial Oriente, 2000. 
+RECORD # = b1493601x. LOCATION = lbks. 
+
+CALL NO. = PQ7384 .A43 1997. 
+TITLE = Album de poetisas cubanas / inventario e introducci{226}on de Mirta 
+Y{226}a{228}nez. 
+PUBLISHER = La Habana, Cuba : Editorial Letras Cubanas, c1997. 
+RECORD # = b14926246. LOCATION = lbks. 
+
+CALL NO. = PQ7386 .M36 2004. 
+TITLE = Making a scene : an anthology of short stories by Cuban women writers / 
+edited by Mirta Y{226}a{228}nez translation, notes and further reading by Verity
+Smith. 
+PUBLISHER = London, UK : Mango Pub., 2004. 
+RECORD # = b14926234. LOCATION = lbks. 
+
+CALL NO. = PQ7390.Y34 A75 1997. 
+TITLE = Alg{226}un lugar en ruinas / Mirta Y{226}a{228}nez. 
+PUBLISHER = Ciudad de La Habana : Ediciones Uni{226}on, c1997. 
+RECORD # = b1492626x. LOCATION = lbks. 
+
+
+
+CALL NO. = PQ7390.Y34 B84 2008. 
+TITLE = El bufalo ciego y otris cuentos / Mirta Y{226}a{228}nez. 
+PUBLISHER = Ciudad de La Habana : Ediciones UNI{226}ON, 2008. 
+RECORD # = b14926179. LOCATION = lbks. 
+
+CALL NO. = PQ7390.Y34 D45 2006. 
+TITLE = Del azafr{226}an al lirio / Mirta Y{226}a{228}nez. 
+PUBLISHER = La Habana : Ediciones Extramuros, 2006. 
+RECORD # = b14926210. LOCATION = lbks. 
+
+CALL NO. = PQ7390.Y34 F35 2007. 
+TITLE = Falsos documentos / Mirta Y{226}a{228}nez. 
+PUBLISHER = Havana : Ediciones Uni{226}on, c2007. 
+RECORD # = b14926192. LOCATION = lbks. 
+
+CALL NO. = PQ7390.Y34 H3313 2010. 
+TITLE = Havana is a really big city : and other short stories / Mirta 
+Y{226}a{228}nez ; edited by Sara E. Cooper. 
+PUBLISHER = Chico, CA : Cubanabooks, 2010. 
+RECORD # = b14926222. LOCATION = lbks. 
+
+CALL NO. = PQ7390.Y34 S26 2010. 
+TITLE = Sangra por la herida / Mirta Y{226}a{228}nez. 
+PUBLISHER = La Habana : Ediciones UNI{226}ON: Letras Cubanas, c2010. 
+RECORD # = b14926180. LOCATION = lbks. 
+
+CALL NO. = PR601 .O9 2013. 
+TITLE = The Oxford companion to modern poetry / first edition edited by Ian 
+Hamilton. 
+PUBLISHER = Oxford : Oxford University Press, 2013. 
+RECORD # = b14917841. LOCATION = lrefs. 
+
+CALL NO. = PR2037 .S73 2014. 
+TITLE = The queen's dumbshows : John Lydgate and the making of early theater / 
+Claire Sponsler. 
+PUBLISHER = Philadelphia : University of Pennsylvania Press, c2014. 
+PUBLISHER = 1404. 
+RECORD # = b1492352x. LOCATION = lbks. 
+
+CALL NO. = PR2807 .A1 1990b. 
+TITLE = Hamlet [videorecording] / Warner Bros. and Nelson Entertainment ; an 
+Icon production.
+PUBLISHER = [United States] : Warner Home Video, p2004, c1990. 
+RECORD # = b14921947. LOCATION = lmvc. 
+
+CALL NO. = PR2837 .A1 1996. 
+TITLE = Twelfth night, or, What you will [videorecording] / BBC Films, Summit 
+Entertainment, Circus Films, Fine Line Features presents a Renaissance Films 
+production. 
+PUBLISHER = Chatsworth, CA : Distributed by Image Entertainment, c2005. 
+RECORD # = b14922101. LOCATION = lmvc. 
+
+
+
+CALL NO. = PR2965 .F56 2013. 
+TITLE = Occult knowledge, science, and gender on the Shakespearean stage / Mary 
+Floyd-Wilson. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, 2013. 
+RECORD # = b14917828. LOCATION = lbks. 
+
+CALL NO. = PR2971.U6 S49 2014. 
+TITLE = Shakespeare in America : an anthology from the revolution to now / James
+Shapiro, editor ; foreword by President Bill Clinton. 
+PUBLISHER = New York, N.Y. : The Library of America, 2014. 
+PUBLISHER = {496}2014. 
+RECORD # = b14918614. LOCATION = lbks. 
+
+CALL NO. = PR3011 .M42 2013. 
+TITLE = Faith in Shakespeare / Richard C. McCoy. 
+PUBLISHER = Oxford ; New York : Oxford University Press, c2013. 
+RECORD # = b14917750. LOCATION = lbks. 
+
+CALL NO. = PR3726 .D27 2013. 
+TITLE = Jonathan Swift : his life and his world / Leo Damrosch. 
+PUBLISHER = New Haven : Yale University Press, [2013]. 
+RECORD # = b14920724. LOCATION = lbks. 
+
+CALL NO. = PR4592.R25 P48 2013. 
+TITLE = Dickens and race / Laura Peters. 
+PUBLISHER = Manchester ; New York : Manchester University Press ; New York : 
+distributed in the U.S. exclusively by Palgrave Macmillan, 2013. 
+RECORD # = b14917749. LOCATION = lbks. 
+
+CALL NO. = PR4662 .M43 2014. 
+TITLE = My life in Middlemarch / Rebecca Mead. 
+PUBLISHER = New York : Crown Publishers, [2014]. 
+RECORD # = b1492562x. LOCATION = lbks. 
+
+CALL NO. = PR5398 .H46 2013. 
+TITLE = Mary Wollstonecraft, pedagogy, and the practice of feminism / Kirstin 
+Collins Hanley. 
+PUBLISHER = New York : Routledge, 2013. 
+RECORD # = b14917816. LOCATION = lbks. 
+
+CALL NO. = PR6066.I53 Z835 2014. 
+TITLE = The theatre of Harold Pinter / Mark Taylor-Batty. 
+PUBLISHER = London : Bloomsbury Methuen Drama, 2014. 
+RECORD # = b14787659. LOCATION = lbks. 
+
+CALL NO. = PR6112.E34 S83 2013. 
+TITLE = Submergence : a novel / J. M. Ledgard. 
+PUBLISHER = Minneapolis : Coffee House Press, 2013. 
+RECORD # = b14923804. LOCATION = lbks. 
+
+CALL NO. = PR8752 .P88 2013. 
+TITLE = The Celtic Revival in Shakespeare's wake : appropriation and cultural 
+politics in Ireland, 1867-1922 / Adam Putz. 
+PUBLISHER = Houndmills, Basingstoke, Hampshire ; New York, NY : Palgrave 
+Macmillan, 2013. 
+RECORD # = b14917725. LOCATION = lbks. 
+
+
+
+CALL NO. = PR9387.9.A343 A44 2013. 
+TITLE = Americanah : a novel / Chimamanda Ngozi Adichie. 
+PUBLISHER = New York : Alfred A. Knopf, 2013. 
+RECORD # = b14917695. LOCATION = lbks. 
+
+CALL NO. = PR9387.9.A343 H35 2006. 
+TITLE = Half of a yellow sun / Chimamanda Ngozi Adichie. 
+PUBLISHER = New York : Toronto : Alfred A. Knopf, 2011, {496}2006. 
+RECORD # = b14917774. LOCATION = lbks. 
+
+CALL NO. = PR9639.3.F7 G67 2012b. 
+TITLE = Between my father and the king : new and uncollected stories / Janet 
+Frame. 
+PUBLISHER = Berkeley, CA : Counterpoint, [2012]. 
+RECORD # = b14917701. LOCATION = lbks. 
+
+CALL NO. = PS153.N5 H17 2013. 
+TITLE = Word by word : emancipation and the act of writing / Christopher Hager. 
+PUBLISHER = Cambridge, Massachusetts ; London, England : Harvard University 
+Press, 2013. 
+RECORD # = b14917889. LOCATION = lbks. 
+
+CALL NO. = PS217.C57 F34 2012. 
+TITLE = Boarding out : inhabiting the American urban literary imagination, 1840-
+1860 / David Faflik. 
+PUBLISHER = Evanston, Ill. : Northwestern University Press, c2012. 
+RECORD # = b1492268x. LOCATION = lbks. 
+
+CALL NO. = PS266.S6 .S44 2013. 
+TITLE = Seeking : poetry and prose inspired by the art of Jonathan Green / 
+edited by Kwame Dawes and Marjory Wentworth. 
+PUBLISHER = Columbia : University of South Carolina Press, c2013. 
+RECORD # = b14923671. LOCATION = lbks. 
+
+CALL NO. = PS285.S3 T37 2014. 
+TITLE = The Bohemians : Mark Twain and the San Francisco writers who reinvented 
+American literature / Ben Tarnoff. 
+PUBLISHER = New York : The Penguin Press, 2014. 
+RECORD # = b14917713. LOCATION = lbks. 
+
+CALL NO. = PS323.5 .L643 2014. 
+TITLE = Guilty knowledge, guilty pleasure : the dirty art of poetry / William 
+Logan. 
+PUBLISHER = New York : Columbia University Press, [2014]. 
+RECORD # = b14917762. LOCATION = lbks. 
+
+CALL NO. = PS325 .C49 2012. 
+TITLE = Everyday reading : poetry and popular culture in modern America / Mike 
+Chasar. 
+PUBLISHER = New York : Columbia University Press, [2012]. 
+PUBLISHER = {496}2012. 
+RECORD # = b14922952. LOCATION = lbks. 
+
+
+
+CALL NO. = PS586.3 .O84 2014. 
+TITLE = Over the river and through the wood : an anthology of nineteenth-century
+American children's poetry / edited by Karen L.  Kilcup and Angela Sorby. 
+PUBLISHER = Baltimore : The Johns Hopkins University Press, 2014. 
+RECORD # = b1491783x. LOCATION = lbks. 
+
+CALL NO. = PS634.2 .S479 2012. 
+TITLE = Seven contemporary plays from the Korean diaspora in the Americas / 
+edited and with an introductions by Esther Kim Lee. 
+PUBLISHER = Durham : Duke University Press, 2012. 
+RECORD # = b14923695. LOCATION = lbks. 
+
+CALL NO. = PS1331 .A435 2013. 
+TITLE = Dear Mark Twain : letters from his readers / edited by R. Kent 
+Rasmussen. 
+PUBLISHER = Berkeley : University of California Press, {496}2013. 
+RECORD # = b14917737. LOCATION = lbks. 
+
+CALL NO. = PS2506 .M37 2014. 
+TITLE = Margaret Fuller : a new American life / Megan Marshall. 
+PUBLISHER = Boston ; New York : Mariner Books, 2014. 
+PUBLISHER = {496}2013. 
+RECORD # = b14920669. LOCATION = lbks. 
+
+CALL NO. = PS3563.A8584 I6 2014. 
+TITLE = In paradise / Peter Matthiessen. 
+PUBLISHER = New York : Riverhead Books, A member of Penguin Group (USA), 2014. 
+RECORD # = b14925266. LOCATION = lbks. 
+
+CALL NO. = PS3569.E747 A6 2013. 
+TITLE = 3 sections / Vijay Seshadri. 
+PUBLISHER = Minneapolis, Minnesota : Graywolf Press, [2013]. 
+RECORD # = b14920670. LOCATION = lbks. 
+
+CALL NO. = PS3569.H284 W66 2013. 
+TITLE = The woman who lost her soul / Bob Shacochis. 
+PUBLISHER = New York : Atlantic Monthly Press, [2013]. 
+RECORD # = b14920700. LOCATION = lbks. 
+
+CALL NO. = PS3571.P4 Z556 2014. 
+TITLE = Updike / Adam Begley. 
+PUBLISHER = New York : Harper, [2014]. 
+RECORD # = b14917877. LOCATION = lbks. 
+
+CALL NO. = PS3572.O5 Z753 2013. 
+TITLE = Kurt Vonnegut / editor, Robert T. Tally Jr., Texas State University. 
+PUBLISHER = Ipswich, Massachusetts : Salem Press/Grey House Publishing, 2013. 
+RECORD # = b14917804. LOCATION = lbks. 
+
+CALL NO. = PS3603.R44 S57 2013. 
+TITLE = The sleep of reason / Morri Creech. 
+PUBLISHER = London : Waywiser, 2013. 
+RECORD # = b1492075x. LOCATION = lbks. 
+
+
+
+CALL NO. = PS3613.E976 S66 2014. 
+TITLE = The son / Philipp Meyer. 
+PUBLISHER = New York, NY : Ecco, 2014. 
+RECORD # = b14920694. LOCATION = lbks. 
+
+CALL NO. = Q127.G4 V454 2014. 
+TITLE = Victorian scientific naturalism : community, identity, continuity / 
+edited by Gowan Dawson and Bernard Lightman. 
+PUBLISHER = Chicago ; London : The University of Chicago Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14923890. LOCATION = lbks. 
+
+CALL NO. = Q147 .M32 2011. 
+TITLE = Scientific research as a career / Finlay MacRitchie. 
+PUBLISHER = Boca Raton, FL : CRC Press, c2011. 
+RECORD # = b14921558. LOCATION = lbks. 
+
+CALL NO. = Q175.32.K45 Y36 2013. 
+TITLE = The outer limits of reason : what science, mathematics, and logic cannot
+tell us / Noson S. Yanofsky. 
+PUBLISHER = Cambridge, Massachusetts : The MIT Press, [2013]. 
+RECORD # = b14920359. LOCATION = lbks. 
+
+CALL NO. = Q175.5 .V44 2013. 
+TITLE = Life at the speed of light : from the double helix to the dawn of 
+digital life / J. Craig Venter. 
+PUBLISHER = New York, New York : Viking, c2013. 
+RECORD # = b14920311. LOCATION = lbks. 
+
+CALL NO. = QA11.2 .M278 2012. 
+TITLE = Mathematics teachers at work : connecting curriculum materials and 
+classroom instruction / [edited by] Janine T. Remillard, Beth A. Herbel-
+Eisenmann, Gwendolyn M. Lloyd. 
+PUBLISHER = New York ; London : Routledge, 2012. 
+RECORD # = b14919151. LOCATION = ltm. 
+
+CALL NO. = QA13 .C893 2012. 
+TITLE = Curriculum issues in an era of common core state standards for 
+mathematics / edited by Christian R. Hirsch, Glenda Lappan, Barbara J. Reys. 
+PUBLISHER = Reston, VA : National Council of Teachers of Mathematics, c2012. 
+RECORD # = b14919060. LOCATION = ltm. 
+
+CALL NO. = QA24 .A544 2014. 
+TITLE = Infinitesimal : how a dangerous mathematical theory shaped the modern 
+world / Amir Alexander. 
+PUBLISHER = New York : Scientific American/Farrar, Straus and Giroux, 2014. 
+RECORD # = b14919539. LOCATION = lbks. 
+
+CALL NO. = QA76.A1 L42 2013. 
+TITLE = Information technologies for performing arts, media access, and 
+entertainment : Second International Conference, ECLAP 2013, Porto, Portugal, 
+April 8-10, 2013 : revised selected papers / Paolo Nesi, Raffaella Santucci 
+(eds.). 
+PUBLISHER = Heidelberg : Springer, [2013]. 
+PUBLISHER = 2013. 
+RECORD # = b14920980. LOCATION = lbks. 
+
+
+
+CALL NO. = QA76.59 .G56 2013. 
+TITLE = Global mobile : applications and innovations for the worldwide mobile 
+ecosystem / edited by Peter A. Bruck and Madanmohan Rao. 
+PUBLISHER = Medford, New Jersey : Information Today, Inc., [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b1492514x. LOCATION = lbks. 
+
+CALL NO. = QA76.73.J38 S83 2014. 
+TITLE = Functional programming in Java : harnessing the power of Java 8 Lambda 
+expressions / Venkat Subramaniam ; [foreword by Brian Goetz ; edited by 
+Jacquelyn Carter]. 
+PUBLISHER = 201402. 
+PUBLISHER = Dallas : The Pragmatic Bookshelf, 2014. 
+RECORD # = b14924237. LOCATION = lbks. 
+
+CALL NO. = QA76.73.S67 B67 2013. 
+TITLE = PostgreSQL replication : understand basic replication concepts and 
+efficiently replicate interruptions / Zoltan B{232}osz{232}ormenyi, Hans-
+J{232}urgen Sch{232}onig. 
+PUBLISHER = Birmingham, UK : Packt Publishing Limited, 2013. 
+RECORD # = b14919291. LOCATION = lbks. 
+
+CALL NO. = QA76.73.V347 H374 2013. 
+TITLE = Vagrant : up and running / Mitchell Hashimoto. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2013. 
+RECORD # = b14919321. LOCATION = lbks. 
+
+CALL NO. = QA76.76.C69 A785 2013. 
+TITLE = Puppet 3 cookbook : build reliable, scalable, secure, and high-
+performance systems to fully utilize the power of cloud computing / John 
+Arundel. 
+PUBLISHER = Birmingham, UK : Packt Publishing Limited, 2013. 
+RECORD # = b14919308. LOCATION = lbks. 
+
+CALL NO. = QA76.76.P37 M56 2013. 
+TITLE = MapReduce design patterns / Donald Miner & Adam Shook. 
+PUBLISHER = Sebastopol, CA : Oreilly, 2013. 
+RECORD # = b14919618. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D3 D384 2013. 
+TITLE = View updating and relational theory : solving the view update problem / 
+C.J. Date. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, {496}2013. 
+RECORD # = b14914232. LOCATION = lbks. 
+
+CALL NO. = QA76.9.D343 O545 2014. 
+TITLE = Doing data science / Cathy O'Neil and Rachel Schutt. 
+PUBLISHER = Sebastopol, CA : O'Reilly, [2013]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14914062. LOCATION = lbks. 
+
+CALL NO. = QA76.9.H85 H856 2012. 
+TITLE = The human-computer interaction handbook : fundamentals, evolving 
+technologies, and emerging applications / edited by Julie A. Jacko. 
+PUBLISHER = Boca Raton, FL : CRC Press, c2012. 
+RECORD # = b14919606. LOCATION = lbks. 
+
+
+
+CALL NO. = QA76.9.M65 S87 2012. 
+TITLE = Hacking the future : privacy, identity, and anonymity on the Web / Cole 
+Stryker. 
+PUBLISHER = New York : Overlook Duckworth, 2012. 
+RECORD # = b1491959x. LOCATION = lbks. 
+
+CALL NO. = QA76.9.O35 W39 2014. 
+TITLE = Object-oriented analysis and design for information systems : modeling 
+with UML, OCL, and IFML / Raul Sidnei Wazlawick. 
+PUBLISHER = Amsterdam : Elsevier, Morgan Kaufmann is an imprint of Elsevier, 
+[2014]. 
+RECORD # = b1491962x. LOCATION = lbks. 
+
+CALL NO. = QA76.9.S63 Z436 2014. 
+TITLE = Quotient space based problem solving : a theoretical foundation of 
+granular computing / Ling Zhang and Bo Zhang. 
+PUBLISHER = Amsterdam : Elsevier, 2014. 
+PUBLISHER = {496}2014. 
+RECORD # = b14919631. LOCATION = lbks. 
+
+CALL NO. = QA76.9.U83.J634 2014. 
+TITLE = Designing with the mind in mind simple : guide to understanding user 
+interface design guidelines / Jeff Johnson. 
+PUBLISHER = Amsterdam ; Boston : Elsevier, Morgan Kaufmann is an imprint of 
+Elsevier, [2014]. 
+RECORD # = b14919576. LOCATION = lbks. 
+
+CALL NO. = QA76.9.U83 W55 2014. 
+TITLE = User interface inspection methods : a user-centered design method / 
+Chauncey Wilson. 
+PUBLISHER = Amsterdam : Elsevier/Morgan Kaufmann, 2014. 
+RECORD # = b1491931x. LOCATION = lbks. 
+
+CALL NO. = QA76.9.V5 P43 2013. 
+TITLE = Creating development environments with Vagrant : create and manage 
+virtual development environments with Puppet, Chef, and VirtualBox using Vagrant
+/ Michael Peacock. 
+PUBLISHER = Birmingham : Packt, c2013. 
+RECORD # = b1491928x. LOCATION = lbks. 
+
+CALL NO. = QA154.3 .C86 2013. 
+TITLE = Learning modern algebra : from early attempts to prove Fermat's last 
+theorem / Al Cuoco and Joseph J. Rotman. 
+PUBLISHER = Washington, DC : Mathematical Association of America, c2013. 
+RECORD # = b14918699. LOCATION = lbks. 
+
+CALL NO. = QA166 .E44 2013. 
+TITLE = Graphs on surfaces : dualities, polynomials, and knots / Joanna A. Ellis
+-Monaghan, Iain Moffatt. 
+PUBLISHER = New York : Springer, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14918705. LOCATION = lbks. 
+
+
+
+CALL NO. = QA297 .G49 2014. 
+TITLE = Numerical methods for engineers and scientists : an introduction with 
+applications using matlab / Amos Gilat, Vish Subramaniam, Department of 
+Mechanical Engineering, the Ohio State University. 
+PUBLISHER = Hoboken, NJ : John Wiley & Sons, Inc., [2014]. 
+RECORD # = b14920335. LOCATION = lbks. 
+
+CALL NO. = QA331.7 .G46 2013. 
+TITLE = Regular functions of a quaternionic variable / Graziano Gentili, 
+Caterina Stoppato, Daniele C. Struppa. 
+PUBLISHER = Heidelberg ; New York : Springer, c2013. 
+RECORD # = b14915054. LOCATION = lbks. 
+
+CALL NO. = QA802 .A44 2014. 
+TITLE = How mechanics shaped the modern world / David H. Allen. 
+PUBLISHER = Cham [Switzerland] : Springer, [2014]. 
+RECORD # = b14920815. LOCATION = lbks. 
+
+CALL NO. = QB15 .O47 2014. 
+TITLE = Celestial sleuth : using astronomy to solve mysteries in art, history 
+and literature / Donald W. Olson. 
+PUBLISHER = New York : Springer Verlag, 2014. 
+RECORD # = b1492027x. LOCATION = lbks. 
+
+CALL NO. = QB601 .E527 2013. 
+TITLE = Planets : ours and others : from Earth to exoplanets / Th{226}er{225}ese
+Encrenaz (Paris Observatory, France). 
+PUBLISHER = Singapore ; Hackensack, New Jersey : World Scientific, [2014]. 
+RECORD # = b14920372. LOCATION = lbks. 
+
+CALL NO. = QB843.B55 S26 2014. 
+TITLE = Revealing the heart of the galaxy : discovering the Milky Way and its 
+black hole / Robert H. Sanders, Kapteyn Astronomical Institute, University of 
+Groningen. 
+PUBLISHER = New York, NY, USA : Cambridge University Press, 2014. 
+RECORD # = b14920402. LOCATION = lbks. 
+
+CALL NO. = QB982 .R83 2014. 
+TITLE = Worlds without end : the many lives of the multiverse ... in which are 
+discussed pre-, early-, and postmodern multiple-worlds cosmologies : the sundry 
+arguments for and against them : the striking peculiarities of their adherents 
+and detractors : the shifting boundaries of science, philosophy, and religion : 
+and the stubbornly persistent question of whether creation has been "designed" /
+Mary-Jane Rubenstein. 
+PUBLISHER = New York : Columbia University Press, [2014]. 
+RECORD # = b1492044x. LOCATION = lbks. 
+
+CALL NO. = QC6 .G34 2014. 
+TITLE = Trespassing on Einstein's lawn : a father, a daughter, the meaning of 
+nothing, and the beginning of everything / Amanda Gefter. 
+PUBLISHER = New York : Bantam Books, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14920438. LOCATION = lbks. 
+
+
+
+CALL NO. = QC30 .S47 2009. 
+TITLE = Holt physics / Raymond A. Serway, Jerry S. Faughn. 
+PUBLISHER = Orlanda, Fla. : Holt, Rinehart and Winston, c2009. 
+RECORD # = b14921753. LOCATION = ltm. 
+
+CALL NO. = QC173.57 .B46 2014. 
+TITLE = What is relativity? : an intuitive introduction to Einstein's ideas, and
+why they matter / Jeffrey Bennett. 
+PUBLISHER = New York : Columbia University Press, [2014]. 
+RECORD # = b14917130. LOCATION = lbks. 
+
+CALL NO. = QC174.12 .C689 2012. 
+TITLE = The quantum universe : (and why anything that can happen, does) / Brian 
+Cox & Jeff Forshaw. 
+PUBLISHER = Boston [Mass.] : Da Capo Press, 2012, c2011. 
+RECORD # = b14920839. LOCATION = lbks. 
+
+CALL NO. = QC174.12 .M356 2011. 
+TITLE = Constructing reality : quantum theory and particle physics / John 
+Marburger. 
+PUBLISHER = Cambridge, UK ; New York : Cambridge University Press, 2011. 
+RECORD # = b14920803. LOCATION = lbks. 
+
+CALL NO. = QC495.3 .T398 2009. 
+TITLE = What color is the sacred? / Michael Taussig. 
+PUBLISHER = Chicago ; London : University of Chicago Press, 2009. 
+RECORD # = b14916605. LOCATION = lbks. 
+
+CALL NO. = QC794.6.S85 B57 2012. 
+TITLE = The birth of string theory / edited by Andrea Cappelli, INFN, Florence ;
+Elena Castellani, Department of Philosophy, University of Florence ; Filippo 
+Colomo, INFN, Florence ; Paolo Di Vecchia, Nordita, Stockholm and Niels Bohr 
+Institute, Copenhagen. 
+PUBLISHER = Cambridge : Cambridge University Press, 2012. 
+RECORD # = b14920797. LOCATION = lbks. 
+
+CALL NO. = QC795 .O29 2014. 
+TITLE = Hiroshima to Fukushima : biohazards of radiation / Eiichiro Ochiai. 
+PUBLISHER = Berlin : Springer, c2014. 
+RECORD # = b1492030x. LOCATION = lbks. 
+
+CALL NO. = QC798.A1 C743 2013. 
+TITLE = Life atomic : a history of radioisotopes in science and medicine / 
+Angela N. H. Creager. 
+PUBLISHER = Chicago ; London : The University of Chicago Press, 2013. 
+RECORD # = b14920323. LOCATION = lbks. 
+
+CALL NO. = QC903 .K45 2013. 
+TITLE = A case for climate engineering / David Keith. 
+PUBLISHER = Cambridge, M ass. : The MIT Press, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14920268. LOCATION = lbks. 
+
+
+
+CALL NO. = QC903 .M36 2012. 
+TITLE = The hockey stick and the climate wars : dispatches from the front lines 
+/ Michael E. Mann. 
+PUBLISHER = New York : Columbia University Press, 2012. 
+RECORD # = b14921534. LOCATION = lbks. 
+
+CALL NO. = QC903 .S86 2012. 
+TITLE = The city and the coming climate : climate change in the places we live /
+Brian Stone, Jr. 
+PUBLISHER = New York : Cambridge University Press, 2012. 
+RECORD # = b14920281. LOCATION = lbks. 
+
+CALL NO. = QC903.2.A68 A73 2012. 
+TITLE = Arctic climate change : the ACSYS decade and beyond / Peter Lemke, Hans-
+Werner Jacobi, editors. 
+PUBLISHER = Dordrecht ; New York : Springer, c2012. 
+RECORD # = b14921443. LOCATION = lbks. 
+
+CALL NO. = QC981 .R36 2012. 
+TITLE = Atmosphere, clouds, and climate / David Randall. 
+PUBLISHER = Princeton : Princeton University Press, {496}2012. 
+RECORD # = b14921455. LOCATION = lbks. 
+
+CALL NO. = QC981.8.G56 B455 2013. 
+TITLE = The burning question : we can't burn half the world's oil, coal and gas.
+So how do we quit? / Mike Berners-Lee, Duncan Clark. 
+PUBLISHER = Vancouver : Greystone Books, [2013]. 
+RECORD # = b14920256. LOCATION = lbks. 
+
+CALL NO. = QD31.3 .M63 2009. 
+TITLE = Modern chemistry / Raymond E. Davis ... [et al.]. 
+PUBLISHER = Orlando, Fla. : Holt, Rinehart and Winston, 2009. 
+RECORD # = b14921765. LOCATION = ltm. 
+
+CALL NO. = QD37 .A85 2013. 
+TITLE = What is chemistry? / Peter Atkins. 
+PUBLISHER = Oxford, United Kingdom : Oxford University Press, 2013. 
+RECORD # = b14916381. LOCATION = lbks. 
+
+CALL NO. = QD37 .B68 2012. 
+TITLE = From stars to stalagmites : how everything connects / Paul S Braterman. 
+PUBLISHER = Singapore ; London ; Hackensack, NJ : World Scientific, c2012. 
+RECORD # = b14921339. LOCATION = lbks. 
+
+CALL NO. = QD79.C45 S66 2011. 
+TITLE = Gas chromatography and mass spectrometry : a practical guide / O David 
+Sparkman, Zelda E. Penton, Fulton G. Kitson. 
+PUBLISHER = Burlington, MA : Academic Press, 2011. 
+RECORD # = b14921364. LOCATION = lbks. 
+
+CALL NO. = QD101.2 .H37 2010. 
+TITLE = Quantitative chemical analysis / Daniel C. Harris. 
+PUBLISHER = New York : W.H. Freeman and Co., c2010. 
+RECORD # = b14921388. LOCATION = lbks. 
+
+
+
+CALL NO. = QD181.O1 C36 2014. 
+TITLE = Oxygen : a four billion year history / Donald Eugene Canfield. 
+PUBLISHER = Princeton : Princeton University Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14920360. LOCATION = lbks. 
+
+CALL NO. = QD461 .C655 2012. 
+TITLE = Every molecule tells a story / Simon Cotton. 
+PUBLISHER = Boca Raton, FL : CRC Press, c2012. 
+RECORD # = b14921327. LOCATION = lbks. 
+
+CALL NO. = QD462 .M4 2008. 
+TITLE = Quantum chemistry / Donald A. McQuarrie. 
+PUBLISHER = Sausalito, Calif. : University Science Books, c2008. 
+RECORD # = b1492139x. LOCATION = lbks. 
+
+CALL NO. = QE26.3 A455 2010. 
+TITLE = Holt McDougal earth science / Mead A. Allison, Arthur T. DeGaetano, Jay 
+M. Pasachoff. 
+PUBLISHER = Austin, TX  : Holt McDougal, a division of Houghton Mifflin Harcourt
+Publishing Co., c2010. 
+RECORD # = b14921777. LOCATION = ltm. 
+
+CALL NO. = QH31.D2 B474 2013. 
+TITLE = Darwin and his children : his other legacy / Tim M. Berra. 
+PUBLISHER = Oxford ; New York : Oxford University Press, [2013]. 
+RECORD # = b14920517. LOCATION = lbks. 
+
+CALL NO. = QH324.2 .W86 2013. 
+TITLE = Computational biology : a practical introduction to biodata processing 
+and analysis with Linux, MySQL, and R / R{232}obbe W{232}unschiers. 
+PUBLISHER = Heidelberg ; New York : Springer, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14919564. LOCATION = lbks. 
+
+CALL NO. = QH366.2 .D89 2014. 
+TITLE = Darwin's On the origin of species : a modern rendition / Daniel 
+Duzdevich ; with a foreword by Olivia Judson. 
+PUBLISHER = On the origin of the species. 
+PUBLISHER = Bloomington : Indiana University Press, [2014]. 
+RECORD # = b14917142. LOCATION = lbks. 
+
+CALL NO. = QH367 .P85 2014. 
+TITLE = The Princeton guide to evolution / Jonathan B. Losos, Harvard University,
+editor in chief ; David A. Baum, University of Wisconsin, Madison, Douglas J. 
+Futuyma, Stony Brook University, Hopi E. Hoekstra, Harvard University, Richard 
+E. Lenski, Michigan State University, Allen J. Moore, University of Georgia, 
+Catherine L. Peichel, Fred Hutchinson Cancer Research Center, Dolph Schluter, 
+University of British Columbia, Michael C. Whitlock, University of British 
+Columbia, editors. 
+PUBLISHER = Princeton ; Oxford : Princeton University Press, [2014]. 
+RECORD # = b14921546. LOCATION = lbks. 
+
+
+
+CALL NO. = QH501 .C63 2012. 
+TITLE = Cells to civilizations : principles of change that shape life / Enrico 
+Coen. 
+PUBLISHER = Princeton : Princeton University Press, c2012. 
+RECORD # = b14921509. LOCATION = lbks. 
+
+CALL NO. = QH541.15.B56 B564 2014. 
+TITLE = Biodiversity / Noah Berlatsky, book editor. 
+PUBLISHER = Detroit : Greenhaven Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14921479. LOCATION = lbks. 
+
+CALL NO. = QH541.15.R45 W664 2013. 
+TITLE = Our once and future planet : restoring the world in the climate change 
+century / Paddy Woodworth. 
+PUBLISHER = Chicago ; London : The University of Chicago Press, 2013. 
+RECORD # = b14920347. LOCATION = lbks. 
+
+CALL NO. = QH549.5 .T35 2014. 
+TITLE = The vital new role of the suburban/urban garden / by Douglas W. Tallamy.
+PUBLISHER = Neenah, WI : Wild Ones, [2014]. 
+RECORD # = b14927044. LOCATION = lmvc. 
+
+CALL NO. = QH588.S83 B88 2013. 
+TITLE = The stem cell epistles : letters to my students about bioethics, embryos,
+stem cells, and fertility treatments / Michael A. Buratovich ; foreword by 
+Congressman Timothy Walberg. 
+PUBLISHER = Eugene, Oregon : Cascade Books, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14920426. LOCATION = lbks. 
+
+CALL NO. = QH588.S83 F87 2011. 
+TITLE = The stem cell dilemma : the scientific breakthroughs, ethical concerns, 
+political tensions, and hope surrounding stem cell research / Leo Furcht and 
+William Hoffman. 
+PUBLISHER = New York : Arcade Pub., c2011. 
+RECORD # = b1492156x. LOCATION = lbks. 
+
+CALL NO. = QH588.S83 K65 2013. 
+TITLE = Stem cells : an insider's guide / Paul Knoepfler, University of 
+California, Davis, USA. 
+PUBLISHER = New Jersey : World Scientific, [2013]. 
+RECORD # = b14921571. LOCATION = lbks. 
+
+CALL NO. = QH588.S83 S747 2012. 
+TITLE = Stem cells : new frontiers in science & ethics / editors, Muireann 
+Quigley, Sarah Chan, John Harris. 
+PUBLISHER = New Jersey : World Scientific, c2012. 
+RECORD # = b14921583. LOCATION = lbks. 
+
+CALL NO. = QL463 .C77 2013. 
+TITLE = Bugs rule! : an introduction to the world of insects / Whitney Cranshaw 
+and Richard Redak. 
+PUBLISHER = Princeton ; Oxford : Princeton University Press, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14921492. LOCATION = lbks. 
+
+
+
+CALL NO. = QL568.A6 O858 2013. 
+TITLE = Bees : a natural history / Christopher O'Toole, honorary research 
+associate, Hope Entomological Collections, Oxford University Museum of Natural 
+History ; featuring photographs by Edward Ross. 
+PUBLISHER = Richmond Hill, Ontario : Firefly Books, 2013. 
+PUBLISHER = {496}2013. 
+RECORD # = b14920244. LOCATION = lbks. 
+
+CALL NO. = QL698 .B57 2012. 
+TITLE = Bird sense : what it's like to be a bird / by Tim Birkhead. 
+PUBLISHER = New York : Walker & Company, 2012. 
+RECORD # = b14921480. LOCATION = lbks. 
+
+CALL NO. = QL751 .B93 2013. 
+TITLE = Animal behavior : a beginner's guide / John A. Byers. 
+PUBLISHER = London, England : Oneworld Publications, 2013. 
+RECORD # = b1492142x. LOCATION = lbks. 
+
+CALL NO. = QM26 .Y58 2014 (DVD). 
+TITLE = Your inner fish / a production of Tangled Bank Studios, LLC and Windfall
+Films, Ltd. 
+PUBLISHER = [United States] : [Publisher not identified], [2014]. 
+PUBLISHER = Arlington, Va. : PBS Distribution. 
+RECORD # = b14921868. LOCATION = lmvc. 
+
+CALL NO. = QP360 .K325 2014. 
+TITLE = The future of the mind : the scientific quest to understand, enhance, 
+and empower the mind / Dr. Michio Kaku, professor of Theoretical Physics, City 
+University of New York. 
+PUBLISHER = New York : Doubleday, [2014]. 
+RECORD # = b14925059. LOCATION = lbks. 
+
+CALL NO. = QP360 .P43 2009. 
+TITLE = The playful brain : venturing to the limits of neuroscience / Sergio 
+Pellis and Vivien Pellis. 
+PUBLISHER = Oxford : Oneworld, 2009. 
+RECORD # = b14917427. LOCATION = lbks. 
+
+CALL NO. = QR74.8 .W37 2012. 
+TITLE = Bacteria : the benign, the bad, and the beautiful / by Trudy M. 
+Wassenaar ; illustrations, Karoly Farkas ; with photographs by Eshel Ben Jacob. 
+PUBLISHER = Hoboken, N.J. : Wiley-Blackwell, c2012. 
+RECORD # = b14921467. LOCATION = lbks. 
+
+CALL NO. = QZ 4 G679p 2014. 
+TITLE = Porth's pathophysiology : concepts of altered health states / [edited 
+by] Sheila Grossman, PhD, APRN, FNP-BC, FAAN, Carol Mattson Porth, RN, MSN, PhD 
+(Physiology). 
+PUBLISHER = Philadelphia : Wolters Kluwer Health/Lippincott Williams & Wilkins 
+Health, [2014]. 
+RECORD # = b14917622. LOCATION = lrefs. 
+
+
+
+CALL NO. = QZ 11.1 C821 2013. 
+TITLE = Catching cancer : the quest for its viral and bacterial causes / Claudia
+Cornwall. 
+PUBLISHER = Lanham : Rowman & Littlefield Publishers, c2013. 
+RECORD # = b14917579. LOCATION = lbks. 
+
+CALL NO. = QZ21 .K65 2012. 
+TITLE = Am I my genes? : confronting fate and family secrets in the age of 
+genetic testing / Robert L. Klitzman. 
+PUBLISHER = Oxford ; New York : Oxford University Press, c2012. 
+RECORD # = b14921406. LOCATION = lbks. 
+
+CALL NO. = QZ 52 C883 2012. 
+TITLE = Cracking your genetic code [videorecording] / a Nova production by Holt 
+Productions, LLC for WGBH.
+PUBLISHER = [United States] : PBS Distribution, c2012. 
+RECORD # = b14922071. LOCATION = lmvc. 
+
+CALL NO. = SB193.3.U5 M47 2014. 
+TITLE = Northeast foraging : 120 wild and flavorful edibles from beach plums to 
+wineberries / Leda Meredith. 
+PUBLISHER = Portland, Oregon : Timber Press, 2014. 
+PUBLISHER = {496}2014. 
+RECORD # = b14918006. LOCATION = lbks. 
+
+CALL NO. = SF538.5.C65 S77 2011. 
+TITLE = The strange disappearance of the bees [videorecording] / ARTE France, 
+Telefrance, Galafilm present ; in association with RTBF, TSR, TV5 Monde, CBS 
+Television ; a film by Mark Daniels. 
+PUBLISHER = Brooklyn, NY : Icarus Films, [2011]. 
+RECORD # = b14934590. LOCATION = lmvc. 
+
+CALL NO. = TD170.93 .V35 2014. 
+TITLE = Poison spring : the secret history of pollution and the EPA / E.G. 
+Vallianatos ; with McKay Jenkins. 
+PUBLISHER = New York, NY : Bloomsbury Press, 2014. 
+RECORD # = b14917166. LOCATION = lbks. 
+
+CALL NO. = TD793.9.C422 2011. 
+TITLE = The clean bin project [videorecording] / Peg Leg Films presents : a film
+by Grant Baldwin. 
+PUBLISHER = [San Francisco] : Video Project, [2010]. 
+RECORD # = b14934589. LOCATION = lbks. 
+
+CALL NO. = TJ163.3 .F855 2012. 
+TITLE = Fundamentals of materials for energy and environmental sustainability / 
+edited by David S. Ginley and David Cahen. 
+PUBLISHER = Cambridge ; New York : Cambridge University Press, c2012. 
+RECORD # = b14921352. LOCATION = lbks. 
+
+CALL NO. = TK1365.J3 E575 2013. 
+TITLE = Fukushima : impacts and implications / David Elliott. 
+PUBLISHER = Basingstoke, Hampshire : Palgrave Macmillan, 2013. 
+RECORD # = b14921340. LOCATION = lbks. 
+
+
+
+CALL NO. = TK1365.J3 L63 2014. 
+TITLE = Fukushima : the story of a nuclear disaster / David Lochbaum, Edwin 
+Lyman, Susan Q. Stranahan, and The Union of Concerned Scientists. 
+PUBLISHER = New York : The New Press, 2014. 
+RECORD # = b14918018. LOCATION = lbks. 
+
+CALL NO. = TK5105.884 .K86 2013. 
+TITLE = Apache Solr PHP integration : build a fully-featured and scalable search
+application using PHP to unlock the search functions provided by Solr / jayant 
+Kumar. 
+PUBLISHER = Birmingham : Packt Pub., 2013. 
+RECORD # = b14924225. LOCATION = lbks. 
+
+CALL NO. = TK5105.885.A26   B64 2013. 
+TITLE = Murach's ASP.NET 4.5 Web programming with C# 2012 / Mary Delamater, Anne
+Boehm. 
+PUBLISHER = Fresno, Calif. : Mike Murach & Associates, c2013. 
+RECORD # = b14924201. LOCATION = lbks. 
+
+CALL NO. = TK5105.8855 .K19 2013. 
+TITLE = Guide to computer network security / Joseph Migga Kizza. 
+PUBLISHER = London : Springer, 2012. 
+PUBLISHER = London Springer, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b14919588. LOCATION = lbks. 
+
+CALL NO. = TP318 .S368 2013. 
+TITLE = Chemistry of fossil fuels and biofuels / Harold Schobert. 
+PUBLISHER = Cambridge [England] ; New York : Cambridge University Press, 2013. 
+RECORD # = b14921303. LOCATION = lbks. 
+
+CALL NO. = TR854 .T44 2013. 
+TITLE = 3D cinema and beyond / edited by Dan Adler, Janine Marchessault and 
+Sanja Obradovic. 
+PUBLISHER = Toronto : PUBLIC Books ; Bristol : Intellect ; Chicago : Intellect, 
+the University of Chicago Press, 2013. 
+RECORD # = b14918365. LOCATION = lbks. 
+
+CALL NO. = TX353 .W513 2009. 
+TITLE = What's on your plate? [videorecording] / a presentation by Aubin 
+Pictures ; in association with Rise Up Foundation. 
+PUBLISHER = Oley, Pa. : Bullfrog Films, [2009]. 
+RECORD # = b14936513. LOCATION = lmvc. 
+
+CALL NO. = TX369 .B362 2014. 
+TITLE = The third plate : field notes on the future of food / by Dan Barber. 
+PUBLISHER = New York : The Penguin Press, 2014. 
+RECORD # = b14925552. LOCATION = lbks. 
+
+CALL NO. = TX649.L6 M38 2010. 
+TITLE = A matter of taste [videorecording] : serving up Paul Liebrandt / a film 
+by Rowe Road Productions.
+PUBLISHER = [New York] : First Run Features, 2010. 
+RECORD # = b14936525. LOCATION = lmvc. 
+
+
+
+CALL NO. = TX725.M628 .G851 2012. 
+TITLE = Beyond hummus and falafel : social and political aspects of Palestinian 
+food in Israel / Liora Gvion ; translated by David Wesley and Elana Wesley. 
+PUBLISHER = Berkeley : University of California Press, c2012. 
+RECORD # = b14784051. LOCATION = lbks. 
+
+CALL NO. = U241 .K37 2013. 
+TITLE = The insurgents : David Petraeus and the plot to change the American way 
+of war / Fred Kaplan. 
+PUBLISHER = New York : Simon & Schuster, 2013. 
+RECORD # = b14920736. LOCATION = lbks. 
+
+CALL NO. = UA23 .P225 2010. 
+TITLE = Invisible : covert operations and classified landscapes / Trevor Paglen 
+; with an essay by Rebecca Solnit. 
+PUBLISHER = New York, N.Y. : Aperture : Available in North America through 
+D.A.P./Distributed Art Pub., c2010. 
+PUBLISHER = 201008. 
+RECORD # = b14918110. LOCATION = lbks. 
+
+CALL NO. = UA853.P18 S53 2014. 
+TITLE = The army and democracy : military politics in Pakistan / Aqil Shah. 
+PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2014. 
+PUBLISHER = {496}2014. 
+RECORD # = b14922630. LOCATION = lbks. 
+
+CALL NO. = UH20 .M55 2013. 
+TITLE = Military chaplains as agents of peace : religious leader engagement in 
+conflict and post-conflict environments / S.K. Moore. 
+PUBLISHER = Lanham, Maryland : Lexington Books, [2013]. 
+RECORD # = b14913768. LOCATION = lbks. 
+
+CALL NO. = W 18.2 C738 2015. 
+TITLE = A comprehensive review for the certification and recertification 
+examinations for physician assistants / editor, Claire Babcock O'Connell. 
+PUBLISHER = 1402. 
+PUBLISHER = Philadelphia : Wolters Kluwer Health/Lippincott Williams & Wilkins, 
+2014. 
+RECORD # = b14917075. LOCATION = lrefs. 
+
+CALL NO. = W 20.55.H9 H814 2013. 
+TITLE = Against their will : the secret history of medical experimentation on 
+children in cold war America / Allen M. Hornblum, Judith L. Newman, and Gregory 
+J. Dober. 
+PUBLISHER = New York, NY : Palgrave Macmillan, June 2013. 
+RECORD # = b14924845. LOCATION = lbks. 
+
+CALL NO. = W 84.AA1 N696 2015. 
+TITLE = Basics of the U.S. health care system / Nancy J. Niles, PHD, MS, MBA, 
+MPH, Associate Professor, Lander University, Greenwood, South Carolina. 
+PUBLISHER = Burlington, Massachusetts : Jones & Bartlett Learning, [2015]. 
+RECORD # = b14924080. LOCATION = lbks. 
+
+
+
+CALL NO. = W 84 AA1 S96h 2014. 
+TITLE = Health care USA : understanding its organization and delivery / Harry A.
+Sultz, Kristina M. Young. 
+PUBLISHER = Sudbury, Mass. : Jones & Bartlett Learning, c2014. 
+RECORD # = b14924092. LOCATION = lbks. 
+
+CALL NO. = WA 530.1 H288 2011. 
+TITLE = Global health governance / Sophie Harman. 
+PUBLISHER = Abingdon, Oxon : Routledge, 2011. 
+RECORD # = b14925102. LOCATION = lbks. 
+
+CALL NO. = WA530.1 W561 2013. 
+TITLE = When people come first : critical studies in global health / edited by 
+Jo{228}ao Biehl and Adriana Petryna. 
+PUBLISHER = Princeton : Princeton University Press, [2013]. 
+PUBLISHER = {496}2013. 
+RECORD # = b1492559x. LOCATION = lbks. 
+
+CALL NO. = WA 689 F155 2013. 
+TITLE = Toms River : a story of science and salvation / Dan Fagin. 
+PUBLISHER = New York : Bantam Books, c2013. 
+RECORD # = b14920682. LOCATION = lbks. 
+
+CALL NO. = WB 105 C336 2012. 
+TITLE = Case files. Emergency medicine / Eugene C. Toy ... [et al.]. 
+PUBLISHER = New York : McGraw-Hill Medical, 2012. 
+RECORD # = b14918304. LOCATION = lrefs. 
+
+CALL NO. = WB141 .R474a 2014. 
+TITLE = Advanced health assessment and diagnostic reasoning / Jacqueline Rhoads,
+Sandra Petersen. 
+PUBLISHER = Burlington, MA : Jones & Bartlett Learning, c2014. 
+RECORD # = b1492108x. LOCATION = lbks. 
+
+CALL NO. = WB 330 P535 2013. 
+TITLE = Pharmacotherapeutics for advanced practice : a practical approach / 
+[edited by] Andrew M. Peterson, Virginia Poole Arcangelo. 
+PUBLISHER = Philadelphia : Wolters Kluwer/Lippincott Williams & Wilkins, c2013. 
+RECORD # = b14921157. LOCATION = lbks. 
+
+CALL NO. = WC17 .S159 1992. 
+TITLE = Atlas of Parasitic Pathology / by K. Salfelder, T. R. Liscano, E. 
+Sauerteig. 
+PUBLISHER = Dordrecht : Springer Netherlands, 1992. 
+RECORD # = b14926933. LOCATION = lbks. 
+
+CALL NO. = WD 210 W289 2013. 
+TITLE = Always the fat kid : the truth about the enduring effects of childhood 
+obesity / Jacob C. Warren, PhD, K. Bryant Smalley, PhD, PsyD. 
+PUBLISHER = New York, NY : Palgrave Macmillan, 2013. 
+RECORD # = b14910755. LOCATION = lbks. 
+
+CALL NO. = WL11.AA1 .W138 2014. 
+TITLE = Pain : a political history / Keith Wailoo. 
+PUBLISHER = Baltimore : Johns Hopkins University Press, 2014. 
+RECORD # = b14923427. LOCATION = lbks. 
+
+
+
+CALL NO. = WM 140 Z16 2014. 
+TITLE = A metaphysics of psychopathology / Peter Zachar. 
+PUBLISHER = Cambridge, Masschusetts : The MIT Press, [2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14923312. LOCATION = lbks. 
+
+CALL NO. = WM203.5 .J11 2014. 
+TITLE = Autism and gender : from refrigerator mothers to computer geeks / 
+Jordynn Jack. 
+PUBLISHER = Chicago : University of Illinois Press, [2014]. 
+RECORD # = b14922642. LOCATION = lbks. 
+
+CALL NO. = WS 350 C536 2012. 
+TITLE = Child and adolescent behavioral health : a resource for advanced 
+practice psychiatric and primary care practitioners in nursing / editors, Edilma
+L. Yearwood, Geraldine S. Pearson, Jamesetta A. Newland. 
+PUBLISHER = Chichester, West Sussex, UK : Wiley-Blackwell, 2012. 
+RECORD # = b14921091. LOCATION = lbks. 
+
+CALL NO. = WT 500 C767 2013. 
+TITLE = Beyond words : illness and the limits of expression / Kathlyn Conway. 
+PUBLISHER = Albuquerque : University of New Mexico Press, 2013. 
+RECORD # = b14917567. LOCATION = lbks. 
+
+CALL NO. = WY 18 O58 2014. 
+TITLE = Developing online learning environments in nursing education / Carol A. 
+O'Neil, Cheryl A. Fisher, Matthew J. Rietschel. 
+PUBLISHER = New York, NY : Springer, c2014. 
+RECORD # = b14924018. LOCATION = lbks. 
+
+CALL NO. = WY 18 S614 2012. 
+TITLE = Simulation in nursing education : from conceptualization to evaluation /
+Pamela R. Jeffries, PhD, RN, FAAN, ANEF, editor. 
+PUBLISHER = New York, NY : National League for Nursing, [2012]. 
+RECORD # = b14917634. LOCATION = lbks. 
+
+CALL NO. = WY100 .F198 2015. 
+TITLE = Family health care nursing : theory, practice, and research / [edited 
+by] Joanna Rowe Kaakinen, PhD, RN, Professor, School of Nursing, Linfield 
+College, Portland, Oregon, Deborah Padgett Coehlo, PhD, C-PMP, PMHS, CFLE, 
+Developmental and Behavioral Specialist, Juniper Ridge Clinic, Bend, Oregon, 
+Rose Steele, PhD, RN, Professor, School of Nursing, Faculty of Health, York 
+University, Toronto, Ontario, Canada, Aaron Tabacco, RN, BSN, School of Nursing,
+Oregon Health and Science University, Portland, Oregon, Shirley May Harmon 
+Hanson, RN, PhD, PMHNP/ARNP, FAAN, CFLE, LMFT, Professor Emeritus, School of 
+Nursing, Oregon Health and Science University, Portland, Oregon, Adjunct Faculty,
+College of Nursing, Washington State University, Spokane, Washington. 
+PUBLISHER = Philadelphia : F.A. Davis Company, [2015]. 
+PUBLISHER = {496}2015. 
+RECORD # = b14921133. LOCATION = lrefs. 
+
+CALL NO. = WY 100.4 W951n 2013. 
+TITLE = Nurses and families : a guide to family assessment and intervention / 
+Lorraine M. Wright, Maureen Leahey. 
+PUBLISHER = Philadelphia : F.A. Davis, c2013. 
+RECORD # = b14926519. LOCATION = lbks. 
+
+
+
+CALL NO. = WY 100.7 .T772 2012. 
+TITLE = Translation of evidence into nursing and health care practice / [edited 
+by] Kathleen M. White, Sharon Dudley-Brown. 
+PUBLISHER = New York : Springer Pub. Co., c2012. 
+RECORD # = b14921169. LOCATION = lbks. 
+
+CALL NO. = WY 106 D771 2011. 
+TITLE = Healthy places, healthy people : a handbook for culturally informed 
+community nursing practice / Melanie Dreher and Lisa Skemp. 
+PUBLISHER = Indianapolis, IN : Sigma Theta Tau International, c2011. 
+RECORD # = b14910792. LOCATION = lbks. 
+
+CALL NO. = WY128 .C638 2013. 
+TITLE = Clinical guidelines for advanced practice nursing : an interdisciplinary
+approach / [edited by] Geraldine M. Collins-Bride, JoAnne M. Saxe. 
+PUBLISHER = Burlington, MA : Jones & Bartlett Learning, c2013. 
+RECORD # = b14921108. LOCATION = lbks. 
+
+CALL NO. = WY 150 B897 2014. 
+TITLE = Brunner & Suddarth's textbook of medical-surgical nursing / Janice L. 
+Hinkle, Phd, RN, CNRN, Associate Professor, The Catholic University of America, 
+Washington, DC, Kerry H. Cheever, PhD, RN, Professor and Chairperson, Department
+of Nursing, Moravian College, Bethlehem, Pennsylvania. 
+PUBLISHER = Philadelphia : Wolters Kluwer Health/Lippincott Williams & Wilkins, 
+[2014]. 
+PUBLISHER = {496}2014. 
+RECORD # = b14924006. LOCATION = lrefs. 
+
+CALL NO. = WZ112 .D636 2009. 
+TITLE = Doctors' diaries [videorecording] / a Nova production for Periskope TV 
+for WGBH-Boston. 
+PUBLISHER = [United States] : PBS Home Video, c2009. 
+RECORD # = b14922083. LOCATION = lmvc. 
+
+CALL NO. = WZ 305 W397 2014. 
+TITLE = Ha! : the science of when we laugh and why / Scott Weems. 
+PUBLISHER = New York : Basic Books, a member of the Perseus Books Group, [2014].
+RECORD # = b14925205. LOCATION = lbks. 
+
+CALL NO. = Z104.5 .M33 2014. 
+TITLE = Prisoners, lovers, & spies : the story of invisible ink from Herodotus 
+to al-Qaeda / Kristie Macrakis. 
+PUBLISHER = New Haven, [Connecticut] : Yale University Press, [2014]. 
+RECORD # = b14925448. LOCATION = lbks. 
+
+CALL NO. = Z678 .D17 2014. 
+TITLE = Say it with data : a concise guide to making your case and getting 
+results / Priscille Dando. 
+PUBLISHER = Chicago : ALA Editions, an imprint of the American Library 
+Association, 2014. 
+RECORD # = b14918687. LOCATION = lbks. 
+
+
+
+CALL NO. = Z678.93.C67 H37 2014. 
+TITLE = Outsourcing technology : a practical guide for librarians / Robin 
+Hastings. 
+PUBLISHER = Lanham : Rowman & Littlefield, [2014]. 
+RECORD # = b14908037. LOCATION = lbks. 
+
+CALL NO. = Z692.A93 M37 2014. 
+TITLE = Managing digital audiovisual resources : a practical guide for 
+librarians / Matthew C. Mariner. 
+PUBLISHER = Lanham, Maryland : Rowman & Littlefield, [2014]. 
+RECORD # = b14908025. LOCATION = lbks. 
+

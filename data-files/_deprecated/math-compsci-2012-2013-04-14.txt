@@ -1,0 +1,272 @@
+
+
+CALL NO. = GV867 .C66 2012. 
+TITLE = Reasoning with sabermetrics : applying statistical science to baseball's
+tough questions / Gabriel B. Costa, Michael R. Huber, and John T. Saccoman. 
+PUBLISHER = Jefferson, N.C. : McFarland & Co., c2012. 
+RECORD # = b14611910. LOCATION = lbks. STATUS = -
+
+CALL NO. = GV867 .C67 2008. 
+TITLE = Understanding sabermetrics : an introduction to the science of baseball 
+statistics / Gabriel B. Costa, Michael R. Huber and John T. Saccoman. 
+PUBLISHER = Jefferson, N.C. : McFarland & Co., c2008. 
+RECORD # = b14611922. LOCATION = lbks. STATUS = -
+
+CALL NO. = GV877 .A35 2006. 
+TITLE = Baseball hacks / Joseph Adler. 
+PUBLISHER = Sebastopol, CA : O'Reilly, c2006. 
+RECORD # = b14611934. LOCATION = lbks. STATUS = -
+
+CALL NO. = GV877 .C68 2009. 
+TITLE = Practicing sabermetrics : putting the science of baseball statistics to 
+work / Gabriel B. Costa, Michael R. Huber, and John T. Saccoman. 
+PUBLISHER = Jefferson, N.C. : McFarland & Company, Inc., Publishers, c2009. 
+RECORD # = b14611958. LOCATION = lbks. STATUS = -
+
+CALL NO. = HA35 .T47 2012. 
+TITLE = Statistics translated : a step-by-step guide to analyzing and 
+interpreting data / Steven R. Terrell. 
+PUBLISHER = New York : Guilford Press, c2012. 
+RECORD # = b14750302. LOCATION = lbks. STATUS = -
+
+CALL NO. = HD30.27 .C37 2013. 
+TITLE = Predictive analytics : Microsoft Excel / Conrad Carlberg. 
+PUBLISHER = Indianapolis, Ind. : Que Pub., c2013. 
+RECORD # = b1462865x. LOCATION = lbks. STATUS = -
+
+CALL NO. = HD9696.2.U64 I254 2011. 
+TITLE = The IBM century : creating the IT revolution / edited by Jeffrey R. 
+Yost. 
+PUBLISHER = Piscataway, NJ : IEEE Computer Society, IEEE CS Press, c2011. 
+RECORD # = b14757333. LOCATION = lbks. STATUS = c. 
+
+CALL NO. = Hf5548.4.M523 C368 2011. 
+TITLE = Statistical analysis : Microsoft Excel 2010 / Conrad Carlberg. 
+PUBLISHER = Indianapolis, Ind. : Que, c2011. 
+RECORD # = b14628661. LOCATION = lbks. STATUS = -
+
+CALL NO. = P96.M395 M38 2012. 
+TITLE = Mathematics in popular culture : essays on appearances in film, fiction,
+games, television and other media / edited by Jessica K. Sklar and Elizabeth S. 
+Sklar ; foreword by Keith Devlin. 
+PUBLISHER = Jefferson, N.C. : McFarland, c2012. 
+RECORD # = b14752931. LOCATION = lbks. STATUS = -
+
+
+
+CALL NO. = QA9.65 .C428 2012. 
+TITLE = G{232}odel's way : exploits into an undecidable world / Gregory Chaitin,
+Newton C.A. da Costa & Francisco A. Doria. 
+PUBLISHER = Boca Raton : CRC Press, c2012. 
+RECORD # = b14750090. LOCATION = lbks. STATUS = e. 
+
+CALL NO. = QA21 .S834 2012. 
+TITLE = In pursuit of the unknown : 17 equations that changed the world / Ian 
+Stewart. 
+PUBLISHER = New York : Basic Books, 2012. 
+RECORD # = b14752979. LOCATION = lbks. STATUS = e. 
+
+CALL NO. = QA27.G7 M38 2011. 
+TITLE = Mathematics in Victorian Britain / edited by Raymond Flood, Adrian Rice 
+and Robin Wilson. 
+PUBLISHER = Oxford [England] ; New York : Oxford University Press, c2011. 
+RECORD # = b1475292x. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA76.17 .C67 2012. 
+TITLE = The digital flood : diffusion of information technology across the 
+United States, Europe, and Asia / James W. Cortada. 
+PUBLISHER = Oxford ; New York : Oxford University Press, c2012. 
+RECORD # = b14758106. LOCATION = lbks. STATUS = c. 
+
+CALL NO. = QA76.585 .D43 2012. 
+TITLE = The Heroku hacker's guide, release 1.0 / Randall Degges. 
+PUBLISHER = [s.l. : s.n.], 2012. 
+RECORD # = b14617729. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA76.59 .H33 2012. 
+TITLE = Jquery Mobile : develop and design / Kris Hadlock. 
+PUBLISHER = Berkeley, CA : Peachpit Press, 2012. 
+RECORD # = b14113028. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA76.6 .B732 2013. 
+TITLE = SciPy and NumPy : [optimizing & boosting your Python programming] / Eli 
+Bressert. 
+PUBLISHER = Sebastopol, CA : O'Reilly, c2013. 
+RECORD # = b1475745x. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA76.6 .H83 2012. 
+TITLE = Node : up and running / Tom Hughes-Croucher and Mike Wilson. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2012. 
+RECORD # = b14246843. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA76.625 .T44 2013. 
+TITLE = Professional Node.js : building Javascript based scalable software / 
+Pedro Teixeira. 
+PUBLISHER = Hoboken, N.J. : Wiley ; Chichester : John Wiley [distributor], 2012.
+RECORD # = b14113119. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA76.73.J39 R3 2012. 
+TITLE = Smashing Node.js : Javascript Everywhere / Guillermo Rauch. 
+PUBLISHER = Chichester, UK : John Wiley & Sons Inc., 2012. 
+RECORD # = b1411317x. LOCATION = lbks. STATUS = -
+
+
+
+CALL NO. = QA76.73.J39 S734 2010. 
+TITLE = JavaScript patterns / Stoyan Stefanov. 
+PUBLISHER = Sebastopol, CA : O'Reilly, c2010. 
+RECORD # = b14246831. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA76.73.P98 B57 2009. 
+TITLE = Natural language processing with Python / Steven Bird, Ewan Klein, and 
+Edward Loper. 
+PUBLISHER = Beijing ; Cambridge [Mass.] : O'Reilly, c2009. 
+RECORD # = b14757394. LOCATION = lbks. STATUS = c. 
+
+CALL NO. = QA76.73.P98 D68 2012. 
+TITLE = Think Python / Allen B. Downey. 
+PUBLISHER = Sebastopol, CA : O'Reilly, 2012. 
+RECORD # = b14757461. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA76.73.P98 D69 2012. 
+TITLE = Think complexity / Allen B. Downey. 
+PUBLISHER = Sebastopol, Calif. : O'Reilly, 2012. 
+RECORD # = b14757473. LOCATION = lbks. STATUS = c. 
+
+CALL NO. = QA76.73.P98 M54 2011. 
+TITLE = Problem solving with algorithms and data structures using Python / 
+Bradley N. Miller, David L. Ranum. 
+PUBLISHER = Sherwood, Or. : Franklin, Beedle & Associates, c2011. 
+RECORD # = b14741258. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA76.73.P98 M544 2009. 
+TITLE = Python programming in context / Bradley N. Miller, David L. Ranum. 
+PUBLISHER = Sudbury, Mass. : Jones and Bartlett Publishers, c2009. 
+RECORD # = b14611946. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA76.9.D3 J87 2012. 
+TITLE = CouchDB and PHP web development beginner's guide / Tim Juravich. 
+PUBLISHER = Birmingham, UK : Packt Publishing Ltd., c2012. 
+RECORD # = b14242837. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA76.9.D3 W45 2011. 
+TITLE = Hadoop : the definitive guide / by Tom White. 
+PUBLISHER = Sebastopol, CA : O'Reilly, c2011. 
+RECORD # = b1411298x. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA76.9.M35 P33 2012. 
+TITLE = Mathematics of discrete structures for computer science / Gordon J. 
+Pace. 
+PUBLISHER = Berlin ; New York : Springer-Verlag, 2012. 
+RECORD # = b14757400. LOCATION = lbks. STATUS = c. 
+
+CALL NO. = QA76.9.N38 P87 2013. 
+TITLE = Natural language annotation for machine learning / James Pustejovsky and
+Amber Stubbs. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media ; 2013. 
+RECORD # = b14758623. LOCATION = lbks. STATUS = c. 
+
+
+
+CALL NO. = QA93 .B444 2012. 
+TITLE = Math for life : crucial ideas you didn't learn in school / Jeffrey 
+Bennett. 
+PUBLISHER = Greenwood Village, Colo. : Roberts and Co., c2012. 
+RECORD # = b14752943. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA166.247 .G73 2012. 
+TITLE = Graph edge coloring : Vizing's theorem and Goldberg's conjecture / 
+Michael Stiebitz ... [et al.]. 
+PUBLISHER = Hoboken, N.J. : Wiley, c2012. 
+RECORD # = b14752918. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA174.2 .R66 2012. 
+TITLE = Fundamentals of group theory : an advanced approach / Steven Roman. 
+PUBLISHER = New York : Birkh{232}auser, c2012. 
+RECORD # = b14752980. LOCATION = lbks. STATUS = e. 
+
+CALL NO. = QA184.2 .S33 2012. 
+TITLE = A concise introduction to linear algebra / G{226}eza Schay. 
+PUBLISHER = New York : Birkh{232}auser, c2012. 
+RECORD # = b14753042. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA211 .M16 2012. 
+TITLE = The universe in zero words : the story of mathematics as told through 
+equations / Dana Mackenzie. 
+PUBLISHER = Princeton, N.J. : Princeton University Press, 2012. 
+RECORD # = b14750314. LOCATION = lbks. STATUS = n. 
+
+CALL NO. = QA276.12 .L67 2012. 
+TITLE = An introduction to statistical concepts / Richard G. Lomax, Debbie L. 
+Hahs-Vaughn. 
+PUBLISHER = New York : Routledge, c2012. 
+RECORD # = b14753030. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA278.75 .L36 2012. 
+TITLE = Who's number one? : the science of rating and ranking / Amy N. Langville
+and Carl D. Meyer. 
+PUBLISHER = Princeton [N.J.] : Princeton University Press, c2012. 
+RECORD # = b14750326. LOCATION = lbks. STATUS = e. 
+
+CALL NO. = QA297 .G15 2012. 
+TITLE = Numerical methods : design, analysis, and computer implementation of 
+algorithms / Anne Greenbaum, Timothy P. Chartier. 
+PUBLISHER = Princeton, N.J. : Princeton University Press, c2012. 
+RECORD # = b14753005. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA303.2 .B87 2012. 
+TITLE = Hypernumbers and extrafunctions : extending the classical calculus / 
+Mark Burgin. 
+PUBLISHER = New York : Springer, 2012. 
+RECORD # = b14752955. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA303.3 .P47 2012. 
+TITLE = Calculus and its origins / David Perkins. 
+PUBLISHER = [Washington, DC ?] : Mathematical Association of America, 2012. 
+RECORD # = b14757254. LOCATION = lbks. STATUS = c. 
+
+
+
+CALL NO. = QA443.5 .O88 2012. 
+TITLE = Geometry by its history / Alexander Ostermann, Gerhard Wanner. 
+PUBLISHER = Heidelberg ; New York : Springer, c2012. 
+RECORD # = b14752992. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA447 .L625 2012. 
+TITLE = Measurement / Paul Lockhart. 
+PUBLISHER = Cambridge, Mass. : Harvard University Press, c2012. 
+RECORD # = b14758192. LOCATION = lbks. STATUS = -
+
+CALL NO. = QA471 .R53 2011. 
+TITLE = Perspectives on projective geometry : a guided tour through real and 
+complex geometry / J{232}urgen Richter-Gebert. 
+PUBLISHER = Heidelberg [Germany] ; New York : Springer, c2011. 
+RECORD # = b14758234. LOCATION = lbks. STATUS = c. 
+
+CALL NO. = TK5102.3.U6 G47 2012. 
+TITLE = The idea factory : Bell Labs and the great age of American innovation / 
+Jon Gertner. 
+PUBLISHER = New York : Penguin Press, 2012. 
+RECORD # = b14750089. LOCATION = lbks. STATUS = e. 
+
+CALL NO. = TK5105.55 .K66 2012. 
+TITLE = Protocol engineering  / Hartmut K{232}onig. 
+PUBLISHER = Heidelberg ; New York : Springer, c2012. 
+RECORD # = b14757436. LOCATION = lbks. STATUS = c. 
+
+CALL NO. = TK5105.875.I6 S446 2012. 
+TITLE = SharePoint 2010 at work / Mark Miller ... [et al.]. 
+PUBLISHER = Sebastopol, CA : O'Reilly, 2012. 
+RECORD # = b14750351. LOCATION = lbks. STATUS = e. 
+
+CALL NO. = TK5105.888 .Y3 2009. 
+TITLE = PHP & MySQL : novice to ninja / by Kevin Yank. 
+PUBLISHER = Collingwood, Vic. : SitePoint, 2012. 
+RECORD # = b1475034x. LOCATION = lbks. STATUS = -
+
+CALL NO. = W 26.5B516m 2011. 
+TITLE = Methods in medical informatics : fundamentals of healthcare programming 
+in Perl, Python, and Ruby / Jules J. Berman. 
+PUBLISHER = Boca Raton, FL : CRC Press, c2011. 
+RECORD # = b14750338. LOCATION = lbks. STATUS = -
+
