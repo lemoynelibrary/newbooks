@@ -12,7 +12,6 @@ CALL NO. = BL625.4 .M66 2017.
 TITLE = Ageless soul : the lifelong journey toward meaning and joy / Thomas 
 Moore. 
 PUBLISHER = New York, NY : St. Martins Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b21499251. LOCATION = lscr. LOCATION = lbks. 
 
 
@@ -25,7 +24,6 @@ RECORD # = b23273318. LOCATION = lbks.
 CALL NO. = BT590.P45 T39 2018. 
 TITLE = What did Jesus look like? / Joan E. Taylor. 
 PUBLISHER = London ; New York : Bloomsbury T&T Clark, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b21498957. LOCATION = lbks. 
 
 
@@ -49,7 +47,6 @@ Meltzer ; directed by Julia Meltzer ; producer, Julia Meltzer ; co-producer,
 Mustafa Rony Zeno ; associate producer, Catherine Hollander ; a production of 
 Other Country Films in association with American Documentary / POV. 
 PUBLISHER = United States : Other Country Films [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23274050. LOCATION = lmvc. 
 
 
@@ -59,7 +56,6 @@ CALL NO. = GE197 .T87 2018.
 TITLE = The Republican reversal : conservatives and the environment from Nixon 
 to Trump / James Morton Turner and Andrew C. Isenberg. 
 PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b2327301x. LOCATION = lbks. 
 
 
@@ -82,7 +78,6 @@ CALL NO. = HM846 .F739 2017.
 TITLE = Thank you for being late : an optimist's guide to thriving in the age of
 accelerations / Thomas L. Friedman. 
 PUBLISHER = New York : Picador, 2017. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b21498581. LOCATION = lbks. 
 
 
@@ -104,7 +99,6 @@ TITLE = What is a slave society? : the practice of slavery in global perspective
 / edited by Noel Lenski (Yale University), Catherine M. Cameron (University of 
 Colorado, Boulder) ; with the assistance of Joshua Fincher. 
 PUBLISHER = Cambridge, United Kingdom : Cambridge University Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23273458. LOCATION = lbks. 
 
 
@@ -113,7 +107,6 @@ RECORD # = b23273458. LOCATION = lbks.
 CALL NO. = HV95 .K675 2018. 
 TITLE = Ensuring poverty : welfare reform in feminist perspective / Felicia 
 Kornbluh and Gwendolyn Mink. 
-PUBLISHER = 1806. 
 PUBLISHER = Philadelphia : University of Pennsylvania Press, [2018]. 
 RECORD # = b23272752. LOCATION = lbks. 
 
@@ -142,7 +135,6 @@ CALL NO. = HV8699.U5 C64 2016.
 TITLE = Convicting the innocent : death row and America's broken system of 
 justice / Stanley Cohen. 
 PUBLISHER = New York, NY : Skyhorse Publishing, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b23272740. LOCATION = lbks. 
 
 
@@ -158,7 +150,6 @@ CALL NO. = JV6483 .W54 2018.
 TITLE = Welcoming new Americans? : local governments and immigrant incorporation
 / Abigail Fisher Williamson. 
 PUBLISHER = Chicago, IL : The University of Chicago Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b21498969. LOCATION = lbks. 
 
 
@@ -168,7 +159,6 @@ CALL NO. = JZ5675 .L36 2018.
 TITLE = Atomic assurance : the alliance politics of nuclear proliferation / 
 Alexander Lanoszka. 
 PUBLISHER = Ithaca [New York] : Cornell University Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23272703. LOCATION = lbks. 
 
 
@@ -183,16 +173,13 @@ TITLE = Orientalist lives : western artists in the Middle East, 1830-1920 /
 James Parry. 
 PUBLISHER = Cairo, Egypt ; New York, NY : The American University in Cairo Press,
 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23273264. LOCATION = lbkso. 
 
 
 CALL NO. = ND2889 .B76 2018. 
 TITLE = Understanding illuminated manuscripts : a guide to technical terms / 
 Michelle P. Brown ; revised by Elizabeth C. Teviotdale and Nancy K. Turner. 
-PUBLISHER = 1812. 
 PUBLISHER = Los Angeles : J. Paul Getty Museum, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b21492918. LOCATION = lbks. 
 
 
@@ -229,14 +216,12 @@ RECORD # = b21024510. LOCATION = lbks.
 CALL NO. = PR6110.O417 E94 2018. 
 TITLE = Everything under / Daisy Johnson. 
 PUBLISHER = London : Jonathan Cape, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b2327332x. LOCATION = lbks. 
 
 
 CALL NO. = PR9199.4.E35 W37 2018. 
 TITLE = Washington Black / Esi Edugyan. 
 PUBLISHER = New York : Alfred A. Knopf, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b23273288. LOCATION = lbks. 
 
 
@@ -244,13 +229,11 @@ CALL NO. = PS508.T73 M43 2017.
 TITLE = Meanwhile, elsewhere : science fiction and fantasy from transgender 
 writers / edited by Cat Fitzpatrick and Casey Plett. 
 PUBLISHER = New York, NY : Topside Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b23273446. LOCATION = lbks. 
 
 
 CALL NO. = PS3611.U7386 M37 2018. 
 TITLE = The Mars room : a novel / Rachel Kushner. 
-PUBLISHER = {u00A9}2018. 
 PUBLISHER = New York, NY : Scribner, [2018]. 
 RECORD # = b23273276. LOCATION = lbks. 
 

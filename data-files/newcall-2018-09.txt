@@ -4,7 +4,6 @@ CALL NO. = BP55 .D35 2018.
 TITLE = Islam without Europe : traditions of reform in eighteenth-century 
 Islamic thought / Ahmad S. Dallal. 
 PUBLISHER = Chapel Hill : The University of North Carolina Press, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b21495853. LOCATION = lbks. 
 
 
@@ -12,7 +11,6 @@ CALL NO. = BP221 .T39 2017.
 TITLE = The promise of patriarchy : women and the Nation of Islam / Ula Yvette 
 Taylor. 
 PUBLISHER = Chapel Hill : The University of North Carolina Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b21495889. LOCATION = lbks. 
 
 
@@ -47,14 +45,12 @@ RECORD # = b21492955. LOCATION = lrsvm.
 CALL NO. = E278.A7 M35 2018. 
 TITLE = The tragedy of Benedict Arnold : an American life / Joyce Lee Malcolm. 
 PUBLISHER = New York : Pegasus Books, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b21491732. LOCATION = lbks. 
 
 
 CALL NO. = E912 .W66 2018. 
 TITLE = Fear : Trump in the White House / Bob Woodward. 
 PUBLISHER = New York : Simon & Schuster, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b21492785. LOCATION = lbks. 
 
 
@@ -79,7 +75,6 @@ CALL NO. = HD6515.A29 F56 2016.
 TITLE = Grounds for dreaming : Mexican Americans, Mexican immigrants, and the 
 California farmworker movement / Lori A. Flores. 
 PUBLISHER = New Haven : Yale University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b21492943. LOCATION = lbks. 
 
 
@@ -101,7 +96,6 @@ CALL NO. = JC423 .R169313 2018.
 TITLE = Good government : democracy beyond elections / Pierre Rosanvallon ; 
 translated by Malcolm DeBevoise. 
 PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b21025010. LOCATION = lbks. 
 
 
@@ -119,7 +113,6 @@ TITLE = Pearson's federal taxation 2019 corporations, partnerships, estates &
 trusts / editors, Kenneth E. Anderson ,Timothy J. Rupert ; contributing authors,
 Anna C. Fowler, [and five others]. 
 PUBLISHER = New York, NY : Pearson, [2019]. 
-PUBLISHER = {u00A9}2019. 
 RECORD # = b2149275x. LOCATION = lrefd. 
 
 
@@ -127,7 +120,6 @@ CALL NO. = LB1576 .S343426 2017.
 TITLE = The writing strategies book : your everything guide to developing 
 skilled writers with 300 strategies / Jennifer Serravallo. 
 PUBLISHER = Portsmouth, NH : Heinemann, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b21491793. LOCATION = lbks. 
 
 
@@ -209,7 +201,6 @@ TITLE = Thomas Cole's journey : Atlantic crossings / Elizabeth Mankin Kornhauser
 and Tim Barringer ; with Dorothy Mahon, Christopher Riopelle, and Shannon 
 Vittoria. 
 PUBLISHER = New York : The Metropolitan Museum of Art, [2018]. 
-PUBLISHER = {u00A9}2018. 
 PUBLISHER = New Haven : Distributed by Yale University Press. 
 RECORD # = b21024650. LOCATION = lbkso. 
 
@@ -218,7 +209,6 @@ CALL NO. = P94 .M36 2019.
 TITLE = Media ethics : issues and cases / [edited by] Philip Patterson, Lee 
 Wilkins, Chad Painter. 
 PUBLISHER = Lanham, Maryland : Rowman & Littlefield, [2019]. 
-PUBLISHER = {u00A9}2019. 
 RECORD # = b21024674. LOCATION = lbks. 
 
 
@@ -265,7 +255,6 @@ TITLE = Master of none. Season one / a Netflix original series ; Alan Yang
 Pictures ; Oh Brudder Productions ; Fremulon ; 3 Arts Entertainment ; Universal 
 Television ; produced by Igor Srubshchik ; created by Aziz Ansari & Alan Yang. 
 PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2017]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20913801. LOCATION = lmvc. 
 
 
@@ -280,7 +269,6 @@ RECORD # = b21024789. LOCATION = lmvc.
 
 CALL NO. = PN1992.77.S73 B66 2018. 
 TITLE = Star trek : a cultural history / M. Keith Booker. 
-PUBLISHER = 1806. 
 PUBLISHER = Lanham : Rowman & Littlefield, [2018]. 
 RECORD # = b21024686. LOCATION = lbks. 
 
@@ -350,7 +338,6 @@ Destin Daniel Cretton & Andrew Lanham ; produced by Gil Netter, Ken Kao ;
 Lionsgate presents ; in association with TIK Films (Hong Kong) Limited ; a Gil 
 Netter/Lionsgate production ; a Destin Daniel Cretton film. 
 PUBLISHER = Santa Monica, California : Lions Gate Entertainment, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b21496936. LOCATION = lrsvm. 
 
 
@@ -376,7 +363,6 @@ Mary Parent ; screenplay by Dan Gilroy and Max Borenstein and Derek Connolly ;
 directed by Jordan Vogt-Roberts. 
 PUBLISHER = [Burbank, CA] : Warner Bros. Entertainment Inc., [2017]. 
 PUBLISHER = Burbank, CA : Warner Home Video, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20914271. LOCATION = lmvc. 
 
 
@@ -385,7 +371,6 @@ TITLE = Lady Bird / A24 and IAC Films present ; producers, Scott Rudin, Eli Bush
 Evelyn O'Neill ; written & directed by Greta Gerwig. 
 PUBLISHER = Santa Monica, California : Lionsgate, [2018]. 
 PUBLISHER = Artwork & supplementary materials, {u00A9}2018. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b2091393x. LOCATION = lmvc. 
 
 
@@ -417,7 +402,6 @@ by Dorota Kobiela, Hugh Welchman, Jacek Dehnel ; directed by Dorota Kobiela,
 Hugh Welchman. 
 PUBLISHER = New York, NY : Cinedigm Entertainment Corp., [2018]. 
 PUBLISHER = Art and design, {u00A9}2018. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20914258. LOCATION = lmvc. 
 
 
@@ -443,7 +427,6 @@ Chestnut Ridge, Hudlin Entertainment production ; produced by Reginald Hudlin,
 Jonathan Sanger, Paula Wagner ; written by Michael Koskoff & Jacob Koskoff ; 
 directed by Reginald Hudlin. 
 PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b20914295. LOCATION = lmvc. 
 
 
@@ -465,7 +448,6 @@ produced by Mark Gordon, Amy Pascal, Matt Jackson ; STXfilms, Huayi Brothers
 Pictures, the Mark Gordon Company present a Pascal Pictures, a Mark Gordon 
 production. 
 PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b20913886. LOCATION = lmvc. 
 
 
@@ -526,7 +508,6 @@ production ; produced by Scott Stuber, Seth MacFarlane, John Jacobs [and others]
 ; screenplay by Seth MacFarlane & Alec Sulkin & Wellesley Wild ; directed by 
 Seth MacFarlane. 
 PUBLISHER = Universal City, CA : Universal Studios Home Entertainment, [2012]. 
-PUBLISHER = {u00A9}2012. 
 RECORD # = b20917211. LOCATION = lmvc. 
 
 
@@ -536,7 +517,6 @@ Duncan Tucker ; produced by Linda Moran, Ren{u00E9} Bastian, Sebastian Dungan.
 PUBLISHER = [New York, N.Y.] : Weinstein Co. ; [Solana Beach, Calif.] : 
 Distributed by Genius Products, [2006]. 
 PUBLISHER = [Solana Beach, Calif.] : Distributed by Genius Products. 
-PUBLISHER = {u00A9}2006. 
 RECORD # = b21496973. LOCATION = lrsvm. 
 
 
@@ -571,7 +551,6 @@ production in association with Cross Street Films ; produced by Tim Bevan, Eric
 Fellner, Beeban Kidron, Tracey Seaward ; screenplay by Lee Hall ; directed by 
 Stephen Frears. 
 PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20913692. LOCATION = lmvc. 
 
 
@@ -586,7 +565,6 @@ Star Thrower Entertainment and Tunica-Biloxi Tribe of Louisiana ; a Savvy Media
 Holdings, Thunder Road and Film 44 production ; a film by Taylor Sheridan. 
 PUBLISHER = Santa Monica, California : Lions Gate Entertainment, [2017]. 
 PUBLISHER = Package design, {u00A9}2017. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20914027. LOCATION = lmvc. 
 
 
@@ -624,7 +602,6 @@ CALL NO. = PN6712 .A75 2018.
 TITLE = Veiled superheroes : Islam, feminism, and popular culture / Sophia Rose 
 Arjana with Kim Fox ; foreword by Wajahat Ali. 
 PUBLISHER = Lanham, Maryland : Lexington Books, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b21495907. LOCATION = lbks. 
 
 
@@ -718,23 +695,19 @@ RECORD # = b21492724. LOCATION = lrefd.
 
 CALL NO. = QH352 .H34 2019. 
 TITLE = Molecular population genetics / Matthew W. Hahn. 
-PUBLISHER = 1803. 
 PUBLISHER = New York : Sinauer Associates, [2019]. 
-PUBLISHER = {u00A9}2019. 
 RECORD # = b21491999. LOCATION = lbks. 
 
 
 CALL NO. = QH367.5 .Q36 2018. 
 TITLE = The tangled tree : a radical new history of life / David Quammen. 
 PUBLISHER = New York, NY : Simon & Schuster, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b21492074. LOCATION = lbks. 
 
 
 CALL NO. = QS4 .M334h 2016. 
 TITLE = Human anatomy & physiology / Elaine N. Marieb, Katja Hoehn. 
 PUBLISHER = Boston : Pearson, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b21492736. LOCATION = lrefd. 
 
 
@@ -759,7 +732,6 @@ CALL NO. = TA455.S3 B45 2018.
 TITLE = The world in a grain : the story of sand and how it transformed 
 civilization / Vince Beiser. 
 PUBLISHER = New York : Riverhead Books, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b21491987. LOCATION = lbks. 
 
 
@@ -767,14 +739,12 @@ CALL NO. = WA33.AA1 T265e 2017.
 TITLE = Essentials of health policy and law / Joel B. Teitelbaum and Sara E. 
 Wilensky.
 PUBLISHER = Burlington, Massachusetts : Jones & Bartlett Learning, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b21495956. LOCATION = lrefs. 
 
 
 CALL NO. = WB18.2 .B514c 2007. 
 TITLE = Clinical pathophysiology made ridiculously simple / Aaron Berkowitz. 
 PUBLISHER = Miami : MedMaster, [2007]. 
-PUBLISHER = {u00A9}2007. 
 RECORD # = b21495919. LOCATION = lrefs. 
 
 
