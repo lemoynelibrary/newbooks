@@ -263,8 +263,23 @@ print OUT <<EOM;
   <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.min.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <style>
-    hr { border: 0; border-top: 2px solid #009161; }
-    a, a:link, a:visited, a:focus { color: #009161; }
+    hr { 
+      border: 0; 
+      border-top: 1px solid #009161; 
+    }
+    a, 
+    a:link, 
+    a:visited, 
+    a:focus { 
+      color: #009161; 
+    }
+    .breadcrumb {
+      margin: 5px 0 10px 0;
+      padding-left: 0;
+      font-weight: 700;
+      font-size: 11px;
+      background-color: transparent;
+    }
   </style>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -607,12 +622,26 @@ print OUT <<EOM;
   </nav>
   <br>
 
-  <!--content-->
+  <!-- page header -->
   <div id="content" class="container-fluid">
+    <div>
+      <ol class="breadcrumb">
+        <li id="s-lib-bc-customer">
+          <a title="Noreen Reale Falcone Library" href="http://lemoyne.edu/library">Noreen Reale Falcone Library</a>
+        </li>
+        <li id="s-lib-bc-group">
+          <a title="Find Books" href="https://resources.library.lemoyne.edu/find-books">Find Books</a>
+        </li>
+        <li id="s-lib-bc-guide">
+          <a title="Recent Library Acquisitions" href="https://library.lemoyne.edu/screens/newbooks.html">Recent Library Acquisitions</a>
+        </li>
+        <li id="s-lib-bc-page" class="active">XXXXXXX 2019</li>
+      </ol>
+    </div>
     <div class="row">
       <div class="col-md-12">
-        <h1 align="center">Recent Library Acquisitions by Classification Number 
-        <br> XXXXXXX 2019 </h1>
+        <h1>Recent Library Acquisitions</h1>
+        <h2>XXXXXXX 2019</h2>
 
         <!--  Page Navigation Links -->
         <hr>
