@@ -3,7 +3,6 @@
 CALL NO. = B802 .R63 2015. 
 TITLE = The Enlightenment : a very short introduction / John Robertson. 
 PUBLISHER = Oxford, United Kingdom : Oxford University Press, 2015. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18252953. LOCATION = lbks. 
 
 
@@ -31,7 +30,6 @@ CALL NO. = BP173.7 .R34 2017.
 TITLE = Qur'an of the oppressed : liberation theology and gender justice in 
 Islam / Shadaab Rahemtulla. 
 PUBLISHER = Oxford, United Kingdom : Oxford University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b1823818x. LOCATION = lbks. 
 
 
@@ -39,7 +37,6 @@ CALL NO. = BP193.5 .H44 2015.
 TITLE = The emergence of modern Shi'ism : Islamic reform in Iraq and Iran / 
 Zackery M. Heern. 
 PUBLISHER = London, England : Oneworld, 2015. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18252345. LOCATION = lbks. 
 
 
@@ -48,7 +45,6 @@ CALL NO. = BR160.E5 E5 2016.
 TITLE = History of the church / Rufinus of Aquileia ; translated by Philip R. 
 Amidon, SJ, Creighton University. 
 PUBLISHER = Washington, D.C. : The Catholic University of America Press, [2016].
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18252424. LOCATION = lbks. LOCATION = lbks. 
 
 
@@ -77,7 +73,6 @@ CALL NO. = D516 .C2813 2016.
 TITLE = August 1914 : France, the Great War, and a month that changed the world 
 forever / Bruno Cabanes ; translated by Stephanie O'Hara. 
 PUBLISHER = New Haven ; London : Yale University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18252643. LOCATION = lbks. 
 
 
@@ -92,7 +87,6 @@ CALL NO. = D805.5 B47 C45 2015.
 TITLE = Distance from the Belsen Heap : Allied Forces and the Liberation of a 
 Nazi Concentration Camp / Mark Celinscak. 
 PUBLISHER = Toronto ; Buffalo ; London : University of Toronto Press, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18252965. LOCATION = lbks. 
 
 
@@ -116,7 +110,6 @@ CALL NO. = DF261.S8 R344 2016.
 TITLE = The Spartan regime : its character, origins, and grand strategy / Paul 
 A. Rahe. 
 PUBLISHER = New Haven : Yale University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253568. LOCATION = lbks. 
 
 
@@ -124,7 +117,6 @@ CALL NO. = DK68.7.T9 T35 2016.
 TITLE = Tsar and sultan : Russian encounters with the Ottoman Empire / Victor 
 Taki. 
 PUBLISHER = London ; New York : I.B. Tauris, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253660. LOCATION = lbks. 
 
 
@@ -160,7 +152,6 @@ RECORD # = b18252977. LOCATION = lbks.
 CALL NO. = DS461 .F57 2016. 
 TITLE = A short history of the Mughal Empire / Michael H. Fisher. 
 PUBLISHER = London ; New York : I.B. Tauris & Co Ltd, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253581. LOCATION = lbks. 
 
 
@@ -192,14 +183,12 @@ TITLE = The body and military masculinity in late Qing and early Republican
 China : the art of governing soldiers / Nicolas Schillinger. 
 PUBLISHER = Lanham, Maryland : Lexington Books : imprint of The Rowman & 
 Littlefield Publishinbg Group, Inc., [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18252710. LOCATION = lbks. 
 
 
 CALL NO. = DS793.S644 S58 2016. 
 TITLE = Tracing China : a forty-year ethnographic journey / Helen F. Siu. 
 PUBLISHER = Hong Kong : Hong Kong University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b1825360x. LOCATION = lbks. 
 
 
@@ -214,7 +203,6 @@ TITLE = Bound by conflict : dilemmas of the two Sudans / Francis M. Deng ; in
 collaboration with Daniel J. Deng. 
 PUBLISHER = New York : The Center for International Humanitarian Cooperation : 
 The Institute of International Humanitarian Affairs, Fordham University, 2015. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18252709. LOCATION = lbks. 
 
 
@@ -238,7 +226,6 @@ CALL NO. = DT655 .C658 2017.
 TITLE = The Congo Free State and the New Imperialism : A Brief History with 
 Documents / Kevin Grant, Hamilton College. 
 PUBLISHER = Boston : Bedford/St. Martin's, Macmillan Learning, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18252916. LOCATION = lbks. 
 
 
@@ -246,7 +233,6 @@ CALL NO. = DT1757 .G67 2017.
 TITLE = Apartheid in South Africa : a brief history with documents / David M. 
 Gordon. 
 PUBLISHER = New York : Bedford / St Martin's, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18252576. LOCATION = lbks. 
 
 
@@ -305,7 +291,6 @@ RECORD # = b18253362. LOCATION = lbks.
 CALL NO. = E184.H55 M684 2017. 
 TITLE = The bride price : a Hmong wedding story / Mai Neng Moua. 
 PUBLISHER = Saint Paul, MN : Minnesota Historical Society Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18252096. LOCATION = lbks. 
 
 
@@ -320,7 +305,6 @@ CALL NO. = E185.61 .R8185 2017.
 TITLE = The color of law : a forgotten history of how our government segregated 
 America / Richard Rothstein. 
 PUBLISHER = New York : Liveright Publishing Corporation, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257185. LOCATION = lbks. 
 
 
@@ -416,7 +400,6 @@ CALL NO. = E713 .K56 2017.
 TITLE = The true flag : Theodore Roosevelt, Mark Twain, and the birth of 
 American empire / Stephen Kinzer. 
 PUBLISHER = New York : Henry Holt and Company, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18242947. LOCATION = lbks. 
 
 
@@ -448,7 +431,6 @@ CALL NO. = F1938.3 .D86 2016.
 TITLE = Dangerous Neighbors : Making the Haitian Revolution in Early America / 
 James Alexander Dun. 
 PUBLISHER = Philadelphia : University of Pennsylvania Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18252898. LOCATION = lbks. 
 
 
@@ -483,7 +465,6 @@ CALL NO. = GN21.B383 H372 2016.
 TITLE = Upside-down gods : Gregory Bateson's world of difference / Peter Harries
 -Jones. 
 PUBLISHER = New York : Fordham University Press, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18243265. LOCATION = lbks. 
 
 
@@ -529,7 +510,6 @@ TITLE = War by other means : geoeconomics and statecraft / Robert D. Blackwill
 and Jennifer M. Harris. 
 PUBLISHER = Cambridge, Massachusetts : The Belknap Press of Harvard University 
 Press, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18226784. LOCATION = lbks. 
 
 
@@ -544,7 +524,6 @@ CALL NO. = HM851 .I5855 2016.
 TITLE = The intersectional Internet : race, sex, class and culture online / 
 edited by Safiya Umoja Noble and Brendesha M. Tynes. 
 PUBLISHER = New York : Peter Lang Publishing, Inc., [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18241967. LOCATION = lbks. 
 
 
@@ -642,7 +621,6 @@ CALL NO. = HX418.5 .H679 2016.
 TITLE = Negotiating socialism in rural China : Mao, peasants, and local cadres, 
 in Shanxi, 1949-1953 / Xiaojia Hou. 
 PUBLISHER = Ithaca, New York : East Asia Program, Cornell University, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253325. LOCATION = lbks. 
 
 
@@ -719,7 +697,6 @@ CALL NO. = LB1063 .L36 2016.
 TITLE = Small teaching : everyday lessons from the science of learning / James 
 M. Lang. 
 PUBLISHER = San Francisco, CA : Jossey-Bass, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18251560. LOCATION = lbks. 
 
 
@@ -742,7 +719,6 @@ RECORD # = b18254822. LOCATION = lbks.
 CALL NO. = N6537.O39 S56 2017. 
 TITLE = Letters like the day : on reading Georgia O'Keeffe / Jennifer Sinor. 
 PUBLISHER = Albuquerque : University of New Mexico Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18256089. LOCATION = lbks. 
 
 
@@ -760,14 +736,12 @@ Whitlum-Cooper and Marjorie E. Wieseman.
 PUBLISHER = London : National Gallery Company ; Dublin : National Gallery of 
 Ireland ; Edinburgh : National Galleries of Scotland, 2016. 
 PUBLISHER = New Haven : Yale University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18254767. LOCATION = lbkso. 
 
 
 CALL NO. = P40.45.E3 B38 2014. 
 TITLE = Language and identity in modern Egypt / Reem Bassiouney. 
 PUBLISHER = Edinburgh : Edinburgh University Press, [2014]. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b18254159. LOCATION = lbks. 
 
 
@@ -775,7 +749,6 @@ CALL NO. = PA4497 .C434 2017.
 TITLE = The Cambridge companion to Xenophon / edited by Michael A. Flower. 
 PUBLISHER = Cambridge, United Kingdom ; New York, NY : Cambridge University 
 Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18243964. LOCATION = lbks. 
 
 
@@ -783,7 +756,6 @@ CALL NO. = PJ1555.E5 O76 2016.
 TITLE = An ancient Egyptian Book of the Dead : the Papyrus of Sobekmose / 
 translation, introduction, and commentary by Paul F. O'Rourke. 
 PUBLISHER = London  : Thames & Hudson ; New York, NY : Brooklyn Museum, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18254780. LOCATION = lbks. 
 
 
@@ -799,7 +771,6 @@ CALL NO. = PJ7737 .H67 2017.
 TITLE = Marvellous thieves : secret authors of the Arabian nights / Paulo Lemos 
 Horta. 
 PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18254792. LOCATION = lbks. 
 
 
@@ -808,7 +779,6 @@ TITLE = A rare blue bird flies with me / Youssef Fadel ; translated by Jonathan
 Smolin. 
 PUBLISHER = Cairo : Hoopoe, an imprint of American University In Cairo Press, 
 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b1825388x. LOCATION = lbks. 
 
 
@@ -830,7 +800,6 @@ TITLE = Before the throne : dialogues with Egypt's great from Menes to Anwar
 Sadat / Naguib Mahfouz ; translated from the Arabic and with an afterward by 
 Raymond Stock. 
 PUBLISHER = New York : Anchor Books, 2012. 
-PUBLISHER = {u00A9}2009. 
 RECORD # = b18255358. LOCATION = lbks. 
 
 
@@ -861,7 +830,6 @@ CALL NO. = PL2436 .S35 2016.
 TITLE = Novel medicine : healing, literature, and popular knowledge in early 
 modern China / Andrew Schonebaum. 
 PUBLISHER = Seattle : University of Washington Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253386. LOCATION = lbks. 
 
 
@@ -869,7 +837,6 @@ CALL NO. = PN49 .F35 2017.
 TITLE = The phenomenology of love and reading / Cassandra Falke. 
 PUBLISHER = New York : Bloomsbury Academic, an imprint of Bloomsbury Publishing 
 Inc, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18243903. LOCATION = lbks. 
 
 
@@ -879,7 +846,6 @@ Gary Sanchez production ; an Apatow production ; an Adam McKay film ; produced
 by Judd Apatow ; produced by Will Ferrell and Adam McKay ; written by Will 
 Ferrell & Adam McKay ; directed by Adam McKay. 
 PUBLISHER = [Hollywood, California] : Paramount, [2014]. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b18245638. LOCATION = lmvc. 
 
 
@@ -905,7 +871,6 @@ production.
 PUBLISHER = [Burbank, CA] : Touchstone Home Entertainment : Dreamworks Pictures,
 [2016]. 
 PUBLISHER = Burbank, CA : Distributed by Buena Vista Home Entertaiment. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b17600418. LOCATION = lmvc. 
 
 
@@ -926,7 +891,6 @@ Stuber, Peter Principato, Paul Young, Michael Fottrell ; directed by Rawson
 Marshall Thurber. 
 PUBLISHER = [Burbank, California] : Warner Bros. Entertainment Inc., [2016]. 
 PUBLISHER = Burbank, CA : Warner Home Video, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18246163. LOCATION = lmvc. 
 
 
@@ -944,7 +908,6 @@ Entertainment ; directed by Tim Miller ; written by Rhett Reese & Paul Wernick ;
 produced by Simon Kinberg, Ryan Reynolds, Lauren Shuler Donner ; a Kinberg Genre
 /The Donners' Company production ; in association with TSG Entertainment. 
 PUBLISHER = Beverly Hills, Calif. : 20th Century Fox Home Entertainment, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18245572. LOCATION = lmvc. 
 
 
@@ -955,7 +918,6 @@ TITLE = Fences / Paramount Pictures presents ; in association with Bron Creative
 ; in association with Macro Media ; directed by Denzel Washington ; screenplay 
 by August Wilson ; produced by Scott Rudin, Denzel Washington, Todd Black. 
 PUBLISHER = Hollywood, California : Paramount Pictures, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18245444. LOCATION = lmvc. 
 
 
@@ -965,7 +927,6 @@ present ; with the participation of Canal+ and Cin{u00E9}+ ; a Qwerty Films
 production ; directed by Stephen Frears ; written by Nicholas Martin ; produced 
 by Michael Kuhn, Tracey Seaward. 
 PUBLISHER = Hollywood, California : Paramount Pictures, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18245560. LOCATION = lmvc. 
 
 
@@ -979,8 +940,6 @@ Permut, Terry Benedict, Paul Currie, Bruce Davey, Brian Oliver, William D.
 Johnson ; screenplay by Robert Schenkkan and Andrew Knight ; directed by Mel 
 Gibson. 
 PUBLISHER = Santa Monica, California : Summit Entertainment : Lionsgate, [2017].
-PUBLISHER = {u00A9}2016. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18245419. LOCATION = lmvc. 
 
 
@@ -990,7 +949,6 @@ produced, written and directed by Joel Coen & Ethan Coen ; produced by Tim Bevan
 Eric Fellner ; Mike Zoss Productions. 
 PUBLISHER = [Universal City, Calif.] : Universal Pictures Home Entertainment, 
 [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18251833. LOCATION = lmvc. 
 
 
@@ -1001,7 +959,6 @@ Oddlot Entertainment production ; a David Mackenzie film ; directed by David
 Mackenzie ; written by Taylor Sheridan ; produced by Sidney Kimmel, Peter Berg, 
 Carla Hacken, Julie Yorn. 
 PUBLISHER = Santa Monica, California : Lionsgate, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18245407. LOCATION = lmvc. 
 
 
@@ -1014,7 +971,6 @@ Michael Showalter ; produced by Daniela Taplin Lundberg, Riva Marker, Daniel
 Crown ; produced by Jordana Mollick, Kevin Mann ; screenplay by Laura Terruso & 
 Michael Showalter ; directed by Michael Showalter. 
 PUBLISHER = Culver City, California : Sony Pictures Home Entertainment, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18245699. LOCATION = lmvc. 
 
 
@@ -1025,7 +981,6 @@ Gigliotti, Peter Chernin, Jenno Topping, Pharrell Williams, Theodore Melfi ; a
 Chernin Entertainment/Levantine Films production. 
 PUBLISHER = Beverly Hills, California : Twentieth Century Fox Home Entertainment,
 [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18245420. LOCATION = lmvc. 
 
 
@@ -1047,7 +1002,6 @@ Aronofsky, Mickey Liddell, Scott Franklin, Ari Handel ; written by Noah
 Oppenheim ; directed by Pablo Larrain. 
 PUBLISHER = Beverly Hills, California : 20th Century Fox Home Entertainment, 
 [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18256557. LOCATION = lmvc. 
 
 
@@ -1056,7 +1010,6 @@ TITLE = Kubo and the two strings / Focus Features ; Laika ; directed by Travis
 Knight ; screenplay by Marc Haimes, Chris Butler ; story by Shannon Tindle, Marc
 Haimes ; produced by Arianne Sutner, Travis Knight. 
 PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18245523. LOCATION = lmvc. 
 
 
@@ -1068,7 +1021,6 @@ Australia, a See-Saw Films production in association with Aquarius Films and
 Sunstar Entertainment ; produced by Emile Sherman, Iain Canning, Angie Fielder ;
 screenplay by Luke Davies ; directed by Garth Davis. 
 PUBLISHER = Santa Monica, California : Anchor Bay Entertainment, LLC, [2017]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18245432. LOCATION = lmvc. 
 
 
@@ -1087,7 +1039,6 @@ written and directed by Jeff Nichols ; produced by Ged Doherty & Colin Firth,
 Nancy Buirski ; produced by Sarah Green ; produced by Marc Turtletaub & Peter 
 Saraf. 
 PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18245511. LOCATION = lmvc. 
 
 
@@ -1097,7 +1048,6 @@ samproduktion med Film V{u00E4}st, Nordisk Film, FanteFilm, Nordsvensk
 Filmunderh{u00E5}llning och SVT ; producent, Annica Bellander Rune och Nicklas 
 Wikstr{u00F6}m Nicastro ; manus & regi, Hannes Holm. 
 PUBLISHER = Chicago, IL : Music Box Films, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18245377. LOCATION = lmvc. 
 
 
@@ -1108,7 +1058,6 @@ Middleton Project, B Story production ; produced by Matt Damon, Kimberly Steward
 Chris Moore, Lauren Beck, Kevin J. Walsh ; written and directed by Kenneth 
 Lonergan. 
 PUBLISHER = Santa Monica, CA : Lionsgate, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18245468. LOCATION = lmvc. 
 
 
@@ -1120,7 +1069,6 @@ Esparza production ; executive producer, Gary J. Hendler ; screenplay by David
 Ward and John Nichols ; produced by Robert Redford and Moctesuma Esparza ; 
 directed by Robert Redford. 
 PUBLISHER = Universal City, CA : Universal Studios, [2005]. 
-PUBLISHER = {u00A9}2005. 
 RECORD # = b18257331. LOCATION = lrsvm. 
 
 
@@ -1139,7 +1087,6 @@ Entertainment/Pastel production ; produced by Adele Romanski ; produced by Dede
 Gardner, Jeremy Kleiner ; story by Tarell Alvin McCraney ; screenplay by Barry 
 Jenkins ; directed by Barry Jenkins. 
 PUBLISHER = Santa Monica, California : Lionsgate, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b1824547x. LOCATION = lmvc. 
 
 
@@ -1147,7 +1094,6 @@ CALL NO. = PN1993.15 .S4285 2016.
 TITLE = The secret life of pets / Illumination Entertainment ; written by Brian 
 Lynch, Cinco Paul, Ken Daurio ; directed by Chris Renaud, Yarrow Cheney. 
 PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18250191. LOCATION = lmvc. 
 
 
@@ -1156,7 +1102,6 @@ TITLE = Sing / Illumination Entertainment ; Universal Pictures presents a Chris
 Meledandri production ; produced by Chris Meledandri, Janet Healy ; written and 
 directed by Garth Jennings. 
 PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18245535. LOCATION = lmvc. 
 
 
@@ -1212,7 +1157,6 @@ Lauren Shuler Donner ; executive producers, Stan Lee, Todd Hallowell, Josh
 McLaglen ; a Bad Hat Harry/Kingberg Genre/Hutch Parker/Donners' Company 
 production ; a Bryan Singer film. 
 PUBLISHER = Beverly Hills, Calif. : 20th Century Fox Home Entertainment, [2016].
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18250063. LOCATION = lmvc. 
 
 
@@ -1267,7 +1211,6 @@ RECORD # = b18244208. LOCATION = lbks.
 CALL NO. = PR2247.H663 M37 2016. 
 TITLE = Death be not proud : the art of holy attention / David Marno. 
 PUBLISHER = Chicago : The University of Chicago Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18237976. LOCATION = lbks. 
 
 
@@ -1290,7 +1233,6 @@ CALL NO. = PS508.N3 N67 2014.
 TITLE = The Norton Anthology of African American literature / Henry Louis Gates,
 Jr., general editor ; Valerie Smith, general editor. 
 PUBLISHER = New York : W.W. Norton & Company, [2014]. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b1825665x. LOCATION = lrsvc. LOCATION = lrsvc. 
 
 
@@ -1298,7 +1240,6 @@ CALL NO. = PS3088 .K37 2016.
 TITLE = A refugee from his race : Albion W. Tourg{u00E9}e and his fight against 
 white supremacy / Carolyn L. Karcher. 
 PUBLISHER = Chapel Hill : The University of North Carolina Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253398. LOCATION = lbks. 
 
 
@@ -1313,7 +1254,6 @@ CALL NO. = PS3562.E42 A6 2016b.
 TITLE = Words are my matter : writings about life and books, 2000-2016 with a 
 journal of a writer's week / Ursula K. Le Guin. 
 PUBLISHER = Easthampton, MA : Small Beer Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18244877. LOCATION = lbks. 
 
 
@@ -1327,7 +1267,6 @@ RECORD # = b1825505x. LOCATION = lbks.
 CALL NO. = PS3616.A33879 T66 2017. 
 TITLE = Too like the lightning / by Ada Palmer. 
 PUBLISHER = New York : Tor, 2017. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b1824371x. LOCATION = lbks. 
 
 
@@ -1337,7 +1276,6 @@ CALL NO. = Q126.8 .F54 2017.
 TITLE = The usefulness of useless knowledge / Abraham Flexner ; with a companion
 essay by Robbert Dijkgraaf. 
 PUBLISHER = Princeton ; Oxford : Princeton University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18227296. LOCATION = lbks. 
 
 
@@ -1351,14 +1289,12 @@ RECORD # = b18252436. LOCATION = lbks.
 CALL NO. = QA9.54 .K3 2016. 
 TITLE = Writing proofs in analysis / Jonathan M. Kane. 
 PUBLISHER = Switzerland : Springer, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18242303. LOCATION = lbks. 
 
 
 CALL NO. = QA9.59 .S63 2016. 
 TITLE = Turing computability : theory and applications / Robert I. Soare. 
 PUBLISHER = Berlin : Springer, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18242273. LOCATION = lbks. 
 
 
@@ -1366,7 +1302,6 @@ CALL NO. = QA29.F5 D48 2017.
 TITLE = Finding Fibonacci : the quest to rediscover the forgotten mathematical 
 genius who changed the world / Keith Devlin. 
 PUBLISHER = Princeton : Princeton University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18252254. LOCATION = lbks. 
 
 
@@ -1387,7 +1322,6 @@ RECORD # = b18242662. LOCATION = lbks.
 CALL NO. = QA76.73.P98 L36 2016. 
 TITLE = A primer on scientific programming with Python / Hans Petter Langtangen.
 PUBLISHER = Heidelberg : Springer, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18241785. LOCATION = lbks. 
 
 
@@ -1430,7 +1364,6 @@ CALL NO. = QL737.C22 P467 2017.
 TITLE = Wolf nation : the life, death, and return of wild American wolves / 
 Brenda Peterson. 
 PUBLISHER = Boston, MA : Da Capo Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18251596. LOCATION = lbks. 
 
 
@@ -1487,14 +1420,12 @@ CALL NO. = W20.55.E7 H315 2017.
 TITLE = Rigor mortis : how sloppy science creates worthless cures, crushes hope,
 and wastes billions / Richard Harris. 
 PUBLISHER = New York : Basic Books, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18252370. LOCATION = lbks. 
 
 
 CALL NO. = W61 .S689m 2015. 
 TITLE = Making medical knowledge / Miriam Solomon. 
 PUBLISHER = Oxford : Oxford University Press, 2015. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18252369. LOCATION = lbks. 
 
 
@@ -1514,7 +1445,6 @@ CALL NO. = WO800 .B588p 2017.
 TITLE = Portraits of violence : war and the aesthetics of disfigurement / 
 Suzannah Biernoff. 
 PUBLISHER = Ann Arbor : University of Michigan Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18252382. LOCATION = lbks. 
 
 
@@ -1536,7 +1466,6 @@ CALL NO. = WY20.5 P769n 2017.
 TITLE = Nursing research : generating and assessing evidence for nursing 
 practice / Denise F. Polit, Cheryl Tatano Beck. 
 PUBLISHER = Philadelphia : Wolters Kluwer Health, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18256478. LOCATION = lrefd. 
 
 

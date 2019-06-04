@@ -3,7 +3,6 @@
 CALL NO. = BF575.B3 M67 2017. 
 TITLE = Shrinking violets : the secret life of shyness / Joe Moran. 
 PUBLISHER = New Haven : Yale University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834172. LOCATION = lbks. 
 
 
@@ -81,7 +80,6 @@ CALL NO. = D289 .R37 2017.
 TITLE = The unruly city : Paris, London and New York in the age of revolution / 
 Mike Rapport. 
 PUBLISHER = New York : Basic Books, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20836090. LOCATION = lbks. 
 
 
@@ -89,21 +87,18 @@ CALL NO. = D520.S8 R57 2017.
 TITLE = Latin America and the First World War / Stefan Rinke ; translated by 
 Christopher W. Reid, PhD. 
 PUBLISHER = New York, NY : Cambridge University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20835772. LOCATION = lbks. 
 
 
 CALL NO. = D804.3 .C434 2016. 
 TITLE = Final solution : the fate of the Jews, 1933-1949 / David Cesarani. 
 PUBLISHER = New York : St. Martin's Press, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20835589. LOCATION = lbks. 
 
 
 CALL NO. = D804.3 .H387 2017. 
 TITLE = Why? : explaining the Holocaust / Peter Hayes. 
 PUBLISHER = New York ; London : W.W. Norton & Company, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20836089. LOCATION = lbks. 
 
 
@@ -112,7 +107,6 @@ RECORD # = b20836089. LOCATION = lbks.
 CALL NO. = D804.3 .R433 2017. 
 TITLE = The Holocaust : a new history / Laurence Rees. 
 PUBLISHER = New York : Public Affairs, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20833635. LOCATION = lbks. 
 
 
@@ -171,7 +165,6 @@ CALL NO. = DS777.55 .H573 2016.
 TITLE = Foreigners under Mao : Western lives in China, 1949-1976 / Beverley 
 Hooper. 
 PUBLISHER = Hong Kong : Hong Kong University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20835607. LOCATION = lbks. 
 
 
@@ -232,7 +225,6 @@ CALL NO. = E185.96 .W475 2017.
 TITLE = Whispers of cruel wrongs : the correspondence of Louisa Jacobs and her 
 circle, 1879-1911 / edited by Mary Maillard. 
 PUBLISHER = Madison, Wisconsin : The University of Wisconsin Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834068. LOCATION = lbks. 
 
 
@@ -292,7 +284,6 @@ CALL NO. = F2351 .H95 2017.
 TITLE = Guiana and the shadows of empire : colonial and cultural negotiations at
 the edge of the world / Joshua R. Hyles. 
 PUBLISHER = Lanham, Maryland : Lexington Books, [2017]. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b20835632. LOCATION = lbks. 
 
 
@@ -338,7 +329,6 @@ CALL NO. = HD6983 .G69 2017.
 TITLE = The rise and fall of American growth : the U.S. standard of living since
 the Civil War / Robert J. Gordon. 
 PUBLISHER = Princeton : Princeton University Press, [2017]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20834160. LOCATION = lbks. 
 
 
@@ -350,6 +340,7 @@ RECORD # = b20836041. LOCATION = lrefs.
 
 CALL NO. = HF3163.B9 B65. 
 TITLE = Book of lists. 
+PUBLISHER = [Buffalo, N.Y. : Buffalo Business Journal]. 
 RECORD # = b20836053. LOCATION = lrefs. 
 
 
@@ -372,7 +363,6 @@ Sorensen ; with Mark Heckman, Accelerated Merchandising, and James Sorensen,
 Kantar Retail ; study questions by Svetlana Bogomolova, Ehrenberg-Bass Institute
 of Univ. So. Australia. 
 PUBLISHER = Old Tappan, N.J. : Pearson Education Inc., [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20841541. LOCATION = lbks. 
 
 
@@ -387,7 +377,6 @@ TITLE = War beyond words : languages of remembrance from the Great War to the
 present / Jay Winter, Yale University, Monash University. 
 PUBLISHER = Cambridge, United Kingdom ; New York, NY : Cambridge University 
 Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834664. LOCATION = lbks. 
 
 
@@ -397,7 +386,6 @@ CALL NO. = HM1111 .P75 2017.
 TITLE = Popular : the power of likability in a status-obsessed world / Mitch 
 Prinstein. 
 PUBLISHER = New York : Viking, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834202. LOCATION = lbks. 
 
 
@@ -414,7 +402,6 @@ TITLE = Portrait of Jason / Shirley Clarke.
 PUBLISHER = [Harrington Park, N.J.] : Milestone Film & Video, [2014]. 
 PUBLISHER = [New York, New York] Exclusively distributed by Oscilloscope, 
 [2014]. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b18251870. LOCATION = lmvc. 
 
 
@@ -427,7 +414,6 @@ RECORD # = b20841747. LOCATION = lbks.
 CALL NO. = HQ1143 .S35 2017. 
 TITLE = Illuminating women in the medieval world / Christine Sciacca. 
 PUBLISHER = Los Angeles : The J. Paul Getty Museum, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834536. LOCATION = lbks. 
 
 
@@ -449,7 +435,6 @@ CALL NO. = HT1105.B3 B335 2016.
 TITLE = The first black slave society : Britain's "barbarity time" in Barbados, 
 1636-1876 / Hilary McD. Beckles. 
 PUBLISHER = Kingston, Jamaica : The University of the West Indies Press, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20835577. LOCATION = lbks. 
 
 
@@ -458,7 +443,6 @@ RECORD # = b20835577. LOCATION = lbks.
 CALL NO. = HT1155 .R56 2017. 
 TITLE = Slavery after Rome, 500-1100 / Alice Rio. 
 PUBLISHER = Oxford, United Kingdom : Oxford University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834020. LOCATION = lbks. 
 
 
@@ -481,7 +465,6 @@ CALL NO. = HV6483.D48 D48 2017.
 TITLE = Detroit 1967 : origins, impacts, legacies / edited by Joel Stone ; with 
 a foreword by Thomas J. Sugrue. 
 PUBLISHER = Detroit, Michigan : Wayne State University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20835553. LOCATION = lbks. 
 
 
@@ -489,7 +472,6 @@ CALL NO. = HV6517 .T45 2017.
 TITLE = Lady killers : deadly women throughout history / Tori Telfer ; 
 [illustrations by Dame Darcy]. 
 PUBLISHER = New York : Harper Perennial, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20841607. LOCATION = lbks. 
 
 
@@ -563,7 +545,6 @@ from St. Ignatius to today / commissioned by the Secretariat for Education of
 the Society of Jesus ; edited by Jos{u00E9} Mesa, S.J. (Secretary for Education 
 of the Society of Jesus). 
 PUBLISHER = Chicago : Loyola Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834615. LOCATION = lbks. 
 
 
@@ -580,7 +561,6 @@ CALL NO. = ML3920 .Y56 2018.
 TITLE = Music therapy : research and evidence-based practice./ by Olivia 
 Swedberg Yinger. 
 PUBLISHER = St.Louis, Missouri : Elsevier [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b20835292. LOCATION = lbks. 
 
 
@@ -588,7 +568,6 @@ CALL NO. = N72.P6 F88 2017.
 TITLE = Future imperfect : A Blade of Grass, 2014-15 / Elizabeth M. Grady, 
 editor. 
 PUBLISHER = New York, N.Y.  : A Blade of Grass Books, [2017]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20834688. LOCATION = lbks. 
 
 
@@ -633,7 +612,6 @@ TITLE = Symbols of power : luxury textiles from Islamic lands, 7th-21st century
 / Louise W. Mackie. 
 PUBLISHER = Cleveland, OH : Cleveland Museum of Art, [2015]. 
 PUBLISHER = New Haven, CT ; London : Distributed by Yale University Press. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b20834640. LOCATION = lbkso. 
 
 
@@ -644,7 +622,6 @@ directed by Jonathan Krisel.
 PUBLISHER = Toronto, Ontario : VSC, [2011]. 
 PUBLISHER = [Place of distribution not identified] : Distributed by Broadway 
 Video Enterprises. 
-PUBLISHER = {u00A9}2011. 
 RECORD # = b18245237. LOCATION = lmvc. 
 
 
@@ -659,7 +636,6 @@ TITLE = Mean girls / Paramount Pictures presents ; a Lorne Michaels production ;
 co-producer, Louise Rosner ; produced by Lorne Michaels ; screenplay by Tina Fey
 ; directed by Mark Waters. 
 PUBLISHER = Hollywood, California : Paramount, 2004. 
-PUBLISHER = {u00A9}2004. 
 RECORD # = b18245754. LOCATION = lmvc. 
 
 
@@ -701,7 +677,6 @@ CALL NO. = PN1993.15 .O972 1934.
 TITLE = Our daily bread / Viking Productions present ; the story and direction, 
 King Vidor ; the scenario, Elizabeth Hill ; the dialogue, Joseph Mankiewicz. 
 PUBLISHER = [United States] : The Film Detective. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18251894. LOCATION = lmvc. 
 
 
@@ -711,7 +686,6 @@ L. Lasky production ; original screenplay by Preston Sturges ; directed by
 William K. Howard. 
 PUBLISHER = Beverlly Hills, Calif. : Twentieth Century Fox Home Entertainment, 
 [2012]. 
-PUBLISHER = {u00A9}2012. 
 RECORD # = b18251791. LOCATION = lmvc. 
 
 
@@ -722,7 +696,6 @@ produced by Jim Whitaker.
 PUBLISHER = [Burbank, California] : Walt Disney Studios Home Entertainment, 
 [2016]. 
 PUBLISHER = Burbank, California : Buena Vista Home Entertainment, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18251882. LOCATION = lmvc. 
 
 
@@ -779,7 +752,6 @@ CALL NO. = PR8722.F33 C78 2017.
 TITLE = Relocated memories : the Great Famine in Irish and diaspora fiction, 
 1846-1870 / Margu{u00E9}rite Corporaal. 
 PUBLISHER = Syracuse, New York : Syracuse University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20823988. LOCATION = lbks. 
 
 
@@ -826,7 +798,6 @@ CALL NO. = QR56 .A58 2017.
 TITLE = Planet of microbes : the perils and potential of Earth's essential life 
 forms / Ted Anton. 
 PUBLISHER = Chicago : The University of Chicago Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b2083617x. LOCATION = lbks. 
 
 
@@ -848,7 +819,6 @@ CALL NO. = TR642 .S64 2017.
 TITLE = Photography after photography : gender, genre, history / Abigail Solomon
 -Godeau ; edited by Sarah Parsons. 
 PUBLISHER = Durham : Duke University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834573. LOCATION = lbks. 
 
 
@@ -866,7 +836,6 @@ TITLE = Health disparities, diversity, and inclusion : context, controversies,
 and solutions / Patti R. Rose, EdD, MPH, Director and Founder, Rose Consulting, 
 Miami, Florida. 
 PUBLISHER = Burlington, MA : Jones & Bartlett Learning, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b20834494. LOCATION = lbks. 
 
 

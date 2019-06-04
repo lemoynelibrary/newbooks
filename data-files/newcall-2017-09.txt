@@ -9,7 +9,6 @@ RECORD # = b20343905. LOCATION = lmvc.
 CALL NO. = BJ1475 .B56 2016. 
 TITLE = Against empathy : the case for rational compassion / Paul Bloom. 
 PUBLISHER = New York, NY : Ecco, an imprint of HarperCollins Publishers, [2016].
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18255899. LOCATION = lbks. 
 
 
@@ -45,7 +44,6 @@ CALL NO. = DG231.3 .A76 2016.
 TITLE = War and society in early Rome : from warlords to generals / Jeremy 
 Armstrong. 
 PUBLISHER = Cambridge : Cambridge University Press, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253593. LOCATION = lbks. 
 
 
@@ -67,7 +65,6 @@ CALL NO. = DT295.6 .D36 2017.
 TITLE = Mes ind{u00E9}pendances : chroniques 2010-2016 / Kamel Daoud ; 
 pr{u00E9}face de Sid Ahmed Semiane. 
 PUBLISHER = [Arles] : Actes Sud, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18255188. LOCATION = lbks. 
 
 
@@ -122,7 +119,6 @@ CALL NO. = GV1449.3 .K37 2017.
 TITLE = Deep thinking : where machine intelligence ends and human creativity 
 begins / Garry Kasparov ; with Mig Greengard. 
 PUBLISHER = New York : PublicAffairs, an imprint of Perseus Books, LLC, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18254950. LOCATION = lbks. 
 
 
@@ -225,7 +221,6 @@ CALL NO. = KF3467 .T87 2016.
 TITLE = Equality on trial : gender and rights in the modern American workplace /
 Katherine Turk. 
 PUBLISHER = Philadelphia : University of Pennsylvania Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18254925. LOCATION = lbks. 
 
 
@@ -262,7 +257,6 @@ RECORD # = b18256132. LOCATION = lbks.
 CALL NO. = ML420.V3 H39 2017. 
 TITLE = Queen of bebop : the musical lives of Sarah Vaughan / Elaine M. Hayes. 
 PUBLISHER = New York, NY : Ecco, an imprint of HarperCollinsPublishers, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18256284. LOCATION = lbks. 
 
 
@@ -296,7 +290,6 @@ Straine, Anne-Christine Strobel, and Nina Zimmer ; translations from the German
 Rebecca van Dyck, Cynthia Hall, Elizabeth Tucker. 
 PUBLISHER = Munich ; New York : Prestel ; [Basel, Switzerland] : Kunstmuseum 
 Basel, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18254755. LOCATION = lbks. 
 
 
@@ -318,7 +311,6 @@ CALL NO. = NK1412.G43 S94 2016.
 TITLE = The man who designed the future : Norman Bel Geddes and the invention of
 twentieth-century America / B. Alexandra Szerlip. 
 PUBLISHER = Brooklyn : Melville House, [2017]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18256107. LOCATION = lbks. 
 
 
@@ -326,7 +318,6 @@ CALL NO. = NK3049.B3 R69 2016.
 TITLE = An archaeological study of the Bayeux Tapestry : the landscapes, 
 buildings and places / Trevor Rowley. 
 PUBLISHER = Barnsley, South Yorkshire : Pen & Sword Archaeology, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18256065. LOCATION = lbks. 
 
 
@@ -394,7 +385,6 @@ CALL NO. = PJ7860.A415 A7513 2017.
 TITLE = Menorahs and minarets / Kamal Ruhayyim ; translated by Sarah Enany. 
 PUBLISHER = Cairo, Egypt : Hoopoe, an imprint of American University In Cairo 
 Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18255061. LOCATION = lbks. 
 
 
@@ -414,14 +404,12 @@ CALL NO. = PJ7942.H343 L313 2016.
 TITLE = No knives in the kitchens of this city / Khaled Khalifa ; translated by 
 Leri Price. 
 PUBLISHER = Cairo, Egypt ; New York : Hoopoe, an imprint of AUC Press, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18255115. LOCATION = lbks. 
 
 
 CALL NO. = PJ7960.A253 U8313 2016. 
 TITLE = Otared / Mohammed Rabie ; translated by Robin Moger. 
 PUBLISHER = Cairo, Egypt ; New York : Hoopoe, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18255073. LOCATION = lbks. 
 
 
@@ -452,7 +440,6 @@ CALL NO. = PN1992.15 .B637 2012.
 TITLE = Bob's Burgers. The complete 3rd season / Twentieth Century Fox Film 
 Corporation ; writer, Loren Bouchard, Jim Dauterive. 
 PUBLISHER = Beverly Hills, Calif. : 20th Century Fox Home Entertainment, [2014].
-PUBLISHER = {u00A9}2014. 
 RECORD # = b18245092. LOCATION = lmvc. 
 
 
@@ -460,7 +447,6 @@ CALL NO. = PN1992.15 .B637 2013.
 TITLE = Bob's Burgers. The complete 4th season / Twentieth Century Fox 
 Television ; creator, Loren Bouchard. 
 PUBLISHER = Beverly Hills, Calif. : 20th Century Fox Home Entertainment, [2015].
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18245109. LOCATION = lmvc. 
 
 
@@ -469,7 +455,6 @@ TITLE = Bob's Burgers. The complete 5th season / Wilo Productions ; Buck &
 Millie Productions ; Twentieth Century Fox Television ; producer, Scott Jacobson
 ; created by Loren Bouchard ; developed by Loren Bouchard & Jim Dauterive. 
 PUBLISHER = Beverly Hills, Calif. : 20th Century Fox Home Entertainment, [2016].
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18245110. LOCATION = lmvc. 
 
 
@@ -477,7 +462,6 @@ CALL NO. = PN1992.15 .C756 2014.
 TITLE = The crimson field / BBC ; created & written by Sarah Phelps ; produced 
 by Ann Tricklebank. 
 PUBLISHER = [Arlington, VA] : PBS Distribution, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18245031. LOCATION = lmvc. 
 
 
@@ -487,7 +471,6 @@ Entertainment ; Danny Strong Productions ; Little Chicken Inc., 20th Century Fox
 Television ; created by Lee Daniels and Danny Strong. 
 PUBLISHER = Beverly Hills, California : Twentieth Century Fox Home Entertainment,
 [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b1824497x. LOCATION = lmvc. 
 
 
@@ -576,7 +559,6 @@ CALL NO. = PN1992.15 .M5.
 TITLE = Modern family. The complete seventh season / created by Steven Levitan 
 and Christopher Lloyd ; 20th Century Fox Television. 
 PUBLISHER = Los Angeles, CA : 20th Century Fox Home Entertainment, [2015]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18245286. LOCATION = lmvc. 
 
 
@@ -591,7 +573,6 @@ CALL NO. = PN1992.15 .N49 2016.
 TITLE = New girl. The complete fifth season. 
 PUBLISHER = Beverly Hills, Calif. : Twentieth Century Fox Home Entertainment, 
 [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18245262. LOCATION = lmvc. 
 
 
@@ -599,7 +580,6 @@ CALL NO. = PN1992.15 .O82 S.4 2016.
 TITLE = Orange is the new black. Season four / a Netflix original series ; 
 Tilted Productions ; Lionsgate ; created by Jenji Kohan. 
 PUBLISHER = Santa Monica, California : Lions Gate Entertainment Inc., [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18245249. LOCATION = lmvc. 
 
 
@@ -609,7 +589,6 @@ BBC and Masterpiece ; produced by Eliza Mellor ; written and created for
 television by Debbie Horsfield ; directed by Ed Bazalgette and William McGregor.
 PUBLISHER = [Boston] : WGBH Educational Foundation, [2015]. 
 PUBLISHER = [Alexandria, VA] : Distributed by PBS Distribution. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18246114. LOCATION = lmvc. 
 
 
@@ -633,7 +612,6 @@ CALL NO. = PN1992.15 .T69 2014.
 TITLE = True blood : the complete series / created by Alan Ball. 
 PUBLISHER = Burbank, CA : HBO Home Entertainment, [2014]. 
 PUBLISHER = Burbank, CA : Distributed by Warner Home Video. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b18245985. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
 LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
 
@@ -670,7 +648,6 @@ CALL NO. = PN1992.15 .V55 2014.
 TITLE = Vikings. Season 2. 
 PUBLISHER = Toronto, ON : Phase 4 Films, [2014]. 
 PUBLISHER = Los Angeles, CA : 20th Century Fox Home Entertainment. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b18245006. LOCATION = lmvc. 
 
 
@@ -698,7 +675,6 @@ TITLE = The walking dead. The complete sixth season / AMC presents ; Idiot Box ;
 Circle of Confusion ; Valhalla Entertainment ; AMC Studios ; producers, Jolly 
 Dale, Paul Gadd, Heather Bellson, Caleb Womble ; developed by Frank Darabont. 
 PUBLISHER = Beverly Hills, CA : Anchor Bay Entertainment, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18245225. LOCATION = lmvc. LOCATION = lmvc. 
 
 
@@ -709,7 +685,6 @@ Irish Film Board) for Channel Four.
 PUBLISHER = [Place of publication not identified] : [publisher not identified], 
 [2010]. 
 PUBLISHER = [London] : Film Four International. 
-PUBLISHER = {u00A9}2010. 
 RECORD # = b20344387. LOCATION = lrsvm. 
 
 
@@ -744,7 +719,6 @@ screenplay by Moira Buffini ; produced by William D. Johnson, Sam Englebardt ;
 produced by Stephen Woolley, Alan Moloney, Elizabeth Karlsen ; directed by Neil 
 Jordan. 
 PUBLISHER = New York, New York : IFC Films : MPI Media Group [2013]. 
-PUBLISHER = {u00A9}2013. 
 RECORD # = b1825732x. LOCATION = lrsvc. 
 
 
@@ -753,9 +727,7 @@ TITLE = Captain America : civil war / Marvel Studios presents ; directed by
 Anthony and Joe Russo ; screenplay by Christopher Markus & Stephen McFeely ; 
 produced by Kevin Feige ; a co-production of Vita-Ray Dutch Productions III and 
 Studio Babelsberg. 
-PUBLISHER = 2016. 
 PUBLISHER = Burbank, CA : Distributed by Buena Vista Home Entertainment, [2016].
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18245651. LOCATION = lmvc. 
 
 
@@ -793,7 +765,6 @@ Hayes & Carey W. Hayes & James Wan ; screenplay by Chad Hayes & Carey W. Hayes &
 James Wan and David Leslie Johnson ; produced by Peter Safran, Rob Cowan, James 
 Wan. 
 PUBLISHER = [Burbank, CA] : Warner Bros. Entertainment, [2016]. 
-PUBLISHER = {u00A9}2016. 
 PUBLISHER = Burbank, CA  : Warner Home Video. 
 RECORD # = b18245900. LOCATION = lmvc. 
 
@@ -820,7 +791,6 @@ Banks ; directed and scenario by Norbert A. Myles ; written and directed by
 Norbert Myles. 
 PUBLISHER = [Harrington Park, New Jersey] : Milestone Films, [2016]. 
 PUBLISHER = [New York, N.Y.] : Oscilloscope Laboratories, [2016]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18246217. LOCATION = lmvc. 
 
 
@@ -830,7 +800,6 @@ and Scott Derrickson & C. Robert Cargill ; produced by Kevin Feige ; Marvel
 Studios presents. 
 PUBLISHER = [Burbank, California] : Marvel Studios, [2017]. 
 PUBLISHER = Burbank, California : Buena Vista Home Entertainment. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18251729. LOCATION = lmvc. 
 
 
@@ -871,7 +840,6 @@ Cin{u00E9}ma, Entre Chien et Loup avec la participation de Canal+, France
 Televisions, OCS ; produit par Sa{u00EF}d Ben Sa{u00EF}d et Michel Merkt ; 
 sc{u00E9}nario de David Birke ; un film r{u00E9}alis{u00E9} par Paul Verhoeven. 
 PUBLISHER = Culver City, California : Sony Pictures Home Entertainment, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18245493. LOCATION = lmvc. 
 
 
@@ -881,7 +849,6 @@ a Raindog Films/Entertainment One Features production ; directed by Gavin Hood ;
 produced by Ged Doherty, Colin Firth, David Lancaster ; written by Guy Hibbert ;
 a Gavin Hood film. 
 PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18251778. LOCATION = lmvc. 
 
 
@@ -891,7 +858,6 @@ written by J.K. Rowling ; produced by David Heyman, J.K. Rowling, Steve Kloves,
 Lionel Wigram ; a Warner Bros. Pictures presentation ;  a Heyday Films 
 production ; a David Yates film. 
 PUBLISHER = Burbank, California : Warner Home Video, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18245912. LOCATION = lmvc. 
 
 
@@ -965,7 +931,6 @@ TITLE = Humoresque / Famous Players-Lasky Corporation presents ; a Paramount
 Picture ; produced by Cosmopolitan Productions ; directed by Frank Borzage ; 
 scenario by Frances Marion. 
 PUBLISHER = [Narberth, Pennsylvania] : Alpha Home Entertainment, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18251869. LOCATION = lmvc. 
 
 
@@ -985,7 +950,6 @@ Heyday Films ; Original Film ; produced by Akiva Goldsman, David Heyman, James
 Lassiter, Neal H. Mortiz, Erwin Stoff ; screenplay by Mark Protosevich and Akiva
 Goldsman ; directed by Francis Lawrence. 
 PUBLISHER = Burbank, CA : Warner Home Video, [2008]. 
-PUBLISHER = {u00A9}2007. 
 RECORD # = b18245778. LOCATION = lmvc. 
 
 
@@ -995,7 +959,6 @@ TITLE = It follows / Northern Lights Films presents an Animal Kingdom production
 directed by David Robert Mitchell ; produced by Rebecca Green, Laura D. Smith, 
 David Robert Mitchell ; produced by David Kaplan, Erik Rommesmo. 
 PUBLISHER = Beverly Hills, CA : Anchor Bay Entertainment, [2015]. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b18245857. LOCATION = lmvc. 
 
 
@@ -1050,7 +1013,6 @@ Canada-France en coproduction avec Arte France Cin{u00E9}ma ; un film de Xavier
 Dolan ; produit par Lyse Lafontaine ; co-producteurs, Nathana{u00EB}l Karmitz, 
 Charles Gillibert ; sc{u00E9}nario et diaglogues, Xavier Dolan. 
 PUBLISHER = Philadelphia, PA : Breaking Glass Pictures, [2013]. 
-PUBLISHER = {u00A9}2013. 
 RECORD # = b18245602. LOCATION = lmvc. 
 
 
@@ -1083,7 +1045,6 @@ Protagonist Pictures, SofiCinema 11 & Cinemage 10 & the Netherlands Film Fund ;
 an Irish-French-Dutch co-production ; produced by Katie Holly, Lauranee 
 Bourrachot ; written, directed & produced by Whit Stillman. 
 PUBLISHER = Culver City, CA : Sony Pictures Home Entertainment, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18250026. LOCATION = lmvc. 
 
 
@@ -1147,7 +1108,6 @@ CALL NO. = PN1993.15 .S7554 1990.
 TITLE = Stephen King's It / the Konigsberg/Sanitsky Company and Green/Epstein 
 Productions ; in association with Lorimar Television. 
 PUBLISHER = Burbank, CA : Warner Home Video, [2002]. 
-PUBLISHER = {u00A9}2002. 
 RECORD # = b18245250. LOCATION = lmvc. 
 
 
@@ -1157,7 +1117,6 @@ Pictures/Hunting Lane Films production in association with Gowanus Projections ;
 written and directed by Anna Boden & Ryan Fleck ; produced by Jeremy Kipp Walker,
 Jamie Patricof, Paul Mezey. 
 PUBLISHER = Culver City, Calif. : Sony Pictures Home Entertainment, [2009]. 
-PUBLISHER = {u00A9}2009. 
 RECORD # = b18257902. LOCATION = lmvc. 
 
 
@@ -1177,7 +1136,6 @@ production ; with the participation of Canal+, M6 and Cine+ ; produced by Luc
 Besson ; screenplay by Luc Besson & Robert Mark Kamen ; directed by Olivier 
 Megaton. 
 PUBLISHER = Beverly Hills, CA : Twentieth Century Fox Home Entertainment, 2015. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18245870. LOCATION = lmvc. 
 
 
@@ -1194,7 +1152,6 @@ TITLE = Tarzan.
 PUBLISHER = [Tarzana, CA] : Edgar Rice Burroughs, Inc. ; [Burbank, CA] : Warner 
 Bros. Entertainment Inc., 2016. 
 PUBLISHER = Burbank, CA : Distributed by Warner Home Video, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18250051. LOCATION = lmvc. 
 
 
@@ -1205,8 +1162,6 @@ Lookout Point and Masterpiece ; produced by Karen Lewis ; written and directed
 by Sally Wainwright. 
 PUBLISHER = [Arlington, VA] : PBS, [2017]. 
 PUBLISHER = [Arlington, VA] : PBS Distribution. 
-PUBLISHER = {u00A9}2016. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18246023. LOCATION = lmvc. 
 
 
@@ -1216,7 +1171,6 @@ mit Coop99 Filmproduktion, HiFilm Productions, KNM, Missing Link Films ; Buch
 und Regie, Maren Ade ; Producer, Michel Merkt ; Produzenten, Janine Jackowski, 
 Jonas Dornbach, Maren Ade. 
 PUBLISHER = Culver City, California : Sony Pictures Home Entertainment, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18245390. LOCATION = lmvc. 
 
 
@@ -1249,7 +1203,6 @@ CALL NO. = PN2287.K64 B74 2017.
 TITLE = He's got rhythm : the life and career of Gene Kelly / Cynthia Brideson &
 Sara Brideson. 
 PUBLISHER = Lexington : University Press of Kentucky, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b1825620x. LOCATION = lbks. 
 
 
@@ -1285,7 +1238,6 @@ CALL NO. = PQ6329.A6 G76 2016.
 TITLE = Exemplary novels / Miguel de Cervantes ; translated from the Spanish by 
 Edith Grossman ; edited by Roberto Gonz{u00E1}lez Echevarr{u00ED}a. 
 PUBLISHER = New Haven ; London : Yale University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18254810. LOCATION = lbks. 
 
 
@@ -1295,7 +1247,6 @@ CALL NO. = QA76.9.D343 S6851 2017.
 TITLE = Everybody lies : big data, new data, and what the Internet can tell us 
 about who we really are / Seth Stephens-Davidowitz ; foreword by Steven Pinker. 
 PUBLISHER = [New York, NY] : Dey St., an imprint of William Morrow, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18255905. LOCATION = lbks. 
 
 
@@ -1303,7 +1254,6 @@ CALL NO. = QB982 .C43 2017.
 TITLE = We have no idea : a guide to the unknown universe / Jorge Cham and 
 Daniel Whiteson. 
 PUBLISHER = New York : Riverhead Books, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18254986. LOCATION = lbks. 
 
 
@@ -1318,7 +1268,6 @@ CALL NO. = QH331 .H578 2017.
 TITLE = Meaning of life & the universe : transforming / Mae-Wan Ho, Institute of
 Science in Society. 
 PUBLISHER = New Jersey : World Scientific, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18254962. LOCATION = lbks. 
 
 
@@ -1342,7 +1291,6 @@ TITLE = Seed : the untold story / Collective Eye Films presents ; in association
 with Seneca Falls Picture Company ; directed, produced and edited by Taggart 
 Siegel and Jon Betz. 
 PUBLISHER = Portland, OR : Collective Eye Films, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20344545. LOCATION = lrsvm. 
 
 
@@ -1353,7 +1301,6 @@ TITLE = Life, animated / The Orchard and A&E Indiefilms presents a Motto
 Pictures production ; a film by Roger Ross Williams ; produced by Julie Goldman,
 p.g.a. ; directed & produced by Roger Ross Williams. 
 PUBLISHER = Culver City, Calif. : Sony Pictures Home Entertainment, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b1825004x. LOCATION = lmvc. 
 
 

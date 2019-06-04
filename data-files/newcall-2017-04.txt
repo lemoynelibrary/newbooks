@@ -43,14 +43,12 @@ TITLE = Enter the faun / Tamar Rogoff Performance Projects presents in
 association with Thrifty Pictures & Iliad Entertainment ; a film by Tamar Rogoff
 & Daisy Wright ; directed & produced by Tamar Rogoff & Daisy Wright. 
 PUBLISHER = New York, NY : First Run Features, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18242613. LOCATION = lmvc. 
 
 
 CALL NO. = HD9992.U52 K555 2016. 
 TITLE = Shoe dog : a memoir by the creator of Nike / Phil Knight. 
 PUBLISHER = New York : Scribner, an imprint of Simon & Schuster, Inc., 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b17881729. LOCATION = lbks. 
 
 
@@ -76,7 +74,6 @@ TITLE = Social justice, the Common Core, and closing the instructional gap :
 empowering diverse learners and their teachers / edited by Janet C. Richards and
 Kristien Zenkov.
 PUBLISHER = Charlotte, NC : Information Age Publishing, Inc., [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b17882163. LOCATION = lbks. 
 
 

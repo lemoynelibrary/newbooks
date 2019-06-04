@@ -23,14 +23,12 @@ CALL NO. = BF323.S63 T63 2017.
 TITLE = Face value : the irresistible influence of first impressions / Alexander
 Todorov. 
 PUBLISHER = Princeton, New Jersey : Princeton University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257409. LOCATION = lbks. 
 
 
 CALL NO. = BF575.B3 M67 2017. 
 TITLE = Shrinking violets : the secret life of shyness / Joe Moran. 
 PUBLISHER = New Haven : Yale University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834172. LOCATION = lbks. 
 
 
@@ -63,7 +61,6 @@ CALL NO. = BF637.C54 W49 2015.
 TITLE = Consolations : the solace, nourishment and underlying meaning of 
 everyday words / David Whyte. 
 PUBLISHER = Langley, WA : Many Rivers Press, 2015. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b20824464. LOCATION = lbks. 
 
 
@@ -91,14 +88,12 @@ CALL NO. = BJ1012 .P4545 2015.
 TITLE = The robust demands of the good : ethics with attachment, virtue, and 
 respect / Philip Pettit. 
 PUBLISHER = Oxford : Oxford University Press, 2015. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b20344892. LOCATION = lbks. 
 
 
 CALL NO. = BJ1475 .B56 2016. 
 TITLE = Against empathy : the case for rational compassion / Paul Bloom. 
 PUBLISHER = New York, NY : Ecco, an imprint of HarperCollins Publishers, [2016].
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18255899. LOCATION = lbks. 
 
 
@@ -223,7 +218,6 @@ RECORD # = b20037193. LOCATION = lbks.
 CALL NO. = BP161.3 .A37225 2016. 
 TITLE = What is Islam? : the importance of being Islamic / Shahab Ahmed. 
 PUBLISHER = Princeton ; Oxford : Princeton University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20344909. LOCATION = lbks. 
 
 
@@ -239,21 +233,18 @@ CALL NO. = BP173.7 .R34 2017.
 TITLE = Qur'an of the oppressed : liberation theology and gender justice in 
 Islam / Shadaab Rahemtulla. 
 PUBLISHER = Oxford, United Kingdom : Oxford University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b1823818x. LOCATION = lbks. 
 
 
 CALL NO. = BP188.18.Y68 J35 2016. 
 TITLE = Generation M : young Muslims changing the world / Shelina Janmohamed. 
 PUBLISHER = London : I.B. Tauris, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b2082385x. LOCATION = lbks. 
 
 
 CALL NO. = BP190.5.C6 B84 2017. 
 TITLE = Pious fashion : how Muslim women dress / Elizabeth Bucar. 
 PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20823848. LOCATION = lbks. 
 
 
@@ -276,7 +267,6 @@ TITLE = The monastery and the microscope : conversations with the Dalai Lama on
 mind, mindfulness, and the Nature of Reality / edited by Wendy Hasenkamp with 
 Janna R. White. 
 PUBLISHER = New Haven : Yale University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b2034529x. LOCATION = lbks. 
 
 
@@ -293,7 +283,6 @@ CALL NO. = BR301 .R45 2017.
 TITLE = A Reformation sourcebook : documents from an age of debate / edited by 
 Michael Bruening. 
 PUBLISHER = North York, Ontario, Canada : University of Toronto Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20823952. LOCATION = lbks. 
 
 
@@ -314,7 +303,6 @@ RECORD # = b20833544. LOCATION = lbks.
 CALL NO. = BR1642.U5 F565 2017. 
 TITLE = The Evangelicals : the struggle to shape America / Frances FitzGerald. 
 PUBLISHER = New York : Simon & Schuster, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20833520. LOCATION = lbks. 
 
 
@@ -338,7 +326,6 @@ TITLE = The God relationship : the ethics for inquiry about the divine / Paul
 Moser, Loyola University Chicago. 
 PUBLISHER = Cambridge, United Kingdom ; New York : Cambridge University Press, 
 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20833453. LOCATION = lbks. 
 
 
@@ -357,7 +344,6 @@ Worcester, SJ ; associate editors, Megan C. Armstrong, James Corkery, SJ, Alison
 Fleming, Andr{u00E9}s Ignacio Prieto ; assistant editor, Henry Shea, SJ. 
 PUBLISHER = Cambridge, United Kingdom ; New York, NY : Cambridge University 
 Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b2034465x. LOCATION = lrefs. 
 
 
@@ -365,7 +351,6 @@ CALL NO. = CD950 .M55 2017.
 TITLE = Archives : principles and practices / Laura A. Millar. 
 PUBLISHER = Chicago : Neal-Schuman, an imprint of the American Library 
 Association, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b2034451x. LOCATION = lbks. 
 
 
@@ -380,7 +365,6 @@ CALL NO. = D289 .R37 2017.
 TITLE = The unruly city : Paris, London and New York in the age of revolution / 
 Mike Rapport. 
 PUBLISHER = New York : Basic Books, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20836090. LOCATION = lbks. 
 
 
@@ -395,7 +379,6 @@ CALL NO. = D520.S8 R57 2017.
 TITLE = Latin America and the First World War / Stefan Rinke ; translated by 
 Christopher W. Reid, PhD. 
 PUBLISHER = New York, NY : Cambridge University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20835772. LOCATION = lbks. 
 
 
@@ -411,21 +394,18 @@ RECORD # = b18253088. LOCATION = lbks.
 CALL NO. = D804.3 .C434 2016. 
 TITLE = Final solution : the fate of the Jews, 1933-1949 / David Cesarani. 
 PUBLISHER = New York : St. Martin's Press, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20835589. LOCATION = lbks. 
 
 
 CALL NO. = D804.3 .H387 2017. 
 TITLE = Why? : explaining the Holocaust / Peter Hayes. 
 PUBLISHER = New York ; London : W.W. Norton & Company, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20836089. LOCATION = lbks. 
 
 
 CALL NO. = D804.3 .R433 2017. 
 TITLE = The Holocaust : a new history / Laurence Rees. 
 PUBLISHER = New York : Public Affairs, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20833635. LOCATION = lbks. 
 
 
@@ -434,7 +414,6 @@ TITLE = Repentance for the Holocaust : lessons from Jewish thought for
 confronting the German past / C.K. Martin Chung. 
 PUBLISHER = Ithaca : Cornell University Press : Cornell University Library, 
 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20344132. LOCATION = lbks. 
 
 
@@ -442,7 +421,6 @@ CALL NO. = D805.5 B47 C45 2015.
 TITLE = Distance from the Belsen Heap : Allied Forces and the Liberation of a 
 Nazi Concentration Camp / Mark Celinscak. 
 PUBLISHER = Toronto ; Buffalo ; London : University of Toronto Press, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18252965. LOCATION = lbks. 
 
 
@@ -487,7 +465,6 @@ CALL NO. = DD237 .S767 2017.
 TITLE = Lions and lambs : conflict in Weimar and the creation of post-Nazi 
 Germany / Noah Benezra Strote. 
 PUBLISHER = New Haven ; London : Yale University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257434. LOCATION = lbks. 
 
 
@@ -495,7 +472,6 @@ CALL NO. = DD256.5 .D545 2016.
 TITLE = Anatomy of malice : the enigma of the Nazi war criminals / Joel E. 
 Dimsdale. 
 PUBLISHER = New Haven ; London : Yale University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20834111. LOCATION = lbks. 
 
 
@@ -512,7 +488,6 @@ CALL NO. = DK68.7.T9 T35 2016.
 TITLE = Tsar and sultan : Russian encounters with the Ottoman Empire / Victor 
 Taki. 
 PUBLISHER = London ; New York : I.B. Tauris, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253660. LOCATION = lbks. 
 
 
@@ -547,7 +522,6 @@ CALL NO. = DK510.763 .S276 2016.
 TITLE = The less you know, the better you sleep : Russia's road to terror and 
 dictatorship under Yeltsin and Putin / David Satter. 
 PUBLISHER = New Haven : Yale University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b2034482x. LOCATION = lbks. 
 
 
@@ -598,7 +572,6 @@ CALL NO. = DS79.65 .M33 2017.
 TITLE = The modern history of Iraq / Phebe Marr [and] Ibrahim al-Marashi ; 
 California State University, San Marcos. 
 PUBLISHER = [Boulder, CO] : Westview Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20833647. LOCATION = lbks. 
 
 
@@ -612,7 +585,6 @@ RECORD # = b20037272. LOCATION = lbks.
 CALL NO. = DS272 .F65 2016. 
 TITLE = Iran in world history / Richard Foltz. 
 PUBLISHER = New York, NY : Oxford University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20037144. LOCATION = lbks. 
 
 
@@ -627,7 +599,6 @@ RECORD # = b20037090. LOCATION = lbks.
 CALL NO. = DS461 .F57 2016. 
 TITLE = A short history of the Mughal Empire / Michael H. Fisher. 
 PUBLISHER = London ; New York : I.B. Tauris & Co Ltd, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253581. LOCATION = lbks. 
 
 
@@ -699,7 +670,6 @@ CALL NO. = DS777.55 .H573 2016.
 TITLE = Foreigners under Mao : Western lives in China, 1949-1976 / Beverley 
 Hooper. 
 PUBLISHER = Hong Kong : Hong Kong University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20835607. LOCATION = lbks. 
 
 
@@ -713,7 +683,6 @@ RECORD # = b20835747. LOCATION = lbks.
 CALL NO. = DS793.S644 S58 2016. 
 TITLE = Tracing China : a forty-year ethnographic journey / Helen F. Siu. 
 PUBLISHER = Hong Kong : Hong Kong University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b1825360x. LOCATION = lbks. 
 
 
@@ -735,7 +704,6 @@ TITLE = Mummies, magic, and medicine in ancient Egypt : multidisciplinary essays
 for Rosalie David / edited by Campbell Price, Roger Forshaw, Andrew Chamberlain 
 and Paul T. Nicholson ; with Robert Morkot and Joyce Tyldesley. 
 PUBLISHER = Manchester : Manchester University Press, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20833908. LOCATION = lbks. 
 
 
@@ -751,7 +719,6 @@ CALL NO. = DT295.6 .D36 2017.
 TITLE = Mes ind{u00E9}pendances : chroniques 2010-2016 / Kamel Daoud ; 
 pr{u00E9}face de Sid Ahmed Semiane. 
 PUBLISHER = [Arles] : Actes Sud, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18255188. LOCATION = lbks. 
 
 
@@ -781,7 +748,6 @@ CALL NO. = DT515.9.B6 H57 2017.
 TITLE = A History of Borno : Trans-Saharan African Empire to Failing Nigerian 
 State / Vincent Hiribarren. 
 PUBLISHER = London : Hurst & Company, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20835681. LOCATION = lbks. 
 
 
@@ -789,7 +755,6 @@ CALL NO. = DT655 .C658 2017.
 TITLE = The Congo Free State and the New Imperialism : A Brief History with 
 Documents / Kevin Grant, Hamilton College. 
 PUBLISHER = Boston : Bedford/St. Martin's, Macmillan Learning, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18252916. LOCATION = lbks. 
 
 
@@ -798,7 +763,6 @@ RECORD # = b18252916. LOCATION = lbks.
 CALL NO. = DT1758 .S69 2016. 
 TITLE = The new black middle class in South Africa / Roger Southall. 
 PUBLISHER = Johannesburg : Jacana ; Woodbridge, Suffolk : James Currey, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20344740. LOCATION = lbks. 
 
 
@@ -966,7 +930,6 @@ CALL NO. = E185.61 .R8185 2017.
 TITLE = The color of law : a forgotten history of how our government segregated 
 America / Richard Rothstein. 
 PUBLISHER = New York : Liveright Publishing Corporation, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257185. LOCATION = lbks. 
 
 
@@ -984,7 +947,6 @@ TITLE = The cooking gene : a journey through African American culinary history
 in the Old South / Michael W. Twitty. 
 PUBLISHER = New York, NY : Amistad, an imprint of HarperCollinsPublishers, 
 [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20343930. LOCATION = lbks. 
 
 
@@ -999,7 +961,6 @@ CALL NO. = E185.96 .W475 2017.
 TITLE = Whispers of cruel wrongs : the correspondence of Louisa Jacobs and her 
 circle, 1879-1911 / edited by Mary Maillard. 
 PUBLISHER = Madison, Wisconsin : The University of Wisconsin Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834068. LOCATION = lbks. 
 
 
@@ -1013,7 +974,6 @@ CALL NO. = E188 .K53 2016.
 TITLE = American colonial history : clashing cultures and faiths / Thomas S. 
 Kidd. 
 PUBLISHER = New Haven ; London : Yale University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20344831. LOCATION = lbks. 
 
 
@@ -1129,7 +1089,6 @@ CALL NO. = E492.94 27th .M49 2016.
 TITLE = For their own cause : the 27th United States Colored Troops / Kelly D. 
 Mezurek. 
 PUBLISHER = Kent, Ohio : The Kent State University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253039. LOCATION = lbks. 
 
 
@@ -1154,7 +1113,6 @@ CALL NO. = E814 .B73 2016.
 TITLE = The general vs. the president : MacArthur and Truman at the brink of 
 nuclear war / H.W. Brands. 
 PUBLISHER = New York ; London ; Toronto : Doubleday, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253143. LOCATION = lbks. 
 
 
@@ -1182,7 +1140,6 @@ CALL NO. = F128.4 .G64 2017.
 TITLE = Who should rule at home? : confronting the elite in British New York 
 City / Joyce D. Goodfriend. 
 PUBLISHER = Ithaca ; London : Cornell University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20344120. LOCATION = lbks. 
 
 
@@ -1192,7 +1149,6 @@ CALL NO. = F152 .S64 2016.
 TITLE = Frontier country : the politics of war in early Pennsylvania / Patrick 
 Spero. 
 PUBLISHER = Philadelphia, PA : University Of Pennsylvania Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253064. LOCATION = lbks. 
 
 
@@ -1207,7 +1163,6 @@ CALL NO. = F379.N59 N44429 2016.
 TITLE = Slavery's metropolis : unfree labor in New Orleans during the age of 
 revolutions / Rashauna Johnson, Dartmouth College. 
 PUBLISHER = New York, NY : Cambridge University Press, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20037041. LOCATION = lbks. 
 
 
@@ -1259,7 +1214,6 @@ CALL NO. = F1938.3 .D86 2016.
 TITLE = Dangerous Neighbors : Making the Haitian Revolution in Early America / 
 James Alexander Dun. 
 PUBLISHER = Philadelphia : University of Pennsylvania Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18252898. LOCATION = lbks. 
 
 
@@ -1267,7 +1221,6 @@ CALL NO. = F2351 .H95 2017.
 TITLE = Guiana and the shadows of empire : colonial and cultural negotiations at
 the edge of the world / Joshua R. Hyles. 
 PUBLISHER = Lanham, Maryland : Lexington Books, [2017]. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b20835632. LOCATION = lbks. 
 
 
@@ -1281,7 +1234,6 @@ CALL NO. = GC89 .G66 2017.
 TITLE = The water will come : rising seas, sinking cities, and the remaking of 
 the civilized world / Jeff Goodell. 
 PUBLISHER = New York : Little, Brown and Company, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20832746. LOCATION = lbks. 
 
 
@@ -1375,14 +1327,12 @@ RECORD # = b20833489. LOCATION = lbks.
 CALL NO. = GT2290 .T37 2016. 
 TITLE = Entanglement : the secret lives of hair / Emma Tarlo. 
 PUBLISHER = London : Oneworld, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20833015. LOCATION = lbks. 
 
 
 CALL NO. = GT2855 .S58 2017. 
 TITLE = Dinner with Darwin : food, drink, and evolution / Jonathan Silvertown. 
 PUBLISHER = Chicago : The University of Chicago Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20345276. LOCATION = lbks. 
 
 
@@ -1399,7 +1349,6 @@ CALL NO. = GV1449.3 .K37 2017.
 TITLE = Deep thinking : where machine intelligence ends and human creativity 
 begins / Garry Kasparov ; with Mig Greengard. 
 PUBLISHER = New York : PublicAffairs, an imprint of Perseus Books, LLC, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18254950. LOCATION = lbks. 
 
 
@@ -1407,7 +1356,6 @@ CALL NO. = GV1469.17.S63 G38 2017.
 TITLE = Gaming representation : race, gender, and sexuality in video games / 
 edited by Jennifer Malkowski and Treaandrea M. Russworm. 
 PUBLISHER = Bloomington : Indiana University Press , [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257458. LOCATION = lbks. 
 
 
@@ -1426,7 +1374,6 @@ CALL NO. = H61.27 .W47 2017.
 TITLE = Scale : the universal laws of growth, innovation, sustainability, and 
 the pace of life in organisms, cities, economies, and companies / Geoffrey West.
 PUBLISHER = New York : Penguin Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257410. LOCATION = lbks. 
 
 
@@ -1446,7 +1393,6 @@ CALL NO. = HB501 .K6313 2016.
 TITLE = Capitalism : a short history / J{u00FC}rgen Kocka ; translated by 
 Jeremiah Riemer. 
 PUBLISHER = Princeton, New Jersey : Princeton University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20834135. LOCATION = lbks. 
 
 
@@ -1454,14 +1400,12 @@ CALL NO. = HC95.Z9 C67 2017.
 TITLE = Shopping for change : consumer activism and the possibilities of 
 purchasing power / edited by Louis Hyman and Joseph Tohill. 
 PUBLISHER = Ithaca : ILR Press, an imprint of Cornell University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20344144. LOCATION = lbks. 
 
 
 CALL NO. = HC103 .S728 2017. 
 TITLE = Americana : a 400-year history of American capitalism / Bhu Srinivasan. 
 PUBLISHER = New York : Penguin Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834093. LOCATION = lbks. 
 
 
@@ -1484,7 +1428,6 @@ CALL NO. = HC255 .K53 2014.
 TITLE = Forging capitalism : rogues, swindlers, frauds and the rise of modern 
 finance / Ian Klaus. 
 PUBLISHER = New Haven ; London : Yale University Press, [2014]. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b20834123. LOCATION = lbks. 
 
 
@@ -1506,7 +1449,6 @@ CALL NO. = HD30.255 .J67 2017.
 TITLE = Profits and sustainability : a history of green entrepreneurship / 
 Geoffrey Jones. 
 PUBLISHER = Oxford : Oxford University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20345021. LOCATION = lbks. 
 
 
@@ -1520,7 +1462,6 @@ CALL NO. = HD45 .H3437 2017.
 TITLE = Designing creative organizations : tools, processes and practices / by 
 Igor Hawryszkiewycz, University of Technology, Sydney, Australia. 
 PUBLISHER = United Kingdom ; North America : Emerald, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20824142. LOCATION = lbks. 
 
 
@@ -1565,7 +1506,6 @@ CALL NO. = HD60 .H675 2016.
 TITLE = Brands with a conscience : how to build a successful and responsible 
 brand / Sandra Horlings and Nicholas Ind. 
 PUBLISHER = London : Kogan Page, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20824038. LOCATION = lbks. 
 
 
@@ -1583,7 +1523,6 @@ TITLE = Beyond the label : women, leadership, and success on our own terms /
 Maureen Chiquet. 
 PUBLISHER = New York, NY : HarperBusiness, an imprint of HarperCollinsPublishers,
 [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20344934. LOCATION = lbks. 
 
 
@@ -1605,7 +1544,6 @@ CALL NO. = HD6983 .G69 2017.
 TITLE = The rise and fall of American growth : the U.S. standard of living since
 the Civil War / Robert J. Gordon. 
 PUBLISHER = Princeton : Princeton University Press, [2017]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20834160. LOCATION = lbks. 
 
 
@@ -1613,7 +1551,6 @@ CALL NO. = HD8072.5 .W37 2017.
 TITLE = The end of loyalty : the rise and fall of good jobs in America / Rick 
 Wartzman. 
 PUBLISHER = New York : PublicAffairs, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20344946. LOCATION = lbks. 
 
 
@@ -1654,6 +1591,7 @@ RECORD # = b20836041. LOCATION = lrefs.
 
 CALL NO. = HF3163.B9 B65. 
 TITLE = Book of lists. 
+PUBLISHER = [Buffalo, N.Y. : Buffalo Business Journal]. 
 RECORD # = b20836053. LOCATION = lrefs. 
 
 
@@ -1667,7 +1605,6 @@ CALL NO. = HF5381 .F5948 2017.
 TITLE = Boost your career : how to make an impact, get recognized, and build the
 career you want / Sander and Mechele Flaum ; foreword by Clarence Page. 
 PUBLISHER = New York, NY : Allworth Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20037077. LOCATION = lbks. 
 
 
@@ -1675,7 +1612,6 @@ CALL NO. = HF5382.5.U5 A7185 2017.
 TITLE = You can do anything : the surprising power of a "useless" liberal arts 
 education / George Anders. 
 PUBLISHER = New York : Little, Brown and Company, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18256144. LOCATION = lbks. 
 
 
@@ -1701,7 +1637,6 @@ Sorensen ; with Mark Heckman, Accelerated Merchandising, and James Sorensen,
 Kantar Retail ; study questions by Svetlana Bogomolova, Ehrenberg-Bass Institute
 of Univ. So. Australia. 
 PUBLISHER = Old Tappan, N.J. : Pearson Education Inc., [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20841541. LOCATION = lbks. 
 
 
@@ -1717,7 +1652,6 @@ TITLE = Gen Z @ work : how the next generation is transforming the workplace /
 David Stillman and Jonah Stillman. 
 PUBLISHER = New York, NY : Harper Business, an imprint of 
 HarperCollinsPublishers, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20344958. LOCATION = lbks. 
 
 
@@ -1733,7 +1667,6 @@ TITLE = Hiring for attitude : a revolutionary approach to recruiting and
 selecting people with both tremendous skills and superb attitude / by Mark 
 Murphy. 
 PUBLISHER = New York : McGraw-Hill Education, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20037089. LOCATION = lbks. 
 
 
@@ -1779,7 +1712,6 @@ TITLE = War beyond words : languages of remembrance from the Great War to the
 present / Jay Winter, Yale University, Monash University. 
 PUBLISHER = Cambridge, United Kingdom ; New York, NY : Cambridge University 
 Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834664. LOCATION = lbks. 
 
 
@@ -1787,7 +1719,6 @@ CALL NO. = HM1111 .P75 2017.
 TITLE = Popular : the power of likability in a status-obsessed world / Mitch 
 Prinstein. 
 PUBLISHER = New York : Viking, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834202. LOCATION = lbks. 
 
 
@@ -1825,7 +1756,6 @@ CALL NO. = HQ77.95.U6 P54 2017.
 TITLE = The look of a woman : facial feminization surgery and the aims of trans-
 medicine / Eric Plemons. 
 PUBLISHER = Durham : Duke University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20344065. LOCATION = lbks. 
 
 
@@ -1853,7 +1783,6 @@ TITLE = No shortcut to change : an unlikely path to a more gender-equitable
 world / Kara Ellerby. 
 PUBLISHER = New York : New York University Press, [2017]. 
 PUBLISHER = {u00A9}20. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20344077. LOCATION = lbks. 
 
 
@@ -1863,7 +1792,6 @@ CALL NO. = HQ1075 .K547 2013.
 TITLE = The gendered society / Michael Kimmel, Stony Brook University, State 
 University of New York. 
 PUBLISHER = New York, NY : Oxford University Press, [2013]. 
-PUBLISHER = {u00A9}2013. 
 RECORD # = b18257173. LOCATION = lbks. 
 
 
@@ -1871,14 +1799,12 @@ CALL NO. = HQ1090.3 K566 2017.
 TITLE = Angry white men : American masculinity at the end of an era / by Michael
 Kimmel. 
 PUBLISHER = New York : Nation Books, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257100. LOCATION = lbks. 
 
 
 CALL NO. = HQ1143 .S35 2017. 
 TITLE = Illuminating women in the medieval world / Christine Sciacca. 
 PUBLISHER = Los Angeles : The J. Paul Getty Museum, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834536. LOCATION = lbks. 
 
 
@@ -1923,14 +1849,12 @@ CALL NO. = HT1105.B3 B335 2016.
 TITLE = The first black slave society : Britain's "barbarity time" in Barbados, 
 1636-1876 / Hilary McD. Beckles. 
 PUBLISHER = Kingston, Jamaica : The University of the West Indies Press, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20835577. LOCATION = lbks. 
 
 
 CALL NO. = HT1155 .R56 2017. 
 TITLE = Slavery after Rome, 500-1100 / Alice Rio. 
 PUBLISHER = Oxford, United Kingdom : Oxford University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834020. LOCATION = lbks. 
 
 
@@ -1939,7 +1863,6 @@ TITLE = Fragile families : foster care, immigration, and citizenship / Naomi
 Glenn-Levin Rodriguez. 
 PUBLISHER = Philadelphia, Pennsylvania : University of Pennsylvania Press, 
 [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20344028. LOCATION = lbks. 
 
 
@@ -1989,7 +1912,6 @@ RECORD # = b20834184. LOCATION = lbks.
 CALL NO. = HV6433.I722 G47 2016. 
 TITLE = ISIS : a history / Fawaz A. Gerges. 
 PUBLISHER = Princeton : Princeton University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20823915. LOCATION = lbks. 
 
 
@@ -2018,7 +1940,6 @@ CALL NO. = HV6483.D48 D48 2017.
 TITLE = Detroit 1967 : origins, impacts, legacies / edited by Joel Stone ; with 
 a foreword by Thomas J. Sugrue. 
 PUBLISHER = Detroit, Michigan : Wayne State University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20835553. LOCATION = lbks. 
 
 
@@ -2035,7 +1956,6 @@ CALL NO. = HV6517 .T45 2017.
 TITLE = Lady killers : deadly women throughout history / Tori Telfer ; 
 [illustrations by Dame Darcy]. 
 PUBLISHER = New York : Harper Perennial, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20841607. LOCATION = lbks. 
 
 
@@ -2043,7 +1963,6 @@ CALL NO. = HV6691 .Y674 2017.
 TITLE = Bunk : the rise of hoaxes, humbug, plagiarists, phonies, post-facts, and
 fake news / Kevin Young. 
 PUBLISHER = Minneapolis, Minnesota : Graywolf Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20832758. LOCATION = lbks. 
 
 
@@ -2051,7 +1970,6 @@ CALL NO. = HV6773 .C646 2015.
 TITLE = Hacker, hoaxer, whistleblower, spy : the many faces of Anonymous / 
 Gabriella Coleman. 
 PUBLISHER = London ; Brooklyn, NY : Verso, 2015. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b20344570. LOCATION = lbks. 
 
 
@@ -2144,7 +2062,6 @@ CALL NO. = JK526 2016 .G74 2017.
 TITLE = Devil's bargain : Steve Bannon, Donald Trump, and the storming of the 
 presidency / Joshua Green. 
 PUBLISHER = New York, NY : Penguin Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257513. LOCATION = lbks. 
 
 
@@ -2181,7 +2098,6 @@ CALL NO. = KF3467 .T87 2016.
 TITLE = Equality on trial : gender and rights in the modern American workplace /
 Katherine Turk. 
 PUBLISHER = Philadelphia : University of Pennsylvania Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18254925. LOCATION = lbks. 
 
 
@@ -2228,14 +2144,12 @@ CALL NO. = LB885.C68 I56 2015.
 TITLE = The innovator's mindset : empower learning, unleash talent, and lead a 
 culture of creativity / George Couros. 
 PUBLISHER = San Diego, CA : Dave Burgess Consulting, Inc., [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18257148. LOCATION = lbks. 
 
 
 CALL NO. = LB1029.M75 L53 2017. 
 TITLE = Montessori : the science behind the genius / Angeline Stoll Lillard. 
 PUBLISHER = New York : Oxford University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20824178. LOCATION = lbks. 
 
 
@@ -2257,7 +2171,6 @@ CALL NO. = LB1139.5.L35 R435 2017.
 TITLE = Reclaiming early childhood literacies : narratives of hope, power, and 
 vision / edited by Richard J. Meyer and Kathryn F. Whitmore. 
 PUBLISHER = New York, NY : Routledge, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20824191. LOCATION = lbks. 
 
 
@@ -2298,7 +2211,6 @@ CALL NO. = LB1631 .A343 2017.
 TITLE = Adolescent literacies : a handbook of practice-based research / edited 
 by Kathleen A. Hinchman, Deborah A. Appleman ; foreword by Donna E. Alvermann. 
 PUBLISHER = New York : Guilford Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20824026. LOCATION = lbks. 
 
 
@@ -2331,7 +2243,6 @@ CALL NO. = LB2368 .E65 2017.
 TITLE = Enhancing assessment in higher education : putting psychometrics to work
 / edited by Tammie Cumming and M. David Miller ; foreword by Michael J. Kolen. 
 PUBLISHER = Sterling, Virginia : Stylus Publishing, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20824075. LOCATION = lbks. 
 
 
@@ -2339,7 +2250,6 @@ CALL NO. = LB2806 .A5255 2014.
 TITLE = Bounce forward : the extraordinary resilience of leadership / Elle 
 Allison-Napolitano. 
 PUBLISHER = Thousand Oaks, California : Corwin, [2014]. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b2083455x. LOCATION = lbks. 
 
 
@@ -2395,7 +2305,6 @@ from St. Ignatius to today / commissioned by the Secretariat for Education of
 the Society of Jesus ; edited by Jos{u00E9} Mesa, S.J. (Secretary for Education 
 of the Society of Jesus). 
 PUBLISHER = Chicago : Loyola Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834615. LOCATION = lbks. 
 
 
@@ -2404,7 +2313,6 @@ CALL NO. = LC3057 .E38 2018.
 TITLE = Educating Chinese-heritage students in the global-local nexus : 
 identities, challenges, and opportunities / edited by Guofang Li and Wen Ma. 
 PUBLISHER = New York, NY : Routledge, 2018. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b18257355. LOCATION = lscla. LOCATION = lbks. 
 
 
@@ -2450,7 +2358,6 @@ CALL NO. = ML83 .B53 2017.
 TITLE = Schooling new media : music, language, and technology in children's 
 culture / Tyler Bickford. 
 PUBLISHER = New York, NY : Oxford University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20344119. LOCATION = lbks. 
 
 
@@ -2458,7 +2365,6 @@ CALL NO. = ML286.5 .S19 2017.
 TITLE = English pastoral music : from Arcadia to Utopia, 1900-1955 / Eric 
 Saylor. 
 PUBLISHER = Urbana : University of Illinois Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257525. LOCATION = lbks. 
 
 
@@ -2471,7 +2377,6 @@ RECORD # = b20832771. LOCATION = lbks.
 CALL NO. = ML420.V3 H39 2017. 
 TITLE = Queen of bebop : the musical lives of Sarah Vaughan / Elaine M. Hayes. 
 PUBLISHER = New York, NY : Ecco, an imprint of HarperCollinsPublishers, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18256284. LOCATION = lbks. 
 
 
@@ -2503,7 +2408,6 @@ CALL NO. = ML3477 .P69 2017.
 TITLE = Good booty : love and sex, black & white, body and soul in American 
 music / Ann Powers. 
 PUBLISHER = New York : Dey St., an imprint of William Morrow, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18256247. LOCATION = lbks. 
 
 
@@ -2526,7 +2430,6 @@ CALL NO. = ML3920 .Y56 2018.
 TITLE = Music therapy : research and evidence-based practice./ by Olivia 
 Swedberg Yinger. 
 PUBLISHER = St.Louis, Missouri : Elsevier [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b20835292. LOCATION = lbks. 
 
 
@@ -2557,7 +2460,6 @@ CALL NO. = N72.P6 F88 2017.
 TITLE = Future imperfect : A Blade of Grass, 2014-15 / Elizabeth M. Grady, 
 editor. 
 PUBLISHER = New York, N.Y.  : A Blade of Grass Books, [2017]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20834688. LOCATION = lbks. 
 
 
@@ -2581,14 +2483,12 @@ TITLE = Buying Baroque : Italian seventeenth-century paintings come to America /
 edited by Edgar Peters Bowron. 
 PUBLISHER = [New York, N.Y.] : The Frick Collection ; University Park, 
 Pennsylvania : The Pennsylvania State University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834676. LOCATION = lbks. 
 
 
 CALL NO. = N5310 .D38 2017. 
 TITLE = Cave art / Bruno David. 
 PUBLISHER = London : Thames & Hudson, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20833313. LOCATION = lbks. 
 
 
@@ -2603,7 +2503,6 @@ RECORD # = b18254822. LOCATION = lbks.
 CALL NO. = N6537.O39 S56 2017. 
 TITLE = Letters like the day : on reading Georgia O'Keeffe / Jennifer Sinor. 
 PUBLISHER = Albuquerque : University of New Mexico Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18256089. LOCATION = lbks. 
 
 
@@ -2614,14 +2513,12 @@ Straine, Anne-Christine Strobel, and Nina Zimmer ; translations from the German
 Rebecca van Dyck, Cynthia Hall, Elizabeth Tucker. 
 PUBLISHER = Munich ; New York : Prestel ; [Basel, Switzerland] : Kunstmuseum 
 Basel, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18254755. LOCATION = lbks. 
 
 
 CALL NO. = N6923.L33 I827 2017. 
 TITLE = Leonardo da Vinci / Walter Isaacson. 
 PUBLISHER = New York, NY : Simon & Schuster, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20832783. LOCATION = lbks. 
 
 
@@ -2668,7 +2565,6 @@ CALL NO. = NA2547 .H36 2017.
 TITLE = Building access : universal design and the politics of disability / Aimi
 Hamraie. 
 PUBLISHER = Minneapolis : University of Minnesota Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18256193. LOCATION = lbks. 
 
 
@@ -2719,7 +2615,6 @@ Whitlum-Cooper and Marjorie E. Wieseman.
 PUBLISHER = London : National Gallery Company ; Dublin : National Gallery of 
 Ireland ; Edinburgh : National Galleries of Scotland, 2016. 
 PUBLISHER = New Haven : Yale University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18254767. LOCATION = lbkso. 
 
 
@@ -2734,7 +2629,6 @@ CALL NO. = NK1412.G43 S94 2016.
 TITLE = The man who designed the future : Norman Bel Geddes and the invention of
 twentieth-century America / B. Alexandra Szerlip. 
 PUBLISHER = Brooklyn : Melville House, [2017]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18256107. LOCATION = lbks. 
 
 
@@ -2742,7 +2636,6 @@ CALL NO. = NK3049.B3 R69 2016.
 TITLE = An archaeological study of the Bayeux Tapestry : the landscapes, 
 buildings and places / Trevor Rowley. 
 PUBLISHER = Barnsley, South Yorkshire : Pen & Sword Archaeology, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18256065. LOCATION = lbks. 
 
 
@@ -2751,7 +2644,6 @@ TITLE = Symbols of power : luxury textiles from Islamic lands, 7th-21st century
 / Louise W. Mackie. 
 PUBLISHER = Cleveland, OH : Cleveland Museum of Art, [2015]. 
 PUBLISHER = New Haven, CT ; London : Distributed by Yale University Press. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b20834640. LOCATION = lbkso. 
 
 
@@ -2769,7 +2661,6 @@ CALL NO. = PA4037 .A54 2017.
 TITLE = Enraged : why violent times need ancient Greek myths / Emily Katz 
 Anhalt. 
 PUBLISHER = New Haven ; London : Yake University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20343954. LOCATION = lbks. 
 
 
@@ -2789,7 +2680,6 @@ RECORD # = b18255747. LOCATION = lbks.
 CALL NO. = PE1408 .E83 2017. 
 TITLE = Do I make myself clear? : why writing well matters / Harold Evans. 
 PUBLISHER = New York : Little, Brown and Company, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834767. LOCATION = lbks. 
 
 
@@ -2797,7 +2687,6 @@ CALL NO. = PE1574 .S67 2017.
 TITLE = Strange vernaculars : how eighteenth-century slang, cant, provincial 
 languages, and nautical jargon became English / Janet Sorensen. 
 PUBLISHER = Princeton, New Jersey : Princeton University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20823964. LOCATION = lbks. 
 
 
@@ -2805,7 +2694,6 @@ CALL NO. = PJ1555.E5 O76 2016.
 TITLE = An ancient Egyptian Book of the Dead : the Papyrus of Sobekmose / 
 translation, introduction, and commentary by Paul F. O'Rourke. 
 PUBLISHER = London  : Thames & Hudson ; New York, NY : Brooklyn Museum, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18254780. LOCATION = lbks. 
 
 
@@ -2813,7 +2701,6 @@ CALL NO. = PJ7737 .H67 2017.
 TITLE = Marvellous thieves : secret authors of the Arabian nights / Paulo Lemos 
 Horta. 
 PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18254792. LOCATION = lbks. 
 
 
@@ -2839,7 +2726,6 @@ TITLE = A rare blue bird flies with me / Youssef Fadel ; translated by Jonathan
 Smolin. 
 PUBLISHER = Cairo : Hoopoe, an imprint of American University In Cairo Press, 
 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b1825388x. LOCATION = lbks. 
 
 
@@ -2878,7 +2764,6 @@ TITLE = Before the throne : dialogues with Egypt's great from Menes to Anwar
 Sadat / Naguib Mahfouz ; translated from the Arabic and with an afterward by 
 Raymond Stock. 
 PUBLISHER = New York : Anchor Books, 2012. 
-PUBLISHER = {u00A9}2009. 
 RECORD # = b18255358. LOCATION = lbks. 
 
 
@@ -2912,7 +2797,6 @@ CALL NO. = PJ7860.A415 A7513 2017.
 TITLE = Menorahs and minarets / Kamal Ruhayyim ; translated by Sarah Enany. 
 PUBLISHER = Cairo, Egypt : Hoopoe, an imprint of American University In Cairo 
 Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18255061. LOCATION = lbks. 
 
 
@@ -2934,14 +2818,12 @@ CALL NO. = PJ7942.H343 L313 2016.
 TITLE = No knives in the kitchens of this city / Khaled Khalifa ; translated by 
 Leri Price. 
 PUBLISHER = Cairo, Egypt ; New York : Hoopoe, an imprint of AUC Press, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18255115. LOCATION = lbks. 
 
 
 CALL NO. = PJ7960.A253 U8313 2016. 
 TITLE = Otared / Mohammed Rabie ; translated by Robin Moger. 
 PUBLISHER = Cairo, Egypt ; New York : Hoopoe, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18255073. LOCATION = lbks. 
 
 
@@ -2949,7 +2831,6 @@ CALL NO. = PL2258 .N49 2017.
 TITLE = A new literary history of modern China / edited by David Der-Wei Wang. 
 PUBLISHER = Cambridge, Massachusetts : The Belknap Press of Harvard University 
 Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20823885. LOCATION = lbks. 
 
 
@@ -2957,7 +2838,6 @@ CALL NO. = PL2436 .S35 2016.
 TITLE = Novel medicine : healing, literature, and popular knowledge in early 
 modern China / Andrew Schonebaum. 
 PUBLISHER = Seattle : University of Washington Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253386. LOCATION = lbks. 
 
 
@@ -2965,7 +2845,6 @@ CALL NO. = PN1009.5.R32 N47 2017.
 TITLE = Was the Cat in the Hat black? : the hidden racism of children's 
 literature, and the need for diverse books / Philip Nel. 
 PUBLISHER = New York, NY : Oxford University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20823976. LOCATION = lbks. 
 
 
@@ -2994,7 +2873,6 @@ Irish Film Board) for Channel Four.
 PUBLISHER = [Place of publication not identified] : [publisher not identified], 
 [2010]. 
 PUBLISHER = [London] : Film Four International. 
-PUBLISHER = {u00A9}2010. 
 RECORD # = b20344387. LOCATION = lmvc. 
 
 
@@ -3018,7 +2896,6 @@ screenplay by Moira Buffini ; produced by William D. Johnson, Sam Englebardt ;
 produced by Stephen Woolley, Alan Moloney, Elizabeth Karlsen ; directed by Neil 
 Jordan. 
 PUBLISHER = New York, New York : IFC Films : MPI Media Group [2013]. 
-PUBLISHER = {u00A9}2013. 
 RECORD # = b1825732x. LOCATION = lmvc. 
 
 
@@ -3087,7 +2964,6 @@ Esparza production ; executive producer, Gary J. Hendler ; screenplay by David
 Ward and John Nichols ; produced by Robert Redford and Moctesuma Esparza ; 
 directed by Robert Redford. 
 PUBLISHER = Universal City, CA : Universal Studios, [2005]. 
-PUBLISHER = {u00A9}2005. 
 RECORD # = b18257331. LOCATION = lmvc. 
 
 
@@ -3126,7 +3002,6 @@ Pictures/Hunting Lane Films production in association with Gowanus Projections ;
 written and directed by Anna Boden & Ryan Fleck ; produced by Jeremy Kipp Walker,
 Jamie Patricof, Paul Mezey. 
 PUBLISHER = Culver City, Calif. : Sony Pictures Home Entertainment, [2009]. 
-PUBLISHER = {u00A9}2009. 
 RECORD # = b18257902. LOCATION = lmvc. 
 
 
@@ -3136,7 +3011,6 @@ produced by Darryl F. Zanuck ; written by John Steinbeck.
 PUBLISHER = [Beverly Hills, CA] : Twentieth Century-Fox, [1952]. 
 PUBLISHER = [Beverly Hills, CA] : 20th Century Fox Home Entertainment, [2013]. 
 PUBLISHER = {u00A9}1952. 
-PUBLISHER = {u00A9}2013. 
 RECORD # = b18257914. LOCATION = lmvc. 
 
 
@@ -3144,7 +3018,6 @@ CALL NO. = PN1993.5.U65 R75 2017.
 TITLE = Representing talent : Hollywood agents and the making of movies / 
 Violaine Roussel. 
 PUBLISHER = Chicago : The University of Chicago Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20344090. LOCATION = lbks. 
 
 
@@ -3160,7 +3033,6 @@ CALL NO. = PN1995.25 .N43 2017.
 TITLE = Screening the stage : case studies of film adaptations of stage plays 
 and musicals in the classical Hollywood era, 1914-1956 / Steve Neale. 
 PUBLISHER = Herts, [England] : John Libbey Publishing Ltd, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18256272. LOCATION = lbks. 
 
 
@@ -3199,7 +3071,6 @@ CALL NO. = PN2277.N5 P255 2017.
 TITLE = The scene of foreplay : theater, labor, and leisure in 1960s New York / 
 Giulia Palladini. 
 PUBLISHER = Evanston, Illinois : Northwestern University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257641. LOCATION = lbks. 
 
 
@@ -3207,7 +3078,6 @@ CALL NO. = PN2287.K64 B74 2017.
 TITLE = He's got rhythm : the life and career of Gene Kelly / Cynthia Brideson &
 Sara Brideson. 
 PUBLISHER = Lexington : University Press of Kentucky, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b1825620x. LOCATION = lbks. 
 
 
@@ -3218,7 +3088,6 @@ TITLE = Independent theatre in contemporary Europe : structures - aesthetics -
 cultural policy / Manfred Brauneck and ITI Germany (eds.) ; translated by Rhonda
 Farr, Rachael McGill, William Wheeler. 
 PUBLISHER = Bielefeld : Transcript, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257446. LOCATION = lbks. 
 
 
@@ -3226,7 +3095,6 @@ CALL NO. = PN4874.H227 A3 2017.
 TITLE = Notes on a foreign country : an American abroad in a post-American world
 / Suzy Hansen. 
 PUBLISHER = New York : Farrar, Straus and Giroux, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18256302. LOCATION = lbks. 
 
 
@@ -3248,7 +3116,6 @@ RECORD # = b20345197. LOCATION = lbks.
 CALL NO. = PN6725 .J43 2017. 
 TITLE = Comic book film style : cinema at 24 panels per second / Dru Jeffries. 
 PUBLISHER = Austin : University of Texas Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20343942. LOCATION = lbks. 
 
 
@@ -3279,7 +3146,6 @@ CALL NO. = PQ6329.A6 G76 2016.
 TITLE = Exemplary novels / Miguel de Cervantes ; translated from the Spanish by 
 Edith Grossman ; edited by Roberto Gonz{u00E1}lez Echevarr{u00ED}a. 
 PUBLISHER = New Haven ; London : Yale University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18254810. LOCATION = lbks. 
 
 
@@ -3287,7 +3153,6 @@ CALL NO. = PQ7081.5 .H43 2015.
 TITLE = Chica lit : popular Latina fiction and Americanization in the twenty-
 first century / Tace Hedrick. 
 PUBLISHER = Pittsburgh, Pa. : University of Pittsburgh Press, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b20037119. LOCATION = lbks. 
 
 
@@ -3296,7 +3161,6 @@ TITLE = The world is charged : poetic engagements with Gerard Manley Hopkins /
 edited by Daniel Westover and William Wright ; with an afterword by Paul 
 Mariani. 
 PUBLISHER = Clemson, South Carolina : Clemson University Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20345148. LOCATION = lbks. 
 
 
@@ -3309,14 +3173,12 @@ RECORD # = b20354502. LOCATION = lbks.
 CALL NO. = PR6059.S5 B87 2016. 
 TITLE = The buried giant : a novel / Kazuo Ishiguro. 
 PUBLISHER = New York : Vintage International, 2016. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b20354435. LOCATION = lbks. 
 
 
 CALL NO. = PR6059.S5 N48 2006. 
 TITLE = Never let me go / Kazuo Ishiguro. 
 PUBLISHER = New York : Vintage International, 2006. 
-PUBLISHER = {u00A9}2005. 
 RECORD # = b20354423. LOCATION = lbks. 
 
 
@@ -3344,7 +3206,6 @@ RECORD # = b20354514. LOCATION = lbks.
 CALL NO. = PR6059.S5 W47 2001. 
 TITLE = When we were orphans / Kazuo Ishiguro. 
 PUBLISHER = New York : Vintage Books, a divsion of Random House, Inc., 2001. 
-PUBLISHER = {u00A9}2000. 
 RECORD # = b20354472. LOCATION = lbks. 
 
 
@@ -3387,7 +3248,6 @@ RECORD # = b20834858. LOCATION = lbks.
 CALL NO. = PR6069.M4213 A92 2017. 
 TITLE = Autumn / Ali Smith. 
 PUBLISHER = New York : Pantheon Books, [2017]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20343929. LOCATION = lbks. 
 
 
@@ -3401,7 +3261,6 @@ CALL NO. = PR8722.F33 C78 2017.
 TITLE = Relocated memories : the Great Famine in Irish and diaspora fiction, 
 1846-1870 / Margu{u00E9}rite Corporaal. 
 PUBLISHER = Syracuse, New York : Syracuse University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20823988. LOCATION = lbks. 
 
 
@@ -3414,21 +3273,18 @@ RECORD # = b20037247. LOCATION = lbks.
 CALL NO. = PR9199.4.K377 A6 2015. 
 TITLE = Milk and honey / Rupi Kaur. 
 PUBLISHER = Kansas City, Missouri : Andrews McMeel Publishing, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b2082399x. LOCATION = lbks. 
 
 
 CALL NO. = PR9199.4.K377 A6 2017. 
 TITLE = The sun and her flowers / Rupi Kaur. 
 PUBLISHER = Kansas City, Missouri : Andrews McMeel Publishing, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20824002. LOCATION = lbks. 
 
 
 CALL NO. = PR9387.9.A34354 T55 2010. 
 TITLE = The thing around your neck / Chimamanda Ngozi Adichie. 
 PUBLISHER = New York : Anchor Books, a division of Random House Inc., 2010. 
-PUBLISHER = {u00A9}2009. 
 RECORD # = b18256120. LOCATION = lbks. 
 
 
@@ -3481,7 +3337,6 @@ CALL NO. = PS508.N3 N67 2014.
 TITLE = The Norton Anthology of African American literature / Henry Louis Gates,
 Jr., general editor ; Valerie Smith, general editor. 
 PUBLISHER = New York : W.W. Norton & Company, [2014]. 
-PUBLISHER = {u00A9}2014. 
 RECORD # = b1825665x. LOCATION = lbks. LOCATION = lbks. 
 
 
@@ -3491,7 +3346,6 @@ CALL NO. = PS3088 .K37 2016.
 TITLE = A refugee from his race : Albion W. Tourg{u00E9}e and his fight against 
 white supremacy / Carolyn L. Karcher. 
 PUBLISHER = Chapel Hill : The University of North Carolina Press, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b18253398. LOCATION = lbks. 
 
 
@@ -3539,7 +3393,6 @@ CALL NO. = Q105.A1 S354 2017.
 TITLE = Science museums in transition : cultures of display in nineteenth-
 century Britain and America / edited by Carin Berkowitz and Bernard Lightman. 
 PUBLISHER = Pittsburgh, Pa. : University of Pittsburgh Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257628. LOCATION = lbks. 
 
 
@@ -3557,7 +3410,6 @@ CALL NO. = Q172.5.C45 S73 2017.
 TITLE = The beauty of numbers in nature : mathematical patterns and principles 
 from the natural world / Ian Stewart. 
 PUBLISHER = Cambridge, Massachusetts : The MIT Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20345306. LOCATION = lbks. 
 
 
@@ -3611,7 +3463,6 @@ CALL NO. = QA76.9.D343 S6851 2017.
 TITLE = Everybody lies : big data, new data, and what the Internet can tell us 
 about who we really are / Seth Stephens-Davidowitz ; foreword by Steven Pinker. 
 PUBLISHER = [New York, NY] : Dey St., an imprint of William Morrow, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18255905. LOCATION = lbks. 
 
 
@@ -3626,7 +3477,6 @@ TITLE = Making contact : Jill Tarter and the search for extraterrestrial
 intelligence / Sarah Scoles. 
 PUBLISHER = New York : Pegasus Books, 2017. 
 PUBLISHER = {u00A9}20. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257380. LOCATION = lbks. 
 
 
@@ -3634,7 +3484,6 @@ CALL NO. = QB982 .C43 2017.
 TITLE = We have no idea : a guide to the unknown universe / Jorge Cham and 
 Daniel Whiteson. 
 PUBLISHER = New York : Riverhead Books, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18254986. LOCATION = lbks. 
 
 
@@ -3659,7 +3508,6 @@ CALL NO. = QC450.5 .B47 2017.
 TITLE = Zapped : from infrared to X-rays, the curious history of invisible light
 / Bob Berman. 
 PUBLISHER = New York, NY : Little, Brown and Company, August 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257367. LOCATION = lbks. 
 
 
@@ -3681,7 +3529,6 @@ TITLE = Quakeland : on the road to America's next devastating earthquake /
 Kathryn Miles. 
 PUBLISHER = New York, New York : Dutton, an imprint of Penguin Random House LLC,
 [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20345227. LOCATION = lbks. 
 
 
@@ -3689,7 +3536,6 @@ CALL NO. = QE882.P8 M394 2017.
 TITLE = Discovering the mammoth : a tale of giants, unicorns, ivory, and the 
 birth of a new science / John J. McKay. 
 PUBLISHER = New York, NY : Pegasus Books Ltd., [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18257379. LOCATION = lbks. 
 
 
@@ -3721,7 +3567,6 @@ CALL NO. = QH325 .A724 2017.
 TITLE = Life through time and space / Wallace Arthur ; [illustrations by Stephen
 Arthur]. 
 PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20345252. LOCATION = lbks. 
 
 
@@ -3729,7 +3574,6 @@ CALL NO. = QH331 .H578 2017.
 TITLE = Meaning of life & the universe : transforming / Mae-Wan Ho, Institute of
 Science in Society. 
 PUBLISHER = New Jersey : World Scientific, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18254962. LOCATION = lbks. 
 
 
@@ -3737,7 +3581,6 @@ CALL NO. = QH367 .T455 2017.
 TITLE = Inheritors of the Earth : how nature is thriving in an age of extinction
 / Chris D. Thomas. 
 PUBLISHER = New York : Public Affairs, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20345318. LOCATION = lbks. 
 
 
@@ -3777,7 +3620,6 @@ CALL NO. = QR56 .A58 2017.
 TITLE = Planet of microbes : the perils and potential of Earth's essential life 
 forms / Ted Anton. 
 PUBLISHER = Chicago : The University of Chicago Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b2083617x. LOCATION = lbks. 
 
 
@@ -3814,7 +3656,6 @@ CALL NO. = QV 735 D794 2017.
 TITLE = Drug information handbook : a clinically relevant resource for all 
 healthcare professionals. 
 PUBLISHER = [Hudson, Ohio] : Wolters Kluwer, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20345069. LOCATION = lrefs. 
 
 
@@ -3833,7 +3674,6 @@ TITLE = Seed : the untold story / Collective Eye Films presents ; in association
 with Seneca Falls Picture Company ; directed, produced and edited by Taggart 
 Siegel and Jon Betz. 
 PUBLISHER = Portland, OR : Collective Eye Films, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20344545. LOCATION = lmvc. 
 
 
@@ -3848,7 +3688,6 @@ CALL NO. = T174 .W543 2017.
 TITLE = Soonish : ten emerging technologies that'll improve and/or ruin 
 everything / Kelly and Zach Weinersmith. 
 PUBLISHER = New York : Penguin Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20345288. LOCATION = lbks. 
 
 
@@ -3856,14 +3695,12 @@ CALL NO. = TA347.A78 W36  2017.
 TITLE = Android dreams : the past, present and future of artificial intelligence
 / Toby Walsh. 
 PUBLISHER = London : Hurst & Co. (Publishers) Ltd., 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20345379. LOCATION = lbks. 
 
 
 CALL NO. = TK5105.888 .M3655 2015. 
 TITLE = Going responsive / Karen McGrane ; [foreword by Brad Frost]. 
 PUBLISHER = New York, N.Y. : A Book Apart, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b20826011. LOCATION = lbks. 
 
 
@@ -3871,7 +3708,6 @@ CALL NO. = TK5105.88813 .K35 2017.
 TITLE = Accessibility for everyone / Laura Kalbag ; foreword by Heydon 
 Pickering. 
 PUBLISHER = New York : A Book Apart, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b2082600x. LOCATION = lbks. 
 
 
@@ -3909,7 +3745,6 @@ CALL NO. = TR642 .S64 2017.
 TITLE = Photography after photography : gender, genre, history / Abigail Solomon
 -Godeau ; edited by Sarah Parsons. 
 PUBLISHER = Durham : Duke University Press, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20834573. LOCATION = lbks. 
 
 
@@ -3952,7 +3787,6 @@ RECORD # = b1825651x. LOCATION = lbks.
 CALL NO. = W61 .S689m 2015. 
 TITLE = Making medical knowledge / Miriam Solomon. 
 PUBLISHER = Oxford : Oxford University Press, 2015. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b18252369. LOCATION = lbks. 
 
 
@@ -3966,7 +3800,6 @@ CALL NO. = W62 .W758h 2017.
 TITLE = Human voices wake us : poems / by Jerald Winakur ; foreword by Alan 
 Shapiro. 
 PUBLISHER = Kent, Ohio : The Kent State University Press, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20345331. LOCATION = lbks. 
 
 
@@ -3993,7 +3826,6 @@ TITLE = Health disparities, diversity, and inclusion : context, controversies,
 and solutions / Patti R. Rose, EdD, MPH, Director and Founder, Rose Consulting, 
 Miami, Florida. 
 PUBLISHER = Burlington, MA : Jones & Bartlett Learning, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b20834494. LOCATION = lbks. 
 
 
@@ -4008,7 +3840,6 @@ CALL NO. = WA840 .D732f 2017.
 TITLE = From here to eternity : traveling the world to find the good death / 
 Caitlin Doughty ; illustrations by Landis Blair. 
 PUBLISHER = New York : W.W. Norton & Company, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b2034515x. LOCATION = lbks. 
 
 
@@ -4016,7 +3847,6 @@ CALL NO. = WB 18.2 2018.
 TITLE = Preparing for the occupational therapy national board exam : 45 days and
 counting / edited by Rosanne DiZazzo-Miller, Fredrick D. Pociask. 
 PUBLISHER = Burlington, MA : Jones & Bartlett Learning, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b20834871. LOCATION = lnet. 
 
 
@@ -4081,7 +3911,6 @@ CALL NO. = WM145.5.N4 M666 2016.
 TITLE = Minority and cross-cultural aspects of neuropsychological assessment : 
 enduring and emerging trends / edited by F. Richard Ferraro. 
 PUBLISHER = New York, NY : Taylor & Francis, Taylor & Francis Group, 2016. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b1825648x. LOCATION = lbks. 
 
 
@@ -4105,7 +3934,6 @@ CALL NO. = WM203.5 .S474a 2016.
 TITLE = Autism adulthood : strategies and insights for a fulfilling life / Susan
 Senator. 
 PUBLISHER = New York, NY : Skyhorse Publishing, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b2082614x. LOCATION = lbks. 
 
 
@@ -4135,7 +3963,6 @@ CALL NO. = WX28.AN7 B4O 2016.
 TITLE = Bellevue : three centuries of medicine and mayhem at America's most 
 storied hospital / David Oshinsky. 
 PUBLISHER = New York : Doubleday, [2016]. 
-PUBLISHER = {u00A9}2016. 
 RECORD # = b20826138. LOCATION = lbks. 
 
 
@@ -4159,7 +3986,6 @@ CALL NO. = WY16.AA1 S955n 2017.
 TITLE = Nursing's leading edges : specialization, credentialing, and 
 certification of RNs and APRNs / Lisa Summers, Carol J. Bickford. 
 PUBLISHER = Silver Spring, Maryland : American Nurses Association, 2017. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b20832618. LOCATION = lbks. 
 
 
@@ -4182,7 +4008,6 @@ CALL NO. = WY20.5 P769n 2017.
 TITLE = Nursing research : generating and assessing evidence for nursing 
 practice / Denise F. Polit, Cheryl Tatano Beck. 
 PUBLISHER = Philadelphia : Wolters Kluwer Health, [2017]. 
-PUBLISHER = {u00A9}2017. 
 RECORD # = b18256478. LOCATION = lrefs. 
 
 
@@ -4191,7 +4016,6 @@ TITLE = Nursing theorists and their work / [edited by] Martha Raile Alligood,
 PhD, RN, ANEF, Professor Emeritus, College of Nursing, East Carolina University,
 Greenville, North Carolina. 
 PUBLISHER = St. Louis, Missouri : Elsevier, [2018]. 
-PUBLISHER = {u00A9}2018. 
 RECORD # = b18256466. LOCATION = lrefs. 
 
 
@@ -4230,7 +4054,6 @@ CALL NO. = WY107 .C967 2015.
 TITLE = Leininger's culture care diversity and universality : a worldwide 
 nursing theory / [edited by] Marilyn R. McFarland and Hiba B. Wehbe-Alamah. 
 PUBLISHER = Burlington, Massachusetts : Jones & Bartlett Learning, [2015]. 
-PUBLISHER = {u00A9}2015. 
 RECORD # = b20835309. LOCATION = lbks. 
 
 
