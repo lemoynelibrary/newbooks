@@ -560,9 +560,10 @@ print OUT <<EOM;
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Find Articles <b class="caret"></b></a> 
             <ul class="dropdown-menu"> 
               <li><a href="https://resources.library.lemoyne.edu/databases">A-Z Databases</a></li> 
+              <li><a href="https://wp8kk7mz7x.search.serialssolutions.com/?SS_Page=refiner&SS_RefinerEditable=yes">Citation Linker</a></li>
               <li><a href="https://resources.library.lemoyne.edu/library-services/interlibrary-loan">Interlibrary Loan</a></li>
               <li><a href="https://wp8kk7mz7x.search.serialssolutions.com/">Journal Finder</a></li>
-              <li><a href="https://wp8kk7mz7x.search.serialssolutions.com/?SS_Page=refiner&SS_RefinerEditable=yes">Citation Linker</a></li>
+              <li><a href="https://resources.library.lemoyne.edu/technology/off-campus-access">Off-Campus Access</a></li>
               <li class="divider"></li> 
               <li><a href="https://resources.library.lemoyne.edu/find-articles">More...</a></li> 
             </ul> 
