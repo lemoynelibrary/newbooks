@@ -637,7 +637,7 @@ print OUT <<EOM;
           <a title="Find Books" href="https://resources.library.lemoyne.edu/find-books">Find Books</a>
         </li>
         <li id="s-lib-bc-guide">
-          <a title="Recent Library Acquisitions" href="https://library.lemoyne.edu/screens/newbooks.html">Recent Library Acquisitions</a>
+          <a title="Recent Library Acquisitions" href="newbooks.html">Recent Library Acquisitions</a>
         </li>
         <li id="s-lib-bc-page" class="active">XXXXXXX 2020</li>
       </ol>
