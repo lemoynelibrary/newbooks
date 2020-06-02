@@ -4,7 +4,7 @@ CALL NO. = B52.66 .M45 2014.
 TITLE = Philosophy between the lines : the lost history of esoteric writing / 
 Arthur M. Melzer. 
 PUBLISHER = Chicago ; London : University of Chicago Press, [2014]. 
-RECORD # = b23341452. LOCATION = lrsvc. 
+RECORD # = b23341452. LOCATION = lbks. 
 
 
 CALL NO. = B358 .G78 2002. 
@@ -516,7 +516,7 @@ CALL NO. = E99.O3 G66 2017.
 TITLE = La{u0307}ko{u0304}ta star knowledge : studies in La{u0307}ko{u0304}ta 
 stellar theory / Ronald Goodman ; edited by Alan Seeger. 
 PUBLISHER = Mission, S.D. : SGU Publishing, 2017. 
-RECORD # = b23461020. LOCATION = lrsvc. 
+RECORD # = b23461020. LOCATION = lbks. 
 
 
 CALL NO. = E184.A1 G5652 2019. 
@@ -530,13 +530,13 @@ CALL NO. = E185.6 .D797 1997.
 TITLE = The souls of Black folk / by W.E.B. DuBois ; edited with an introduction
 by David W. Blight and Robert Gooding-Williams. 
 PUBLISHER = Boston ; New York : Bedford Books, [1997]. 
-RECORD # = b23460957. LOCATION = lbks. 
+RECORD # = b23460957. LOCATION = lrsvt. 
 
 
 CALL NO. = E185.61 .B195 1993. 
 TITLE = The fire next time / James Baldwin. 
 PUBLISHER = New York : Vintage International, 1993. 
-RECORD # = b2346155x. LOCATION = lbks. 
+RECORD # = b2346155x. LOCATION = lrsvt. 
 
 
 
@@ -583,13 +583,13 @@ TITLE = The great reversal : how America gave up on free markets / Thomas
 Philippon. 
 PUBLISHER = Cambridge, Massachusetts : The Belknap Press of Harvard University 
 Press, 2019. 
-RECORD # = b23341518. LOCATION = lrsvc. 
+RECORD # = b23341518. LOCATION = lbks. 
 
 
 CALL NO. = HB171 .B243 2019. 
 TITLE = Good economics for hard times / Abhijit V. Banerjee & Esther Duflo. 
 PUBLISHER = New York : PublicAffairs, 2019. 
-RECORD # = b2334152x. LOCATION = lrsvc. 
+RECORD # = b2334152x. LOCATION = lbks. 
 
 
 
@@ -661,14 +661,14 @@ CALL NO. = HF1025 .S86 2016.
 TITLE = The sharing economy : the end of employment and the rise of crowd-based 
 capitalism / Arun Sundararajan. 
 PUBLISHER = Cambridge, Massachusetts : The MIT Press, [2016]. 
-RECORD # = b23461263. LOCATION = lrsvc. 
+RECORD # = b23461263. LOCATION = lbks. 
 
 
 CALL NO. = HF5381 .B7785 2016. 
 TITLE = Designing your life : how to build a well-lived, joyful life / Bill 
 Burnett and Dave Evans. 
 PUBLISHER = New York : Alfred A. Knopf, 2016. 
-RECORD # = b23461573. LOCATION = lbks. 
+RECORD # = b23461573. LOCATION = lrsvt. 
 
 
 CALL NO. = HF5438.4 .J67 2012. 
@@ -696,13 +696,13 @@ CALL NO. = HJ4653.R6 S2347 2019.
 TITLE = The triumph of injustice : how the rich dodge taxes and how to make them
 pay / Emmanuel Saez and Gabriel Zucman. 
 PUBLISHER = New York, NY : W.W. Norton & Company, [2019]. 
-RECORD # = b23341488. LOCATION = lrsvc. 
+RECORD # = b23341488. LOCATION = lbks. 
 
 
 CALL NO. = HM569 .E39 2015. 
 TITLE = Writing in sociology / Mark Edwards, Oregon State University. 
 PUBLISHER = Thousand Oaks, California : SAGE, [2015]. 
-RECORD # = b23459979. LOCATION = lrsvc. 
+RECORD # = b23459979. LOCATION = lbks. 
 
 
 
@@ -725,7 +725,7 @@ CALL NO. = HM741 .K33 2012.
 TITLE = Understanding social networks : theories, concepts, and findings / 
 Charles Kadushin. 
 PUBLISHER = New York : Oxford University Press, {u00A9}2012. 
-RECORD # = b23461275. LOCATION = lrsvc. 
+RECORD # = b23461275. LOCATION = lbks. 
 
 
 CALL NO. = HM811 .I53 2017. 
@@ -1039,7 +1039,7 @@ CALL NO. = PL2478 .L4 2006.
 TITLE = The essential analects : selected passages with traditional commentary /
 Confucius ; translated by Edward Slingerland. 
 PUBLISHER = Indianapolis : Hackett Pub. Co., {u00A9}2006. 
-RECORD # = b23461664. LOCATION = lrsvc. 
+RECORD # = b23461664. LOCATION = lbks. 
 
 
 CALL NO. = PL2697.H75 E5 1984. 
@@ -1086,7 +1086,7 @@ Rash film ; produced by J. Todd Harris, Mitchell Peck, Adam Leff ; written by
 Todd Baird and Brad Riddell ; directed by Steve Rash. 
 PUBLISHER = Beverly Hills, Calif. : Twentieth Century Fox Home Entertainment, 
 [2012]. 
-RECORD # = b23461391. LOCATION = lrsvm. 
+RECORD # = b23461391. LOCATION = lmvc. 
 
 
 CALL NO. = PN1994 .P663 2011. 
@@ -1284,9 +1284,10 @@ RECORD # = b23459943. LOCATION = lbks.
 
 
 CALL NO. = PR9199.3.A8 A79 1997. 
+CALL NO. = PR9199.3.A8 A79 1996. 
 TITLE = Alias Grace / Margaret Atwood. 
 PUBLISHER = New York, NY : Anchor Books, [1997]. 
-RECORD # = b23459050. LOCATION = lrsvt. 
+RECORD # = b23459050. LOCATION = lrsvt. LOCATION = lnet. 
 
 
 
@@ -1370,25 +1371,25 @@ CALL NO. = PS3552.A45 C76 2011.
 TITLE = The cross of redemption : uncollected writings / James Baldwin ; edited 
 and with an introduction by Randall Kenan. 
 PUBLISHER = New York : Vintage Books, 2011. 
-RECORD # = b23461585. LOCATION = lbks. 
+RECORD # = b23461585. LOCATION = lrsvt. 
 
 
 CALL NO. = PS3552.A45 G5 2013. 
 TITLE = Giovanni's room / James Baldwin. 
 PUBLISHER = New York : Vintage International, 2013. 
-RECORD # = b23461548. LOCATION = lbks. 
+RECORD # = b23461548. LOCATION = lrsvt. 
 
 
 CALL NO. = PS3552.A45 I4 2006. 
 TITLE = If Beale Street could talk : a novel / James Baldwin. 
 PUBLISHER = New York : Vintage Books, a division of Random House, Inc., [2006]. 
-RECORD # = b23461536. LOCATION = lbks. 
+RECORD # = b23461536. LOCATION = lrsvt. 
 
 
 CALL NO. = PS3552.A45 Z515 2011. 
 TITLE = The devil finds work : an essay / James Baldwin. 
 PUBLISHER = New York : Vintage International, 2011. 
-RECORD # = b23461561. LOCATION = lbks. 
+RECORD # = b23461561. LOCATION = lrsvt. 
 
 
 CALL NO. = PS3552.A45 Z83 2019. 
@@ -1424,9 +1425,10 @@ RECORD # = b23459219. LOCATION = lrsvt.
 
 
 CALL NO. = PS3554.I33 Z63 2007. 
+CALL NO. = PS3554.I33 Z63 2007. 
 TITLE = The year of magical thinking / Joan Didion. 
 PUBLISHER = New York : Vintage International, 2007. 
-RECORD # = b23459220. LOCATION = lrsvt. 
+RECORD # = b23459220. LOCATION = lrsvt. LOCATION = lnet. 
 
 
 CALL NO. = PS3556.R599 T95 2017. 
@@ -1457,9 +1459,10 @@ RECORD # = b23459013. LOCATION = lrsvt.
 
 
 CALL NO. = PS3563.C337 N6 2005. 
+CALL NO. = PS3563.C337 N6 2005. 
 TITLE = No country for old men / Cormac McCarthy. 
 PUBLISHER = New York : Vintage International, 2006. 
-RECORD # = b23459128. LOCATION = lrsvt. 
+RECORD # = b23459128. LOCATION = lrsvt. LOCATION = lnet. 
 
 
 CALL NO. = PS3563.C337 O9 1993. 
