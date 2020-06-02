@@ -27,6 +27,22 @@
         "expr": {
           "op": "starts_with",
           "operands": [
+            "cf",
+            ""
+          ]
+        }
+      },
+      "or",
+      {
+        "target": {
+          "record": {
+            "type": "order"
+          },
+          "id": 12
+        },
+        "expr": {
+          "op": "starts_with",
+          "operands": [
             "av",
             ""
           ]
