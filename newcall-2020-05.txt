@@ -1,0 +1,48 @@
+
+
+CALL NO. = DT33 .C66 2014. 
+TITLE = Concerning violence : nine scenes from the anti-imperialistic self-
+defense / Kino Lorber ; a Story production ; presented by Cinetic Media, Films 
+Boutique ; a film by G{u00F6}ran Hugo Olsson ; produced by Annika Rogell & 
+Tobias Janson. 
+PUBLISHER = New York : Kino Lorber, Inc., [2014]. 
+PUBLISHER = New York : Distributed by Kino Lorber, Inc. 
+PUBLISHER = New York : Manufactured by Kino Lorber, Inc. 
+RECORD # = b23473502. LOCATION = lnet. 
+
+
+CALL NO. = GV583 .A742 1993. 
+TITLE = A hard road to glory--basketball : the African-American athlete in 
+basketball / Arthur R. Ashe, Jr. ; with the assistance of Kip Branch, Ocania 
+Chalk, and Francis Harris. 
+PUBLISHER = New York, N.Y. : Amistad : Distributed by Penguin USA, {u00A9}1993. 
+RECORD # = b23473423. LOCATION = lbks. 
+
+
+CALL NO. = GV583 .A743 1993. 
+TITLE = A hard road to glory--football : the African-American athlete in 
+football / Arthur R. Ashe, Jr. ; with the assistance of Kip Branch, Ocania Chalk,
+and Francis Harris. 
+PUBLISHER = New York : Amistad : Distributed by Penguin USA, {u00A9}1993. 
+RECORD # = b23473435. LOCATION = lbks. 
+
+
+CALL NO. = PQ3989.3.D365 M4813 2015. 
+TITLE = The Meursault investigation / Kamel Daoud ; translated from the French 
+by John Cullen. 
+PUBLISHER = New York : Other Press, [2015]. 
+RECORD # = b23473484. LOCATION = lnet. 
+
+
+CALL NO. = PS3558.A42169 R45 2008. 
+TITLE = The reluctant fundamentalist / Mohsin Hamid. 
+PUBLISHER = Boston : Houghton Mifflin Harcourt, 2008, {u00A9}2007. 
+RECORD # = b23473496. LOCATION = lnet. 
+
+
+CALL NO. = WB 320 C771a 2020. 
+TITLE = Assistive technologies : principles and practice. 
+PUBLISHER = St. Louis : Mosby, 2020. 
+RECORD # = b23473563. LOCATION = lnet. 
+
+
