@@ -1,5 +1,68 @@
 
 
+CALL NO. = B721 .P47 2011. 
+TITLE = Philosophy and theology in the long middle ages : a tribute to Stephen 
+F. Brown / edited by Kent Emery, Jr., Russell L. Friedman & Andreas Speer ; 
+assisted by Maxime Mauri{u00E8}ge. 
+PUBLISHER = Leiden ; Boston : Brill, 2011. 
+RECORD # = b23473447. LOCATION = lnet. 
+
+
+CALL NO. = BF378.E94 E67 2019. 
+TITLE = Range : why generalists triumph in a specialized world / David Epstein. 
+PUBLISHER = New York : Riverhead Books, 2019. 
+RECORD # = b23473393. LOCATION = lnet. 
+
+
+CALL NO. = HB1323.P8 M37 2018. 
+TITLE = Mortality and its risk factors among professional athletes : a 
+comparison between former NBA and NFL players / Jeffrey S. Markowitz. 
+PUBLISHER = Cham, Switzerland : Springer, [2018]. 
+RECORD # = b23473356. LOCATION = lnet. 
+
+
+CALL NO. = HB1323.P8 M372 2019. 
+TITLE = Mortality among Hispanic and African-American players after 
+desegregation in Major League Baseball / Jeffrey S. Markowitz. 
+PUBLISHER = Cham : Springer, 2019. 
+RECORD # = b23473368. LOCATION = lnet. 
+
+
+CALL NO. = HD6060 .B64 2016. 
+TITLE = What works : gender equality by design / Iris Bohnet. 
+PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2016. 
+RECORD # = b23473344. LOCATION = lnet. 
+
+
+CALL NO. = HF5549.5.C6 R63 2018. 
+TITLE = The surprising science of meetings : how you can lead your team to peak 
+performance / Steven G. Rogelberg. 
+PUBLISHER = New York : Oxford University Press, [2019]. 
+RECORD # = b2347340x. LOCATION = lnet. 
+
+
+CALL NO. = PR9199.3.A8 A7918 1997. 
+TITLE = Alias Grace / Margaret Atwood ; traducci{u00F3}n del ingl{u00E9}s de 
+Mar{u00ED}a Antonia Menini Pag{u00E8}s. 
+PUBLISHER = Barcelona : Ediciones Salamandra, 2017. 
+RECORD # = b23473277. LOCATION = lnet. 
+
+
+
+
+CALL NO. = QA76.9.C643 N85 2019. 
+TITLE = The essentials of computer organization and architecture / Linda Null, 
+Julia Lobur. 
+PUBLISHER = Burlington, MA : Jones & Bartlett Learning, [2019]. 
+RECORD # = b23473411. LOCATION = lnet. 
+
+
+CALL NO. = QL82 .A33 2018. 
+TITLE = Last chance to see / Douglas Adams and Mark Carwardine. 
+PUBLISHER = New York : Ballantine Books, [2011]. 
+RECORD # = b23473289. LOCATION = lnet. 
+
+
 CALL NO. = TK5105.878 .G67 2019. 
 TITLE = Troll hunting : inside the world of online hate and its human fallout / 
 Ginger Gorman. 
