@@ -1,3 +1,0 @@
-PUBLISHER = \{u00A9\}\d\d\d\d\. \n
-
-PUBLISHER = \d\d\d\d\. \n

@@ -1,0 +1,7 @@
+tell application "BBEdit"
+	activate
+	open find window
+	replace "PUBLISHER = \\{u00A9\\}\\d\\d\\d\\d\\. \\n" using "" searching in text 1 of text document 1 options {search mode:grep, starting at top:true}
+	replace "PUBLISHER = \\d\\d\\d\\d\\. \\n" using "" searching in text 1 of text document 1 options {search mode:grep, starting at top:true}
+	close find window saving no
+end tell
