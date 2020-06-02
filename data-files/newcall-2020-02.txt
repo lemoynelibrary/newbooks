@@ -304,7 +304,7 @@ TITLE = Maasai : a warrior's rite of passage / Picture Prime ; in association
 with the Endangered People Foundation and the Shampole Maasai ; written, 
 produced and edited by Brad Minnich. 
 PUBLISHER = Hamilton, NJ : Films for the Humanities & Sciences, {u00A9}2008. 
-RECORD # = b23340216. LOCATION = lrsvm. 
+RECORD # = b23340216. LOCATION = lmvc. 
 
 
 CALL NO. = DT450.437.M85 M8613 2018. 
@@ -582,7 +582,7 @@ TITLE = Will you marry me? / a New Atlantis production ; written and directed by
 Chema Rodr{u00ED}guez ; producer, Jorge S{u00E1}nchez Gallo. 
 PUBLISHER = Princeton, N.J. : Films for the Humanities and Sciences, 
 {u00A9}2008. 
-RECORD # = b23340228. LOCATION = lrsvm. 
+RECORD # = b23340228. LOCATION = lmvc. 
 
 
 CALL NO. = HQ743 .M9 2014. 
@@ -620,6 +620,12 @@ PUBLISHER = New York, NY : Bloomsbury Publishing, 2019.
 RECORD # = b23459682. LOCATION = lbks. 
 
 
+CALL NO. = HT867 .V55 2019. 
+TITLE = Slaves among us : the hidden world of human trafficking / Monique Villa.
+PUBLISHER = Lanham : Rowman & Littlefield, [2019]. 
+RECORD # = b23468270. LOCATION = lnet. 
+
+
 CALL NO. = HV5816 .H25 2019. 
 TITLE = Opium : how an ancient flower shaped and poisoned our world / John H. 
 Halpern, MD, and David Blistein. 
@@ -643,6 +649,8 @@ PUBLISHER = Melbourne, Victoria : The Text Publishing Company, 2019.
 RECORD # = b23341397. LOCATION = lbks. 
 
 
+
+
 CALL NO. = HV6432.44.N7 B663 2018. 
 TITLE = The bombing of Wall Street / American Experience Films ; produced by 
 Michael Rossi, Susan Bellows ; written and directed by Susan Bellows ; a 
@@ -651,8 +659,6 @@ PUBLISHER = [Arlington, Virginia] : PBS, [2018].
 PUBLISHER = [Arlington, Virginia] : PBS Distribution, [2018]. 
 RECORD # = b23469122. LOCATION = lmvc. 
 
-
-
 
 CALL NO. = HV6452.K42 F483 2019. 
 TITLE = The feud / a Film Posse, Inc. production for American experience ; WGBH 
@@ -694,6 +700,8 @@ PUBLISHER = New York : W.W. Norton & Company, [2015].
 RECORD # = b23462802. LOCATION = lrsvt. 
 
 
+
+
 CALL NO. = JK2281 .F74 2019. 
 TITLE = Taking aim at attack advertising : understanding the impact of negative 
 campaigning in U.S. Senate races / Kim L. Fridkin, Patrick J. Kenney. 
@@ -707,8 +715,6 @@ TITLE = Violent borders : refugees and the right to move / Reece Jones.
 PUBLISHER = London : Verso, 2017. 
 RECORD # = b23462760. LOCATION = lrsvt. 
 
-
-
 
 CALL NO. = LB2395.7 .H56 2018. 
 TITLE = High-impact practices in online education : research and best practices 
@@ -741,6 +747,8 @@ PUBLISHER = Hamburg : Deutsche Grammophon, [2004].
 RECORD # = b2329601x. LOCATION = lmvc. 
 
 
+
+
 CALL NO. = M2198.F73 A43 2019. 
 TITLE = Amazing grace / Neon presents ; an Al's Records and Tapes production ; 
 in association with Time, 40 Acres and a Mule Filmworks, Rampant and Sundial ; 
@@ -758,8 +766,6 @@ PUBLISHER = Lanham, Maryland : Lexington Books, an imprint of The Rowman &
 Littlefield Publishing Group, Inc., [2017]. 
 RECORD # = b23336043. LOCATION = lbks. 
 
-
-
 
 CALL NO. = ML3524 .C686 2019. 
 CALL NO. = ML3524 .C686 2019. 
@@ -793,6 +799,8 @@ PUBLISHER = [New York] : GKids.
 RECORD # = b23469274. LOCATION = lmvc. LOCATION = lmvc. 
 
 
+
+
 CALL NO. = PA4167 .M97 2019. 
 TITLE = Reading Homer's Odyssey / Kostas Myrsiades. 
 PUBLISHER = Lewisburg, PA : Bucknell University, [2019]. 
@@ -811,8 +819,6 @@ TITLE = Tayeb Salih : ideology and the craft of fiction / Wa{u00EF}l S. Hassan.
 PUBLISHER = Syracuse, N.Y. : Syracuse University Press, 2003. 
 RECORD # = b23459888. LOCATION = lbks. 
 
-
-
 
 CALL NO. = PK6451.F4 M2813 2001. 
 TITLE = Conference of the birds : a seeker's journey to God / Farid-ud-din Attar
@@ -844,6 +850,8 @@ PUBLISHER = Burbank, CA : Warner Home Video, [2015].
 RECORD # = b23293433. LOCATION = lmvc. 
 
 
+
+
 CALL NO. = PN1992.15 .F537 s.2 2015. 
 CALL NO. = PN1992.15 .F537 s.2 2015. 
 TITLE = The flash: Season Two. 
@@ -851,8 +859,8 @@ PUBLISHER = Burbank, CA : Warner Home Video, [2015].
 RECORD # = b23293408. LOCATION = lmvc. LOCATION = lmvc. 
 
 
-CALL NO. = PN1992.15 .F537 s.2 2016. 
-CALL NO. = PN1992.15 .F537 s.2 2016. 
+CALL NO. = PN1992.15 .F537 s.3 2016. 
+CALL NO. = PN1992.15 .F537 s.3 2016. 
 TITLE = The Flash. The complete third season. 
 PUBLISHER = Burbank, CA : Warner Bros. Home Entertainment, [2017]. 
 RECORD # = b2329341x. LOCATION = lmvc. LOCATION = lmvc. 
@@ -864,8 +872,6 @@ Andrew Kreisberg, Geoff Johns.
 PUBLISHER = Burbank, California : Warner Bros. Entertainment, [2018]. 
 RECORD # = b23293421. LOCATION = lmvc. 
 
-
-
 
 CALL NO. = PN1992.15 .F68 2019. 
 TITLE = Fosse/Verdon / FX presents ; developed for television by Steven Levenson
@@ -899,6 +905,8 @@ PUBLISHER = [Los Angeles?] : Republic Pictures : Catalyst Logic [distributor],
 RECORD # = b23459712. LOCATION = lmvc. 
 
 
+
+
 CALL NO. = PN1992.15 .T97 1990 s.2. 
 CALL NO. = PN1992.15 .T97 1990 s.2. 
 CALL NO. = PN1992.15 .T97 1990 s.2. 
@@ -918,8 +926,6 @@ directed by David Lynch.
 PUBLISHER = Hollywood, California : Showtime Entertainment, [2017]. 
 RECORD # = b23459700. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
 
-
-
 
 CALL NO. = PN1992.77.S58 F47 2019. 
 TITLE = The Simpsons : a cultural history / Moritz Fink. 
@@ -949,6 +955,8 @@ PUBLISHER = Beverly Hills, CA : 20th Century Fox Home Entertainment, [2019].
 RECORD # = b23462243. LOCATION = lmvc. 
 
 
+
+
 CALL NO. = PN1993.15 .A426 2019. 
 TITLE = The Addams family / Metro Goldwyn Mayer Pictures presents ; in 
 association with Bron Creative ; a Jackal Group/Cinesite Studios production ; 
@@ -964,8 +972,6 @@ TITLE = Green Book.
 PUBLISHER = [United States] : Universal, 2019. 
 RECORD # = b23279369. LOCATION = lmvc. 
 
-
-
 
 CALL NO. = PN1993.15 .H3768 2019. 
 TITLE = Harriet / directed by Kasi Lemmons ; screenplay by Gregory Allen Howard 
@@ -1006,6 +1012,8 @@ PUBLISHER = Santa Monica, California : Lionsgate, [2019].
 RECORD # = b23462292. LOCATION = lmvc. 
 
 
+
+
 CALL NO. = PN1993.15 .L4544 2019. 
 TITLE = The lighthouse / an A24 and Regency Enterprises presentation ; an RT 
 Features production ; a Parts & Labor production ; directed by Robert Eggers ; 
@@ -1014,8 +1022,6 @@ Hoy, Robert Eggers, Louren{u00E7}o Sant'Anna, Youree Henley.
 PUBLISHER = Santa Monica, CA : Lionsgate, [2020]. 
 RECORD # = b2346219x. LOCATION = lmvc. 
 
-
-
 
 CALL NO. = PN1993.15 .M5775 2019. 
 TITLE = Missing link / Annapurna Pictures ; LAIKA ; directed by Chris Butler ; 
@@ -1060,14 +1066,14 @@ PUBLISHER = Edinburgh : Edinburgh University Press, [2018].
 RECORD # = b23336481. LOCATION = lbks. 
 
 
+
+
 CALL NO. = PN1995.9.C513 H65 2018. 
 TITLE = Welcome to fear city : crime film, crisis, and the urban imagination / 
 Nathan Holmes. 
 PUBLISHER = Albany : State University of New York Press, [2018]. 
 RECORD # = b23336614. LOCATION = lbks. 
 
-
-
 
 CALL NO. = PN1995.9.F54 N36 2019. 
 TITLE = Film noir : a very short introduction / James Naremore. 
@@ -1115,14 +1121,14 @@ PUBLISHER = Lexington, Kentucky : University Press of Kentucky, [2019].
 RECORD # = b23339342. LOCATION = lbks. 
 
 
+
+
 CALL NO. = PN2061 .A48 2017. 
 TITLE = The professional actor's handbook : from casting call to curtain call / 
 Julio Agustin with Kathleen Potts. 
 PUBLISHER = Lanham, Maryland : Rowman & Littlefield, [2017]. 
 RECORD # = b23338118. LOCATION = lbks. 
 
-
-
 
 CALL NO. = PN2091.S8 C87 2019. 
 TITLE = Staging ideas : set and costume design for theatre / Stephen Curtis. 
@@ -1165,6 +1171,8 @@ PUBLISHER = West Long Branch, NJ : Kultur, [2013?].
 RECORD # = b23296045. LOCATION = lmvc. 
 
 
+
+
 CALL NO. = PR2983 .K457 2018. 
 TITLE = Shakespeare's world: the tragedies : a historical exploration of 
 literature / Douglas J. King. 
@@ -1172,8 +1180,6 @@ PUBLISHER = Santa Barbara, California : Greenwood, an Imprint of ABC-CLIO, LLC,
 [2018]. 
 RECORD # = b23338490. LOCATION = lbks. 
 
-
-
 
 CALL NO. = PR4034 .N7 2003. 
 TITLE = Northanger Abbey / Jane Austen ; edited with an introduction and notes 
@@ -1220,6 +1226,8 @@ PUBLISHER = New York, N.Y. : Penguin Books, 1990, {u00A9}1980.
 RECORD # = b23462371. LOCATION = lrsvt. 
 
 
+
+
 CALL NO. = PS507 .N65 2017. 
 TITLE = The Norton anthology of American literature / Robert S. Levine, general 
 editor ; [volume editors], Michael A. Elliott, M. Gustafson, Amy Hungerford, 
@@ -1227,8 +1235,6 @@ Mary Loeffelholz.
 PUBLISHER = New York : W.W. Norton & Company, 2017. 
 RECORD # = b23462437. LOCATION = lrsvt. 
 
-
-
 
 CALL NO. = PS648.S5 F58 1992. 
 TITLE = Flash fiction : very short stories / edited by James Thomas, Denise 
@@ -1269,10 +1275,13 @@ RECORD # = b23462097. LOCATION = lrsvt.
 
 
 CALL NO. = PS3566.A647 I5 1991b. 
+CALL NO. = PS3566.A647 I5 1991b. 
 TITLE = Indemnity only : a novel / by Sara Paretsky. 
 PUBLISHER = New York, N.Y. : Dell Pub., 1991, {u00A9}1990. 
-RECORD # = b2346205x. LOCATION = lrsvt. 
+RECORD # = b2346205x. LOCATION = lrsvt. LOCATION = lnet. 
 
+
+
 
 CALL NO. = PS3569.H3337 D68 2005. 
 TITLE = Doubt : a parable / John Patrick Shanley. 
@@ -1280,8 +1289,6 @@ PUBLISHER = New York : Theatre Communications Group ; St. Paul, MN : Distributed
 to the Book trade by Consortium Book Sales and Distribution, 2005. 
 RECORD # = b23462085. LOCATION = lrsvt. 
 
-
-
 
 CALL NO. = PS3602.R6458 Y45 2019. 
 TITLE = The yellow house / Sarah M. Broom. 
@@ -1324,6 +1331,8 @@ PUBLISHER = New York, NY : Arthur A. Levine Books, an imprint of Scholastic Inc.
 RECORD # = b23340095. LOCATION = ltmyl. 
 
 
+
+
 CALL NO. = PZ7 .R79 Har Book 3 2017. 
 TITLE = Harry Potter and the prisoner of Azkaban / J.K. Rowling ; illustrated by
 Jim Kay. 
@@ -1331,8 +1340,6 @@ PUBLISHER = New York, NY : Arthur A. Levine Books, an imprint of Scholastic Inc.
 2017. 
 RECORD # = b23340113. LOCATION = ltmyl. 
 
-
-
 
 CALL NO. = PZ7 .R79 Har Book 4 2019. 
 TITLE = Harry Potter and the goblet of fire / J.K. Rowling ; illustrated by Jim 
@@ -1369,6 +1376,24 @@ PUBLISHER = Berkeley, California : Counterpoint, 2019.
 RECORD # = b23338672. LOCATION = lbks. 
 
 
+CALL NO. = Q335 .L49 2019. 
+TITLE = Artificial Intelligence versus human intelligence : {u01C2}b are humans 
+going to be hacked? / Christian Lexcellent. 
+PUBLISHER = Cham, Switzerland : Springer, [2019]. 
+RECORD # = b23469298. LOCATION = lnet. 
+
+
+
+
+CALL NO. = Q335 .T38 2019. 
+TITLE = Artificial intelligence basics : a non-technical introduction / Tom 
+Taulli. 
+PUBLISHER = [California] : Apress, [2019]. 
+PUBLISHER = New York, NY : Distributed to the book trade worldwide by Springer 
+Science+Business Media New York, [2019]. 
+RECORD # = b23469286. LOCATION = lnet. 
+
+
 CALL NO. = Q335 .T69 2018. 
 TITLE = Towards a new enlightenment? : a transcendent decade / [Francisco 
 Gonz{u00E1}lez and twenty-two others]. 
@@ -1382,8 +1407,6 @@ Wilks.
 PUBLISHER = London : Icon Books Ltd, 2019. 
 RECORD # = b23333546. LOCATION = lbks. 
 
-
-
 
 CALL NO. = QA76.73.J38 L52 2015. 
 TITLE = Introduction to Java programming / Y. Daniel Liang, Armstrong Atlantic 
@@ -1411,6 +1434,8 @@ PUBLISHER = Cambridge ; New York, NY : Cambridge University Press, 2018.
 RECORD # = b23299265. LOCATION = lbks. 
 
 
+
+
 CALL NO. = QB16 .A946 2019. 
 TITLE = Star stories : constellations and people / Anthony Aveni. 
 PUBLISHER = New Haven : Yale University Press, [2019]. 
@@ -1431,8 +1456,6 @@ understand the cosmos / Tom Siegfried.
 PUBLISHER = Cambridge, Massachusetts : Harvard University Press, [2019]. 
 RECORD # = b23338593. LOCATION = lbks. 
 
-
-
 
 CALL NO. = QC911 .G433 2019. 
 TITLE = Chasing the sun : how the science of sunlight shapes our bodies and 
@@ -1463,6 +1486,8 @@ PUBLISHER = New York : Viking, [2019].
 RECORD # = b23339676. LOCATION = lbks. 
 
 
+
+
 CALL NO. = QH91.15 .B58 2018. 
 CALL NO. = QH91.15 .B58 2018. 
 CALL NO. = QH91.15 .B58 2018. 
@@ -1481,8 +1506,6 @@ Wagner.
 PUBLISHER = New York : Basic Books, 2019. 
 RECORD # = b23338660. LOCATION = lbks. 
 
-
-
 
 CALL NO. = QP353 .R67 2019. 
 TITLE = How the brain lost its mind : sex, hysteria, and the riddle of mental 
@@ -1517,6 +1540,8 @@ PUBLISHER = Arlington, VA : distributed by PBS.
 RECORD # = b23339895. LOCATION = lmvc. LOCATION = lmvc. 
 
 
+
+
 CALL NO. = SD421.32.M9 A44 2014. 
 TITLE = The big burn / American Experience films presents ; an Insignia Films 
 production for American Experience ; a production of WGBH Boston ; produced by 
@@ -1531,8 +1556,6 @@ Safran Foer.
 PUBLISHER = New York : Farrar, Straus and Giroux, 2019. 
 RECORD # = b23465311. LOCATION = lbks. 
 
-
-
 
 CALL NO. = SF523 .H66 2019. 
 TITLE = Honeyland / presented by Neon ; produced by Pharmachem-Skop Je, Apolo 
@@ -1554,6 +1577,29 @@ TITLE = Tools and weapons : the promise and the peril of the digital age / Brad
 Smith and Carol Ann Browne. 
 PUBLISHER = London : Hodder & Stoughton, 2019. 
 RECORD # = b23340150. LOCATION = lbks. 
+
+
+CALL NO. = T14.5 .T43 2020. 
+TITLE = Technological progress, inequality and entrepreneurship : from consumer 
+division to human centricity / Vanessa Ratten, editor. 
+PUBLISHER = Cham : Springer, [2020]. 
+RECORD # = b23468294. LOCATION = lnet. 
+
+
+CALL NO. = TJ211.15 .W35 2020. 
+TITLE = Sam : one robot, a dozen engineers, and the race to revolutionize the 
+way we build / Jonathan Waldman. 
+PUBLISHER = New York : Simon & Schuster, 2020. 
+RECORD # = b23468269. LOCATION = lnet. 
+
+
+
+
+CALL NO. = TN291.3 .S58 2019. 
+TITLE = Space mining and manufacturing : off-world resources and revolutionary 
+engineering techniques / Davide Sivolella. 
+PUBLISHER = Cham, Switzerland : Springer, c2019. 
+RECORD # = b23468324. LOCATION = lnet. 
 
 
 CALL NO. = TP548 .T38 2015. 
@@ -1587,8 +1633,6 @@ PUBLISHER = Oley, PA : Bullfrog Films, [2017].
 RECORD # = b23461470. LOCATION = lmvc. 
 
 
-
-
 CALL NO. = W18 .K29s 2000. 
 TITLE = Study without stress : mastering medical sciences / Eugenia G. Kelman, 
 Kathleen C. Straker. 
@@ -1603,6 +1647,8 @@ concerned / Jacob M. Appel, MD.
 PUBLISHER = Chapel Hill, North Carolina : Algonquin Books of Chapel Hill, 2019. 
 RECORD # = b23340757. LOCATION = lnet. LOCATION = lbks. 
 
+
+
 
 CALL NO. = W50 .G984e 2019. 
 TITLE = Everybody wants to go to heaven but nobody wants to die : bioethics and 
@@ -1641,8 +1687,6 @@ PUBLISHER = New York : St. Martin's Press, 2019.
 RECORD # = b23338453. LOCATION = lbks. 
 
 
-
-
 CALL NO. = WA689 .S555t 2019. 
 TITLE = Troubled water : what's wrong with what we drink / Seth M. Siegel. 
 PUBLISHER = New York : Thomas Dunne Books, 2019. 
@@ -1654,6 +1698,15 @@ TITLE = Case studies through the health care continuum : a workbook for the
 occupational therapy student / Nancy A. Lowenstein, Patricia Halloran. 
 PUBLISHER = Thorofare, NJ : SLACK Incorporated, [2015]. 
 RECORD # = b23296161. LOCATION = lbks. 
+
+
+
+
+CALL NO. = WC 505 S246 2006. 
+TITLE = SARS : how a global epidemic was stopped. 
+PUBLISHER = [Geneva, Switzerland] : World Health Organization, Western Pacific 
+Region, {u00A9}2006. 
+RECORD # = b23470161. LOCATION = lnet. 
 
 
 CALL NO. = WP870 .P596r 2019. 
@@ -1674,6 +1727,13 @@ CALL NO. = WY152.3 .B879p 2016.
 TITLE = Palliative care in nursing & healthcare / Michelle Brown. 
 PUBLISHER = London ; Thousand Oaks, California : SAGE Publications Ltd, 2016. 
 RECORD # = b23297475. LOCATION = lbks. 
+
+
+CALL NO. = WZ 7 M345L 2020. 
+TITLE = Literatim : essays at the intersections of medicine and culture / Howard
+Markel. 
+PUBLISHER = New York, NY : Oxford University Press, [2020]. 
+RECORD # = b23468257. LOCATION = lnet. 
 
 
 CALL NO. = WZ 40 H434 2019. 
@@ -1708,5 +1768,13 @@ TITLE = Textbooks in academic libraries : selection, circulation, and assessment
 PUBLISHER = Chicago : ALA Editions, an imprint of the American Library 
 Association, 2017. 
 RECORD # = b23465840. LOCATION = lbks. 
+
+
+CALL NO. = Z711.92.D48 M37 2019. 
+TITLE = Supporting students on the autism spectrum : a practical guide for 
+academic libraries / Rachel M. McMullin and Kerry R. Walton. 
+PUBLISHER = Santa Barbara, California : Libraries Unlimited, An Imprint of ABC-
+CLIO, LLC, [2019]. 
+RECORD # = b23468282. LOCATION = lnet. 
 
 
