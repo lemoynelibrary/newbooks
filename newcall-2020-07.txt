@@ -1,0 +1,84 @@
+
+
+CALL NO. = ND1839.D85 K48 1993. 
+CALL NO. = ND1839.D85 K48 1993. 
+TITLE = The emergence of the African-American artist : Robert S. Duncanson, 1821
+-1872 / Joseph D. Ketner. 
+PUBLISHER = Columbia : University of Missouri Press, {u00A9}1993. 
+RECORD # = b11594482. LOCATION = lbks. LOCATION = lbks. 
+
+
+CALL NO. = LB1576 .W23 2001. 
+TITLE = WAC for the new millennium : strategies for continuing writing-across-
+the-curriculum-programs / edited by Susan H. McLeod. 
+PUBLISHER = Urbana, Ill. : National Council of Teachers of English, {u00A9}2001.
+RECORD # = b23330788. LOCATION = lbks. 
+
+
+CALL NO. = PJ7842.A5 Z87 1984. 
+TITLE = Man is a cause : political consciousness and the fiction of 
+Ghass{u0101}n Kanaf{u0101}n{u012B} / Muhammad Siddiq. 
+PUBLISHER = Seattle : Distributed by University of Washington Press, 
+{u00A9}1984. 
+RECORD # = b23334265. LOCATION = lbks. 
+
+
+CALL NO. = HC110.W4 S75 2020. 
+TITLE = People, power, and profits : progressive capitalism for an age of 
+discontent / Joseph E. Stiglitz. 
+PUBLISHER = New York : W.W. Norton & Company, 2020. 
+RECORD # = b23341506. LOCATION = lbks. 
+
+
+CALL NO. = PN1661 .A45 2013. 
+TITLE = Writing the ten-minute play : a book for playwrights and actors who want
+to write plays / Glenn Alterman. 
+PUBLISHER = Milwaukee, WI : Limelight Editions, an imprint of Hal Leonard 
+Corporation, 2013. 
+RECORD # = b2346236x. LOCATION = lbks. 
+
+
+CALL NO. = PR1109 .N6 2019. 
+TITLE = The Norton anthology of English literature. The major authors / Stephen 
+Greenblatt, general editor ; M.H. Abrams, founding editor emeritus. 
+PUBLISHER = New York : Norton, 2019. 
+RECORD # = b23462425. LOCATION = lbks. 
+
+
+CALL NO. = GN316 .G845 2018. 
+TITLE = Essentials of cultural anthropology : a toolkit for a global age / 
+Kenneth J. Guest, Baruch College, the City University of New York. 
+PUBLISHER = New York, NY : W.W. Norton & Company, [2018]. 
+RECORD # = b23462723. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.D343 R87 2018. 
+TITLE = Mining the social web / Matthew A. Russell and Mikhail Klassen. 
+PUBLISHER = Sebastopol, CA : O'Reilly Media, 2018. 
+RECORD # = b23467368. LOCATION = lbks. 
+
+
+
+
+CALL NO. = WM 450.5.O2 C257p 2019. 
+TITLE = Cara and MacRae's psychosocial occupational therapy : an evolving 
+practice / Anne MacRae. 
+PUBLISHER = Thorofare, NJ : Slack Incorporated, 2019. 
+RECORD # = b23472248. LOCATION = lnet. 
+
+
+CALL NO. = WA105 .T246p 2019. 
+TITLE = The psychology of pandemics : preparing for the next global outbreak of 
+infectious disease / by Steven Taylor. 
+PUBLISHER = Newcastle upon Tyne, UK : Cambridge Scholars Publishing, 2019. 
+RECORD # = b23472509. LOCATION = lbks. 
+
+
+CALL NO. = E184.S67 R63 2008. 
+CALL NO. = E184.S67 R63 2008. 
+TITLE = The Somali diaspora : a journey away / photographs by Abdi Roble ; 
+essays by Doug Rutledge. 
+PUBLISHER = Minneapolis, MN : University of Minnesota Press, {u00A9}2008. 
+RECORD # = b23472595. LOCATION = lbks. LOCATION = lbks. 
+
+
