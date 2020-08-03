@@ -571,7 +571,6 @@ print OUT <<EOM;
     </div><!-- /.container-fluid -->
 
   </nav>
-  <br>
 
   <!-- page header -->
   <div id="content" class="container-fluid">
@@ -593,6 +592,7 @@ print OUT <<EOM;
         <li id="s-lib-bc-page" class="active">XXXXXXX 2020</li>
       </ol>
     </div>
+
     <div class="row">
       <div class="col-md-12">
         <h1>Recent Library Acquisitions</h1>
