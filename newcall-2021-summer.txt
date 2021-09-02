@@ -1,0 +1,81 @@
+
+
+CALL NO. = DS480.45 .N27 2000. 
+TITLE = The savage Freud : and other essays on possible and retrievable selves /
+Ashis Nandy. 
+PUBLISHER = Delhi : Oxford University Press, 2000. 
+RECORD # = b23468646. LOCATION = lbks. 
+
+
+CALL NO. = HQ73.3.U6 G35 2020. 
+TITLE = The savvy ally : a guide for becoming a skilled LGBTQ+ advocate / 
+Jeannie Gainsburg. 
+PUBLISHER = Lanham, Maryland : Rowman & Littlefield, [2020]. 
+RECORD # = b23467988. LOCATION = lbks. 
+
+
+CALL NO. = PS3569.C529174 W47 2020. 
+TITLE = What the Constitution means to me / Heidi Schreck. 
+PUBLISHER = New York, NY : Theatre Communications Group, Inc., 2020. 
+RECORD # = b23297025. LOCATION = lbks. 
+
+
+CALL NO. = PS3608.O924 Z46 2019. 
+TITLE = Rerun era, or, The dislocations / Joanna Howard. 
+PUBLISHER = San Francisco : McSweeney's, [2019]. 
+RECORD # = b23472571. LOCATION = lbks. 
+
+
+CALL NO. = PZ7.L995545 Goi 2019. 
+TITLE = Going down home with Daddy / written by Kelly Starling Lyons ; 
+illustrated by Daniel Minter. 
+PUBLISHER = Atlanta : Peachtree, [2019]. 
+RECORD # = b2346396x. LOCATION = ltmyl. 
+
+
+CALL NO. = Q337.3 .M84 2018. 
+TITLE = Big mind : how collective intelligence can change our world / Geoff 
+Mulgan. 
+PUBLISHER = Princeton, New Jersey : Princeton University Press, [2019]. 
+RECORD # = b23467381. LOCATION = lbks. 
+
+
+CALL NO. = QH325 .S544 2020. 
+TITLE = Some assembly required : decoding four billion years of life, from 
+ancient fossils to DNA / Neil Shubin. 
+PUBLISHER = New York : Pantheon Books, [2020]. 
+RECORD # = b23468002. LOCATION = lbks. 
+
+
+CALL NO. = S494.5.B563 P33 2009. 
+TITLE = Starved for science : how biotechnology is being kept out of Africa / 
+Robert Paarlberg ; [foreword by Norman Borlaug and Jimmy Carter]. 
+PUBLISHER = Cambridge, Mass. : Harvard University Press, 2009. 
+RECORD # = b22858118. LOCATION = lnet. 
+
+
+
+
+CALL NO. = TL789.4 .C67 2017. 
+CALL NO. = TL789.4 .C67 2017. 
+TITLE = UFO sightings desk reference : United States of America 2001-2015 / 
+Cheryl Costa, Linda Miller Costa. 
+PUBLISHER = Syracuse, N.Y. : UFO Scholar, an imprint of Dragon Lady Media, LLC ;
+2017. 
+RECORD # = b18242571. LOCATION = lscla. LOCATION = lbks. 
+
+
+CALL NO. = WB555 .B796p 2008. 
+TITLE = Physical agent modalities : theory and application for the occupational 
+therapist / Alfred G. Bracciano. 
+PUBLISHER = Thorofare, NJ : SLACK, {u00A9}2008. 
+RECORD # = b23472212. LOCATION = lbks. 
+
+
+CALL NO. = WE740 .B865p 2016. 
+TITLE = Physical therapy for intervertebral disk disease : a practical guide to 
+diagnosis and treatment / Doris Broetz, Michael Weller. 
+PUBLISHER = Stuttgart ; New York : Thieme, [2016]. 
+RECORD # = b23472236. LOCATION = lbks. 
+
+
