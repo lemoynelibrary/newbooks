@@ -1,9 +1,984 @@
 
 
+CALL NO. = B790 .N49 2019. 
+TITLE = A new modern philosophy : the inclusive anthology of primary sources / 
+edited by Eugene Marshall and Susanne Sreedhar. 
+PUBLISHER = New York : Routledge, 2019. 
+RECORD # = b2500038x. LOCATION = lrsvt. 
+
+
+CALL NO. = B946 .B76 2021. 
+CALL NO. = B946 .B76 2021. 
+TITLE = Diving for pearls : exploring philosophy with my father / Thomas 
+Brockelman. 
+PUBLISHER = Fabius, New York : Standing Stone Books, an imprint of Standing 
+Stone Studios, 2021. 
+RECORD # = b24191516. LOCATION = lrsvt. LOCATION = lscla. 
+
+
+CALL NO. = BC177 .G76 2013. 
+TITLE = Good reasoning matters! : a constructive approach to critical thinking. 
+PUBLISHER = Don Mills, Ontario : Oxford University Press, [2013]. 
+RECORD # = b25000226. LOCATION = lrsvt. 
+
+
+CALL NO. = BD431 .H3245 2020. 
+TITLE = The meaning of life and death : ten classic thinkers on the ultimate 
+question / Michael Hauskeller. 
+PUBLISHER = London, UK ; New York, NY : Bloomsbury Academic, 2020. 
+RECORD # = b24194153. LOCATION = lbks. 
+
+
+CALL NO. = BF441 .G756 2021. 
+TITLE = Good thinking : why flawed logic puts us all at risk and how critical 
+thinking can save the world / David Robert Grimes. 
+PUBLISHER = New York : The Experiment, 2021. 
+RECORD # = b24193550. LOCATION = lbks. 
+
+
+CALL NO. = BF637.C6 C574 2013. 
+TITLE = Theory and practice of counseling and psychotherapy : the case of Stan 
+and lecturettes. 
+PUBLISHER = [Boston, Massachusetts] : Cengage Learning, [2013]. 
+RECORD # = b24194414. LOCATION = lmvc. 
+
+
+CALL NO. = BJ1533.K5 M38 2020. 
+TITLE = The kindness of strangers : how a selfish ape invented a new moral code 
+/ Michael E. McCullough. 
+PUBLISHER = New York, NY : Basic Books, 2020. 
+RECORD # = b24192806. LOCATION = lbks. 
+
+
+
+
+CALL NO. = BL313 .H37 2018. 
+TITLE = Evolutions : fifteen myths that explain our world / Oren Harman. 
+PUBLISHER = New York : Farrar, Straus and Giroux, 2018. 
+RECORD # = b24185504. LOCATION = lbks. 
+
+
+CALL NO. = BS1605.3 .N68 2015. 
+TITLE = Jonah, Tobit, Judith / Irene Nowell. 
+PUBLISHER = Collegeville, Minnesota : Liturgical Press, [2015]. 
+RECORD # = b24194621. LOCATION = lbks. 
+
+
+CALL NO. = BT701.3 .F367 2020. 
+TITLE = An introduction to theological anthropology : humans, both creaturely 
+and divine / Joshua R. Farris. 
+PUBLISHER = Grand Rapids, Michigan : Baker Academic, a division of Baker 
+Publishing Group, [2020]. 
+RECORD # = b24192776. LOCATION = lbks. 
+
+
+CALL NO. = BX4705.A753 L27 2020. 
+CALL NO. = BX4705.A753 L27 2020. 
+TITLE = Pedro Arrupe : witness of the twentieth century, prophet of the twenty-
+first / Pedro Miguel Lamet ; prologue by Adolfo Nicolas, S.J., former Superior 
+General of the Society of Jesus ; translated by Joseph V. Owens, S.J. 
+PUBLISHER = Boston : Institute of Jesuit Sources, Boston College, c2020. 
+RECORD # = b24188736. LOCATION = lbks. LOCATION = lscj. 
+
+
+CALL NO. = BX8493 .L43 2004. 
+TITLE = The leading women : stories of the first women bishops of the United 
+Methodist Church / compiled by Judith Craig. 
+PUBLISHER = Nashville, TN : Abingdon Press, {u00A9}2004. 
+RECORD # = b2419136x. LOCATION = lbks. 
+
+
+CALL NO. = D21.3 .C247 2019. 
+TITLE = The end is always near : apocalyptic moments, from the Bronze Age 
+collapse to nuclear near misses / Dan Carlin. 
+PUBLISHER = New York, NY : Harper, an imprint of HarperCollins Publishers, 
+[2019]. 
+RECORD # = b24192673. LOCATION = lbks. 
+
+
+CALL NO. = DS115 .L35 2019. 
+TITLE = Genius & anxiety : how Jews changed the world, 1847-1947 / Norman 
+Lebrecht. 
+PUBLISHER = New York : Scribner, 2019. 
+RECORD # = b24194578. LOCATION = lbks. 
+
+
+
+
+CALL NO. = DS135.F9 C6427 2020. 
+TITLE = Chichinette : the accidental spy / Amos Geva presents ; in co-production
+with with German Film and Television Academy Berlin (dffb), Rundfunk Berlin-
+Brandenburg, M{u00E9}rov{u00E9}e Film Production ; a film by Nicola Alice Hens ;
+written & directed by Nicola Alice Hens ; produced by Amos Geva. 
+PUBLISHER = New York, NY : Kino Lorber, [2020]. 
+RECORD # = b24191760. LOCATION = lmvc. 
+
+
+CALL NO. = E176.2 .B769 2017. 
+TITLE = First women : the grace and power of America's modern First Ladies / 
+Kate Andersen Brower. 
+PUBLISHER = New York, NY : Harper, an imprint of HarperCollins Publishers, 2017.
+RECORD # = b24191310. LOCATION = lbks. 
+
+
+CALL NO. = E183.8.I55 G45 2021. 
+TITLE = America and Iran : a history, 1720 to the present / John Ghazvinian. 
+PUBLISHER = New York : Alfred A. Knopf, 2021. 
+RECORD # = b24193471. LOCATION = lbks. 
+
+
+CALL NO. = E184.A1 L4135 2019. 
+TITLE = America for Americans : a history of xenophobia in the United States / 
+Erika Lee. 
+PUBLISHER = New York : Basic Books, 2019. 
+RECORD # = b24190822. LOCATION = lbks. 
+
+
+CALL NO. = E184.A75 .F37 2020. 
+TITLE = Far East, deep South / produced by Baldwin Chiu, Larissa Lam ; directed 
+by Larissa Lam. 
+PUBLISHER = [Newburgh, New York] : New Day Films, 2020. 
+RECORD # = b24191176. LOCATION = lmvc. 
+
+
+CALL NO. = E184.P7 P87 1995. 
+TITLE = Polish Americans : an ethnic community / James S. Pula. 
+PUBLISHER = New York : Twayne Publishers ; London : Prentice Hall International,
+{u00A9}1995. 
+RECORD # = b27000904. LOCATION = lrsvt. 
+
+
+CALL NO. = E185.615 .B77 2020. 
+TITLE = The fire is upon us: James Baldwin, William F. Buckley Jr., and the 
+debate over race in America / Nicholas Buccola. 
+PUBLISHER = Princeton, New Jersey : Princeton University Press, [2020]. 
+RECORD # = b24187574. LOCATION = lbks. 
+
+
+
+
+CALL NO. = E255 .H433 2019. 
+TITLE = A crisis of peace : George Washington, the Newburgh Conspiracy, and the 
+fate of the American Revolution / David Head. 
+PUBLISHER = New York : Pegasus Books, 2019. 
+RECORD # = b24187471. LOCATION = lbks. 
+
+
+CALL NO. = E645 .D66 2020. 
+TITLE = The false cause : fraud, fabrication, and white supremacy in Confederate
+memory / Adam H. Domby. 
+PUBLISHER = Charlottesville ; London : University of Virginia Press, 2020. 
+RECORD # = b24187549. LOCATION = lbks. 
+
+
+CALL NO. = E744 .B476 2020. 
+TITLE = The Jakarta method : Washington's anticommunist crusade & the mass 
+murder program that shaped our world / Vincent Bevins. 
+PUBLISHER = New York, NY : PublicAffairs, Hatchette Book Group, [2020]. 
+RECORD # = b2419279x. LOCATION = lbks. 
+
+
+CALL NO. = E839.8 .M34 2020. 
+TITLE = Agitprop in America / John Harmon McElroy. 
+PUBLISHER = London : Arktos, 2020. 
+RECORD # = b24192545. LOCATION = lbks. 
+
+
+CALL NO. = F128.5 .W58 1999. 
+TITLE = Here is New York / by E.B. White ; with a new introduction by Roger 
+Angell. 
+PUBLISHER = New York : Little Bookroom, {u00A9}1999. 
+RECORD # = b27000874. LOCATION = lrsvt. 
+
+
+CALL NO. = HB501 .W964 2019. 
+TITLE = How to be an anticapitalist in the twenty-first century / Erik Olin 
+Wright. 
+PUBLISHER = London ; Brooklyn, NY : Verso, 2019. 
+RECORD # = b24194608. LOCATION = lbks. 
+
+
+CALL NO. = HC106 .S85 2016. 
+TITLE = The structure of American industry / [edited by] James W. Brock, Miami 
+University. 
+PUBLISHER = Long Grove, Illinois : Waveland Press, Inc., [2016]. 
+RECORD # = b27000928. LOCATION = lrsvc. 
+
+
+
+
+CALL NO. = HD38.7 .B8714 2018. 
+TITLE = Business intelligence, analytics, and data science : a managerial 
+perspective / Ramesh Sharda, Dursun Delen, Efraim Turban ; with contributions to
+previous editions by, J.E. Aronson,Ting-Peng Liang, David King. 
+PUBLISHER = New York : Pearson, [2018]. 
+RECORD # = b25000147. LOCATION = lrsvt. 
+
+
+CALL NO. = HD1527.C2 M25 2000. 
+TITLE = Factories in the field : the story of migratory farm labor in California
+/ Carey McWilliams. 
+PUBLISHER = Berkeley, Calif. : University of California Press, [2000 printing]. 
+RECORD # = b24185267. LOCATION = lbks. 
+
+
+CALL NO. = HD2326 .W349 2019. 
+TITLE = Industrial organization : theory and practice / Don E. Waldman and 
+Elizabeth J. Jensen. 
+PUBLISHER = New York, NY : Routledge, 2019. 
+RECORD # = b27000886. LOCATION = lrsvt. 
+
+
+CALL NO. = HD4875.U5 A76 2020. 
+TITLE = American slavery, American imperialism : US perceptions of global 
+servitude, 1870-1914 / Catherine Armstrong, Loughborough University. 
+PUBLISHER = Cambridge, United Kingdom ; New York, NY : Cambridge University 
+Press, 2020. 
+RECORD # = b24188955. LOCATION = lbks. 
+
+
+CALL NO. = HD9010.B66 H47 2020. 
+TITLE = The man who tried to feed the world / American Experience Films ; an 
+Apograph Productions film for American experience ; WGBH ; written and directed 
+by Rob Rapley ; produced by Rob Rapley and Jamila Wignot. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2020]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2020]. 
+RECORD # = b24192016. LOCATION = lmvc. 
+
+
+CALL NO. = HD9980.5 .R43 2018. 
+TITLE = A research agenda for service innovation / edited by Fa{u00EF}z Gallouj,
+Faridah Djellal. 
+PUBLISHER = Cheltenham, UK ; Northampton, MA, USA : Edward Elgar Publishing, 
+[2018]. 
+RECORD # = b24185814. LOCATION = lbks. 
+
+
+
+
+CALL NO. = HF5549 .C296 2009. 
+TITLE = Staffing the contemporary organization : a guide to planning, recruiting,
+and selecting for human resource professionals / Donald L. Caruth, Gail D. 
+Caruth, and Stephanie S. Pane. 
+PUBLISHER = Westport, Conn. : Praeger Publishers, 2009. 
+RECORD # = b25000500. LOCATION = lrsvt. 
+
+
+CALL NO. = HG222.3 .S76 2009. 
+TITLE = Money & soul : the psychology of money and the transformation of 
+capitalism / Per Espen Stoknes ; translated from the Norwegian by Susan M. 
+Davies. 
+PUBLISHER = Totnes, Devon : Green Books, 2009. 
+RECORD # = b24192831. LOCATION = lbks. 
+
+
+CALL NO. = HM1146 .B7413 2020. 
+TITLE = Humankind : A hopeful history / Rutger Bregman ; translated from the 
+Dutch by Elizabeth Manton and Erica Moore. 
+PUBLISHER = New York, NY : Little, Brown and Company, 2020. 
+RECORD # = b24192752. LOCATION = lbks. 
+
+
+CALL NO. = HN90.M6 C358 2018. 
+TITLE = The rise of victimhood culture : microaggressions, safe spaces, and the 
+new culture wars / Bradley Campbell, Jason Manning. 
+PUBLISHER = Cham, Switzerland : Palgrave Macmillan, [2018]. 
+RECORD # = b24192958. LOCATION = lbks. 
+
+
+CALL NO. = HQ77.9 .M26 2020. 
+TITLE = Female husbands : a trans history / Jen Manion. 
+PUBLISHER = Cambridge, United Kingdom ; New York, NY : Cambridge University 
+Press, [2020]. 
+RECORD # = b24189042. LOCATION = lbks. 
+
+
+CALL NO. = HQ281 .S49 2019. 
+TITLE = Sex trafficking in America / a Frontline production with True Vision 
+Productions in association for Channel 4 ; WGBH ; produced by Lauren Mucciolo, 
+Jezza Neumann ; directed by Jezza Neumann. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2019]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2019]. 
+RECORD # = b24193355. LOCATION = lmvc. 
+
+
+CALL NO. = HQ767.9 .P475 2016. 
+TITLE = Developmental milestones of young children / Karen Petty. 
+PUBLISHER = St. Paul, MN : Redleaf Press, 2016. 
+RECORD # = b24192302. LOCATION = lbks. 
+
+
+
+
+CALL NO. = HQ1170 .L387 2021. 
+TITLE = Islamic feminism and the discourse of post-liberation : the cultural 
+turn in Algeria / Marnia Lazreg. 
+PUBLISHER = Abingdon, Oxon ; New York, NY : Routledge, 2021. 
+RECORD # = b2418990x. LOCATION = lbks. 
+
+
+CALL NO. = JA83 .K4613 2013. 
+TITLE = Left hemisphere : mapping critical theory today / Razmig Keucheyan ; 
+translated by Gregory Elliott. 
+PUBLISHER = New York : Verso, [2013]. 
+RECORD # = b24194633. LOCATION = lbks. 
+
+
+CALL NO. = JC423 .T3195 2019. 
+TITLE = Democracy may not exist, but we'll miss it when it's gone / Astra 
+Taylor. 
+PUBLISHER = New York, New York : Metropolitan Books, 2019. 
+RECORD # = b2419265x. LOCATION = lbks. 
+
+
+CALL NO. = JC599.A1 C66 2018. 
+TITLE = Contracting human rights : crisis, accountability, and opportunity / 
+edited by Alison Brysk (Chair, Global Studies Department, Mellichamp Chair of 
+Global Governance, University of California, Santa Barbara, USA), Michael Stohl 
+(Director, Orfalea Center for Global and International Studies, Professor of 
+Communication, Political Science and Global Studies, University of California, 
+Santa Barbara, USA). 
+PUBLISHER = Cheltenham, UK : Edward Elgar Publishing, [2018]. 
+RECORD # = b24185425. LOCATION = lbks. 
+
+
+CALL NO. = JF799.5 .A55 2019. 
+TITLE = Cryptodemocracy : how Blockchain can radically expand democratic choice 
+/ Darcy W.E. Allen, Chris Berg, and Aaron M. Lane. 
+PUBLISHER = Lanham : Lexington Books, [2019]. 
+RECORD # = b24191255. LOCATION = lbks. 
+
+
+CALL NO. = JK1021 .G45 2020. 
+TITLE = Losing to win : why Congressional majorities play politics instead of 
+make laws / Jeremy Gelman. 
+PUBLISHER = Ann Arbor : University of Michigan Press, 2020. 
+RECORD # = b2419282x. LOCATION = lbks. 
+
+
+CALL NO. = JV6475 .D65 2018. 
+TITLE = Disabled upon arrival : eugenics, immigration, and the construction of 
+race and disability / Jay Timothy Dolmage. 
+PUBLISHER = Columbus : The Ohio State University Press, [2018]. 
+RECORD # = b24193409. LOCATION = lbks. 
+
+
+
+
+CALL NO. = LB1025.3 .F39 2020. 
+TITLE = Relearning to teach : understanding the principles of great teaching / 
+David Fawcett. 
+PUBLISHER = London : Routledge, 2020. 
+RECORD # = b24192454. LOCATION = lbks. 
+
+
+CALL NO. = LB1065 .B547 2016. 
+TITLE = Motivating struggling learners : 10 ways to build student success / 
+Barbara R. Blackburn. 
+PUBLISHER = New York : Routledge, 2016. 
+RECORD # = b24192429. LOCATION = lbks. 
+
+
+CALL NO. = LB1139.23 .S58 2015. 
+TITLE = Developing young minds : from conception to kindergarten / Rebecca 
+Shore. 
+PUBLISHER = Lanham : Rowman & Littlefield Publishing Group, Inc., [2015]. 
+RECORD # = b24192296. LOCATION = lbks. 
+
+
+CALL NO. = LB1707 .I5 2017. 
+TITLE = Impacting teaching and learning : contemplative practices, pedagogy, and
+research in education / edited by Elizabeth Hope Dorman, Kathryn Byrnes, and 
+Jane Dalton. 
+PUBLISHER = Lanham, Maryland : Rowman & Littlefield, [2017]. 
+RECORD # = b24192387. LOCATION = lbks. 
+
+
+CALL NO. = LC3993 .A675 2015. 
+TITLE = Applied practice for educators of gifted and able learners / edited by 
+Hava E. Vidergor and Carole Ruth Harris ; foreword by Ellen Winner. 
+PUBLISHER = Rotterdam : Sense Publishers, c2015. 
+RECORD # = b24192247. LOCATION = lbks. 
+
+
+CALL NO. = ML162 .L45 2021. 
+TITLE = The art of ancient music / David Leinweber. 
+PUBLISHER = Lanham : Lexington Books, [2021]. 
+RECORD # = b24189674. LOCATION = lbks. 
+
+
+CALL NO. = ML3470 .G44 2020. 
+TITLE = Glitter up the dark : how pop music broke the binary / Sasha Geffen. 
+PUBLISHER = Austin : University of Texas Press, 2020. 
+RECORD # = b24189856. LOCATION = lbks. 
+
+
+CALL NO. = ML3506 .W37 2020. 
+TITLE = Latin jazz : the other jazz / Christopher Washburne. 
+PUBLISHER = New York, NY : Oxford University Press, [2020]. 
+RECORD # = b24189923. LOCATION = lbks. 
+
+
+
+
+CALL NO. = ML3524 .V38 2020. 
+TITLE = Hillbilly maidens, okies, and cowgirls : women's country music, 1930-
+1960 / Stephanie Vander Wel. 
+PUBLISHER = Urbana : University of Illinois Press, [2020]. 
+RECORD # = b2418987x. LOCATION = lbks. 
+
+
+CALL NO. = ML3790 .B679 2020. 
+TITLE = Music marketing for the DIY musician : creating and executing a plan of 
+attack on a low budget / Bobby Borg, MCM. 
+PUBLISHER = Lanham, Maryland : Rowman & Littlefield, [2020]. 
+RECORD # = b24190007. LOCATION = lbks. 
+
+
+CALL NO. = ML3918.B57 F67 2020. 
+TITLE = I don't like the blues : race, place, and the backbeat of Black life / 
+B. Brian Foster. 
+PUBLISHER = Chapel Hill : The University of North Carolina Press, [2020]. 
+RECORD # = b24189893. LOCATION = lbks. 
+
+
+CALL NO. = MT90 .E95 2021. 
+TITLE = Critical themes in world music : a reader for Excursions in world music 
+/ edited by Timothy Rommen, ; Mari{u00E9} Abe, Andrea F. Bohlman, Richard 
+Jankowsky, Joshua D. Pilzer, Ch{u00E9}rie Rivers Ndaliko, Lei Ouyang, and Jim 
+Sykes. 
+PUBLISHER = New York, NY : Routledge, 2021. 
+RECORD # = b24189765. LOCATION = lbks. 
+
+
+CALL NO. = N8353 .D47 2020. 
+TITLE = The death of the artist : how creators are struggling to survive in the 
+age of billionaires and big tech / William Deresiewicz. 
+PUBLISHER = New York, New York : Henry Holt and Company, 2020. 
+RECORD # = b24189789. LOCATION = lbks. 
+
+
+CALL NO. = ND1488 .F56 2004. 
+TITLE = Color : a natural history of the palette / Victoria Finlay. 
+PUBLISHER = New York : Random House Trade Paperbacks, 2004. 
+RECORD # = b24194529. LOCATION = lbks. 
+
+
+CALL NO. = NX650.B66 T75 2018. 
+TITLE = Reading art : art for book lovers / David Trigg. 
+PUBLISHER = London ; New York : Phaidon Press Limited, 2018. 
+RECORD # = b24193616. LOCATION = lbks. 
+
+
+
+
+CALL NO. = PE1112 .K64 2016. 
+TITLE = Exercises for Understanding English grammar / Robert Funk. 
+PUBLISHER = Boston : Pearson, 2016. 
+RECORD # = b25000172. LOCATION = lrsvt. 
+
+
+CALL NO. = PE1112 .K64 2016. 
+TITLE = Understanding English grammar / Martha Kolln, Loretta Gray, Joseph 
+Salvatore. 
+PUBLISHER = Boston : Pearson, [2016]. 
+RECORD # = b25000561. LOCATION = lrsvt. 
+
+
+CALL NO. = PE1404 .I47 2015. 
+TITLE = Antiracist writing assessment ecologies : teaching and assessing writing
+for a socially just future / Asao B. Inoue. 
+PUBLISHER = Fort Collins, Colorado : The WAC Clearinghouse ; Anderson, South 
+Carolina : Parlor Press, [2015]. 
+RECORD # = b24193495. LOCATION = lbks. 
+
+
+CALL NO. = PE1413 .G57 2018. 
+TITLE = The least you should know about English : writing skills / Paige Wilson,
+Pasadena City College ; Teresa Ferster Glazier, Late, Western Illinois 
+University. 
+PUBLISHER = Boston, MA : Cengage Learning, [2018]. 
+RECORD # = b25000305. LOCATION = lrsvt. 
+
+
+CALL NO. = PN1992.15 .C379 2019. 
+TITLE = Catherine the Great / HBO Miniseries presents ; in association with Sky 
+; a New Pictures/Origin Pictures production ; producer, Jules Hussey ; executive
+producer, Helen Mirren ; executive producers, Philip Martin, Nigel Williams ; 
+executive producers, David M. Thompson, Charlie Pattinson ; written by Nigel 
+Williams ; directed by Philip Martin. 
+PUBLISHER = Burbank, CA : Warner Bros. Home Entertainment, [2020]. 
+PUBLISHER = Burbank, CA : distributed by Warner Bros. Home Entertainment. 
+PUBLISHER = Package design: {u00A9}2020. 
+RECORD # = b24192132. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .C86 2019 s.3. 
+CALL NO. = PN1992.15 .C86 2019 s.3. 
+TITLE = The crown. The complete third season / a Netflix original series ; 
+created by Peter Morgan ; Sony Pictures Television ; Left Bank Pictures. 
+PUBLISHER = Culver City, California : Sony Pictures Home Entertainment, [2020]. 
+RECORD # = b24192090. LOCATION = lmvc. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1992.15 .F3. 
+CALL NO. = PN1992.15 .F3. 
+CALL NO. = PN1992.15 .F3. 
+CALL NO. = PN1992.15 .F3. 
+CALL NO. = PN1992.15 .F3. 
+TITLE = Family guy. Volume 3 / produced by Sherry Gunther, Mike Barker, Billiam 
+Coronel, Matt Weitzman, Kara Vallow ; written by Seth MacFarlane, Chris Sheridan,
+Danny Smith, Neil Goldman, Garrett Donovan [and others] ; directed by Seth 
+MacFarlane, Peter Shin, Michael Dante DiMartino, Dominic Polcino, Monte Young 
+[and others]. 
+PUBLISHER = Beverly Hills, California : Twentieth Century Fox Home Entertainment,
+[2019]. 
+RECORD # = b24193306. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .F37 2020 s.8. 
+TITLE = Father Brown. Season eight. 
+PUBLISHER = [England] : BBC Studios, [2020]. 
+RECORD # = b24193288. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .F543 2016. 
+TITLE = Fleabag. The complete series. 
+PUBLISHER = [Place of publication not identified] : Screen Media, [2020]. 
+RECORD # = b24192120. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .K55 2019 s.2. 
+TITLE = Killing Eve. Season two / a Sid Gentle Films production ; Endeavor 
+Content  ; written by Emerald Fenwell ; directed by Damon Thomas. 
+PUBLISHER = [London] : BBC, 2019. 
+RECORD # = b24192107. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .K55 2020 s.3. 
+TITLE = Killing Eve. Season 3 / Endeavor/Content ; Sid Gentle Films Ltd. ; BBC 
+America original production. 
+PUBLISHER = [New York, New York] : BBC America : AMC, [2020]. 
+PUBLISHER = [Silver Spring, Maryland] : distributed by RLJ Entertainment, Inc. 
+RECORD # = b24192119. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .T95 2019 s.1. 
+TITLE = The twilight zone. Season one / created by Rod Serling ; developed by 
+Simon Kinberg, Jordan Peele, Marco Ramirez. New Series.
+PUBLISHER = Hollywood, CA : Paramount, [2020]. 
+RECORD # = b24193173. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1992.56 .R436 2019. 
+TITLE = Recorder : the Marion Stokes project / an End Cue and Electric Chinoland
+production ; in association with C41 Media ; produced by Kyle Martin, Andrew 
+Kortschak, Walter Kortschak ; directed by Matt Wolf. 
+PUBLISHER = New York, NY : Zeitgeist Films, [2020]. 
+PUBLISHER = New York : Distributed by Kino Lorber. 
+RECORD # = b24191784. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .C5885 1960. 
+TITLE = The cloud-capped star [videorecording (DVD)] / directed by Ritwik 
+Ghatak. 
+PUBLISHER = [New York, N.Y.] : The Criterion Collection, [2019]. 
+RECORD # = b24194888. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .E546 2020. 
+TITLE = Emma / Focus Features presents ; in association with Perfect World 
+Pictures ; a Working Title/Blueprint Pictures production ; directed by Autumn de
+Wilde ; produced by Tim Bevan, Eric Fellner, Graham Broadbent, Peter Czernin ; 
+screenplay by Eleanor Catton. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2020]. 
+RECORD # = b24192193. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .H4844 1966. 
+TITLE = The hero = Nayak / written and directed by Satyajit Ray ; producers, R. 
+D. Bansal, Sharankumari Bansal. 
+PUBLISHER = [United States] : The Criterion Collection, [2018]. 
+RECORD # = b24194943. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .J35 1958. 
+TITLE = The music room / Janus Films ; Aurora Films presents ; written, produced
+and directed by Satyajit Ray. 
+PUBLISHER = [Irvington, N.Y.] : Criterion Collection, [2011]. 
+RECORD # = b24194906. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .M5724 2019. 
+TITLE = Miss Bala / Columbia Pictures presents ; a Canana/Misher Films 
+production ; produced by Kevin Misher, Pablo Cruz ; screenplay by Gareth Dunnet-
+Alcocer ; directed by Catherine Hardwicke. 
+PUBLISHER = Culver City, California : Sony Pictures Home Entertainment, [2019]. 
+RECORD # = b2700062x. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .S5538 1995. 
+TITLE = Showgirls / United Artists Pictures ; directed by Paul Verhoeven ; 
+written by Joe Eszterhas ; produced by Alan Marshall ; produced by Charles Evans
+; a Mario Kassar presentation ; a Chargeurs/Charles Evans production in 
+association with Carolco Pictures, Inc. 
+PUBLISHER = Beverly Hills, Calif. : Twentieth Century Fox Home Entertainment, 
+{u00A9}2007. 
+RECORD # = b24191747. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .V48 1960. 
+TITLE = La v{u00E9}rit{u00E9} / Raoul J. Levy pr{u00E9}sente ; un film de H.G. 
+Clouzot ; sc{u00E9}nario, Henri-Georges Clouzot, Simone Drieu, Michele Perrein, 
+J{u00E9}r{u00F4}me G{u00E9}ronimi, Christiane Rochefort, V{u00E9}ra Clouzot ; 
+une co-production franco-italienne, Han-Productions, CEIAP ; produit par Raoul 
+J. Levy. 
+PUBLISHER = [New York, N.Y.] : The Criterion Collection, [2019]. 
+RECORD # = b24192181. LOCATION = lmvc. 
+
+
+CALL NO. = PN1994.S56 Y68 2020. 
+TITLE = You don't Nomi / RLJE Films presents a Different Places production ; 
+producerd by Ariana Garfinkel, Suzanne Zionts ; produced, written, edited and 
+directed by Jeffrey McHale. 
+PUBLISHER = [Chatsworth, CA] : RLJ Entertainment, [2020]. 
+RECORD # = b24191759. LOCATION = lmvc. 
+
+
+CALL NO. = PN1998.3.C37 D75 2012. 
+TITLE = Marcel Carn{u00E9} / Jonathan Driskell. 
+PUBLISHER = Manchester ; New York : Manchester University Press ; New York : 
+Distributed in the U.S. by Palgrave Macmillan, 2012. 
+RECORD # = b23473629. LOCATION = lbks. 
+
+
+CALL NO. = PN2067 .D45 2021. 
+TITLE = Costume design : the basics / T.M. Delligatti. 
+PUBLISHER = New York : Routledge, Taylor & Francis Group, 2021. 
+RECORD # = b24192260. LOCATION = lbks. 
+
+
+CALL NO. = PN2091.C63 O45 2018. 
+TITLE = Digital media, projection design & technology for theatre / Alex 
+Oliszewski, Daniel Fine with Daniel Roth. 
+PUBLISHER = New York, NY : Routledge, 2018. 
+RECORD # = b24192314. LOCATION = lbks. 
+
+
+
+
+CALL NO. = PN4121 .H2627 2020. 
+TITLE = The art of presenting : delivering successful presentations in the 
+social sciences and humanities / Fieke Harinck, Esther van Leeuwen. 
+PUBLISHER = Cambridge, United Kingdom ; New York, NY : Cambridge University 
+Press, 2020. 
+RECORD # = b24189686. LOCATION = lbks. 
+
+
+CALL NO. = PN6071.A84 R64 2013. 
+TITLE = The romance of Arthur : an anthology of medieval texts in translation / 
+edited by Norris J. Lacy and James J. Wilhelm. 
+PUBLISHER = London ; New York : Routledge, 2013. 
+RECORD # = b25000457. LOCATION = lrsvt. 
+
+
+CALL NO. = PN6747.S247 Z46 2014. 
+TITLE = L'Arabe du futur : une jeunesse au Moyen-Orient (1978-1984) / Riad 
+Sattouf. 
+PUBLISHER = Paris : Allary {u00C9}ditions, {u00A9}2014. 
+RECORD # = b2500010x. LOCATION = lrsvc. 
+
+
+CALL NO. = PN6748.A8 O24 2014. 
+TITLE = Ob{u00E9}lix et compagnie / texte de Ren{u00E9} Goscinny ; dessins 
+d'Albert Uderzo. 
+PUBLISHER = Paris : Hachette, [2014]. 
+RECORD # = b2500041x. LOCATION = lrsvc. 
+
+
+CALL NO. = PN6748 .L8 2019 v.3. 
+TITLE = Lucky Luke. The complete collection. Volume 3 / Morris & Goscinny ; 
+introduction by Christelle and Bertrand Pissavy-Yvernault ; translator, Jerome 
+Saincantin. 
+PUBLISHER = Canterbury, Kent : Cinebook, 2019. 
+RECORD # = b25000330. LOCATION = lrsvc. 
+
+
+CALL NO. = PN6790.B44 T573 2006. 
+CALL NO. = PN6790.B44 T573 2006. 
+TITLE = Tintin au Congo / Herg{u00E9}. 
+PUBLISHER = [Paris] : Casterman, 2006. 
+RECORD # = b25000524. LOCATION = lrsvc. LOCATION = lrsvc. 
+
+
+CALL NO. = PQ1447.E5 K53 1991. 
+TITLE = Arthurian romances / Chr{u00E9}tien de Troyes ; translated with an 
+introduction and notes by William W. Kibler (Erec and Enide translated by 
+Carleton W. Carroll). 
+PUBLISHER = London, England ; New York, N.Y., USA : Penguin Books, 1991. 
+RECORD # = b25000111. LOCATION = lrsvt. 
+
+
+
+
+CALL NO. = PQ1483.H42 A265 1992. 
+TITLE = Silence : a thirteenth-century French romance / newly edited and 
+translated with introduction and notes by Sarah Roche-Mahdi. 
+PUBLISHER = East Lansing : Colleagues Press, {u00A9}1992. 
+RECORD # = b25000470. LOCATION = lrsvt. 
+
+
+CALL NO. = PQ2603.E378 E53 2011. 
+TITLE = Waiting for Godot / Samuel Beckett. 
+PUBLISHER = New York, NY : Grove Press, [2011]. 
+RECORD # = b25000597. LOCATION = lrsvt. 
+
+
+CALL NO. = PR321 .M45 1995. 
+TITLE = Middle English romances : authoritative texts, sources and backgrounds, 
+criticism / selected and edited by Stephen H.A. Shepherd. 
+PUBLISHER = New York : W.W. Norton, [1995]. 
+RECORD # = b25000366. LOCATION = lrsvt. 
+
+
+CALL NO. = PR2750 .B07 1998. 
+TITLE = The first quarto of Hamlet / edited by Kathleen O. Irace. 
+PUBLISHER = New York : Cambridge University Press, {u00A9}1998. 
+RECORD # = b25000196. LOCATION = lrsvc. 
+
+
+CALL NO. = PR2807.A2 M69 2012. 
+CALL NO. = PR2807.A2 M69 2012. 
+TITLE = The tragedy of Hamlet, Prince of Denmark / by William Shakespeare ; 
+edited by Barbara A. Mowat and Paul Werstine. 
+PUBLISHER = New York : Simon & Schuster Paperbacks, [2012]. 
+RECORD # = b25000536. LOCATION = lrsvt. LOCATION = lbks. 
+
+
+CALL NO. = PR2808.A2 M64 2011. 
+TITLE = The tragedy of Julius Caesar / by William Shakespeare ; edited by 
+Barbara A. Mowat and Paul Werstine. 
+PUBLISHER = New York : Simon & Schuster Paperbacks, 2011. 
+RECORD # = b25000548. LOCATION = lrsvt. 
+
+
+CALL NO. = PR2817.A2 M68 2021. 
+TITLE = Henry VIII / by William Shakespeare ; edited by Barbara A. Mowat and 
+Paul Werstine. 
+PUBLISHER = New York : Simon & Schuster Paperbacks, 2021. 
+RECORD # = b25000251. LOCATION = lrsvt. 
+
+
+
+
+CALL NO. = PR2821.A2 M68 2018. 
+TITLE = The tragedy of Richard III / by William Shakespeare ; edited by Barbara 
+A. Mowat and Paul Werstine. 
+PUBLISHER = New York : Simon & Schuster Paperbacks, 2018. 
+RECORD # = b2500055x. LOCATION = lrsvt. 
+
+
+CALL NO. = PR6003.E282 W3 2009. 
+TITLE = Watt / Samuel Beckett. 
+PUBLISHER = New York : Grove Press ; [Berkeley, Calif.] : Distributed by 
+Publishers Group West, [2009]. 
+RECORD # = b25000603. LOCATION = lrsvt. 
+
+
+CALL NO. = PR6063.A2176 Z564 2019. 
+CALL NO. = PR6063.A2176 Z564 2019. 
+TITLE = Essays on John McGahern : assessing a literary legacy / Derek Hand & 
+Eamon Maher [editors]. 
+PUBLISHER = Cork, Ireland : Cork University Press, 2019. 
+RECORD # = b27000680. LOCATION = lbks. LOCATION = lnet. 
+
+
+CALL NO. = PS3515.E37 Z475 2009. 
+TITLE = A moveable feast : the restored edition / Ernest Hemingway ; foreword by
+Patrick Hemingway ; edited, with an introduction, by Se{u00E1}n Hemingway. 
+PUBLISHER = New York, NY : Scribner, [2009]. 
+RECORD # = b27000898. LOCATION = lrsvt. 
+
+
+CALL NO. = PS3552.E77 T74 2020. 
+TITLE = A treatise on stars / Mei-mei Berssenbrugge. 
+PUBLISHER = New York : New Directions Books, 2020. 
+RECORD # = b24184986. LOCATION = lbks. 
+
+
+CALL NO. = PS3563.O8749 S8 2004. 
+TITLE = Sula / Toni Morrison ; [with a new foreword by the author]. 
+PUBLISHER = New York : Vintage International, 2004. 
+RECORD # = b25000512. LOCATION = lrsvt. 
+
+
+CALL NO. = PS3565.C57 A444 2021. 
+TITLE = Flannery : the storied life of the writer from Georgia / a film by 
+Elizabeth Coffman & Mark Bosco ; produced by Mark Bosco, Elizabeth Coffman, Ted 
+Hardin ; series producer, Julie Sacks. 
+PUBLISHER = [New York]: WNET, PBS, [2021]. 
+RECORD # = b24191693. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PS3602.L679 F36 2020. 
+TITLE = Fantasia for the man in blue / Tommye Blount. 
+PUBLISHER = Tribeca : Four Way Books, [2020]. 
+RECORD # = b24184809. LOCATION = lbks. 
+
+
+CALL NO. = PZ7.B7247 Fi 2020. 
+TITLE = Fighting words / Kimberly Brubaker Bradley. 
+PUBLISHER = New York : Dial Books for Young Readers, [2020]. 
+RECORD # = b24188621. LOCATION = ltmyl. 
+
+
+CALL NO. = Q172.5.P77 G673 2021. 
+TITLE = On the fringe : where science meets pseudoscience / Michael D. Gordin. 
+PUBLISHER = New York, NY : Oxford University Press, [2021]. 
+RECORD # = b24194281. LOCATION = lbks. 
+
+
+CALL NO. = Q175.5 .M467 2018. 
+TITLE = The fight against doubt : how to bridge the gap between scientists and 
+the public / Inmaculada de Melo-Mart{u00ED}n and Kristen Intemann. 
+PUBLISHER = New York, NY : Oxford University Press, [2018]. 
+RECORD # = b2419444x. LOCATION = lbks. 
+
+
+CALL NO. = Q182.3 .F73 2021. 
+TITLE = Once can be enough : decisive experiments, no replication required / 
+Allan Franklin, Ronald Laymon. 
+PUBLISHER = Cham, Switzerland : Springer, [2021]. 
+RECORD # = b24190949. LOCATION = lbks. 
+
+
+CALL NO. = Q335.N374 2021. 
+TITLE = Deceitful media : artificial intelligence and social life after the 
+Turing test / Simone Natale. 
+PUBLISHER = New York, NY : Oxford University Press, [2021]. 
+RECORD # = b24193835. LOCATION = lbks. 
+
+
+CALL NO. = QA76.9.A25 S53 2021. 
+TITLE = Cybersecurity Lessons from COVID-19 / Robert Slade. 
+PUBLISHER = Boca Raton, FL : CRC Press, [2021]. 
+RECORD # = b24197142. LOCATION = lbks. 
+
+
+CALL NO. = QH440 .H86 2020. 
+TITLE = Human nature / A Nova production by the Wonder Collaborative for WGBH 
+Boston ; producers Meredith DeSalazar, Sarah Goodwin, Elliot Kirschner ; written
+by Adam Bolt & Regina Sobel ; produced and directed by Adam Bolt. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2020]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution. 
+RECORD # = b24191723. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = QV 771.4 .F534a 2020. 
+TITLE = Adverse events : race, inequality, and the testing of new 
+pharmaceuticals / Jill A. Fisher. 
+PUBLISHER = New York : New York University Press, [2020]. 
+RECORD # = b24194025. LOCATION = lbks. 
+
+
+CALL NO. = QW806 .V117 2017. 
+TITLE = Vaccination ethics and policy : an introduction with readings / edited 
+by Jason L. Schwartz and Arthur L. Caplan. 
+PUBLISHER = Cambridge, Massachusetts ; London, England : The MIT Press, [2017]. 
+RECORD # = b24194475. LOCATION = lbks. 
+
+
 CALL NO. = S494.5.B563 P33 2009. 
 TITLE = Starved for science : how biotechnology is being kept out of Africa / 
 Robert Paarlberg ; [foreword by Norman Borlaug and Jimmy Carter]. 
 PUBLISHER = Cambridge, Mass. : Harvard University Press, 2009. 
 RECORD # = b22858118. LOCATION = lnet. 
+
+
+CALL NO. = TK7816 .F57 2010. 
+TITLE = Electronics fundamentals : circuits, devices, and applications / Thomas 
+L. Floyd, David M. Buchla. 
+PUBLISHER = Upper Saddle River, N.J. : Prentice Hall, {u00A9}2010. 
+RECORD # = b27000862. LOCATION = lrsvt. 
+
+
+CALL NO. = TL540.B7492 K45 2019. 
+TITLE = All blood runs red : the legendary life of Eugene Bullard-- boxer, pilot,
+soldier, spy / Phil Keith with Tom Clavin. 
+PUBLISHER = Toronto : Hanover Square Press, [2019]. 
+RECORD # = b24191206. LOCATION = lbks. 
+
+
+CALL NO. = TX518.W5 P653 2020. 
+TITLE = The poison squad / an Ark Media Production for American experience ; 
+American Experience Films ; written and directed by John Maggio ; produced by 
+John Maggio and Tom Denison. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2020]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2020]. 
+RECORD # = b24191772. LOCATION = lmvc. 
+
+
+CALL NO. = U22 .H34 2020. 
+TITLE = The justice of war : its foundations in ethics and natural law / Richard
+A. S. Hall. 
+PUBLISHER = Lanham, Maryland : Lexington Books, [2020]. 
+RECORD # = b24191358. LOCATION = lbks. 
+
+
+
+
+CALL NO. = UH23 .W27 2019. 
+TITLE = Religion in uniform : a critique of US military chaplaincy / Edward 
+Waggoner. 
+PUBLISHER = Lanham : Lexington Books, [2019]. 
+RECORD # = b24191437. LOCATION = lbks. 
+
+
+CALL NO. = W15 .G997m 2021. 
+TITLE = Medical terminology express : a short-course approach by body system / 
+Barbara A. Gylys, Regina M. Masters. 
+PUBLISHER = Philadelphia, PA : F.A. Davis Company, [2021]. 
+RECORD # = b24193859. LOCATION = lrefs. 
+
+
+CALL NO. = WB 141.5 S215e 2009. 
+TITLE = Every patient tells a story : medical mysteries and the art of diagnosis
+/ Lisa Sanders. 
+PUBLISHER = New York : Broadway Books, an imprint of the Crown Publishing Group,
+a division of Random House, Inc., [2009]. 
+RECORD # = b28119411. LOCATION = lnet. 
+
+
+CALL NO. = WC506 .C556a 2020. 
+TITLE = Apollo's arrow : the profound and enduring impact of coronavirus on the 
+way we live / Nicholas A. Christakis. 
+PUBLISHER = New York ; Boston ; London : Little, Brown Spark, 2020. 
+RECORD # = b24193501. LOCATION = lbks. 
+
+
+CALL NO. = WM31 .H434 2019. 
+TITLE = The healer and the psychiatrist / Potolahi Productions presents ; a film
+by Mike Poltorak ; filmed, directed, and produced by Dr Mike Poltorak. 
+PUBLISHER = Watertown, MA : Documentary Educational Resources, [2020]. 
+RECORD # = b24196022. LOCATION = lmvc. 
+
+
+CALL NO. = Z987.5 .U6 2020. 
+TITLE = The booksellers / Greenwich Entertainment presents ; a Blackletter Films
+production ; produced by Judith Mizrachy, Dan Wechsler, D.W. Young ; co-producer,
+Debra McClutchy ; directed by D.W. Young. 
+PUBLISHER = New York, NY : Kino Lorber, [2020]. 
+RECORD # = b24191735. LOCATION = lmvc. 
 
 

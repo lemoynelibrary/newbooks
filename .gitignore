@@ -1,4 +1,5 @@
 *.lnk
+*.p
 .DS_Store
 temp1.txt
 temp2.txt
