@@ -592,14 +592,14 @@ print OUT <<EOM;
         <li>
           <a title="Recent Library Acquisitions" href="newbooks.html">Recent Library Acquisitions</a>
         </li>
-        <li id="s-lib-bc-page" class="active">XXXXXXX 2021</li>
+        <li id="s-lib-bc-page" class="active">XXXXXXX 2022</li>
       </ol>
     </div>
 
     <div class="row">
       <div class="col-md-12">
         <h1>Recent Library Acquisitions</h1>
-        <h2>XXXXXXX 2021</h2>
+        <h2>XXXXXXX 2022</h2>
 
         <!--  Page Navigation Links -->
         <hr>
