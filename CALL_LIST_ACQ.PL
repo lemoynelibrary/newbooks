@@ -221,6 +221,9 @@ if (s/.*?LOCATION = (.+?)\n//s) {
           if($x =~ /ljr/) {
             $loc = "Jesuit Residence ";
           }
+          if($x =~ /llr/) {
+            $loc = "Leisure Reading ";
+          }
           if($x =~ /lrsvm/) {
             $loc = "Reserves: Media ";
           }
