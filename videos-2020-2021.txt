@@ -1,0 +1,1393 @@
+
+
+CALL NO. = WQ 211 B867 1994. 
+TITLE = The broken cord : Louise Erdrich and Michael Dorris / from WNET/New York,
+WTTW/ Chicago, WTVS/Detroit ; a production of Public Affairs Television ; 
+produced and directed by Catherine Tatge. 
+PUBLISHER = Princeton, N.J. : Films for the Humanities & Sciences, {u00A9}2008. 
+RECORD # = b18255267. LOCATION = lmvc. LOCATION = lbks. 
+
+
+CALL NO. = PN1993.15 .C589 2014. 
+TITLE = Clouds of Sils Maria / CG Cinema presents ; with Pallas Film/Cab 
+Productions/ Vortex Sutra ; in association with Ezekiel Film Production ; 
+written and directed by Olivier Assayas ; produced by Charles Gillibert. 
+PUBLISHER = [New York, N.Y.] : The Criterion Collection, [2016]. 
+RECORD # = b23473599. LOCATION = lmvc. LOCATION = lnet. 
+
+
+CALL NO. = PN1993.15 .B646 2019. 
+TITLE = Bombshell / Lionsgate presents ; in association with Creative Wealth 
+Media and Annapurna Pictures ; a  Bron Studios, Denver and Delilah, Gramsci and 
+Lighthouse Management & Media production ; produced by Aaron L. Gilbert, Jay 
+Roach, Robert Graf, Michelle Graham, Charles Randolph, Margaret Riley, Charlize 
+Theron, Beth Kono, A.J. Dix ; written by Charles Randolph ; directed by Jay 
+Roach. 
+PUBLISHER = Santa Monica, CA : Lionsgate, [2020]. 
+RECORD # = b23473605. LOCATION = lmvc. LOCATION = lnet. 
+
+
+CALL NO. = BF441 .H33 2020. 
+TITLE = Hacking your mind / produced by Oregon Public Broadcasting ; series 
+producer, Kate McMahon ; produced & directed by Carl Byker ; written by Carl 
+Byker, Jacob Ward, Kate McMahon. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2020]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2020]. 
+RECORD # = b24192028. LOCATION = lmvc. 
+
+
+CALL NO. = BF637.C6 C574 2013. 
+TITLE = Theory and practice of counseling and psychotherapy : the case of Stan 
+and lecturettes. 
+PUBLISHER = [Boston, Massachusetts] : Cengage Learning, [2013]. 
+RECORD # = b24194414. LOCATION = lmvc. 
+
+
+CALL NO. = BS2555.2 W43 2004. 
+CALL NO. = BS2555.2 W43 2004. 
+TITLE = What is Truth? : the Gospels and their authors / an Opus Television 
+production for S4C and S4C International in association with Bible Society and 
+Barcud Derwen. 
+PUBLISHER = Princeton, NJ : Films for the Humanities & Sciences, {u00A9}2004, 
+{u00A9}2003. 
+RECORD # = b23473708. LOCATION = lmvc. LOCATION = lnet. 
+
+
+
+
+CALL NO. = BX4705.M542 M38 2004. 
+CALL NO. = BX4705.M542 M38 2004. 
+TITLE = Merton : a film biography of Thomas Merton / produced by Paul Wilkes, 
+Audrey Laurine Glynn ; written and directed by Paul Wilkes. 
+PUBLISHER = New York : First Run Features, [2004?]. 
+RECORD # = b23475067. LOCATION = lmvc. LOCATION = lnet. 
+
+
+CALL NO. = D769.8.A6 A48 2018. 
+TITLE = Alternative facts : the lies of executive order 9066 / a film by Jon 
+Osaki. 
+PUBLISHER = [Newburgh, NY] : New Day Films, [2019]. 
+RECORD # = b24191164. LOCATION = lmvc. 
+
+
+CALL NO. = DP270 .S554 2018. 
+TITLE = El silencio de otros : Un camino des seis a{u00F1}os y 10.000 
+kil{u00F3}metros para romper el pacto del olvido / una pel{u00ED}cula de 
+Almudena Carracedo y Robert Bahar ; productoras Almudena Carracedo, Robert 
+Bahar. 
+PUBLISHER = Madrid : Karma Films, [2018]. 
+RECORD # = b24195157. LOCATION = lmvc. 
+
+
+CALL NO. = DS135.F9 C6427 2020. 
+TITLE = Chichinette : the accidental spy / Amos Geva presents ; in co-production
+with with German Film and Television Academy Berlin (dffb), Rundfunk Berlin-
+Brandenburg, M{u00E9}rov{u00E9}e Film Production ; a film by Nicola Alice Hens ;
+written & directed by Nicola Alice Hens ; produced by Amos Geva. 
+PUBLISHER = New York, NY : Kino Lorber, [2020]. 
+RECORD # = b24191760. LOCATION = lmvc. 
+
+
+CALL NO. = DS244.526.A47 C76 2019. 
+TITLE = The crown prince of Saudi Arabia / Rain Media, Inc. ; produced by Linda 
+Hirsch, Sara Obeidat, Martin Smith ; writers, Martin Smith, Linda Hirsch. 
+PUBLISHER = Arlington, VA : PBS, [2019]. 
+RECORD # = b24193379. LOCATION = lmvc. 
+
+
+CALL NO. = DS932.2 .P76 2015. 
+TITLE = The propaganda game / Memento Films presents ; a Morena Films production
+; co-producers: Alexandra Lebret, Tanja Georgieva ; directed and produced by 
+Alvaro Longoria ; written by Alvaro Longoria. 
+PUBLISHER = [Great Britain] : Metrodome, [2016]. 
+RECORD # = b23473642. LOCATION = lmvc. 
+
+
+CALL NO. = E184.A75 .F37 2020. 
+TITLE = Far East, deep South / produced by Baldwin Chiu, Larissa Lam ; directed 
+by Larissa Lam. 
+PUBLISHER = [Newburgh, New York] : New Day Films, 2020. 
+RECORD # = b24191176. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = E185.2 .S53 2012. 
+CALL NO. = E185.2 .S53 2012. 
+TITLE = Slavery by another name / produced and directed by Sam Pollard ; written
+by Sheila Curran Bernard ; a production of TPT National Productions in 
+association with Two Dollars & A Dream, Inc. 
+PUBLISHER = [Arlington, VA] : PBS Distribution, [2012]. 
+RECORD # = b23474865. LOCATION = lmvc. LOCATION = lnet. 
+
+
+CALL NO. = E846 .L22 1998. 
+TITLE = The LBJ tapes / a presentation of ABC News. 
+PUBLISHER = [New York, N.Y.] : ABC News, 2007. 
+RECORD # = b20984571. LOCATION = lmvc. 
+
+
+CALL NO. = F334.B69 N405 1998. 
+CALL NO. = F334.B69 N3 1997. 
+TITLE = 4 little girls / HBO Home Video ; HBO Original Programming ; an HBO 
+documentary film in association with 40 Acres and a Mule Filmworks production ; 
+a Spike Lee Joint ; director, producer, Spike Lee ; producer, Sam Pollard. 
+PUBLISHER = New York, NY : Home Box Office : Distributed by HBO Home Video, 
+{u00A9}1998. 
+RECORD # = b24188505. LOCATION = lmvc. LOCATION = lnet. 
+
+
+CALL NO. = HB501 .P436 2019. 
+CALL NO. = HB501 .P436 2019. 
+TITLE = Capital in the twenty-first century / a film by Justin Pemberton. 
+PUBLISHER = New York, NY : Kino Lorber, [2020]. 
+RECORD # = b23474701. LOCATION = lmvc. LOCATION = lnet. 
+
+
+CALL NO. = HD1492.U6 G46 2016. 
+CALL NO. = HD1492.U6 G46 2016. 
+TITLE = Arc of justice : the rise, fall and rebirth of a beloved community / 
+Open Studio Productions ; produced and directed by Helen S. Cohen & Mark Lipman 
+; co-producer, John Emmeus Davis. 
+PUBLISHER = [Harriman, N.Y.] : New Day Films, [2016]. 
+RECORD # = b24194402. LOCATION = lmvc. LOCATION = lnet. 
+
+
+CALL NO. = HD9010.B66 H47 2020. 
+TITLE = The man who tried to feed the world / American Experience Films ; an 
+Apograph Productions film for American experience ; WGBH ; written and directed 
+by Rob Rapley ; produced by Rob Rapley and Jamila Wignot. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2020]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2020]. 
+RECORD # = b24192016. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = HQ281 .S49 2019. 
+TITLE = Sex trafficking in America / a Frontline production with True Vision 
+Productions in association for Channel 4 ; WGBH ; produced by Lauren Mucciolo, 
+Jezza Neumann ; directed by Jezza Neumann. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2019]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2019]. 
+RECORD # = b24193355. LOCATION = lmvc. 
+
+
+CALL NO. = HQ767.15 .A2755 2019. 
+TITLE = The abortion divide / a produced and narrated by Mark Obenhaus ; written
+by Mark Obenhaus ; produced and directed by Elizabeth Leiter. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2019]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2019]. 
+RECORD # = b24193367. LOCATION = lmvc. 
+
+
+CALL NO. = HQ1236.5.U6 W58 2020. 
+TITLE = Without a whisper = Konn{u00F3}n:kwe / a film by Katsitsionni Fox ; 
+produced by Two Row Productions, LLC for Vision Maker Media ; directed and 
+produced by Katsitsionni Fox. 
+PUBLISHER = [United States] ; Women Make Movies, [2020]. 
+RECORD # = b24188190. LOCATION = lmvc. 
+
+
+CALL NO. = HQ1792 .T86 2013. 
+TITLE = Tunisian women : we will stand up / Nasr Art Production presents ; 
+directed by Hajer Ben Nasr ; produced by Nasr Art Production ; produced by Firas
+Rebii ; scenario, Hajer Ben Nasr. 
+PUBLISHER = New York, NY : Third World Newsreel, 2013. 
+RECORD # = b24182989. LOCATION = lmvc. 
+
+
+CALL NO. = HV6432.7 .A18 2021. 
+TITLE = 9/11 : one day in America / produced by National Geographic. 
+PUBLISHER = [United States] : Buena Vista Home Entertainment, [2021]. 
+RECORD # = b28179377. LOCATION = lmvc. 
+
+
+CALL NO. = HV6483.F47 W465 2020. 
+TITLE = What killed Michael Brown? / Man of Steele Productions ; directed, 
+produced, & edited by Eli Steele ; written, narrated, & produced by Shelby 
+Steele ; produced by Rita Steele. 
+PUBLISHER = [United States] : Man of Steele Productions, [2020]. 
+RECORD # = b2418598x. LOCATION = lmvc. 
+
+
+CALL NO. = HV6483.L7 B87 2017. 
+TITLE = Burn, motherf*cker, burn! / produced by Vanessa Maruskin and Erikka 
+Yancy ; directed by Sacha Jenkins. 
+PUBLISHER = [Place of publication not identified] : Showtime Networks Inc., 
+2017. 
+RECORD # = b23474725. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = HV8148.N54 P654 2020. 
+TITLE = Policing the police 2020 / a Frontline production with Left/Right Docs ;
+Frontline is a production of WGBH/Boston ; written and produced by Anya Bourg & 
+James Jacoby & Jelani Cobb ; correspondent, Jelani Cobb ; produced by Kevin 
+Vargas. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2020]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2020]. 
+RECORD # = b24193331. LOCATION = lmvc. 
+
+
+CALL NO. = ML419.M68 I3 2016. 
+CALL NO. = ML419.M68 I3 2016. 
+TITLE = I called him Morgan / Kasper Collin Produktion presents ; in co-
+production with SVT and Film V{u00E4}st ; a film by Kasper Collin ; director, 
+screenwriter and producer, Kasper Collin. 
+PUBLISHER = [United States] : Fisher Klingenstein Ventures, LLC, [2017]. 
+RECORD # = b24188499. LOCATION = lmvc. LOCATION = lnet. 
+
+
+CALL NO. = PN1992.15 .A449 s.2 2019. 
+TITLE = American gods. Season two / Starz Originals presents ; FremantleMedia 
+North America ; developed for television by Bryan Fuller & Michael Green. 
+PUBLISHER = Santa Monica, CA : Lionsgate Entertainment, [2019]. 
+RECORD # = b24193203. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .A85 2018. 
+TITLE = Atlanta. The complete first season / RBA ; 343 Incorporated ; MGMT. 
+Entertainment ; FX Productions ; created by Donald Glover ; producer, Hiro Murai
+; produced by Alex Orr. 
+PUBLISHER = Beverly Hills, California : Twentieth Century Fox Home Entertainment,
+[2018]. 
+RECORD # = b2419329x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .C379 2019. 
+TITLE = Catherine the Great / HBO Miniseries presents ; in association with Sky 
+; a New Pictures/Origin Pictures production ; producer, Jules Hussey ; executive
+producer, Helen Mirren ; executive producers, Philip Martin, Nigel Williams ; 
+executive producers, David M. Thompson, Charlie Pattinson ; written by Nigel 
+Williams ; directed by Philip Martin. 
+PUBLISHER = Burbank, CA : Warner Bros. Home Entertainment, [2020]. 
+PUBLISHER = Burbank, CA : distributed by Warner Bros. Home Entertainment. 
+PUBLISHER = Package design: {u00A9}2020. 
+RECORD # = b24192132. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1992.15 .C86 2019 s.3. 
+CALL NO. = PN1992.15 .C86 2019 s.3. 
+TITLE = The crown. The complete third season / a Netflix original series ; 
+created by Peter Morgan ; Sony Pictures Television ; Left Bank Pictures. 
+PUBLISHER = Culver City, California : Sony Pictures Home Entertainment, [2020]. 
+RECORD # = b24192090. LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .F3. 
+CALL NO. = PN1992.15 .F3. 
+CALL NO. = PN1992.15 .F3. 
+CALL NO. = PN1992.15 .F3. 
+CALL NO. = PN1992.15 .F3. 
+TITLE = Family guy. Volume 3 / produced by Sherry Gunther, Mike Barker, Billiam 
+Coronel, Matt Weitzman, Kara Vallow ; written by Seth MacFarlane, Chris Sheridan,
+Danny Smith, Neil Goldman, Garrett Donovan [and others] ; directed by Seth 
+MacFarlane, Peter Shin, Michael Dante DiMartino, Dominic Polcino, Monte Young 
+[and others]. 
+PUBLISHER = Beverly Hills, California : Twentieth Century Fox Home Entertainment,
+[2019]. 
+RECORD # = b24193306. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .F37 2020 s.8. 
+TITLE = Father Brown. Season eight. 
+PUBLISHER = [England] : BBC Studios, [2020]. 
+RECORD # = b24193288. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .F543 2016. 
+TITLE = Fleabag. The complete series. 
+PUBLISHER = [Place of publication not identified] : Screen Media, [2020]. 
+RECORD # = b24192120. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .G55 2016. 
+TITLE = Gilmore girls : a year in the life / a Warner Bros. Television 
+production ; a Netflix original series ; Dorothy Parker Drank Here Productions ;
+created by Amy Sherman-Palladino ; produced by Dylan K. Massin ; producer, Helen
+Pai ; written and directed by Amy Sherman-Palladino, Daniel Palladino. 
+PUBLISHER = Burbank, CA : Warner Bros. Entertainment, [2017]. 
+PUBLISHER = Package design, {u00A9}2017. 
+RECORD # = b24193215. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .G66 s.3 2017. 
+TITLE = Grantchester. The complete third season / developed for television by 
+Daisy Coulam ; a Kudos / Masterpiece co-production for ITV. 
+PUBLISHER = Arlington, VA : PBS, [2017]. 
+RECORD # = b20913631. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1992.15 .G66 s.5 2020. 
+TITLE = Grantchester. The complete fifth season / developed for television by 
+Daisy Coulam ; produced by Richard Cookson ; a co-production of Kudos and 
+Masterpiece for ITV. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2020]. 
+PUBLISHER = [Arlington, Virginia] : distributed by PBS Distribution. 
+RECORD # = b24193264. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .K55 2019 s.2. 
+TITLE = Killing Eve. Season two / a Sid Gentle Films production ; Endeavor 
+Content  ; written by Emerald Fenwell ; directed by Damon Thomas. 
+PUBLISHER = [London] : BBC, 2019. 
+RECORD # = b24192107. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .K55 2020 s.3. 
+TITLE = Killing Eve. Season 3 / Endeavor/Content ; Sid Gentle Films Ltd. ; BBC 
+America original production. 
+PUBLISHER = [New York, New York] : BBC America : AMC, [2020]. 
+PUBLISHER = [Silver Spring, Maryland] : distributed by RLJ Entertainment, Inc. 
+RECORD # = b24192119. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .L378 2015 s.1. 
+TITLE = The last kingdom. Season one / produced by Chrissy Skinns ; written by 
+Stephen Butchard ; directed by Nick Murphy, Anthony Byrne, Ben Chanan, Peter 
+Hoar. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2017]. 
+RECORD # = b24193161. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .L378 2017 s.2. 
+TITLE = The last kingdom. Season two / executive producers, Nigel Marchant, 
+Gareth Neame ; Carnival ; co-production with Netflix for BBC. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2017]. 
+RECORD # = b2419315x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .L66 2018. 
+TITLE = The long song / executive producers, David Heyman, Rosie Alison ; 
+executive producers, Andrea Levy, Sarah Williams, Tom Coan ; produced by Roopesh
+Parekh ; written by Sarah Williams ; directed by Mahalia Belo ; a Heyday 
+Television production for BBC. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2021]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution. 
+RECORD # = b24193276. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+CALL NO. = PN1992.15 .M22. 
+TITLE = Mad men. The complete collection / Lions Gate Television Inc. ; Weiner 
+Bros. ; created by Matthew Weiner ; executive producer, Matthew Weiner ; 
+executive producer, Scott Hornbacher. ; executive producer, Janet Leahy. 
+PUBLISHER = Santa Monica, California : Lions Gate Entertainment, 2015. 
+RECORD # = b24184585. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = 
+lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .M7763. 
+CALL NO. = PN1992.15 .M7763. 
+CALL NO. = PN1992.15 .M7763. 
+CALL NO. = PN1992.15 .M7763. 
+CALL NO. = PN1992.15 .M7763. 
+CALL NO. = PN1992.15 .M7763. 
+CALL NO. = PN1992.15 .M7763. 
+CALL NO. = PN1992.15 .M7763. 
+TITLE = Mr. Robot. The complete series [videorecording (DVD)] / created by Sam 
+Esmail ; produced by Igor Srubshchik, Margo Myers Massey, Christian Slater, Rami
+Malek, Gregg Tilson ; written by Sam Esmail, Adam Penn, David Iserson, Kyle 
+Bradstreet, Kate Erickson [and others] ; directed by Niels Arden Oplev, Sam 
+Esmail, Jim McKay, Nisha Ganatra, Deborah Chow [and others]. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2020]. 
+PUBLISHER = {u2117}{u266D}2020. 
+RECORD # = b24192144. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = 
+lmvc. 
+
+
+CALL NO. = PN1992.15 .M901 1987. 
+TITLE = My Little Pony. The complete series / director, Jay Bacal ; DVD producer,
+Brian Ward. 
+PUBLISHER = Los Angeles, CA : Shout Factory, [2014]. 
+RECORD # = b24193239. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1992.15 .O35. 
+CALL NO. = PN1992.15 .O35. 
+CALL NO. = PN1992.15 .O35. 
+CALL NO. = PN1992.15 .O35. 
+CALL NO. = PN1992.15 .O35. 
+CALL NO. = PN1992.15 .O35. 
+CALL NO. = PN1992.15 .O35. 
+CALL NO. = PN1992.15 .O35. 
+CALL NO. = PN1992.15 .O35. 
+CALL NO. = PN1992.15 .O35. 
+CALL NO. = PN1992.15 .O35. 
+CALL NO. = PN1992.15 .O35. 
+TITLE = The office. Seasons 6-9. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2018]. 
+RECORD # = b24193227. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = 
+lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .O88 s.5 2020. 
+CALL NO. = PN1992.15 .O88 s.5 2020. 
+TITLE = Outlander. Season five / producer, Caitriona Balfe ; producer, Sam 
+Heughan ; producers, Elicia Bessette, Michael O'Halloran ; produced by Guy 
+Tannahill ; developed by Ronald D. Moore ; Left Bank Pictures ; Story Mining & 
+Supply Co. ; Tall Ship Productions. 
+PUBLISHER = Culver City, California : Sony Pictures Home Entertainment, [2020]. 
+RECORD # = b24193240. LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .P133 2010. 
+CALL NO. = PN1992.15 .P133 2010. 
+CALL NO. = PN1992.15 .P133 2010. 
+TITLE = The Pacific / HBO presents a Playtone and Dreamworks production. 
+PUBLISHER = Burbank, CA : Warner Home Video, c2010. 
+RECORD # = b24193197. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .R55 2013 s.1. 
+TITLE = Rick and Morty. Season 1 / created by Justin Roiland and Dan Harmon ; 
+supervising director, Pete Michels ; Justin Roiland's Solo Vanity Card 
+Productions ; Harmonious Claptrap ; Starburns Industries ; Williams Street. 
+PUBLISHER = Burbank, CA : Warner Home Video, [2014]. 
+RECORD # = b24193252. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .R558 2017 s.1. 
+TITLE = Riverdale. The complete first season / developed by Roberto Aguirre-
+Sacasa. 
+PUBLISHER = [Burbank, California] : Warner Bros. Entertainment Inc., [2017]. 
+PUBLISHER = Burbank, California : Warner Bros. Home Entertainment, [2017]. 
+RECORD # = b24193185. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1992.15 .T95 2019 s.1. 
+TITLE = The twilight zone. Season one / created by Rod Serling ; developed by 
+Simon Kinberg, Jordan Peele, Marco Ramirez. New Series.
+PUBLISHER = Hollywood, CA : Paramount, [2020]. 
+RECORD # = b24193173. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .W359 2019. 
+TITLE = Watchmen. Season 1. / created for television by Damon Lindelof. 
+PUBLISHER = Burbank, CA : Warner Bros. Home Entertainment, [2020]. 
+RECORD # = b24186272. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .W49 2016. 
+TITLE = Westworld. Season one, The maze / HBO ; Bad Robot Productions ; Kilter 
+Films ; Jerry Weintraub Productions ; Warner Bros. Television ; created for 
+television by Jonathan Nolan and Lisa Joy. 
+PUBLISHER = [Los Angeles, CA] : HBO, [2017]. 
+PUBLISHER = Burbank, CA : Warner Home Entertainment, [2017]. 
+RECORD # = b2091362x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.15 .W55. 
+CALL NO. = PN1992.15 .W55. 
+CALL NO. = PN1992.15 .W55. 
+CALL NO. = PN1992.15 .W55. 
+CALL NO. = PN1992.15 .W55. 
+CALL NO. = PN1992.15 .W55. 
+CALL NO. = PN1992.15 .W55. 
+CALL NO. = PN1992.15 .W55. 
+CALL NO. = PN1992.15 .W55. 
+CALL NO. = PN1992.15 .W55. 
+TITLE = The wire. The complete series. / HBO Original Programming presents ; 
+producer, Nina Kostroff Noble [and others] ; directed by Clark Johnson [and 
+others] ; written by David Simon [and others] ; created by David Simon. 
+PUBLISHER = [New York, N.Y.] : Home Box Office ; Burbank, Calif. : Distributed 
+by Warner Home Video, [2018]. 
+RECORD # = b24184597. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. LOCATION = 
+lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1992.56 .R436 2019. 
+TITLE = Recorder : the Marion Stokes project / an End Cue and Electric Chinoland
+production ; in association with C41 Media ; produced by Kyle Martin, Andrew 
+Kortschak, Walter Kortschak ; directed by Matt Wolf. 
+PUBLISHER = New York, NY : Zeitgeist Films, [2020]. 
+PUBLISHER = New York : Distributed by Kino Lorber. 
+RECORD # = b24191784. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .A111 2002. 
+TITLE = 25th hour / Touchstone Pictures presents a 40 Acres and a Mule Filmworks
+production ; an Industry Entertainment/Gamut Films production ; a Spike Lee 
+joint ; produced by Tobey Maguire and Julia Chasman ; produced by Spike Lee and 
+Jon Kilik ; screenplay by David Benioff ; directed by Spike Lee. 
+PUBLISHER = [Burbank, California] : Touchstone Home Video, [2003]. 
+PUBLISHER = Burbank, CA : Buena Vista Home Entertainment, [2003]. 
+RECORD # = b24184688. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .A1148 2002. 
+TITLE = 28 days later / Fox Searchlight Pictures presents in association with 
+DNA Films and the Film Council ; producer, Andrew MacDonald ; writer, Alex 
+Garland ; director, Danny Boyle. 
+PUBLISHER = [United States] : 20th Century Fox Home Entertainment, [2003], 
+{u00A9}2002. 
+RECORD # = b24183854. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .A11917 2019. 
+TITLE = 1917 / a DreamWorks Pictures and Reliance Entertainment presentation ; 
+in association with New Republic Pictures ; a Neal Street Production ; produced 
+in association with Mogambo ; directed by Sam Mendes ; written by Sam Mendes & 
+Krysty Wilson-Cairns ; produced by Sam Mendes, Pippa Harris, Jayne-Ann Tenggren,
+Callum McDougall, Brian Oliver. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2020]. 
+RECORD # = b24192041. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .A23 1971. 
+TITLE = Adrift on the Nile / screenplay by Mamdouh Al Leithi ; directed by 
+Hussein Kamal. 
+PUBLISHER = [Seattle, WA] : Arab Film Distribution, 1971. 
+RECORD # = b28181633. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .A4975 2019. 
+TITLE = American skin / TM Film ; written and directed by Nate Parker ; a Spike 
+Lee presentation ; a Tarak Ben Ammar/Mark Burg production ; in association with 
+Tiny Giant Entertainment ; produced by Mark Burg, Tarak Ben Ammar, Lukas Behnken
+; co-producer, R.D. Delgado ; co-producers, David Oyelowo, Sean Wolfington, Glen
+March Jr. ; a film by Nate Parker. 
+PUBLISHER = [Santa Monica, California] : Vertical Entertainment, [2021]. 
+PUBLISHER = [Santa Monica, California] : distributed by Vertical Entertainment, 
+LLC. 
+RECORD # = b24193148. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .A518 2020. 
+TITLE = Ammonite / Neon presents ; BBC Films & BFI present ; in association with
+Cross City Films ; a See-Saw Films production ; a film by Francis Lee ; written 
+and directed by Francis Lee ; produced by Iain Canning, Emile Sherman, Fodhla 
+Cronin O'Reilly ; executive producers, Simon Gillis, Mary Burke, Rose Garnett, 
+Zygi Kamasa ; co-producers, Rob How, Nicky Earnshaw ; developed in association 
+with BBC Films. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2021]. 
+RECORD # = b2419220x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .C358 2008. 
+TITLE = Cadillac Records / Tristar ; Head Hunters, Inc. ; Sony Music Film and 
+Parkwood Pictures present ; a Sony Music Film production ; a film by Darnell 
+Martin ; executive producers, Marc Levin, Beyonc{u00E9} Knowles ; executive 
+music producer, Marshall Chess ; produced by Andrew Lack, Sofia Sondervan ; 
+written & directed by Darnell Martin. 
+PUBLISHER = Culver City, Calif. : Sony Pictures Home Entertainment, 2009. 
+RECORD # = b2419170x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .C435 1964. 
+TITLE = Charulata / the RDB Organization ; produced by R.D. Bansal ; screenplay,
+music, and direction by Satyajit Ray. 
+PUBLISHER = [New York, N.Y.] : Criterion Collection, [2013]. 
+PUBLISHER = {u00A9}2013,1964. 
+RECORD # = b2419489x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .C5885 1960. 
+TITLE = The cloud-capped star [videorecording (DVD)] / directed by Ritwik 
+Ghatak. 
+PUBLISHER = [New York, N.Y.] : The Criterion Collection, [2019]. 
+RECORD # = b24194888. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .C7561 2020. 
+TITLE = The Croods : a new age / Dreamworks Animation presents ; a Universal 
+Picture ; story by Kirk DeMicco, Chris Sanders ; screenplay by Kevin Hageman & 
+Dan Hageman and Paul Fisher & Bob Logan ; produced by Mark Swift ; directed by 
+Joel Crawford. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2021]. 
+RECORD # = b2419217x. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .D7267 1919. 
+TITLE = The dragon painter / A Milestone Film release ; a preservation and 
+restoration project of The National Center for Film and Video Preservation at 
+The American Film Institute, in conjunction with the International Museum of 
+Photography at George Eastman House and the Museum of Modern Art ; Haworth 
+Pictures Corporation presents ; Directed by Wiliam Worthington ; scenario by E. 
+Richard Schayer. 
+PUBLISHER = Harrington Park, N.J. : Milestone Film & Video : Distributed by New 
+Yorker Video, {u00A9}2008. 
+RECORD # = b18245961. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .D886 2005. 
+TITLE = Duny{u0101} = Dunia : kiss me not on the eyes / directed by Jocelyne 
+Saab. 
+PUBLISHER = Seattle, WA : Typecast releasing Arab Film Distribution 
+[distributor], 2006. 
+RECORD # = b24183489. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .E546 2020. 
+TITLE = Emma / Focus Features presents ; in association with Perfect World 
+Pictures ; a Working Title/Blueprint Pictures production ; directed by Autumn de
+Wilde ; produced by Tim Bevan, Eric Fellner, Graham Broadbent, Peter Czernin ; 
+screenplay by Eleanor Catton. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2020]. 
+RECORD # = b24192193. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .F532 2017. 
+CALL NO. = PN1993.15 .F532 2017. 
+CALL NO. = PN1993.15 .F532 2017. 
+TITLE = First reformed / an A24 release ; a Killer Films production ; an Omeira 
+Studio Partners production ; a Fibonacci Films production in association with 
+Arclight Films International and Big Indie Pictures ; produced by Jack Binder, 
+Greg Clark, Victoria Hill, Gary Hamilton, Deepak Sikka ; produced by Christine 
+Vachon, David Hinojosa, Frank Murray ; written and directed by Paul Schrader. 
+PUBLISHER = Santa Monica, CA : Lionsgate, [2018]. 
+RECORD # = b21024571. LOCATION = lmvc. LOCATION = lnet. LOCATION = lnet. 
+
+
+CALL NO. = PN1993.15 .F5574 1999. 
+TITLE = Flowers from another world = Flores de otro mundo / con la 
+participaci{u00F3}n de Televisi{u00F3}n Espa{u00F1}ola ; Producciones La Iguana 
+y Alta Films presentan ; productor ejecutivo, Santiago Garc{u00ED}a de 
+Le{u00E1}niz ; gui{u00F3}n, Iciar Bollain, Julio Llamazares ; dirigida por Iciar
+Bollain. 
+PUBLISHER = Chatsworth, Calif. : Distributed by Image Entertainment, [2005]. 
+RECORD # = b23475031. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .F689 2015. 
+TITLE = 45 years / Sundance Selects, Film4 & BFI present, in association with 
+Creative England, a production from The Bureau ; written & directed by Andrew 
+Haigh ; produced by Tristan Goligher. 
+PUBLISHER = [New York, New York] : The Criterion Collection, [2017]. 
+RECORD # = b18246059. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .G5587 1994. 
+TITLE = The glass shield / Miramax Films ; a CIBY 2000 and Byrnes/Schroeder/
+Walker production ; written and directed by Charles Burnett. 
+PUBLISHER = [United States] : Miramax Home Entertainment ; Burbank, Calif. : 
+Distributed by Buena Vista Home Video, [2002]. 
+RECORD # = b28180719. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .G8466 2014. 
+TITLE = G{u00FC}eros / Instituto Mexicana de Cinematograf{u00ED}a (IMCINE) ; a 
+Cine Can{u00ED}bal presentation ; una pel{u00ED}cula de Alonso Ruizpalacios ; 
+produdica por Ramiro Ruiz ; escrita por Alonso Ruizpalacios, Gibr{u00E1}n 
+Portela. 
+PUBLISHER = New York, NY : Kino Lorber, [2015]. 
+RECORD # = b24195133. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .H4844 1966. 
+TITLE = The hero = Nayak / written and directed by Satyajit Ray ; producers, R. 
+D. Bansal, Sharankumari Bansal. 
+PUBLISHER = [United States] : The Criterion Collection, [2018]. 
+RECORD # = b24194943. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .I393 2003. 
+TITLE = In the cut / Screen Gems presents Path{u00E9} Productions, Ltd. presents
+a Laurie Parker production, a Jane Campion film ; screenplay by Jane Campion, 
+Susanna Moore ; produced by Laurie Parker, Nicole Kidman ; directed by Jane 
+Campion. 
+PUBLISHER = Culver City, Calif. : Columbia TriStar Home Entertainment, 2004. 
+RECORD # = b28180707. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .I562 2006. 
+TITLE = Inside man / Universal Pictures and Imagine Entertainment present a 
+Brian Grazer production, a Spike Lee joint ; produced by Brian Grazer ; written 
+by Russell Gewirtz ; directed by Spike Lee. 
+PUBLISHER = Universal City, CA : Universal Studios Home Entertainment, [2006]. 
+RECORD # = b24184676. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .I663 2020. 
+TITLE = The invisible man / Universal Pictures presents ; a BH/Goalpost 
+production ; in association with Nervous Tick Productions ; directed by Leigh 
+Whannell ; screenplay and screen story by Leigh Whannell ; produced by Jason 
+Blum, Kylie Du Fresne. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2020]. 
+RECORD # = b24192211. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .I667 2020. 
+TITLE = Invisibles / una producci{u00F3}n, Nephilim Producciones, Orange Films 
+A.I.E. ; productores, Luis Collar, Jorge Moreno, Ignacio Salazar-Simpson, 
+Ricardo Marco Bud{u00E9} ; gui{u00F3}n Antonio Mercero, Gracia Querejeta ; 
+dirigida por Gracia Querejeta. 
+PUBLISHER = [Barcelona, Spain] : Cameo Media, [2020]. 
+RECORD # = b2817835x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .I7312 2019. 
+TITLE = The Irishman : I heard you paint houses / Netflix presents ; directed by
+Martin Scorsese ; screenplay by Steven Zaillian ; produced by Martin Scorsese, 
+Robert De Niro ; produced by Jane Rosenthal, Emma Tillinger Koskoff ; produced 
+by Irwin Winkler ; produced by Gerald Chamales ; produced by Gaston Pavlovich ; 
+produced by Randall Emmett, Gabriele Israilovici ; co-producers, Marianne Bower,
+David Webb ; Tribeca Productions ; Sikelia Productions ; a Winkler Films 
+production ; a Martin Scorsese picture. 
+PUBLISHER = [New York, New York] : The Criterion Collection, [2020]. 
+RECORD # = b24192053. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .I7901 2005. 
+TITLE = The island / DreamWorks Pictures and Warner Bros. Pictures present ; a 
+Parkes/MacDonald production ; produced by Walter F. Parkes, Michael Bay, Ian 
+Bryce ; story by Caspian Tredwell-Owen ; screenplay by Caspian Tredwell-Owen and
+Alex Kurtzman & Roberto Orci ; directed by Michael Bay. 
+PUBLISHER = Universal City, CA : DreamWorks Home Entertainment, [2005]. 
+RECORD # = b28177289. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .J35 1958. 
+TITLE = The music room / Janus Films ; Aurora Films presents ; written, produced
+and directed by Satyajit Ray. 
+PUBLISHER = [Irvington, N.Y.] : Criterion Collection, [2011]. 
+RECORD # = b24194906. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .J38 2014. 
+TITLE = Jauja / 4L ; Perceval Pictures, Fortuna Films, Le Films du Worso, 
+Mantarraya, Massive, Kamoli Films, the Match Factory, Wanka ; direcci{u00F3}n, 
+Lisandro Alonso ; gui{u00F3}n, Fabian Casas, Lisandro Alonso. 
+PUBLISHER = [New York, New York] : Cinema Guild [distributor], [2015]. 
+RECORD # = b24195091. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .K562 2019. 
+TITLE = Kim Ji-Young, born 1982 = 82 nian sheng de Jin Zhiying. 
+PUBLISHER = Johor Bahru : VStarz Enterprise, [2020?]. 
+RECORD # = b24185103. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .K573 2014. 
+TITLE = Kingsman : the secret service / Twentieth Century Fox presents in 
+association with Marv ; a Cloudy production ; a Matthew Vaughn film. 
+PUBLISHER = Beverly Hills, California : 20th Century Fox Home Entertainment, 
+[2015]. 
+RECORD # = b20913643. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .K573 2017. 
+TITLE = Kingsman : the golden circle / Twentieth Century Fox presents in 
+association with Marv ; a Cloudy production ; produced by Matthew Vaughn, David 
+Reid, Adam Bohling ; written by Jane Goldman & Matthew Vaughn ; directed by 
+Matthew Vaughn. 
+PUBLISHER = Beverly Hills, CA : Twentieth Century Fox Home Entertainment, 
+[2017]. 
+RECORD # = b20913655. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .L49 2019. 
+TITLE = Little women / written for the screen and directed by Greta Gerwig ; 
+produced by Amy Pascal ; produced by Denise Di Novi, Robin Swicord ; Columbia 
+Pictures and Regency Enterprises present ; a Pascal Pictures production. 
+PUBLISHER = Culver City, California : Sony Pictures Home Entertainment, [2020]. 
+RECORD # = b24192077. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .M2197 1981. 
+TITLE = The road warrior. 
+PUBLISHER = [Burbank, Calif.] : Warner Bros Pictures, 1997. 
+RECORD # = b20913588. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .M29015 2018. 
+TITLE = The man who killed Don Quixote / a Screen Media release ; Alacran 
+Pictures presents ; a Tornasol production ; with Kinology, Entre Chien et Loup, 
+Ukbar Filmes, El Hombre que Mat{u00F3} a Don Quijote, Carisco Producciones ; in 
+co-production with Recorded Picture Company ; produced by Mariela Besuievsky, 
+Gerardo Herrero, Amy Gilliam, Gr{u00E9}goire Melin, S{u00E9}bastien Delloye ; 
+written by Terry Gilliam & Tony Grisoni ; directed by Terry Gilliam. 
+PUBLISHER = New York, NY : Screen Media Films, [2019]. 
+RECORD # = b24194426. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .M355 2013. 
+CALL NO. = PN1993.15 .M355 2013. 
+CALL NO. = PN1993.15 .M355 2013. 
+CALL NO. = PN1993.15 .M355 2013. 
+CALL NO. = PN1993.15 .M355 2013. 
+TITLE = Martin Scorsese's World Cinema Project./ Criterion Collection ; Janus 
+Films ; World Cinema Foundation. 
+PUBLISHER = [Irvington, NY] : Criterion Collection, [2013]. 
+RECORD # = b24194918. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .M355 2017. 
+CALL NO. = PN1993.15 .M355 2017. 
+CALL NO. = PN1993.15 .M355 2017. 
+CALL NO. = PN1993.15 .M355 2017. 
+CALL NO. = PN1993.15 .M355 2017. 
+TITLE = Martin Scorsese's World Cinema Project. No. 2 / Janus Films ; The Film 
+Foundation ; World Cinema Project ; Cineteca Bologna. 
+PUBLISHER = [New York, New York] : The Criterion Collection, [2017]. 
+RECORD # = b2419492x. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .M355 2020. 
+CALL NO. = PN1993.15 .M355 2020. 
+CALL NO. = PN1993.15 .M355 2020. 
+CALL NO. = PN1993.15 .M355 2020. 
+CALL NO. = PN1993.15 .M355 2020. 
+TITLE = Martin Scorsese's World Cinema Project. No. 3 / The Film Foundation 
+World Cinema Project. 
+PUBLISHER = [New York, New York] : Criterion Collection, [2020]. 
+RECORD # = b24194931. LOCATION = lmvc. LOCATION = lmvc. LOCATION = lmvc. 
+LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .M3596 2019. 
+TITLE = Marriage story / written and directed by Noah Baumbach ; produced by 
+David Heyman, Noah Baumbach ; a Netflix presentation ; a Heyday Films production
+; a Noah Baumbach picture. 
+PUBLISHER = [New York, N.Y.] : The Criterion Collection, [2020]. 
+RECORD # = b24192065. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .M3976 2016. 
+TITLE = Maudie. 
+PUBLISHER = Australia : Distributed by Universal Sony Pictures Home 
+Entertainment Australia Pty Ltd, {u00A9}2018. 
+RECORD # = b24185206. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .M5724 2019. 
+TITLE = Miss Bala / Columbia Pictures presents ; a Canana/Misher Films 
+production ; produced by Kevin Misher, Pablo Cruz ; screenplay by Gareth Dunnet-
+Alcocer ; directed by Catherine Hardwicke. 
+PUBLISHER = Culver City, California : Sony Pictures Home Entertainment, [2019]. 
+RECORD # = b2700062x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .M573 2020. 
+TITLE = Miss Juneteenth / Ley Line Entertainment and Sailor Bear present ; 
+produced by Neil Creque Williams, James M. Johnston, Jeanie Igoe, Toby Halbrooks,
+Tim Headington, Theresa Steele Page ; written & directed by Channing Godfrey 
+Peoples. 
+PUBLISHER = [Santa Monica, CA] : Vertical Entertainment, [2020]. 
+RECORD # = b24192223. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .M6647 2019. 
+CALL NO. = PN1993.15 .M6647 2019. 
+TITLE = Monos / Neon, Participant Media, Le Pacte presenta una producci{u00F3}n 
+de Stela Cine, Caracol Televisi{u00F3}n, Dago Garc{u00ED}a Producciones, Cine 
+Colombia, Dynamo, Mincultura, Proim{u00E1}genes Colombia, Lemming Film, Campo 
+Cine, Pandora, Snowglobe, Film i V{u00E4}st, Mutante Cine ; director, Alejandro 
+Landes ; gui{u00F3}n, Alejandro Landes, Alexis Dos Santos ; una producci{u00F3}n
+de Alejandro Landes, Fernando Epstein ; productores, Santiago Zapata, Cristina 
+Landes. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2019]. 
+RECORD # = b23475055. LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .N47 2020. 
+TITLE = Never rarely sometimes always / Focus Features and BBC Films present ; a
+Pastel production ; in association with Tango Entertainment, Mutressa Movies and
+Cinereach ; written and directed by Eliza Hittman ; produced by Adele Romanski, 
+Sara Murphy. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2020]. 
+RECORD # = b24192168. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .N492 2020. 
+TITLE = News of the world / Universal Pictures presents ; a Playtone/Pretty 
+Pictures production ; directed by Paul Greengrass ; screenplay by Paul 
+Greengrass and Luke Davies ; produced by Gary Goetzman, Gail Mutrux, Gregory 
+Goodman ; a Paul Greengrass film. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2021]. 
+RECORD # = b24191796. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .N5152 1985. 
+TITLE = The return of the living dead / Hemdale Film Corporation presents a Fox 
+Films, Ltd. production ; Cinema '84 ; screenplay by Dan O'Bannon ; produced by 
+Tom Fox ; directed by Dan O'Bannon. 
+PUBLISHER = Santa Monica, CA : MGM Home Entertainment, [2002]. 
+RECORD # = b2418391x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .O598 2020. 
+TITLE = Onward / Disney ; Pixar ; directed by Dan Scanlon ; produced by Kori Rae
+; original story by Dan Scanlon, Keith Bunin, Jason Headley ; screenplay by Dan 
+Scanlon, Jason Headley, Keith Bunin ; created & produced at Pixar Animation 
+Studios. 
+PUBLISHER = Burbank, CA : Walt Disney, [2020]. 
+PUBLISHER = Burbank, CA : Buena Vista Home Entertainement. 
+RECORD # = b2419203x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .P5553 2011. 
+TITLE = La piel que habito = [The skin I live in] / Sony Pictures Classics ; con
+la financiaci{u00F3}n del Instituto de Cr{u00E9}dito Oficial ; con la 
+participaci{u00F3}n de TVE y Canal+ Espa{u00F1}a ; El Deseo presenta ; un film 
+de Almod{u00F3}var ; dirigida por Pedro Almod{u00F3}var ; gui{u00F3}n de Pedro 
+Almod{u00F3}var ; productor, Agust{u00ED}n Almod{u00F3}var ; producida por 
+Esther Garc{u00ED}a. 
+PUBLISHER = Culver City, Calif. : Sony Pictures Home Entertainment, [2012]. 
+RECORD # = b2419525x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .P6128 2019. 
+TITLE = The Platform / Basque Films, Mr Miyagi Films, Platforma La Pelicula AIE 
+; a film by Galder Gaztelu-Urruria. 
+PUBLISHER = Santa Monica, California : Basque Films Inc.; Netflix, 2020. 
+RECORD # = b24195121. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .P6599 2020. 
+CALL NO. = PN1993.15 .P6599 2020. 
+TITLE = Portrait of a lady on fire / Neon and Lilies Films present ; in 
+association with Arte France Cin{u00E9}ma and Hold-Up Films ; with the 
+participation of CNC ; with the support of La R{u00E9}gion {u00CE}le-de-France ;
+with the participation of Canal + Cin{u00E9} + Arte France ; in association with
+Pyramide, MK2 Films, Cin{u00E9}cap 2 ; producer, B{u00E9}n{u00E9}dicte Couvreur 
+; written and directed by C{u00E9}line Sciamma. 
+PUBLISHER = [New York, NY] : The Criterion Collection, [2020]. 
+RECORD # = b24192089. LOCATION = lmvc. LOCATION = lnet. 
+
+
+
+
+CALL NO. = PN1993.15 .P7493 2020. 
+TITLE = Promising young woman / Focus Features presents ; in association with 
+FilmNation Entertainment ; a LuckyChap Entertainment production ; produced by 
+Margot Robbie, Josey McNamara, Tom Ackerley, Ben Browning, Ashley Fox, Emerald 
+Fennell ; written & directed by Emerald Fennell. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2021]. 
+RECORD # = b24192156. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .P878 2016. 
+TITLE = Pusan haeng / chegong, paeg{u016D}p, NEW (Next Entertainment World) ; 
+chejak, (chu) Y{u014F}nghwasa Red{u016D} P'it'{u014F} ; chejak, Yi Tong-ha ; 
+kamdok, Y{u014F}n Sang-ho ; kakpon, Pak Chu-s{u014F}k ; kaksaek, Y{u014F}n Sang-
+ho. 
+PUBLISHER = [S{u014F}ul] : Ep'{u016D}aenssi Aed{u016D} K'{u014F}lch'y{u014F} 
+(FNC Add Culture), 2017. 
+PUBLISHER = S{u014F}ul : Next Entertainment World. 
+RECORD # = b2418388x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .R202 2016. 
+TITLE = Race / Focus Features presents a Stephen Hopkins film ; directed by 
+Stephen Hopkins ; written by Joe Shrapnel & Anna Waterhouse ; produced by Jean-
+Charles Levy, Luc Dayan, Louis-Philippe Rochon, Dominique S{u00E9}guin, Stephen 
+Hopkins, Kate Garwood ; producers, Nicolas Manuel, Katsten Br{u00FC}nig ; made 
+in association with Forecast Pictures, ID+ and Totally Commercial Films ; in 
+association with the Jesse Owens Foundation, the Luminary Group, and Jobro Film 
+Finance Ltd. ; a Solofilms/Trinica Entertainment/Trinity Race co-production. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2016]. 
+RECORD # = b28175451. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .R5295 2019. 
+CALL NO. = PN1993.15 .R5295 2019. 
+TITLE = Richard Jewell / Warner Bros. Pictures presents ; a Malpaso production ;
+an Appian Way/Misher Films/75 Year Plan production ; directed and produced by 
+Clint Eastwood ; written by Billy Ray ; produced by Tim Moore, Jessica Meier, 
+Kevin Misher, Leonardo DiCaprio, Jennifer Davisson, Jonah Hill. 
+PUBLISHER = Burbank, CA : Warner Bros Home Entertainment, [2020]. 
+RECORD # = b23473654. LOCATION = lmvc. LOCATION = lnet. 
+
+
+CALL NO. = PN1993.15 .S2512 1965. 
+TITLE = Saragossa manuscript = R{u0119}kopis znaleziony w Saragossie / 
+Zespo{u0142}y Realizator{u00F3}w Filmowych "Kamera" przedstawia ; scenariusz, 
+Tadeusz Kwiatkowski ; produkcja, Zjednoczone Zespo{u0142}y Realizator{u00F3}w 
+Filmowych, Zesp{u00F3}{u0142} "Kamera" ; re{u017C}yseria, Wojciech J. Has. 
+PUBLISHER = [Brighton, UK] : Mr. Bongo, [2015]. 
+RECORD # = b23474889. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .S472 1987. 
+TITLE = The serpent and the rainbow / Universal ; Keith Barish presents a Rob 
+Cohen/David Ladd production ; a film by Wes Craven ; screenplay by Richard 
+Maxwell and A.R. Simoun ; produced by David Ladd and Doug Claybourne ; directed 
+by Wes Craven. 
+PUBLISHER = Universal City, Calif. : Universal, [2003]. 
+RECORD # = b24183866. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .S537 2004. 
+TITLE = Shaun of the dead / Rogue Pictures Studio Canal and Working Title Films 
+present a WT{u00B2} production in association with Big Talk Productions produced
+in association with Inside Track 2, LLP ; produced by Nira Park ; written by 
+Simon Pegg and Edgar Wright ; directed by Edgar Wright. 
+PUBLISHER = Universal City, CA : Universal, [2004]. 
+RECORD # = b24183878. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .S5538 1995. 
+TITLE = Showgirls / United Artists Pictures ; directed by Paul Verhoeven ; 
+written by Joe Eszterhas ; produced by Alan Marshall ; produced by Charles Evans
+; a Mario Kassar presentation ; a Chargeurs/Charles Evans production in 
+association with Carolco Pictures, Inc. 
+PUBLISHER = Beverly Hills, Calif. : Twentieth Century Fox Home Entertainment, 
+{u00A9}2007. 
+RECORD # = b24191747. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .S5615 2000. 
+CALL NO. = PN1993.15 .S5615 2000. 
+TITLE = Sin dejar huella / Tabasco Films, Altavista Films, Tornasol Films 
+presentan una pel{u00ED}cula de Mar{u00ED}a Novaro ; gui{u00F3}n y 
+direcci{u00F3}n, Mar{u00ED}a Novaro ; productora, Dulce Kuri. 
+PUBLISHER = Beverly Hills, Calif. : Twentieth Century Fox Home Entertainment, 
+2003. 
+RECORD # = b12542489. LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .S5845 1993. 
+TITLE = Sleepless in Seattle / TriStar Pictures presents a Gary Foster 
+production ; screenplay by Nora Ephron and David S. Ward and Jeff Arch ; story 
+by Jeff Arch ; produced by Gary Foster ; directed by Nora Ephron. 
+PUBLISHER = Culver City, CA : Tri-Star Pictures : Distributed by Columbia 
+TriStar Home Video, [2003]. 
+RECORD # = b2091359x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .S633 2020. 
+TITLE = Small axe (2020) / directed by Steve McQueen [DVD]. 
+PUBLISHER = [U.K.] : BBC DVD, [2020]. 
+RECORD # = b28174951. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .S8628 1999. 
+TITLE = Summer of Sam / director, Spike Lee. 
+PUBLISHER = [Place of publication not identified] : KL Studio Classics, [2020]. 
+RECORD # = b24184664. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .T418 2020. 
+TITLE = Tenet / written and directed by Christopher Nolan ; produced by Emma 
+Thomas ; produced by Christopher Nolan ; a Warner Bros. Pictures presentation ; 
+a Syncopy production. 
+PUBLISHER = New York, NY : Warner Bros., [2020]. 
+RECORD # = b24192235. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .T7455 2019. 
+TITLE = La trinchera infinita / eOne ; Irusoin ; Moriarti Produkzioak ; La 
+Claqueta PC ; Trinchera Film ; Manny Films ; con la participaci{u00F3}n de 
+Radiotelevisi{u00F3}n Espa{u030B}nola, Euskal Irrati Telebista, Canal Sur Radio 
+y Televisi{u00F3}n S.A., Film Factory Entertainment, Netflix, Audiovisual 
+Finanzas S.G.R. ; dirigida por Aitor Arregi, Jon Gara{u00F1}o, Jose Mari 
+Goenaga. 
+PUBLISHER = Madrid : Sony Pictures Entertainment Iberia, 2020. 
+RECORD # = b2419508x. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .U71 1980. 
+TITLE = Urban cowboy / Paramount Pictures presents a Robert Evans/Irving Azoff 
+production ; screenplay by James Bridges and Aaron Latham ; directed by James 
+Bridges. 
+PUBLISHER = Hollywood, Calif. : Paramount, {u00A9}2002. 
+RECORD # = b18250130. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .U83 2019. 
+TITLE = Us / Universal Pictures presents ; in association with Perfect World 
+Pictures ; a Monkeypaw production ; produced by Sean McKittrick, Jason Blum, Ian
+Cooper ; written, produced and directed by Jordan Peele. 
+PUBLISHER = Universal City, CA : Universal Pictures Home Entertainment, [2019]. 
+RECORD # = b24184007. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .V48 1960. 
+TITLE = La v{u00E9}rit{u00E9} / Raoul J. Levy pr{u00E9}sente ; un film de H.G. 
+Clouzot ; sc{u00E9}nario, Henri-Georges Clouzot, Simone Drieu, Michele Perrein, 
+J{u00E9}r{u00F4}me G{u00E9}ronimi, Christiane Rochefort, V{u00E9}ra Clouzot ; 
+une co-production franco-italienne, Han-Productions, CEIAP ; produit par Raoul 
+J. Levy. 
+PUBLISHER = [New York, N.Y.] : The Criterion Collection, [2019]. 
+RECORD # = b24192181. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PN1993.15 .W463 1932. 
+TITLE = White zombie / produced by Edward Halperin ; screenplay by Garnett 
+Weston ; directed by Victor Halperin. 
+PUBLISHER = New York, NY : Kino Lorber, {u00A9}2013. 
+RECORD # = b24183891. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .W773 2013. 
+TITLE = World War Z. 
+PUBLISHER = Australia : Distributed by Paramount Home Entertainment 
+(Australasia), {u00A9}2013. 
+RECORD # = b24183908. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .Y723 2011. 
+TITLE = Young Adult / Paramount Pictures and Mandate Pictures present ; a Mr. 
+Mudd production, in assocation with Right of Way Films and Denver & Delilah 
+Films ; a Jason Reitman film ; produced by Lianne Halfon, Russell Smith, Diablo 
+Cody, Mason Novick, Jason Reitman ; written by Diablo Cody ; directed by Jason 
+Reitman. 
+PUBLISHER = Hollywood, Calif. : Paramount, [2012]. 
+RECORD # = b24183271. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .Y98 1998. 
+TITLE = You've got mail / Warner Bros. presents a Lauren Shuler Donner 
+production ; directed by Nora Ephron ; produced by Lauren Shuler Donner and Nora
+Ephron ; screenplay by Nora Ephron and Delia Ephron. 
+PUBLISHER = Burbank, Calif. : Warner Bros. Home Video, [1999]. 
+RECORD # = b20913606. LOCATION = lmvc. 
+
+
+CALL NO. = PN1993.15 .Z206 2017. 
+TITLE = Zama / Rei Cine ; Bananeira Filmes ; en coproducci{u00F3}n con El Deseo,
+Patagonik, MPM Film, Canana, Lemming Film, Telecine Productions, KNM, O Som e a 
+F{u00FA}ria, Louverture Films, Schortcut Films, Bertha Foundation, Perdomo 
+Productions, Punta colorada de cinema ; escrita y dirigida por Lucrecia Martel ;
+producida por Benjamin Domenech, Santiago Gallelli, Mat{u00ED}as Roveda, Vania 
+Catani ; co-productores, Pedro Almod{u00F3}var, Agust{u00ED}n Almod{u00F3}var, 
+Esther Garc{u00ED}a, Marie-Pierre Macia, Claire Gad{u00E9}a, Georges Schoucair, 
+Juan Pablo Galli, Juan Vera, Alejandro Cacetta, Joslyn Barnes, Danny Glover, 
+Susan Rockefeller, Eva Eisenloeffel, Leontine Petit, Joost De Vries, Michel 
+Merkt, Lu{u00ED}s Urbano, Juan Perdomo. 
+PUBLISHER = [Culver City, California] : Strand Releasing Home Entertainment, 
+[2018]. 
+RECORD # = b23475043. LOCATION = lmvc. 
+
+
+CALL NO. = PN1994.S56 Y68 2020. 
+TITLE = You don't Nomi / RLJE Films presents a Different Places production ; 
+producerd by Ariana Garfinkel, Suzanne Zionts ; produced, written, edited and 
+directed by Jeffrey McHale. 
+PUBLISHER = [Chatsworth, CA] : RLJ Entertainment, [2020]. 
+RECORD # = b24191759. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = PR2827 .A1 2014. 
+TITLE = A midsummer night's dream / Ealing Studios and Londinium Films present, 
+in association with Theatre for a New Audience, a Julie Taymor production ; 
+directed by Julie Taymor ; producers, Lynn Hendee, Ben Latham-Jones. 
+PUBLISHER = [New York, N.Y.] : Kino Lorber, 2017. 
+RECORD # = b20913618. LOCATION = lmvc. 
+
+
+CALL NO. = PR5777 .A44 2013. 
+TITLE = American Experience. War of the Worlds / American Experience Films 
+presents ; a Desert Penguin Pictures, LLC production for American Experience ; a
+production of WGBH ; WGBH Educational Foundation ; Produced and directed by 
+Cathleen O'Connell ; story by Michelle Ferrari & A. Brad Schwartz ; telescript 
+by Michelle Ferrari. 
+PUBLISHER = [Arlington, VA] : PBS Distribution, [2013]. 
+RECORD # = b28179365. LOCATION = lmvc. 
+
+
+CALL NO. = PS3563.O8749 Z88 2019. 
+CALL NO. = PS3563.O8749 Z88 2019. 
+TITLE = Toni Morrison : the pieces I am / a production of Perfect Day Films Inc.
+in association with American Masters Pictures ; a film by Timothy-Greenfield-
+Sanders ; produced by Timothy Greenfield-Sanders, Johanna Giebelhaus, Chad 
+Thompson, Tommy Walker ; directed by Timothy Greenfield-Sanders. 
+PUBLISHER = Los Angeles, California : Magnolia Home Entertainment, [2019]. 
+RECORD # = b24186570. LOCATION = lmvc. LOCATION = lnet. 
+
+
+CALL NO. = PS3565.C57 A444 2021. 
+TITLE = Flannery : the storied life of the writer from Georgia / a film by 
+Elizabeth Coffman & Mark Bosco ; produced by Mark Bosco, Elizabeth Coffman, Ted 
+Hardin ; series producer, Julie Sacks. 
+PUBLISHER = [New York]: WNET, PBS, [2021]. 
+RECORD # = b24191693. LOCATION = lmvc. 
+
+
+CALL NO. = Q335 .I58 2019. 
+TITLE = In the age of AI / directed, produced and written by Neil Docherty, 
+David Fanning. 
+PUBLISHER = Arlington, VA : PBS, [2020]. 
+RECORD # = b24193380. LOCATION = lmvc. 
+
+
+CALL NO. = QB82.C5 N67 2011. 
+TITLE = Nostalgia de la luz = Nostalgia for the light / Atacama Productions 
+presenta ; un filme de Patricio Guzm{u00E1}n ; producido por Renate Sachse ; 
+gui{u00F3}n y direcci{u00F3}n, Patricio Guzm{u00E1}n. 
+PUBLISHER = [New York, NY] : Icarus Films, [2011]. 
+RECORD # = b24195145. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = QH440 .H86 2020. 
+TITLE = Human nature / A Nova production by the Wonder Collaborative for WGBH 
+Boston ; producers Meredith DeSalazar, Sarah Goodwin, Elliot Kirschner ; written
+by Adam Bolt & Regina Sobel ; produced and directed by Adam Bolt. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2020]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution. 
+RECORD # = b24191723. LOCATION = lmvc. 
+
+
+CALL NO. = QH541.5.C6 .N38 2020. 
+TITLE = Nature's cleanup crew / produced by Robert Lang, directed by Robin 
+Bicknell, written by Allen Booth. 
+PUBLISHER = Oley, PA : Bullfrog Films, 2020. 
+RECORD # = b28177927. LOCATION = lmvc. 
+
+
+CALL NO. = QV736 .O61 2020. 
+TITLE = Opioids, Inc. / a Frontline production with 2over10 Media in association
+with the Financial Times ; WGBH ; written & directed by Thomas Jennings ; 
+produced by Annie Wong, Nick Verbitsky ; reported by Nick Verbitsky, Hannah 
+Kuchler, Annie Wong, Rebecca Bland{u00F3}n. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2020]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2020]. 
+RECORD # = b24193343. LOCATION = lmvc. 
+
+
+CALL NO. = S589.75 .C69 2014. 
+CALL NO. = S589.75 .C69 2014. 
+TITLE = Cowspiracy : the sustainability secret / A.U.M. Films presents with 
+First Spark Media a film directed by Kip Andersen & Keegan Kuhn. 
+PUBLISHER = [Santa Rosa, Calif.] : A.U.M. Films, [2014]. 
+RECORD # = b24188943. LOCATION = lmvc. LOCATION = lnet. 
+
+
+CALL NO. = TA1653 .C63 2020. 
+TITLE = Coded bias / 7th Empire Media presents a film by Shalini Kantayya ; 
+director, Shalini Kantayya ; producer, Shalini Kantayya ; co-producer, Sabine 
+Hoffman. 
+PUBLISHER = New York, NY : Women Make Movies [2020]. 
+PUBLISHER = {u00A9} 2020. 
+RECORD # = b28177046. LOCATION = lmvc. 
+
+
+CALL NO. = TX518.W5 P653 2020. 
+TITLE = The poison squad / an Ark Media Production for American experience ; 
+American Experience Films ; written and directed by John Maggio ; produced by 
+John Maggio and Tom Denison. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2020]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2020]. 
+RECORD # = b24191772. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = WM 11.1 M182 2001. 
+CALL NO. = WM 11.1 M182 2001. 
+TITLE = Madness : a history / produced by Natural History NZ Ltd. for Discovery 
+Health Channel ; written and produced by Quinn Berentson. 
+PUBLISHER = Princeton, NJ : Films for the Humanities & Sciences, [2003]. 
+RECORD # = b24185188. LOCATION = lmvc. LOCATION = lnet. 
+
+
+CALL NO. = WM31 .H434 2019. 
+TITLE = The healer and the psychiatrist / Potolahi Productions presents ; a film
+by Mike Poltorak ; filmed, directed, and produced by Dr Mike Poltorak. 
+PUBLISHER = Watertown, MA : Documentary Educational Resources, [2020]. 
+RECORD # = b24196022. LOCATION = lmvc. 
+
+
+CALL NO. = WM31 .R571 2019. 
+TITLE = Right to fail / correspondent, Joaquin Sapien ; reported by Joaquin 
+Sapien, Kate McCormick, Nicole Reinert, Marcia Robiou ; co-produced by Joaquin 
+Sapien, Deborah Peretz ; written, produced & directed by Thomas Jennings ; a 
+Frontline production with 2over10 Media in partnership with ProPublica ; a 
+production of WGBH/Boston. 
+PUBLISHER = [Arlington, Virginia] : PBS, [2019]. 
+PUBLISHER = [Arlington, Virginia] : Distributed by PBS Distribution, [2019]. 
+RECORD # = b2419332x. LOCATION = lmvc. 
+
+
+CALL NO. = WO 690 S628i 2017. 
+CALL NO. = WO 690 S628i 2017. 
+TITLE = The immortal life of Henrietta Lacks / HBO Films presents ; a Your Face 
+Goes Here Entertainment production, a Harpo Films production, a Cine Mosaic 
+production ; a George C. Wolfe film ; produced by Kathryn Dean ; screenplay by 
+Peter Landesman, Alexander Woo, George C. Wolfe ; directed by George C. Wolfe. 
+PUBLISHER = [New York, New York] : HBO Films, [2017]. 
+PUBLISHER = Burbank, CA : Warner Home Video, [2017]. 
+RECORD # = b24183507. LOCATION = lmvc. LOCATION = lmvc. 
+
+
+CALL NO. = WT155 .A478 2009. 
+TITLE = The Alzheimer's project / HBO Documentary Films and the National 
+Institute on Aging of the National Institutes of Health ... present. 
+PUBLISHER = [New York] : Home Box Office ; Burbank, CA : Distributed by Warner 
+Home Video, {u00A9}2009. 
+RECORD # = b2347502x. LOCATION = lmvc. 
+
+
+CALL NO. = WZ 112.P3 K12 2019. 
+TITLE = al-Kahf = The cave / National Geographic Documentaries presents ; a 
+Danish Documentary production ; In association with SWR-TV 2 Denmark-Doha, Sun 
+Yat-Sen Cultural Foundation-IMS, Doc Up Fund-Normandie for Peace ; In co-
+production with Ma.Ja.De - Hecat Studio Paris - Madame Films ; a film by Firas 
+Fayyad. 
+PUBLISHER = Beverly Hills, CA : Twentieth Century Fox Home Entertainment, 
+[2019]. 
+RECORD # = b23474695. LOCATION = lmvc. 
+
+
+
+
+CALL NO. = Z987.5 .U6 2020. 
+TITLE = The booksellers / Greenwich Entertainment presents ; a Blackletter Films
+production ; produced by Judith Mizrachy, Dan Wechsler, D.W. Young ; co-producer,
+Debra McClutchy ; directed by D.W. Young. 
+PUBLISHER = New York, NY : Kino Lorber, [2020]. 
+RECORD # = b24191735. LOCATION = lmvc. 
+
+

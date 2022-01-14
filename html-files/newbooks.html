@@ -20,12 +20,9 @@
     a:focus { 
       color: #009161; 
     }
-    .breadcrumb {
-      margin: 5px 0 10px 0;
-      padding-left: 0;
-      font-weight: 700;
-      font-size: 11px;
-      background-color: transparent;
+    #utility-links {
+      margin: 0 0;
+      padding: 0 1.2em;
     }
   </style>
 
@@ -36,12 +33,26 @@
 
 <body id="newbooks">
 
-  <!-- Banner: Updated 2019-04-09 -->
+  <!-- Banner: Updated 2020-08-03 -->
+
+  <nav id="utility-links">
+    <div class="social-media">
+      <a href="https://www.facebook.com/LeMoyneCollegeLibrary/" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i><span class="sr-only">Facebook</span></a>
+      <a href="http://instagram.com/lemoynelibrary" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i><span class="sr-only">Instagram</span></a>
+      <a href="https://twitter.com/lemoynelibrary" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i><span class="sr-only">Twitter</span></a>
+    </div>
+    <div class="account-links">
+      <a href="https://resources.library.lemoyne.edu/askus">Ask Us</a>    
+      <a href="https://library.lemoyne.edu/patroninfo~S0">Library Account</a>
+      <a href="https://resources.library.lemoyne.edu/technology/off-campus-access">Off-Campus Access</a>
+    </div>
+  </nav>
+
   <nav class="navbar navbar-default" id="lmc-banner">
 
     <div class="container-fluid">
       <div class="row" style="margin-top: 1em; margin-bottom: 0.5em">
-        <div class="col-sm-4">
+        <div class="col-sm-6 col-md-5">
           <a href="https://resources.library.lemoyne.edu/library">
             <svg id="falcone-svg-logo" viewBox="0 0 446 69" class="lmc-svg-banner-logo" role="img" aria-labelledby="falcone-logo-title falcone-logo-desc">
               <title id="falcone-logo-title">Noreen Reale Falcone Library</title>
@@ -210,7 +221,7 @@
             </svg>
           </a>
         </div>
-        <div class="col-sm-3 col-sm-offset-5 hidden-xs">
+        <div class="col-sm-3 col-sm-offset-3 col-md-3 col-md-offset-4 hidden-xs">
           <a href="https://lemoyne.edu">
             <svg id="lemoyne-svg-logo" viewBox="0 0 296 51" class="lmc-svg-banner-logo" role="img" aria-labelledby="lemoyne-logo-title lemoyne-logo-desc">
               <title id="lemoyne-logo-title">Le Moyne College</title>
@@ -286,107 +297,127 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
-          <li class="dropdown"> 
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Find Books <b class="caret"></b></a> 
-            <ul class="dropdown-menu"> 
-              <li><a href="https://library.lemoyne.edu/search">Catalog</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/library-services/circulation-policies">Circulation Policies</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/library-services/interlibrary-loan/connect-ny">Connect NY</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/e-books">Find E-books</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/library-services/interlibrary-loan">Interlibrary Loan</a></li>
-              <li><a href="https://library.lemoyne.edu/screens/newbooks.html">New Acquisitions</a></li>
-              <li><a href="https://goo.gl/forms/ZT9xXRaS9X" target="_blank">Suggest a Purchase</a></li>
-              <li class="divider"></li> 
-              <li><a href="https://resources.library.lemoyne.edu/find-books">More...</a></li> 
-            </ul> 
+          <li>
+            <a href="https://resources.library.lemoyne.edu/library/collections">Search Collections</a>
           </li> 
-          <li class="dropdown"> 
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Find Articles <b class="caret"></b></a> 
-            <ul class="dropdown-menu"> 
-              <li><a href="https://resources.library.lemoyne.edu/databases">A-Z Databases</a></li> 
-              <li><a href="https://resources.library.lemoyne.edu/library-services/interlibrary-loan">Interlibrary Loan</a></li>
-              <li><a href="https://wp8kk7mz7x.search.serialssolutions.com/">Journal Finder</a></li>
-              <li><a href="https://wp8kk7mz7x.search.serialssolutions.com/?SS_Page=refiner&SS_RefinerEditable=yes">Citation Linker</a></li>
-              <li class="divider"></li> 
-              <li><a href="https://resources.library.lemoyne.edu/find-articles">More...</a></li> 
-            </ul> 
+          <li>
+            <a href="https://resources.library.lemoyne.edu/guides">Research Guides</a>
           </li> 
-          <li class="dropdown"> 
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Research Guides <b class="caret"></b></a> 
-            <ul class="dropdown-menu"> 
-              <li><a href="https://resources.library.lemoyne.edu/guides/subjects">Subject Guides</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/courses">Course Guides</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/">All Library Guides</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/faculty-support">Faculty Support</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/faculty-support/copyright">Copyright Essentials</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/citing-sources">Citing Sources</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/mendeley">Mendeley</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/instruction">Library Instruction</a></li>
-              <li class="divider"></li> 
-              <li><a href="https://resources.library.lemoyne.edu/guides">More...</a></li> 
-            </ul> 
+          <li>
+            <a href="https://resources.library.lemoyne.edu/library-services/">Library Services</a>
           </li> 
-          <li class="dropdown"> 
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course Reserves <b class="caret"></b></a> 
-            <ul class="dropdown-menu"> 
-              <li><a href="https://resources.library.lemoyne.edu/library-services/course-reserves/">Overview</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/library-services/course-reserves/student">Students</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/library-services/course-reserves/faculty">Faculty</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/library-services/anatomy-models">Anatomy Models</a></li>
-            </ul> 
+          <li>
+            <a href="https://resources.library.lemoyne.edu/library/about">About Us</a>
           </li> 
-          <li class="dropdown"> 
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <b class="caret"></b></a> 
-            <ul class="dropdown-menu"> 
-              <li><a href="https://resources.library.lemoyne.edu/contact">Contact Us</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/library/floor-plans">Floor Plans</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/library/hours">Hours of Service</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/library-services">Library Services</a></li>
-              <li><a href="https://lemoynelibrary.org/news/">News and Announcements</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/library-services/room-reservation">Reserve a Room</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/library/visit">Visit the Library</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/wilson-gallery">Wilson Gallery</a></li>
-              <li><a href="https://resources.library.lemoyne.edu/arts/de-ropp-polish-art-collection">de Ropp Polish Art Collection</a></li>
-              <li class="divider"></li> 
-              <li><a href="https://resources.library.lemoyne.edu/library/about">More...</a></li> 
-            </ul> 
-          </li> 
-          <li class="dropdown"> 
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Ask Us <b class="caret"></b></a> 
-            <ul class="dropdown-menu"> 
-              <li><a href="https://resources.library.lemoyne.edu/askus/by-chat">Ask Us by Chat</a>
-              <li><a href="https://resources.library.lemoyne.edu/askus/by-email">Ask Us by Email</a>
-              <li><a href="https://resources.library.lemoyne.edu/askus/by-text">Ask Us by Text</a>
-              <li><a href="https://resources.library.lemoyne.edu/askus/by-phone">Ask Us by Phone</a>
-              <li><a href="https://resources.library.lemoyne.edu/askus/in-person">Ask Us in Person</a>
-              <li><a href="https://ask.library.lemoyne.edu/">Ask Us FAQ</a>
-            </ul> 
+          <li>
+            <a href="https://resources.library.lemoyne.edu/askus/">Ask Us</a>
           </li> 
         </ul>
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 
   </nav>
-  <br>
 
   <!--content-->
   <div id="content" class="container-fluid">
 
     <div>
       <ol class="breadcrumb">
-        <li id="s-lib-bc-customer">
+        <li>
           <a title="Noreen Reale Falcone Library" href="http://lemoyne.edu/library">Noreen Reale Falcone Library</a>
         </li>
-        <li id="s-lib-bc-group">
+        <li>
+          <a title="Library Collections"  href="https://resources.library.lemoyne.edu/library/collections">Library Collections
+          </a>
+        </li>
+        <li>
           <a title="Find Books" href="https://resources.library.lemoyne.edu/find-books">Find Books</a>
         </li>
-        <li id="s-lib-bc-page" class="active">Recent Library Acquisitions</li>
+        <li class="active">Recent Library Acquisitions</li>
       </ol>
     </div>
 
     <div class="row">
       <div class="col-md-12">
         <h1>Recent Library Acquisitions</h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <h3>2021</h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-4">
+        <ul>
+          <li><a href="newcall-2021-01.html">January 2021</a></li>
+          <li><a href="newcall-2021-02.html">February 2021</a></li>
+          <li><a href="newcall-2021-03.html">March 2021</a></li>
+          <li><a href="newcall-2021-04.html">April 2021</a></li>
+          <li><a href="newcall-2021-spring.html">January - April 2021</a></li>
+        <!--
+        -->
+        </ul>
+      </div>
+      <div class="col-sm-4">
+        <ul>
+          <li><a href="newcall-2021-05.html">May 2021</a></li>
+          <li><a href="newcall-2021-06.html">June 2021</a></li>
+          <li><a href="newcall-2021-07.html">July 2021</a></li>
+          <li><a href="newcall-2021-08.html">August 2021</a></li>
+          <li><a href="newcall-2021-summer.html">May - August 2021</a></li>
+        <!-- 
+        -->
+        </ul>
+      </div>
+      <div class="col-sm-4">
+        <ul>
+          <li><a href="newcall-2021-09.html">September 2021</a></li>
+          <li><a href="newcall-2021-10.html">October 2021</a></li>
+          <li><a href="newcall-2021-11.html">November 2021</a></li>
+          <li><a href="newcall-2021-12.html">December 2021</a></li>
+          <li><a href="newcall-2021-fall.html">September - December 2021</a></li>
+        <!--
+        -->
+        </ul>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <h3>2020</h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-4">
+        <ul>
+          <li><a href="newcall-2020-01.html">January 2020</a></li>
+          <li><a href="newcall-2020-02.html">February 2020</a></li>
+          <li><a href="newcall-2020-03.html">March 2020</a></li>
+          <li><a href="newcall-2020-04.html">April 2020</a></li>
+          <li><a href="newcall-2020-spring.html">January - April 2020</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-4">
+        <ul>
+          <li><a href="newcall-2020-05.html">May 2020</a></li>
+          <li><a href="newcall-2020-06.html">June 2020</a></li>
+          <li><a href="newcall-2020-07.html">July 2020</a></li>
+          <li><a href="newcall-2020-08.html">August 2020</a></li>
+          <li><a href="newcall-2020-summer.html">May - August 2020</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-4">
+        <ul>
+          <li><a href="newcall-2020-09.html">September 2020</a></li>
+          <li><a href="newcall-2020-10.html">October 2020</a></li>
+          <li><a href="newcall-2020-11.html">November 2020</a></li>
+          <li><a href="newcall-2020-12.html">December 2020</a></li>
+          <li><a href="newcall-2020-fall.html">September - December 2020</a></li>
+        </ul>
       </div>
     </div>
 
@@ -409,10 +440,19 @@
       <div class="col-sm-4">
         <ul>
           <li><a href="newcall-2019-05.html">May 2019</a></li>
+          <li><a href="newcall-2019-06.html">June 2019</a></li>
+          <li><a href="newcall-2019-07.html">July 2019</a></li>
+          <li><a href="newcall-2019-08.html">August 2019</a></li>
+          <li><a href="newcall-2019-summer.html">May - August 2019</a></li>
         </ul>
       </div>
       <div class="col-sm-4">
         <ul>
+          <li><a href="newcall-2019-09.html">September 2019</a></li>
+          <li><a href="newcall-2019-10.html">October 2019</a></li>
+          <li><a href="newcall-2019-11.html">November 2019</a></li>
+          <li><a href="newcall-2019-12.html">December 2019</a></li>
+          <li><a href="newcall-2019-fall.html">September - December 2019</a></li>
         </ul>
       </div>
     </div>
