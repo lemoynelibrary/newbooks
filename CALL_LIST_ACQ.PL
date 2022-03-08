@@ -209,6 +209,9 @@ if (s/.*?LOCATION = (.+?)\n//s) {
           if($x =~ /lmvc/) {
             $loc = "Media: Videorecording ";
           }
+          if($x =~ /lmk/) {
+            $loc = "Media: Kit ";
+          }
           if($x =~ /lmcod/) {
             $loc = "Media: Compact Disc ";
           }
