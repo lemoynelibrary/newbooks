@@ -209,6 +209,9 @@ if (s/.*?LOCATION = (.+?)\n//s) {
           if($x =~ /lmvc/) {
             $loc = "Media: Videorecording ";
           }
+          if($x =~ /lmg/) {
+            $loc = "Media: Games ";
+          }
           if($x =~ /lmk/) {
             $loc = "Media: Kit ";
           }

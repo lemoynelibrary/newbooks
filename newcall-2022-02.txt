@@ -404,32 +404,32 @@ RECORD # = b28180987. LOCATION = lbks.
 CALL NO. = GV1469 .A77 2020. 
 TITLE = Apples to apples : the family party game even granny apples can play. 
 PUBLISHER = East Aurora, NY : Mattel, [2020]. 
-RECORD # = b28186047. LOCATION = lmk. 
+RECORD # = b28186047. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .C24 2020. 
 TITLE = Catan : build, settle, trade. 
 PUBLISHER = Roseville, MN : Catan Studio, [2020]. 
-RECORD # = b28186023. LOCATION = lmk. 
+RECORD # = b28186023. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .C373 2005. 
 TITLE = Carcassonne. The discovery / Leo Colovini. 
 PUBLISHER = Munich : Hans im Gl{u00FC}ck : Rio Rancho, NM. : Rio Grande Games, 
 [2005]. 
-RECORD # = b28186151. LOCATION = lmk. 
+RECORD # = b28186151. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .C63 2015. 
 TITLE = Codenames : top secret word game / Vlaada Chv{u00E1}til. 
 PUBLISHER = [Czech Republic] : Czech Games Edition, [2015]. 
-RECORD # = b28186230. LOCATION = lmk. 
+RECORD # = b28186230. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .D66 2017. 
 TITLE = Dominion : second edition / Donald X. Vaccarino. 
 PUBLISHER = Rio Rancho, NM : Rio Grande Games, {u00A9}2017. 
-RECORD # = b28186217. LOCATION = lmk. 
+RECORD # = b28186217. LOCATION = lmg. 
 
 
 
@@ -439,46 +439,46 @@ TITLE = Exploding kittens : party pack , a card game for people who are into
 kittens and explosions and laser beams and sometimes goats / created by Elan Lee,
 Matthew Inman, and Shane Small. 
 PUBLISHER = Los Angeles, CA : Exploding Kittens, [2020]. 
-RECORD # = b28186011. LOCATION = lmk. 
+RECORD # = b28186011. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .J87 2018. 
 TITLE = Just one. 
 PUBLISHER = Brussels, Belgium : Sombreros Production, [2018]. 
 PUBLISHER = Roseville, MN : Asmodee North America, [2018]. 
-RECORD # = b28186126. LOCATION = lmk. 
+RECORD # = b28186126. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .O54 2015. 
 TITLE = One night ultimate werewolf / by Ted Alspach and Akihisa Okui. 
 PUBLISHER = [San Jose, CA] : B{u00E9}zier Games, 2015. 
-RECORD # = b28186114. LOCATION = lmk. 
+RECORD # = b28186114. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .P25 2013. 
 TITLE = Pandemic : can you save humanity? / a game by Matt Leacock ; artwork, 
 Chris Quilliams. 
 PUBLISHER = Roseville, MN : Z-Man Games, [2013]. 
-RECORD # = b28186199. LOCATION = lmk. 
+RECORD # = b28186199. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .P29 2007. 
 TITLE = Parcheesi : the classic game of chase, race and capture. 
 PUBLISHER = Pawtucket, RI : Hasbro ; Danvers, MA : Winning Moves Games, 
 {u00A9}2007. 
-RECORD # = b28186187. LOCATION = lmk. 
+RECORD # = b28186187. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .P320 2021. 
 TITLE = Parks / Keymaster ; Fifty-Nine Parks ; Henry Audubon. 
 PUBLISHER = Jefferson, GA : Keymaster Games, LLC, [2021]. 
-RECORD # = b28186138. LOCATION = lmk. 
+RECORD # = b28186138. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .Q8 2018. 
 TITLE = Quacks of Quedlinburg / Wolfgang Warsch,
 PUBLISHER = Kensington, MD: North Star Games, 2018. 
-RECORD # = b28186163. LOCATION = lmk. 
+RECORD # = b28186163. LOCATION = lmg. 
 
 
 
@@ -493,44 +493,44 @@ CALL NO. = GV1469 .S48 2010.
 TITLE = 7 wonders / Antoine Bauza. 
 PUBLISHER = Bruxelles, Belgium : Repos Production, [2010]. 
 PUBLISHER = Roseville, MN : Asmodee North America. 
-RECORD # = b28186035. LOCATION = lmk. 
+RECORD # = b28186035. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .S53 2012. 
 TITLE = Smallworld / Philippe Keyaerts. 
 PUBLISHER = Los Altos, CA : Days of Wonder, [2012]. 
-RECORD # = b28187076. LOCATION = lmk. 
+RECORD # = b28187076. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .S53 2020 suppl.1. 
 TITLE = Smallworld. Power pack #1 / Phillip Keyaerts & friends. 
 PUBLISHER = Guyancourt, France ; Roseville, Minnesota : Days of Wonder, [2020]. 
-RECORD # = b28186205. LOCATION = lmk. 
+RECORD # = b28186205. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .S67 2020. 
 TITLE = Sorry : the game of sweet revenge / Parker Brothers. 
 PUBLISHER = Pawtucket, RI. : Hasbro, c2020. 
-RECORD # = b28186060. LOCATION = lmk. 
+RECORD # = b28186060. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .S87 2016. 
 TITLE = Sushi go party! : the deluxe pick and pass card game / game by Phil 
 Walker-Harding ; Illustrations by Nan Rangsima. 
 PUBLISHER = Newton, MA : Gamewright, [2016]. 
-RECORD # = b28186072. LOCATION = lmk. 
+RECORD # = b28186072. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .T23 2017. 
 TITLE = Taco Cat Goat Cheese Pizza / Dolphin Hat Games LLC. 
 PUBLISHER = Englewood, Ohio : Dolphin Hat Games, LLC, [2017]. 
-RECORD # = b28186229. LOCATION = lmk. 
+RECORD # = b28186229. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .T75 2019. 
 TITLE = The original Tri-ominos : deluxe. 
 PUBLISHER = Plano, TX : Pressman Toy Corporation, [2019]. 
-RECORD # = b28186175. LOCATION = lmk. 
+RECORD # = b28186175. LOCATION = lmg. 
 
 
 
@@ -538,26 +538,26 @@ RECORD # = b28186175. LOCATION = lmk.
 CALL NO. = GV1469 .T77  2016. 
 TITLE = Trivial pursuit. 
 PUBLISHER = Pawtucket, RI : Hasbro Gaming, [2016]. 
-RECORD # = b28186096. LOCATION = lmk. 
+RECORD # = b28186096. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .U55 2020. 
 TITLE = Unstable unicorns / created by Ramy Badie. 
 PUBLISHER = Richmond Heights, MO : Unstable Unicorns, [2020]. 
-RECORD # = b2818614x. LOCATION = lmk. 
+RECORD # = b2818614x. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 W55 2019. 
 TITLE = Wingspan / designed by Elizabeth Hargrave ; illustrated by Natalia Rojas,
 Ana Maria Martinez Jaramillo, and Beth Sobel. 
 PUBLISHER = St. Louis, MO : Stonemaier, [2019]. 
-RECORD # = b28186102. LOCATION = lmk. 
+RECORD # = b28186102. LOCATION = lmg. 
 
 
 CALL NO. = GV1469 .Y34 2014. 
 TITLE = Yahtzee : the shake, score, and shout game / Hasbro gaming. 
 PUBLISHER = Pawtucket, R.I. : Hasbro, 2014. 
-RECORD # = b28186084. LOCATION = lmk. 
+RECORD # = b28186084. LOCATION = lmg. 
 
 
 CALL NO. = H62 .B2 2007. 
