@@ -1,3 +1,13 @@
-PUBLISHER = \{u00A9\}\d\d\d\d\. \n
+# These grep patterns work for Macintosh (Unix-style linebreaks)
 
+PUBLISHER = \{u00A9\}\d\d\d\d\. \n
 PUBLISHER = \d\d\d\d\. \n
+
+
+# These grep patterns work for Windows (Windows-style linebreaks)
+
+PUBLISHER = \{u00A9\}\d\d\d\d\. \r\n
+PUBLISHER = \d\d\d\d\. \r\n
+
+
+## Note: NoteTab wants to escape the "=" character, but that is optional.
