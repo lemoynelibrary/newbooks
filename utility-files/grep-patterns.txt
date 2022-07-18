@@ -1,10 +1,12 @@
 # These grep patterns work for Macintosh (Unix-style linebreaks)
+## Used in BBEdit on the Mac
 
 PUBLISHER = \{u00A9\}\d\d\d\d\. \n
 PUBLISHER = \d\d\d\d\. \n
 
 
 # These grep patterns work for Windows (Windows-style linebreaks)
+## Used in NoteTab reg.ex. searching in Windows
 
 PUBLISHER = \{u00A9\}\d\d\d\d\. \r\n
 PUBLISHER = \d\d\d\d\. \r\n
