@@ -6,7 +6,7 @@ PUBLISHER = \d\d\d\d\. \n
 
 
 # These grep patterns work for Windows (Windows-style linebreaks)
-## Used in NoteTab reg.ex. searching in Windows
+## Used in NoteTab regex searching in Windows
 
 PUBLISHER = \{u00A9\}\d\d\d\d\. \r\n
 PUBLISHER = \d\d\d\d\. \r\n
