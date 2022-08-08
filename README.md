@@ -26,3 +26,5 @@ RECORD # = b28193167. LOCATION = lbks.
 ```
 
 When that line appears first, before the full imprint line -- e.g., `PUBLISHER = Abingdon, Oxon ; New York, NY : Routledge, 2021.` -- it will be used instead of the imprint. The solution is to remove these copyright lines. I wrote an [AppleScript that runs with BBedit](https://github.com/tomkeays/newbooks/blob/master/utility-files/BBEDIT_newbooks-trim.scpt.txt) that strips all such lines from Create List file. You run it before you run the Perl script.
+
+## PLS Test 8-8-22
