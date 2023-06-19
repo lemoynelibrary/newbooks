@@ -1,0 +1,1320 @@
+
+
+CALL NO. = B721 .A36 2022. 
+TITLE = Medieval philosophy / Peter Adamson. 
+PUBLISHER = Oxford : Oxford University Press, 2022. 
+PUBLISHER = {u00A9}2019. 
+RECORD # = b2821187x. LOCATION = lbks. 
+MARC = B721 .A36 2022 lbks 090. 
+MARC = B721 .A36 2022. 
+
+
+CALL NO. = B741 .L65 2022. 
+TITLE = Classical Islamic philosophy : a thematic introduction / Luis Xavier 
+L{u00F3}pez-Farjeat. 
+PUBLISHER = New York ; London : Routledge, Taylor & Francis Group, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28210645. LOCATION = lbks. 
+MARC = B741 .L65 2022 lbks 090. 
+MARC = B741 .L65 2022. 
+
+
+CALL NO. = B5131 .A236 2022. 
+TITLE = Classical Indian philosophy / Peter Adamson and Jonardon Ganeri. 
+PUBLISHER = Oxford : Oxford University Press, 2022. 
+PUBLISHER = {u00A9}2020. 
+RECORD # = b28211789. LOCATION = lbks. 
+MARC = B5131 .A236 2022 lbks 090. 
+MARC = B5131 .A236 2022. 
+
+
+CALL NO. = BF575.G7 C274 2022. 
+TITLE = Bittersweet : how sorrow and longing make us whole / Susan Cain. 
+PUBLISHER = New York : Crown, [2022]. 
+RECORD # = b28212319. LOCATION = lwt. 
+MARC = BF575.G7 C274 2022 lbks 090. 
+MARC = BF575.G7 C274 2022. 
+
+
+CALL NO. = BJ1499.R4 H47 2022. 
+TITLE = Rest is resistance : a manifesto / Tricia Hersey. 
+PUBLISHER = New York: Little, Brown Spark, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28208699. LOCATION = lbks. 
+MARC = BJ1499.R4 H47 2022 lbks 090. 
+MARC = BJ1499.R4 H47 2022. 
+
+
+CALL NO. = BL2480.Y6 O46 2022. 
+TITLE = Women in Yoruba religions / Oye{uFE21}r{u00F3}nk{u00E9} 
+Ol{u00E1}d{u00E9}mo. 
+PUBLISHER = New York : New York University Press, [2022]. 
+RECORD # = b28211935. LOCATION = lbks. 
+MARC = BL2480.Y6 O46 2022 lbks 090. 
+MARC = BL2480.Y6 O46 2022. 
+
+
+
+
+CALL NO. = BT734.2 .S246 2021. 
+TITLE = The spiritual work of racial justice : a month of meditations with 
+Ignatius of Loyola / Patrick Saint-Jean, SJ. 
+PUBLISHER = Vestal, NY : Anamchara Books, [2021]. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28211698. LOCATION = lbks. 
+MARC = BT734.2 .S246 2021 lbks 090. 
+MARC = BT734.2 .S246 2021. 
+MARC = BT734.2 .S25 2021. 
+
+
+CALL NO. = DC103 .M36 2023. 
+TITLE = Joan of Arc : a reference guide to her life and works / Scott Manning. 
+PUBLISHER = Lanham : Rowman & Littlefield, [2023]. 
+RECORD # = b28204244. LOCATION = lbks. 
+MARC = DC103 .M36 2023 lbks 090. 
+MARC = DC103 .M36 2023. 
+
+
+CALL NO. = DC226.3 .M54 2020. 
+TITLE = The Napoleonic Wars : a global history / Alexander Mikaberidze. 
+PUBLISHER = New York, NY : Oxford University Press, [2020]. 
+RECORD # = b28206873. LOCATION = lbks. 
+MARC = DC226.3 .M54 2020 lbks 090. 
+MARC = DC226.3 .M54 2020. 
+
+
+CALL NO. = DS135.E6 R68 2022. 
+TITLE = The women of Rothschild : the untold story of the world's most famous 
+dynasty / Natalie Livingstone. 
+PUBLISHER = New York : St. Martin's Press, 2022. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28208791. LOCATION = lbks. 
+MARC = DS135.E6 R68 2022 lbks 090. 
+MARC = DS135.E6 R68 2022. 
+
+
+CALL NO. = DS465 .E37 2019. 
+TITLE = The East India Company : a captivating guide to the English company that
+was created for the exploitation of trade with East and Southeast Asia and 
+India. 
+PUBLISHER = [United States] : Captivating History, [2019]. 
+RECORD # = b24195327. LOCATION = lbks. 
+MARC = DS465 .E37 2019. 
+
+
+
+
+CALL NO. = DT31 .P3167 2021. 
+TITLE = The Pan-African pantheon : prophets, poets, and philosophers / edited by
+Adekeye Adebajo. 
+PUBLISHER = Manchester : Manchester University Press ; [Johannesburg] : 
+University of Johannesburg : Institute for Pan-African Thought and Conversation,
+[2021]. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28206915. LOCATION = lbks. 
+MARC = DT31 .P3167 2021 lbks 090. 
+MARC = DT31 .P3167 2021. 
+MARC = DT31 .P3194 2021. 
+
+
+CALL NO. = DT87.5 .R43 2022. 
+TITLE = The complete Tutankhamun / Nicholas Reeves. 
+PUBLISHER = London : Thames and Hudson, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28202910. LOCATION = lbkso. 
+MARC = DT87.5 .R43 2022 lbks 090. 
+MARC = DT87.5 .R43 2022. 
+MARC = DT87.5 .R44 2022. 
+
+
+CALL NO. = E75 .M36 2021. 
+TITLE = We are not a vanishing people : the Society of American Indians, 1911-
+1923 / Thomas Constantine Maroukis. 
+PUBLISHER = Tucson : The University of Arizona Press, [2021]. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28207130. LOCATION = lbks. 
+MARC = E75 .M36 2021 lbks 090. 
+MARC = E75 .M36 2021. 
+
+
+CALL NO. = E76.6 .D56 2022. 
+TITLE = Braided learning : illuminating indigenous presence through art and 
+story / Susan D. Dion. 
+PUBLISHER = Vancouver, BC : Purich Books, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28199893. LOCATION = lbks. 
+MARC = E76.6 .D56 2022 lbks 090. 
+MARC = E76.6 .D56 2022. 
+
+
+CALL NO. = E93 .D36 1988. 
+TITLE = Custer died for your sins : an Indian manifesto / by Vine Deloria, Jr. 
+PUBLISHER = Norman : University of Oklahoma Press, 1988. 
+RECORD # = b2820542x. LOCATION = lbks. 
+MARC = E93 .D36 1988 lbks 090. 
+MARC = E93 .D36 1988. 
+
+
+
+
+CALL NO. = E98.G2 V46 2008. 
+TITLE = American Indian lacrosse : little brother of war / Thomas Vennum. 
+PUBLISHER = Baltimore : Johns Hopkins University Press, 2008. 
+PUBLISHER = {u00A9}1994. 
+RECORD # = b28196661. LOCATION = lbks. 
+MARC = E98.G2 V46 2008 lbks 090. 
+MARC = E98.G2 V46 2008. 
+
+
+CALL NO. = F69 .B85 2021. 
+TITLE = Daniel Shays's honorable rebellion : an American story / Daniel Bullen. 
+PUBLISHER = Yardley, Pennsylvania : Westholme Publishing, [2021]. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28206617. LOCATION = lbks. 
+MARC = F69 .B85 2021 lbks 090. 
+MARC = F69 .B85 2021. 
+
+
+CALL NO. = F128.55 .D93 2021. 
+TITLE = New York, New York, New York : four decades of success, excess, and 
+transformation / Thomas Dyja. 
+PUBLISHER = New York, NY : Simon & Schuster, 2021. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28206885. LOCATION = lbks. 
+MARC = F128.55 .D93 2021 lbks 090. 
+MARC = F128.55 .D93 2021. 
+
+
+CALL NO. = F704.T92 Y68 2022. 
+TITLE = Requiem for the massacre : a Black history on the conflict, hope, and 
+fallout of the 1921 Tulsa Race Massacre / RJ Young. 
+PUBLISHER = Berkeley, California : Counterpoint, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28208687. LOCATION = lbks. 
+MARC = F704.T92 Y68 2022 lbks 090. 
+MARC = F704.T92 Y68 2022. 
+
+
+CALL NO. = GE149 .V563 2022. 
+TITLE = Nomad century : how climate migration will reshape our world / Gaia 
+Vince. 
+PUBLISHER = New York : Flatiron Books, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28205819. LOCATION = lbks. 
+MARC = GE149 .V563 2022 lbks 090. 
+MARC = GE149 .V563 2022. 
+
+
+CALL NO. = GV1469 .F53 2022. 
+TITLE = Flamecraft / Manny Vega ; illustration: Sandara Tang. 
+PUBLISHER = Krakow, Poland : Lucky Duck Games ; West Hills, CA : Cardboard 
+Alchemy, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28212253. LOCATION = lmg. 
+MARC = GV1469 .F53 2022 lmg 050. 
+
+
+
+
+CALL NO. = GV1469 .H37 2020. 
+TITLE = Happy little dinosaurs. 
+PUBLISHER = Richmond Heights, MO : Unstable Games, [2020]. 
+PUBLISHER = {u00A9}2020. 
+RECORD # = b28212265. LOCATION = lmg. 
+MARC = GV1469 .H37 2020 lmg 050. 
+MARC = GV1469.H37 H37 2020. 
+
+
+CALL NO. = GV1469 .T43 2020. 
+TITLE = Autumn harvest : a Tea Dragon Society card game / a game by Steve Ellis 
+& Tyler Tinsley ; based on the Oni Press graphic novels by Katie O'Neill. 
+PUBLISHER = [San Diego, CA] : Renegade Game Studios, [2020]. 
+PUBLISHER = {u00A9}2020. 
+RECORD # = b28212289. LOCATION = lmg. 
+MARC = GV1469 .T43 2020 lmg 050. 
+
+
+CALL NO. = HD6054.3 .W65 2022. 
+TITLE = Women Courageous : leading through the labyrinth / edited by Jennifer 
+Moss Breen, Madeleine Van Der Steege, Suzanne Stigler Martin, and Judith L. 
+Glick-Smith. 
+PUBLISHER = Bingley : Emerald Publishing Limited, 2022. 
+RECORD # = b28209060. LOCATION = lbks. 
+MARC = HD6054.3 .W65 2022 lbks 090. 
+MARC = HD6054.3 .W65 2022. 
+
+
+CALL NO. = HN90.R3 C35 2022. 
+TITLE = We are Proud Boys : how a right-wing street gang ushered in a new era of
+American extremism / Andy Campbell. 
+PUBLISHER = New York, NY : Hachette Books, Hachette Book Group, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28209667. LOCATION = lbks. 
+MARC = HN90.R3 C35 2022 lbks 090. 
+MARC = HN90.R3 C35 2022. 
+
+
+CALL NO. = HN90.R3 S634 2019. 
+TITLE = Proud boys and the white ethnostate : how the alt-right is warping the 
+American imagination / Alexandra Minna Stern. 
+PUBLISHER = Boston : Beacon Press, [2019]. 
+PUBLISHER = {u00A9}2019. 
+RECORD # = b28209497. LOCATION = lbks. 
+MARC = HN90.R3 S634 2019 lbks 090. 
+MARC = HN90.R3 S634 2019. 
+
+
+CALL NO. = HQ12 .P47 2023. 
+TITLE = The philosophy of sex : contemporary readings / edited by Raja Halwani, 
+Jacob M. Held, Natasha McKeever, and Alan Soble. 
+PUBLISHER = Lanham : Rowman & Littlefield Publishing, [2023]. 
+PUBLISHER = {u00A9}2023. 
+RECORD # = b28204360. LOCATION = lbks. 
+MARC = HQ12 .P47 2023 lbks 090. 
+MARC = HQ12 .P47 2023. 
+
+
+
+
+CALL NO. = HQ76.5 .G35 2022. 
+TITLE = The fifties : an underground history / James R. Gaines. 
+PUBLISHER = New York : Simon & Schuster, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28209291. LOCATION = lbks. 
+MARC = HQ76.5 .G35 2022 lbks 090. 
+MARC = HQ76.5 .G35 2022. 
+MARC = HN58 .G345 2022. 
+
+
+CALL NO. = HQ77.8.H36 A3 2022. 
+TITLE = Welcome to St. Hell : my trans teen misadventure / Lewis Hancox. 
+PUBLISHER = New York, NY : Graphix, an imprint of Scholastic, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28212228. LOCATION = lbks. 
+MARC = HQ77.8.H36 A3 2022 lbks 090. 
+MARC = HQ77.8.H36 A3 2022. 
+MARC = HQ77.8.H365 A3 2022. 
+
+
+CALL NO. = HQ472.U6 B87 2023. 
+TITLE = The pornography wars : the past, present, and future of America's 
+obscene obsession / Kelsy Burke. 
+PUBLISHER = New York : Bloomsbury Publishing, 2023. 
+PUBLISHER = {u00A9}2023. 
+RECORD # = b2821190x. LOCATION = lbks. 
+MARC = HQ472.U6 B87 2023 lbks 090. 
+MARC = HQ472.U6 B87 2023. 
+
+
+CALL NO. = HQ1190 .D574 2020. 
+TITLE = Data feminism / Catherine D'Ignazio and Lauren F. Klein. 
+PUBLISHER = Cambridge, Massachusetts : The MIT Press, [2020]. 
+PUBLISHER = {u00A9}2020. 
+RECORD # = b28211960. LOCATION = lbks. 
+MARC = HQ1190 .D574 2020 lbks 090. 
+MARC = HQ1190 .D574 2020. 
+
+
+CALL NO. = HQ1735.6 .A65 2021. 
+TITLE = Pious peripheries : runaway women in post-Taliban Afghanistan / Sonia 
+Ahsan-Tirmizi. 
+PUBLISHER = Stanford, California : Stanford University Press, [2021]. 
+RECORD # = b28210785. LOCATION = lbks. 
+MARC = HQ1735.6 .A65 2021 lbks 090. 
+MARC = HQ1735.6 .A65 2021. 
+
+
+
+
+CALL NO. = HV1552.3 .A36 2021. 
+TITLE = About us : essays from the disability series of the New York times / 
+edited and introduced by Peter Catapano and Rosemarie Garland-Thomson ; foreword
+by Andrew Solomon. 
+PUBLISHER = New York, N.Y. : Liveright Publishing Corporation, [2021]. 
+PUBLISHER = {u00A9}2019. 
+RECORD # = b28211388. LOCATION = lbks. 
+MARC = HV1552.3 .A36 2021 lbks 090. 
+MARC = HV1552.3 .A36 2021. 
+
+
+CALL NO. = HV5810 .O26 2021. 
+TITLE = Cocaine hoppers : Nigerian international cocaine trafficking / Jude Roys
+Oboh. 
+PUBLISHER = Lanham, Maryland : Lexington Books, an imprint of The Rowman & 
+Littlefield Publishing Group, Inc., [2021]. 
+RECORD # = b28206599. LOCATION = lbks. 
+MARC = HV5810 .O26 2021 lbks 090. 
+MARC = HV5810 .O26 2021. 
+
+
+CALL NO. = HV6401 .L963 2017. 
+TITLE = Green criminology : crime, justice, and the environment / Michael J. 
+Lynch, Michael A. Long, Paul B. Stretesky, Kimberly L. Barrett. 
+PUBLISHER = Oakland, California : University of California Press, [2017]. 
+PUBLISHER = {u00A9}2017. 
+RECORD # = b2820931x. LOCATION = lbks. 
+MARC = HV6401 .L963 2017 lbks 090. 
+MARC = HV6401 .L963 2017. 
+
+
+CALL NO. = HV9105.F72 F56 2022. 
+TITLE = We carry their bones : the search for justice at the Dozier School for 
+Boys / Erin Kimmerle. 
+PUBLISHER = New York, NY : William Morrow, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b2820587x. LOCATION = lbks. 
+MARC = HV9105.F72 F56 2022 lbks 090. 
+MARC = HV9105.F72 F56 2022. 
+
+
+CALL NO. = LB1028.46 .K36 2019. 
+TITLE = Microlearning : short and sweet / Karl M. Kapp, Robyn A. Defelice. 
+PUBLISHER = Alexandria, Virginia : ATD Press, 2019. 
+RECORD # = b2821237x. LOCATION = lbks. 
+MARC = LB1028.46 .K36 2019 lbks 090. 
+MARC = LB1028.46 .K36 2019. 
+
+
+
+
+CALL NO. = LB2331 .C715 2022. 
+TITLE = Creating a place for self-care and wellbeing in higher education : 
+finding meaning across academia / edited by Narelle Lemon. 
+PUBLISHER = Abingdon, Oxon ; New York, NY : Routledge, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28205170. LOCATION = lbks. 
+MARC = LB2331 .C715 2022 lbks 090. 
+MARC = LB2331 .C715 2022. 
+
+
+CALL NO. = LB2395.25 .A36 2022. 
+TITLE = How to take smart notes : one simple technique to boost writing, 
+learning and thinking / S{u00F6}nke Ahrens. 
+PUBLISHER = Hamburg, Germany : S{u00F6}nke Ahrens, 2022. 
+PUBLISHER = {u00A9}2017. 
+RECORD # = b2820623x. LOCATION = lwt. 
+MARC = LB2395.25 .A36 2022 lbks 090. 
+MARC = LB2395.25 .A36 2022. 
+
+
+CALL NO. = LC1099.3 .M756 2023. 
+TITLE = Unearthing joy : a guide to culturally and historically responsive 
+teaching and learning / Gholdy Muhammad ; [foreword by Pharrell Williams]. 
+PUBLISHER = New York, NY : Scholastic Inc., [2023]. 
+PUBLISHER = {u00A9}2023. 
+RECORD # = b28209904. LOCATION = lbks. 
+MARC = LC1099.3 .M756 2023 lbks 090. 
+MARC = LC1099.3 .M756 2023. 
+MARC = LC1099.3 .M858 2023. 
+
+
+CALL NO. = ML82 .H57 2023. 
+TITLE = Can't stop the grrrls : confronting sexist labels in pop music from 
+Ariana Grande to Yoko Ono / Lily E. Hirsch. 
+PUBLISHER = Lanham : Rowman & Littlefield, [2023]. 
+PUBLISHER = {u00A9}2023. 
+RECORD # = b28204062. LOCATION = lbks. 
+MARC = ML82 .H57 2023 lbks 090. 
+MARC = ML82 .H57 2023. 
+
+
+CALL NO. = N530 .S643 2020. 
+TITLE = Speaking of objects : African art at the Art Institute of Chicago / 
+edited by Constantine Petridis ; with contributions by Martha G. Anderson [and 
+seven others]. 
+PUBLISHER = Chicago, IL : Art Institute of Chicago, [2020]. 
+PUBLISHER = New Haven, CT ; London : Distributed by Yale University Press. 
+PUBLISHER = {u00A9}2020. 
+RECORD # = b28202752. LOCATION = lbkso. 
+MARC = N530 .S643 2020 lbks 090. 
+MARC = N530 .S643 2020. 
+MARC = N7380.5 .A775 2020. 
+
+
+
+
+CALL NO. = N610.A5 M35 2020. 
+TITLE = Making the Met, 1870-2020 / edited by Andrea Bayer with Laura D. Corey. 
+PUBLISHER = New York, New York : The Metropolitan Museum of Art, [2020]. 
+PUBLISHER = New Haven, Connecticut ; London, England : Distributed by Yale 
+University Press. 
+PUBLISHER = Madrid, Spain : Brizzolis. 
+PUBLISHER = {u00A9}2020. 
+RECORD # = b28202661. LOCATION = lbkso. 
+MARC = N610.A5 M35 2020 lbkso 090. 
+MARC = N610 .A85 2020. 
+MARC = N610.A5 M35 2020. 
+MARC = N610.A85 M35 2020. 
+
+
+CALL NO. = N6537.M38 A842 2022. 
+TITLE = Agnes Martin : independence of mind / editing: Chelsea Weathers, Megan 
+Mulry. 
+PUBLISHER = Santa Fe, New Mexico : Radius Books, [2022]. 
+PUBLISHER = New York, NY : D.A.P. / Distributed Art Publishers. 
+PUBLISHER = Verona, Italy : Pre-press and printing: Editoriale Bortolazzi-Stei. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28210165. LOCATION = lbkso. 
+MARC = N6537.M38 A842 2022 lbks 090. 
+MARC = N6537.M38 A842 2022. 
+
+
+CALL NO. = N7354.5 .G74 2022. 
+TITLE = Great waves & mountains : perspectives and discoveries in collecting the
+arts of Japan / edited by Natsu Oyobe and Allysa B. Peyton. 
+PUBLISHER = Gainesville : University of Florida Press, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28210360. LOCATION = lbkso. 
+MARC = N7354.5 .G74 2022 lbks 090. 
+MARC = N7354.5 .G74 2022. 
+
+
+CALL NO. = NA380 .B56 2020. 
+TITLE = Architecture of the Islamic west : North Africa and the Iberian 
+Peninsula, 700-1800 / Jonathan M. Bloom ; with drawings by Nicholas Warner. 
+PUBLISHER = New Haven, CT : Yale University Press, 2020. 
+PUBLISHER = {u00A9}2020. 
+RECORD # = b28202545. LOCATION = lbkso. 
+MARC = NA380 .B56 2020 lbkso 090. 
+MARC = NA380 .B56 2020. 
+MARC = NA380 .B59 2020. 
+
+
+CALL NO. = NA6230 .B25 2022. 
+TITLE = Back to the office : 50 revolutionary office buildings and how they 
+sustained / editor, James Westcott ; texts, Ruth Baumeister, Stephan Petermann 
+(with additional contributors). 
+PUBLISHER = Rotterdam : Nai010 Publishers, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28210220. LOCATION = lbkso. 
+MARC = NA6230 .B25 2022 lbkso 090. 
+MARC = NA6230 .B25 2022. 
+
+
+
+
+CALL NO. = NC999.6.G4 A371 2022. 
+TITLE = Otl Aicher : design. type. thinking / edited by Winfried Nerdinger and 
+Wilhelm Vossenkuhl ; in collaboration with Fritz Frenkler, Hannes Gumpp, Hans 
+Hermann Wetcke and the Technical University of Munich (TUM) ; translation 
+(German to English): Gerard A. Goodrow (Hoffmann, Sattler, Rinker, Haaf and 
+Gumpp) and [3 others]. 
+PUBLISHER = Munich : Prestel, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28210451. LOCATION = lbkso. 
+MARC = NC999.6.G4 A371 2022 lbkso 090. 
+MARC = NC999.6.G4 A371 2022. 
+
+
+CALL NO. = ND210.5.P67 L96 2022. 
+TITLE = Painting dissent : art, ethics, and the American Pre-Raphaelites / 
+Sophie Lynford. 
+PUBLISHER = Princeton : Princeton University Press, [2022]. 
+RECORD # = b28210475. LOCATION = lbkso. 
+MARC = ND210.5.P67 L96 2022 lbkso 090. 
+MARC = ND210.5.P67 L96 2022. 
+
+
+CALL NO. = NE539.3.M4 P75 2020. 
+TITLE = {u00A1}Printing the revolution! : the rise and impact of Chicano 
+graphics, 1965 to now / edited by E. Carmen Ramos ; contributions by E. Carmen 
+Ramos, Tatiana Reinoza, Terezita Romo, and Claudia E. Zapata. 
+PUBLISHER = Washington, DC : Smithsonian American Art Museum ; Princeton : in 
+association with Princeton University Press, [2020]. 
+RECORD # = b28202703. LOCATION = lbkso. 
+MARC = NE539.3.M4 P75 2020 lbks 090. 
+MARC = NE539.3.M4 P75 2020. 
+
+
+CALL NO. = NK8998.J56 C667 2022. 
+TITLE = Consuelo Jimenez Underwood : art, weaving, vision / edited by Laura E. 
+P{u00E9}rez and Ann Marie Leimer. 
+PUBLISHER = Durham : Duke University Press, 2022. 
+RECORD # = b28210281. LOCATION = lbks. 
+MARC = NK8998.J56 C667 2022 lbks 090. 
+MARC = NK8998.J56 C667 2022. 
+
+
+CALL NO. = NX574.A1 K37 2022. 
+TITLE = Alternative Iran : contemporary art and critical spatial practice / 
+Pamela Karimi. 
+PUBLISHER = Stanford, California : Stanford University Press, [2022]. 
+RECORD # = b28211212. LOCATION = lbks. 
+MARC = NX574.A1 K37 2022 lbks 090. 
+MARC = NX574.A1 K37 2022. 
+
+
+
+
+CALL NO. = PG7179.O37 K7513 2022. 
+TITLE = The books of Jacob : or: A fantastic journey across seven borders, five 
+languages, and three major religions, not counting the minor sects. Told by the 
+dead, supplemented by the author, drawing from a range of books, and aided by 
+imagination, the which being the greatest natural gift of any person. That the 
+wise might have it for a record, that my compatriots reflect, laypersons gain 
+some understanding, and melancholy souls obtain some slight enjoyment / Olga 
+Tokarczuk ; translated by Jennifer Croft. 
+PUBLISHER = New York : Riverhead Books, 2022. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28211546. LOCATION = lbks. 
+MARC = PG7179.O37 K7513 2022 lbks 090. 
+MARC = PG7179.O37 K7513 2022. 
+
+
+CALL NO. = PJ5054.G728 S8813 2017. 
+TITLE = A horse walks into a bar / David Grossman ; translated by Jessica Cohen.
+PUBLISHER = New York : Alfred A. Knopf, 2017. 
+RECORD # = b28211601. LOCATION = lbks. 
+MARC = PJ5054.G728 S8813 2017 lbks 090. 
+MARC = PJ5054.G728 S8813 2017. 
+
+
+CALL NO. = PJ7964.I23 I4413 2023. 
+TITLE = The disappearance of Mr. Nobody / a novel by Ahmed Taibaoui ; translated
+from the Arabic by Jonathan Wright. 
+PUBLISHER = New York, NY : Hoopoe, an imprint of AUC Press, 2023. 
+PUBLISHER = {u00A9}2023. 
+RECORD # = b28211078. LOCATION = lbks. 
+MARC = PJ7964.I23 I4413 2023 lbks 090. 
+MARC = PJ7964.I23 I4413 2023. 
+
+
+CALL NO. = PK2098.22.I78 R4813 2021. 
+TITLE = Tomb of sand / Geetanjali Shree ; translated by Daisy Rockwell. 
+PUBLISHER = [London] : Tilted Axis Press, [2021]. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28211674. LOCATION = lbks. 
+MARC = PK2098.22.I78 R4813 2021 lbks 090. 
+MARC = PK2098.22.I78 R4813 2021. 
+
+
+CALL NO. = PK6561.A414 S4313 2021. 
+TITLE = The nights of Tehran : a novel / Ghazaleh Alizadeh ; translated from the
+Persian by M. R. Ghanoonparvar. 
+PUBLISHER = [Costa Mesa] : Mazda Publishers, 2021. 
+RECORD # = b28210050. LOCATION = lbks. 
+MARC = PK6561.A414 S4313 2021 lbks 090. 
+MARC = PK6561.A414 S4313 2021. 
+
+
+
+
+CALL NO. = PK6561.P247 A6713 2020. 
+TITLE = Blue logos : a novel / Shahrnush Parsipur ; translated from the Persian 
+by M.R. Ghanoonparvar. 
+PUBLISHER = Costa Mesa, CA : Mazda Publishers, 2020. 
+PUBLISHER = {u00A9}2020. 
+RECORD # = b28210025. LOCATION = lbks. 
+MARC = PK6561.P247 A6713 2020 lbks 090. 
+MARC = PK6561.P247 A6713 2020. 
+
+
+CALL NO. = PL994.225 C4813 2022. 
+TITLE = Cursed bunny / Bora Chung ; translated by Anton Hur. 
+PUBLISHER = Chapel Hill, North Carolina : Algonquin Books of Chapel Hill, 2022. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28211558. LOCATION = lbks. 
+MARC = PL994.225 C4813 2022 lbks 090. 
+MARC = PL994.225 C4813 2022. 
+
+
+CALL NO. = PN1993.15 .K42 1984. 
+TITLE = Kaze no tani no Naushika = Nausica{u00E4} of the valley of the wind / 
+Tokuma Shoten and Hakuhodo present ; a Top Craft production ; Walt Disney Home 
+Entertainment presents ; a Studio Ghibli film ; original story and screenplay by
+Hayao Miyazaki ; producer Isao Takahata ; director, Hayao Miyazaki. 
+PUBLISHER = Los Angeles, CA : Shout Factory, [2017]. 
+PUBLISHER = {u00A9}1984. 
+RECORD # = b28210840. LOCATION = lmvc. 
+MARC = PN1993.15 .K42 1984 lmvc 050. 
+MARC = PN1997 .K39 2017. 
+
+
+CALL NO. = PN1993.15 .M5543 1995. 
+TITLE = Mimi o sumaseba / gensaku Hiiragi Aoi ; kyakuhon e konte Miyazaki Hayao 
+; seisaku Sutajio Jiburi ; purod{u016B}s{u0101} Suzuki Toshio ; seisaku 
+purod{u016B}s{u0101} Miyazaki Hayao ; kantoku Kond{u014D} Yoshibumi. 
+PUBLISHER = Los Angeles, CA : Shout Factory, [2018]. 
+PUBLISHER = {u00A9}1995. 
+RECORD # = b28210839. LOCATION = lmvc. 
+MARC = PN1993.15 .M5543 1995 lmvc 050. 
+MARC = PN1995.9.F36 W45 2018. 
+
+
+CALL NO. = PN3352.I83 M57 2018. 
+TITLE = Islamophobia and the novel / Peter Morey. 
+PUBLISHER = New York : Columbia University Press, [2018]. 
+RECORD # = b28205741. LOCATION = lbks. 
+MARC = PN3352.I83 M57 2018 lbks 090. 
+MARC = PN3352.I83 M57 2018. 
+
+
+
+
+CALL NO. = PN6727.L58 N54 2022. 
+TITLE = The night eaters. Book 1, She eats the night / Marjorie Liu and Sana 
+Takeda. 
+PUBLISHER = New York : Abrams Comicarts, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28212113. LOCATION = lbks. 
+MARC = PN6727.L58 N54 2022 lbks 090. 
+MARC = PN6727.L58 N54 2022. 
+
+
+CALL NO. = PN6737.O84 H43 2019. 
+TITLE = Heartstopper / Alice Oseman. 
+PUBLISHER = New York, NY : Graphix, an imprint of Scholastic, [2020]-
+RECORD # = b2821206x. LOCATION = lbks. 
+MARC = PN6737.O84 H43 2019 lbks 090. 
+MARC = PZ7.7.O7656 He 2020. 
+MARC = PN6737.O84 H43 2019. 
+
+
+CALL NO. = PN6790.J33 I85513 2020. 
+TITLE = Remina / Junji Ito. 
+PUBLISHER = San Francisco, CA : VIZ Media, LLC, 2020. 
+PUBLISHER = {u00A9}2005. 
+RECORD # = b28212149. LOCATION = lbks. 
+MARC = PN6790.J33 I85513 2020 lbks 090. 
+MARC = PN6790.J33 I8555413 2020. 
+
+
+CALL NO. = PN6790.J33 I85613 2018. 
+TITLE = Shiver : selected stories / story & art by Junji Ito ; translation & 
+adaptation, Jocelyn Allen ; touch-up art & lettering, James Dashiell ; "Painter"
+translation and adaptation, Naomi Kokubo ; "Painter" touch-up art & lettering, 
+Eric Erbes. 
+PUBLISHER = San Francisco, CA : VIZ Media, [2017]. 
+PUBLISHER = {u00A9}2015. 
+RECORD # = b28212162. LOCATION = lbks. 
+MARC = PN6790.J33 I85613 2018 lbks 090. 
+MARC = PN6790.J33 I85513 2018. 
+
+
+CALL NO. = PN6790.J33 I85813 2022. 
+TITLE = The liminal zone / story & art by Junji Ito ; translation & adaptation: 
+Jocelyne Allen ; touch-up art & lettering: Eric Erbes ; cover & graphic design: 
+Adam Grano. 
+PUBLISHER = San Francisco, CA : VIZ Media, LLC, [2022]. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28212095. LOCATION = lbks. 
+MARC = PN6790.J33 I85813 2022 lbks 090. 
+MARC = PN6790.J33 I8586513 2022. 
+
+
+
+
+CALL NO. = PN6790.J33 I86813 2016. 
+TITLE = Tomie : no use escaping / story & art by Junji Ito ; translator, Naomi 
+Kokubo ; touch-up & lettering, Eric Erbes. 
+PUBLISHER = San Francisco, CA : VIZ Media, LLC, [2016]. 
+PUBLISHER = {u00A9}2011. 
+RECORD # = b28212204. LOCATION = lbks. 
+MARC = PN6790.J33 I86813 2016 lbks 090. 
+MARC = PN6790.J33 I86813 2016. 
+
+
+CALL NO. = PN6790.J33 Y376813 2022. 
+TITLE = Talk to my back / Yamada Murasaki ; translated by Ryan Holmberg. 
+PUBLISHER = [Montreal, Quebec] : Drawn & Quarterly, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28212186. LOCATION = lbks. 
+MARC = PN6790.J33 Y376813 2022 lbks 090. 
+MARC = PN6790.J33 Y3768713 2022. 
+
+
+CALL NO. = PQ3989.2.D563 F7413 2020. 
+TITLE = At night all blood is black / David Diop ; translated from the French by
+Anna Moschovakis. 
+PUBLISHER = New York : Farrar, Straus and Giroux, 2020. 
+PUBLISHER = {u00A9}2020. 
+RECORD # = b28211534. LOCATION = lbks. 
+MARC = PQ3989.2.D563 F7413 2020 lbks 090. 
+MARC = PQ3989.2.D563 F7413 2020. 
+
+
+CALL NO. = PQ7798.426.I56 E4413 2021. 
+TITLE = Elena knows / Claudia Pi{u00F1}eiro ; translated by Frances Riddle ; 
+[with an afterword by Dr. Fiona Mackintosh]. 
+PUBLISHER = Edinburgh : Charco Press, 2021. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28211571. LOCATION = lbks. 
+MARC = PQ7798.426.I56 E4413 2021 lbks 090. 
+MARC = PQ7798.426.I56 E4413 2021. 
+
+
+CALL NO. = PR2992.W45 W45 2023. 
+TITLE = White people in Shakespeare : essays on race, culture and the elite / 
+edited by Arthur L. Little, Jr. 
+PUBLISHER = London ; New York : The Arden Shakespeare, 2023. 
+PUBLISHER = {u00A9}2023. 
+RECORD # = b28209011. LOCATION = lbks. 
+MARC = PR2992.W45 W45 2023 lbks 090. 
+MARC = PR2992.W45 W45 2023. 
+
+
+CALL NO. = PR6054.O547 R66 2010b. 
+TITLE = Room : a novel / Emma Donoghue. 
+PUBLISHER = London : Picador, 2010. 
+RECORD # = b28211637. LOCATION = lbks. 
+MARC = PR6054.O547 R66 2010b lbks 090. 
+MARC = PR6054.O547 R66 2010b. 
+
+
+
+
+CALL NO. = PR6055.V25 G57 2019b. 
+TITLE = Girl, woman, other / Bernardine Evaristo. 
+PUBLISHER = New York : Black Cat, an imprint of Grove Atlantic, [2019]. 
+RECORD # = b28211583. LOCATION = lbks. 
+MARC = PR6055.V25 G57 2019b lbks 090. 
+MARC = PR6055.V25 G57 2019b. 
+
+
+CALL NO. = PR6058.E2 Z884 2021. 
+TITLE = Seamus Heaney in context / edited by Geraldine Higgins. 
+PUBLISHER = Cambridge ; New York, NY : Cambridge University Press, 2021. 
+RECORD # = b28193842. LOCATION = lbks. 
+MARC = PR6058.E2 Z884 2021 lbks 090. 
+MARC = PR6058.E2 Z884 2021. 
+
+
+CALL NO. = PR6063.I265 C58 2010. 
+TITLE = The city & the city / China Mi{u00E9}ville. 
+PUBLISHER = New York : Del Rey Ballantine Books, 2010. 
+RECORD # = b2821089x. LOCATION = lbks. 
+MARC = PR6063.I265 C58 2010 lbks 090. 
+MARC = PR6063.I265 C58 2010. 
+
+
+CALL NO. = PR6068.U757 Q53 2019. 
+TITLE = Quichotte : a novel / Salman Rushdie. 
+PUBLISHER = New York : Random House, [2019]. 
+RECORD # = b28211625. LOCATION = lbks. 
+MARC = PR6068.U757 Q53 2019 lbks 090. 
+MARC = PR6068.U757 Q53 2019. 
+
+
+CALL NO. = PR6106.F67 C66 2020. 
+TITLE = The constant rabbit / Jasper Fforde. 
+PUBLISHER = New York, New York : Viking, an imprint of Penguin Random House LLC,
+2020. 
+PUBLISHER = {u00A9}2020. 
+RECORD # = b28211236. LOCATION = lbks. 
+MARC = PR6106.F67 C66 2020 lbks 090. 
+MARC = PR6106.F67 C66 2020. 
+
+
+CALL NO. = PR6106.F67 E27 2018. 
+TITLE = Early riser / Jasper Fforde. 
+PUBLISHER = [New York] : Viking, [2018]. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b28211261. LOCATION = lbks. 
+MARC = PR6106.F67 E27 2018 lbks 090. 
+MARC = PR6106.F67 E27 2018b. 
+
+
+
+
+CALL NO. = PR6114.O777 F57 2014. 
+TITLE = The first fifteen lives of Harry August / Claire North. 
+PUBLISHER = New York, NY : Redhook, 2014. 
+PUBLISHER = {u00A9}2014. 
+RECORD # = b28212356. LOCATION = lbks. 
+MARC = PR6114.O777 F57 2014 lbks 090. 
+MARC = PR6114.O777 F57 2014. 
+
+
+CALL NO. = PR9199.4.E424 T48 2019. 
+TITLE = This is how you lose the time war / Amal El-Mohtar &  Max Gladstone. 
+PUBLISHER = New York, NY : Saga Press, an imprint of Simon & Schuster, Inc., 
+[2019]. 
+RECORD # = b28211017. LOCATION = lbks. 
+MARC = PR9199.4.E424 T48 2019 lbks 090. 
+MARC = PR9199.4.E424 T48 2019. 
+
+
+CALL NO. = PR9199.4.H6433 M68 2022. 
+TITLE = Motherthing / Ainslie Hogarth. 
+PUBLISHER = New York : Vintage Books, a division of Penguin Random House LLC, 
+2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28212101. LOCATION = lbks. 
+MARC = PR9199.4.H6433 M68 2022 lbks 090. 
+MARC = PR9199.4.H6433 M68 2022. 
+
+
+CALL NO. = PR9440.9.K378 S48 2023. 
+TITLE = The seven moons of Maali Almeida : a novel / Shehan Karunatilaka. 
+PUBLISHER = New York, NY : W.W. Norton & Company, 2023. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28211650. LOCATION = lbks. 
+MARC = PR9440.9.K378 S48 2023 lbks 090. 
+MARC = PR9440.9.K378 S48 2023. 
+
+
+CALL NO. = PR9619.4.Z87 .Z87 2001. 
+TITLE = Fighting Ruben Wolfe / Markus Zusak. 
+PUBLISHER = New York : Arthur A. Levine Books, 2001. 
+PUBLISHER = {u00A9}2000. 
+RECORD # = b28212472. LOCATION = lbks. 
+MARC = PR9619.4.Z87 .Z87 2001 lbks 090. 
+MARC = PZ7.Z837 Fi 2001. 
+
+
+CALL NO. = PS153.N5 S33 2018. 
+TITLE = Bodyminds reimagined : (dis)ability, race, and gender in black women's 
+speculative fiction / Sami Schalk. 
+PUBLISHER = Durham [North Carolina] : Duke University Press, 2018. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b28209941. LOCATION = lbks. 
+MARC = PS153.N5 S33 2018 lbks 090. 
+MARC = PS153.N5 S33 2018. 
+MARC = PS153.B53 S33 2018. 
+
+
+
+
+CALL NO. = PS1331 .S24 2019. 
+TITLE = The life of Mark Twain : the middle years, 1871-1891 / Gary Scharnhorst.
+PUBLISHER = Columbia, Missouri : University of Missouri Press, 2019. 
+PUBLISHER = {u00A9}2019. 
+RECORD # = b28211868. LOCATION = lbks. 
+MARC = PS1331 .S24 2019. 
+
+
+CALL NO. = PS1331 .S24 2022. 
+TITLE = The life of Mark Twain : the final years, 1891-1910 / Gary Scharnhorst. 
+PUBLISHER = Columbia : University of Missouri Press, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28211856. LOCATION = lbks. 
+MARC = PS1331 .S24 2022. 
+
+
+CALL NO. = PS3515.E288 M66 2018. 
+TITLE = The moon is a harsh mistress / Robert A. Heinlein. 
+PUBLISHER = New York : Ace, June 2018. 
+PUBLISHER = {u00A9}1966. 
+RECORD # = b28210955. LOCATION = lbks. 
+MARC = PS3515.E288 M66 2018 lbks 090. 
+MARC = PS3515.E288 M66 2018. 
+
+
+CALL NO. = PS3552.E54425 C58 2008. 
+TITLE = City of thieves : a novel / David Benioff. 
+PUBLISHER = New York, New York : Viking, 2008. 
+RECORD # = b28212344. LOCATION = lbks. 
+MARC = PS3552.E54425 C58 2008 lbks 090. 
+MARC = PS3552.E54425 C58 2008. 
+
+
+CALL NO. = PS3554.U4634 B7 1996. 
+TITLE = The brothers K / David James Duncan. 
+PUBLISHER = New York : Bantam Books, 1996. 
+RECORD # = b28212320. LOCATION = lbks. 
+MARC = PS3554.U4634 B7 1996 lbks 090. 
+MARC = PS3554.U4634 B7 1996. 
+
+
+CALL NO. = PS3555.G292 C36 2022. 
+TITLE = The candy house : a novel / Jennifer Egan. 
+PUBLISHER = New York : Scribner, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28212332. LOCATION = lbks. 
+MARC = PS3555.G292 C36 2022 lbks 090. 
+MARC = PS3555.G292 C36 2022. 
+
+
+
+
+CALL NO. = PS3557.R48935 A8 2002. 
+TITLE = Ammonite / Nicola Griffith. 
+PUBLISHER = New York : Ballantine Books : Del Rey Books, an imprint of the 
+Random House Publishing Group, [2002]. 
+PUBLISHER = {u00A9}2002. 
+RECORD # = b28210852. LOCATION = lbks. 
+MARC = PS3557.R48935 A8 2002 lbks 090. 
+MARC = PS3557.R48935 A8 2002. 
+MARC = PS3557.R489114 A8 2002. 
+
+
+CALL NO. = PS3563.C337 P37 2022. 
+TITLE = The passenger / Cormac McCarthy. 
+PUBLISHER = New York : Alfred A. Knopf, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28212393. LOCATION = lbks. 
+MARC = PS3563.C337 P37 2022 lbks 090. 
+MARC = PS3563.C337 P37 2022. 
+
+
+CALL NO. = PS3564.U485 F75 2018. 
+TITLE = The friend : a novel / Sigrid Nunez. 
+PUBLISHER = New York, New York : Riverhead Books, 2018. 
+RECORD # = b28211091. LOCATION = lbks. 
+MARC = PS3564.U485 F75 2018 lbks 090. 
+MARC = PS3564.U485 F75 2018. 
+
+
+CALL NO. = PS3565.A8 B49 2020. 
+TITLE = Blonde : a novel / by Joyce Carol Oates. 
+PUBLISHER = New York, New York : Ecco an imprint of Harper Collins Publishers, 
+2020. 
+RECORD # = b28211224. LOCATION = lbks. 
+MARC = PS3565.A8 B49 2020 lbks 090. 
+MARC = PS3565.A8 B49 2020. 
+
+
+CALL NO. = PS3569.I47292 H97 2017. 
+TITLE = Hyperion / Dan Simmons. 
+PUBLISHER = New York : Del Rey, 2017. 
+PUBLISHER = {u00A9}1989. 
+RECORD # = b28210943. LOCATION = lbks. 
+MARC = PS3569.I47292 H97 2017 lbks 090. 
+MARC = PS3569.I47292 H97 2017. 
+
+
+CALL NO. = PS3607.R6344 A6 2018. 
+TITLE = Florida / Lauren Groff. 
+PUBLISHER = New York, New York : Riverhead Books, an imprint of Penguin Random 
+House LLC, 2018. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b28211273. LOCATION = lbks. 
+MARC = PS3607.R6344 A6 2018 lbks 090. 
+MARC = PS3607.R6344 A6 2018. 
+
+
+
+
+CALL NO. = PS3608.A78326 S94 2021. 
+TITLE = The sweetness of water / Nathan Harris. 
+PUBLISHER = New York : Little, Brown and Company, 2021. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28212447. LOCATION = lbks. 
+MARC = PS3608.A78326 S94 2021 lbks 090. 
+MARC = PS3608.A7832635 S94 2021. 
+
+
+CALL NO. = PS3608.O248 W48 2018. 
+TITLE = Where the dead sit talking / Brandon Hobson. 
+PUBLISHER = New York, NY : Soho Press, [2018]. 
+PUBLISHER = {u00A9}2018. 
+RECORD # = b28211376. LOCATION = lbks. 
+MARC = PS3608.O248 W48 2018 lbks 090. 
+MARC = PS3608.O248 W48 2018. 
+
+
+CALL NO. = PS3610.O627677 P76 2021. 
+TITLE = The prophets : a novel / Robert Jones, Jr. 
+PUBLISHER = New York : G. P. Putnam's Sons, [2021]. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28211340. LOCATION = lbks. 
+MARC = PS3610.O627677 P76 2021 lbks 090. 
+MARC = PS3610.O627677 P76 2021. 
+
+
+CALL NO. = PS3612.A76 T55 2022. 
+TITLE = Things have gotten worse since we last spoke, and other misfortunes / 
+Eric LaRocca. 
+PUBLISHER = London : Titan Books, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28212198. LOCATION = lbks. 
+MARC = PS3612.A76 T55 2022 lbks 090. 
+MARC = PS3612.A76 T55 2022. 
+
+
+CALL NO. = PS3613.A36 G74 2019. 
+TITLE = The great believers / Rebecca Makkai. 
+PUBLISHER = [New York] : Penguin Books, 2019. 
+RECORD # = b28211108. LOCATION = lbks. 
+MARC = PS3613.A36 G74 2019 lbks 090. 
+MARC = PS3613.A36 G74 2019. 
+
+
+CALL NO. = PS3613.C28 G66 2013. 
+TITLE = The Good Lord Bird / James McBride. 
+PUBLISHER = New York, New York : Riverhead Books, 2013. 
+RECORD # = b28211297. LOCATION = lbks. 
+MARC = PS3613.C28 G66 2013 lbks 090. 
+MARC = PS3613.C28 G66 2013. 
+
+
+
+
+CALL NO. = PS3616.A715 W68 2020. 
+TITLE = Night theater : a novel / Vikram Paralkar. 
+PUBLISHER = New York : Catapult, [2020]. 
+PUBLISHER = {u00A9}2020. 
+RECORD # = b28212381. LOCATION = lbks. 
+MARC = PS3616.A715 W68 2020 lbks 090. 
+MARC = PS3616.A715 W68 2020. 
+
+
+CALL NO. = PS3618.E9753 A78 2022. 
+TITLE = Ain't burned all the bright / by Reynolds & Griffin. 
+PUBLISHER = New York, New York : Atheneum, an imprint of Simon & Schuster 
+Children's Publishing Division, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28211042. LOCATION = lbks. 
+MARC = PS3618.E9753 A78 2022 lbks 090. 
+MARC = PS3618.E9753 A78 2022. 
+
+
+CALL NO. = PS3618.O831657 A6 2015. 
+TITLE = Thigh's hollow / Dan Rosenberg. 
+PUBLISHER = Oakland, California : Omnidawn Publishing, 2015. 
+RECORD # = b28203239. LOCATION = lbks. 
+MARC = PS3618.O831657 A6 2015 lbks 090. 
+MARC = PS3618.O831657 A6 2015. 
+
+
+CALL NO. = PS3620.A93534 R43 2020. 
+TITLE = Real life / Brandon Taylor. 
+PUBLISHER = New York : Riverhead Books, 2020. 
+RECORD # = b28212423. LOCATION = lbks. 
+MARC = PS3620.A93534 R43 2020 lbks 090. 
+MARC = PS3620.A93534 R43 2020. 
+
+
+CALL NO. = PS3620.O945 L56 2023. 
+TITLE = The Lincoln highway / Amor Towles. 
+PUBLISHER = [New York, New York] : Penguin Books, 2023. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28212368. LOCATION = lbks. 
+MARC = PS3620.O945 L56 2023 lbks 090. 
+MARC = PS3620.O945 L56 2023. 
+
+
+CALL NO. = PS3622.A7413 T69 2022. 
+TITLE = The town of Babylon : a novel / Alejandro Varela. 
+PUBLISHER = New York : Astra House, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28211364. LOCATION = lbks. 
+MARC = PS3622.A7413 T69 2022 lbks 090. 
+MARC = PS3622.A7413 T69 2022. 
+
+
+
+
+CALL NO. = PS3622.U96 T56 2022. 
+TITLE = Time is a mother / Ocean Vuong. 
+PUBLISHER = New York : Penguin Press, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28205868. LOCATION = lbks. 
+MARC = PS3622.U96 T56 2022 lbks 090. 
+MARC = PS3622.U96 T56 2022. 
+
+
+CALL NO. = PT5882.28.I49 A9613 2020. 
+TITLE = The discomfort of evening : a novel / Marieke Lucas Rijneveld ; 
+translated from the Dutch by Michele Hutchison. 
+PUBLISHER = Minneapolis, Minnesota : Graywolf Press, 2020. 
+PUBLISHER = {u00A9}2020. 
+RECORD # = b2821156x. LOCATION = lbks. 
+MARC = PT5882.28.I49 A9613 2020 lbks 090. 
+MARC = PT5882.28.I49 A9613 2020. 
+
+
+CALL NO. = PZ7.1.L865 Fr 2022. 
+TITLE = Freewater / Amina Luqman-Dawson. 
+PUBLISHER = New York : Little, Brown and Company, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b2821108x. LOCATION = ltmyl. 
+MARC = PZ7.1.L865 Fr 2022 ltmyl 090. 
+MARC = PZ7.1.L865 Fr 2022. 
+MARC = PS3612.L85 F74 2022. 
+
+
+CALL NO. = PZ7.1.S677 Las 2022. 
+TITLE = The last mapmaker / Christina Soontornvat. 
+PUBLISHER = Somerville, Massachusetts : Candlewick Press, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28211157. LOCATION = ltmyl. 
+MARC = PZ7.1.S677 Las 2022 ltmyl 090. 
+MARC = PZ7.1.S677 Las 2022. 
+
+
+CALL NO. = PZ7.5.A72 Iv 2022. 
+TITLE = Iveliz explains it all / Andrea Beatriz Arango ; [illustrations by 
+Alyssa Bermudez]. 
+PUBLISHER = New York : Random House, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28211133. LOCATION = ltmyl. 
+MARC = PZ7.5.A72 Iv 2022 ltmyl 090. 
+MARC = PZ7.5.A72 Iv 2022. 
+
+
+
+
+CALL NO. = PZ7.7.A356 Sq 2022. 
+TITLE = Squire / [text by] Sara Alfageeh, Nadia Shammas ; [illustrations by Sara
+Alfageeh]. 
+PUBLISHER = New York, NY : Quill Tree Books, HarperAlley, imprints of 
+HarperCollinsPublishers, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28212174. LOCATION = ltmyl. 
+MARC = PZ7.7.A356 Sq 2022 ltmyl 090. 
+MARC = PZ7.7.A356 Sq 2022. 
+
+
+CALL NO. = Q126 .S74 2023. 
+TITLE = The milestones of science : how we came to understand the universe / 
+James D. Stein. 
+PUBLISHER = Lanham, Maryland: Prometheus Books, [2023]. 
+RECORD # = b28211959. LOCATION = lnet. 
+MARC = Q126 .S74 2023. 
+
+
+CALL NO. = Q130 .J34 2023. 
+TITLE = Women of genius in science : whose frequently overlooked contributions 
+changed the world / Lars Jaeger. 
+PUBLISHER = Cham : Springer Nature Switzerland AG, [2023]. 
+PUBLISHER = {u00A9}2023. 
+RECORD # = b2820878x. LOCATION = lbks. 
+MARC = Q130 .J34 2023 lbks 090. 
+MARC = Q130 .J34 2023. 
+
+
+CALL NO. = Q130 .S84 2023. 
+TITLE = Equity for women in science : dismantling systemic barriers to 
+advancement / Cassidy R. Sugimoto and Vincent Larivi{u00E8}re. 
+PUBLISHER = Cambridge, Massachusetts : Harvard University Press, 2023. 
+RECORD # = b28208948. LOCATION = lbks. 
+MARC = Q130 .S84 2023 lbks 090. 
+MARC = Q130 .S84 2023. 
+
+
+CALL NO. = Q180.A1 S74 2022. 
+TITLE = How to do research : and how to be a researcher / Robert Stewart. 
+PUBLISHER = Oxford ; New York, NY : Oxford University Press, 2022. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28208584. LOCATION = lbks. 
+MARC = Q180.A1 S74 2022 lbks 090. 
+MARC = Q180.A1 S74 2022. 
+
+
+CALL NO. = Q337 .B37 2023. 
+TITLE = AI and Popular Culture / by Lee Barron. 
+PUBLISHER = Bingley, UK : Emerald Publishing, 2023. 
+PUBLISHER = {u00A9}2023. 
+RECORD # = b28211984. LOCATION = lnet. 
+MARC = Q335 .A52 2023. 
+
+
+
+
+CALL NO. = QB44.3 .C67 2014. 
+CALL NO. = QB44.3 .C67 2014. 
+TITLE = Cosmos : a spacetime odyssey / Cosmos Studios ; Fuzzy Door Productions ;
+producers, Livia Hanich, Steve Holtzman ; written by Ann Druyan, Steven Soter ; 
+series directors, Brannon Braga, Bill Pope, Ann Druyan. 
+PUBLISHER = Los Angeles, California : Twentieth Century Fox Home Entertainment, 
+[2014]. 
+PUBLISHER = {u00A9}2014. 
+RECORD # = b15256017. LOCATION = lmvc. LOCATION = lmvc. 
+MARC = PN1992.8.D6 C67 2014. 
+MARC = QC173.59.S65 C6766 2014. 
+
+
+TITLE = Cosmos : a spacetime odyssey / Cosmos Studios ; Fuzzy Door Productions ;
+producers, Livia Hanich, Steve Holtzman ; written by Ann Druyan, Steven Soter ; 
+series directors, Brannon Braga, Bill Pope, Ann Druyan. 
+PUBLISHER = Los Angeles, California : Twentieth Century Fox Home Entertainment, 
+[2014]. 
+PUBLISHER = {u00A9}2014. 
+RECORD # = b15256017. LOCATION = lmvc. LOCATION = lmvc. 
+MARC = PN1992.8.D6 C67 2014. 
+MARC = QC173.59.S65 C6766 2014. 
+
+
+CALL NO. = QZ 4 .M478p 2023. 
+TITLE = McCance & Huether's pathophysiology : the biologic basis for disease in 
+adults and children / [edited by] Julia L. Rogers, DNP, APRN, CNS, FNP-BC, FAANP
+; section editor, Valentina L. Brashers, MD, FACP, FNAP. 
+PUBLISHER = St. Louis, Missouri : Elsevier, [2023]. 
+PUBLISHER = {u00A9}2023. 
+RECORD # = b28270058. LOCATION = lrefd. 
+MARC = QZ 4 .M478p 2023 lrefs 090. 
+MARC = RB113 .M35 2023. 
+
+
+CALL NO. = T14 .K49 2022. 
+TITLE = Singular creatures : robots, rights, and the politics of posthumanism / 
+Mark Kingwell. 
+PUBLISHER = Montreal ; Kingston ; London ; Chicago : McGill-Queen's University 
+Press, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28209576. LOCATION = lbks. 
+MARC = T14 .K49 2022 lbks 090. 
+MARC = T14 .K49 2022. 
+
+
+
+
+CALL NO. = TD195.W29 K745 2021. 
+TITLE = Scorched Earth : environmental warfare as a crime against humanity and 
+nature / Emmanuel Kreike. 
+PUBLISHER = Princeton, New Jersey : Princeton University Press, [2021]. 
+PUBLISHER = {u00A9}2021. 
+RECORD # = b28206964. LOCATION = lbks. 
+MARC = TD195.W29 K745 2021 lbks 090. 
+MARC = TD195.W29 K745 2021. 
+MARC = KZ6405.E68. 
+MARC = U167.5.E58 K745 2021. 
+MARC = U167.5.E58 K74 2021. 
+
+
+CALL NO. = TJ158 .H93 2019. 
+TITLE = Hydraulic claw activity. 
+PUBLISHER = Holley, NY : TeacherGeek, 2019. 
+PUBLISHER = St. Catharines, ON : Boreal Science, 2019. 
+RECORD # = b28207671. LOCATION = lmk. 
+MARC = TJ158 .H93 2019 lmk 050. 
+
+
+CALL NO. = TJ211.26 .S34 2022. 
+TITLE = STEAM starter robotics-Micro:bit. 
+PUBLISHER = Gothenburg, Sweden : Strawbees AB, [2022?]. 
+RECORD # = b28207683. LOCATION = lmk. 
+MARC = TJ211.26 .S34 2022 lmk 050. 
+
+
+CALL NO. = WE 103 L765 2023 Lab. 
+CALL NO. = WE 103 L765 2023 Lab. 
+TITLE = Laboratory manual for clinical kinesiology and anatomy / Mary Alice 
+Duesterhaus Minor, Christopher D. Towler, Lynn S. Lippert. 
+PUBLISHER = Philadelphia, PA : F.A. Davis Company, [2023]. 
+RECORD # = b28208602. LOCATION = lrsvt. LOCATION = ocotf. 
+MARC = WE 103 L765 2023 Lab lbkso 090. 
+MARC = QP303 .L533 2023. 
+
+
+TITLE = Laboratory manual for clinical kinesiology and anatomy / Mary Alice 
+Duesterhaus Minor, Christopher D. Towler, Lynn S. Lippert. 
+PUBLISHER = Philadelphia, PA : F.A. Davis Company, [2023]. 
+RECORD # = b28208602. LOCATION = lrsvt. LOCATION = ocotf. 
+MARC = WE 103 L765 2023 Lab lbkso 090. 
+MARC = QP303 .L533 2023. 
+
+
+CALL NO. = WS 350.8.A8 R819y 2021. 
+TITLE = Your brain's not broken : strategies for navigating your emotions and 
+life with ADHD / Tamara Rosier, PhD. 
+PUBLISHER = Grand Rapids, Michigan : Revell, a division of Baker Publishing 
+Group, [2021]. 
+RECORD # = b2821223x. LOCATION = lwt. 
+MARC = WS 350.8.A8 R819y 2021 lbks 090. 
+MARC = RC394.A85 R67 2021. 
+
+
+
+
+CALL NO. = WY 100.4 W374h 2022. 
+TITLE = Health assessment in nursing / Janet R. Weber, RN, EdD, Jane H. Kelley, 
+RN, PhD. 
+PUBLISHER = Philadelphia : Wolters Kluwer, [2022]. 
+PUBLISHER = {u00A9}2022. 
+RECORD # = b28270046. LOCATION = lrefs. 
+MARC = WY 100.4 W374h 2022 lrefs 090. 
+MARC = RT48 .W43 2022. 
+
+
