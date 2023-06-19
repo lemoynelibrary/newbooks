@@ -13,3 +13,8 @@ PUBLISHER = \d\d\d\d\. \r\n
 
 
 ## Note: NoteTab wants to escape the "=" character, but that is optional.
+
+# Need to run this grep pattern search after I have fixed the ebook MARC to call numbers (PLS Updated 6/14/23)
+## This will remove all the MARC tags I brought in because ebooks do not have call #s in teh call # field.
+
+MARC.*
